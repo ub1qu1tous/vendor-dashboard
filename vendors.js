@@ -1,5 +1,5 @@
 function fetchVendorList() {
-  fetch("/.netlify/functions/vendor-data")
+  fetch("netlify/functions/vendor-data")
     .then(res => res.json())
     .then(data => {
       const vendorMap = {};
