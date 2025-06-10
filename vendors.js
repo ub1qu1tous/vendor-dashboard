@@ -1,5 +1,5 @@
 function fetchVendorList() {
-  fetch("https://script.google.com/macros/s/AKfycbx0IVl18EoVAeW0GYHtnHuNHRlJYjhXPkVij59-RbW7EI2MjcW1HHKYEApyj96_5-Bu/exec")
+  fetch("/.netlify/functions/vendor-data")
     .then(res => res.json())
     .then(data => {
       const vendorMap = {};
@@ -22,4 +22,3 @@ function fetchVendorList() {
 }
 
 fetchVendorList();
-setInterval(fetchVendorList, 10000);
