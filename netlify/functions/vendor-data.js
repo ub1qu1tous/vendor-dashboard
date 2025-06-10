@@ -37,7 +37,7 @@ exports.handler = async function () {
   }
 
   try {
-    const res = await fetch("https://script.google.com/macros/s/AKfycby2TWv0cCDoDlw8zXTEOB4_Vtpv_PJ8L9pW5NzBqRcKHV1Rxi71b2Q-SxmhbuzFc6KF/exec");
+    const res = await fetch("https://script.google.com/macros/s/AKfycbx3xTvOX8viwPOdGcKE-eYwgDUN-y5ImLwXeMYW3xDlnftU3u7763KsgLj7FzbUctWT/exec");
     const data = await res.json();
 
     cache = data;

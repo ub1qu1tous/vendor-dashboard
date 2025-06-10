@@ -4,9 +4,9 @@ document.getElementById("vendor-name").textContent = vendorName;
 
 let lastDataHash = "";
 
-// Helper function to parse dates - unchanged from original
+// Helper function to parse dates for sorting
 function parseDate(dateStr) {
-  if (!dateStr) return new Date(9999, 11, 31);
+  if (!dateStr) return new Date(9999, 11, 31); // Return a far future date for null/empty
   // Ensure dateStr is a string before splitting
   const [day, monthStr, year] = String(dateStr).split('-');
   const months = {
@@ -19,14 +19,15 @@ function parseDate(dateStr) {
   const parsedMonth = months[monthStr];
 
   if (isNaN(parsedDay) || isNaN(parsedYear) || parsedMonth === undefined) {
-    console.warn(`Invalid date string encountered: ${dateStr}`);
+    console.warn(`Invalid date string encountered during parsing: ${dateStr}`);
     return new Date(9999, 11, 31); // Return a far future date for invalid dates
   }
 
   return new Date(parsedYear, parsedMonth, parsedDay);
 }
 
-// Helper function to format dates from Google Sheets (which might be ISO strings)
+// Helper function to format dates from Google Sheets (which might be ISO strings initially for the Apps Script)
+// Note: This function is also duplicated in the Apps Script for server-side formatting
 function formatDate(dateValue) {
   if (!dateValue) return "";
   if (typeof dateValue === 'string') {
@@ -62,80 +63,24 @@ function formatDate(dateValue) {
 function fetchVendorData() {
   fetch("/.netlify/functions/vendor-data")
     .then(res => res.json())
-    .then(rawData => { // rawData is now the 2D array from the Apps Script with filtered columns and unique headers
-      if (!rawData || rawData.length === 0) {
+    .then(data => {
+      // data is expected to be an array of objects directly from Apps Script
+      if (!data || data.length === 0) {
         console.warn("No data received from vendor-data API or data is empty.");
         document.getElementById("product-rows").innerHTML = "<tr><td colspan='16'>No workorder data available.</td></tr>";
         return;
       }
 
-      const newHash = JSON.stringify(rawData);
+      const newHash = JSON.stringify(data);
       if (newHash === lastDataHash) return; // Prevent unnecessary re-render if data is the same
       lastDataHash = newHash;
-
-      const headers = rawData[0]; // First row is the new, unique headers
-      const dataRows = rawData.slice(1); // Rest are data rows
-
-      const headerMap = new Map();
-      headers.forEach((header, index) => headerMap.set(header.trim(), index));
-
-      const output = [];
-
-      dataRows.forEach(row => {
-        // Map common properties using the headerMap
-        const base = {
-          opportunityId: row[headerMap.get("Opp Id")],
-          product: row[headerMap.get("Product")],
-          variant: row[headerMap.get("Variant")],
-          imageUrl: row[headerMap.get("Public Image URL (Auto)")] || '',
-          category: row[headerMap.get("Category (Auto)")],
-          materialSummary: row[headerMap.get("Summary of Materials (Auto)")],
-          size: row[headerMap.get("Size (inches) (Auto)")],
-          folderLink: row[headerMap.get("Folder on Drive (Auto)")],
-          designer: row[headerMap.get("Designer (Auto)")],
-          designerLink: row[headerMap.get("Designer Link (Auto)")],
-          quantity: row[headerMap.get("Quantity")],
-          pm: row[headerMap.get("PM (Auto)")],
-        };
-
-        // Iterate through all 8 possible vendor slots to find relevant data
-        for (let j = 1; j <= 8; j++) {
-          const currentVendorHeader = `Vendor ${j}`;
-          const currentReadyHeader = `Vendor ${j} Ready to Ship?`;
-
-          const vendorColIndex = headerMap.get(currentVendorHeader);
-          const readyColIndex = headerMap.get(currentReadyHeader);
-
-          if (vendorColIndex !== undefined && readyColIndex !== undefined) {
-              const currentVendor = row[vendorColIndex];
-              const ready = row[readyColIndex];
-
-              // Filter for the specific vendor requested in the URL and not ready to ship
-              if (currentVendor && String(currentVendor).trim() !== "" && ready !== true) {
-                const trimmedCurrentVendor = String(currentVendor).trim();
-                if (!vendorName || vendorName === trimmedCurrentVendor) {
-                  // Get vendor-specific details using unique headers
-                  const entry = {
-                    ...base, // Spread the base properties
-                    vendor: trimmedCurrentVendor,
-                    taskAssignedOn: formatDate(row[headerMap.get(`Vendor ${j} Task Assigned On`)]),
-                    committedFinishDate: formatDate(row[headerMap.get(`Vendor ${j} Committed Finish Date`)]),
-                    actualFinishDate: formatDate(row[headerMap.get(`Vendor ${j} Actual Finish Date`)]),
-                    remarks: row[headerMap.get(`Vendor ${j} Remarks`)] || "",
-                    readyToShip: ready
-                  };
-                  output.push(entry);
-                }
-              }
-          }
-        }
-      });
 
       const tbody = document.getElementById("product-rows");
       tbody.innerHTML = ""; // Clear previous content
 
-      // Sort the filtered output
-      const filteredAndSorted = output
+      // Filter and sort the data received directly from Apps Script
+      const filteredAndSorted = data
+        .filter(d => d.vendor === vendorName) // Filter by the vendor name from the URL
         .sort((a, b) => {
           const d1 = parseDate(a.committedFinishDate);
           const d2 = parseDate(b.committedFinishDate);
@@ -174,6 +119,7 @@ function fetchVendorData() {
         tr.appendChild(imgCell);
 
         // Columns for the HTML table, ensure they match your vendor.html <thead> order
+        // These properties directly map to the object keys returned by the Apps Script doGet
         const columns = [
           d.product,
           d.variant,
