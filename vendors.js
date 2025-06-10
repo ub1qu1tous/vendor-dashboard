@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     function fetchVendorList() {
-        fetch("https://script.google.com/macros/s/AKfycbx3xTvOX8viwPOdGcKE-eYwgDUN-y5ImLwXeMYW3xDlnftU3u7763KsgLj7FzbUctWT/exec")
+        fetch("echo.json")
+        // fetch("https://script.google.com/macros/s/AKfycbx3xTvOX8viwPOdGcKE-eYwgDUN-y5ImLwXeMYW3xDlnftU3u7763KsgLj7FzbUctWT/exec")
             .then(res => res.json())
             .then(data => {
                 // data is expected to be an array of objects directly from Apps Script

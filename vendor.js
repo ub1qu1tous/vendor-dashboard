@@ -42,7 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function fetchVendorData() {
-        fetch("https://script.google.com/macros/s/AKfycbx3xTvOX8viwPOdGcKE-eYwgDUN-y5ImLwXeMYW3xDlnftU3u7763KsgLj7FzbUctWT/exec")
+        fetch("echo.json")
+        // fetch("https://script.google.com/macros/s/AKfycbx3xTvOX8viwPOdGcKE-eYwgDUN-y5ImLwXeMYW3xDlnftU3u7763KsgLj7FzbUctWT/exec")
             .then(res => res.json())
             .then(data => {
                 const newHash = JSON.stringify(data);
