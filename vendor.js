@@ -88,4 +88,3 @@ function parseDate(dateStr) {
 }
 
 fetchVendorData();
-setInterval(fetchVendorData, 10000);
