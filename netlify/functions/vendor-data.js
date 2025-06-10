@@ -17,11 +17,12 @@ const TTL = 10 * 60 * 1000; // Cache for 10 minutes
 exports.handler = async function () {
   // Ensure fetch is loaded before proceeding
   if (!fetch) {
-    await new Promise(resolve => setTimeout(resolve, 100)); // Small delay to allow import to complete
+    // Add a small delay and re-check to allow the dynamic import to complete
+    await new Promise(resolve => setTimeout(resolve, 100));
     if (!fetch) {
       return {
         statusCode: 500,
-        body: JSON.stringify({ error: "node-fetch not loaded" }),
+        body: JSON.stringify({ error: "node-fetch not loaded. Dynamic import might have failed." }),
       };
     }
   }
@@ -51,7 +52,7 @@ exports.handler = async function () {
     console.error("Error fetching data from Google Apps Script:", error);
     return {
       statusCode: 500,
-      body: JSON.stringify({ error: "Failed to fetch vendor data", details: error.message }),
+      body: JSON.stringify({ error: "Failed to fetch vendor data from Google Apps Script", details: error.message }),
     };
   }
 };
