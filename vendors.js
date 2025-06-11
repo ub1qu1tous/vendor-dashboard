@@ -1,30 +1,24 @@
 document.addEventListener('DOMContentLoaded', function() {
     function fetchVendorList() {
-        fetch("echo.json")
-        // fetch("https://script.google.com/macros/s/AKfycbx3xTvOX8viwPOdGcKE-eYwgDUN-y5ImLwXeMYW3xDlnftU3u7763KsgLj7FzbUctWT/exec")
+        fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/products.json")
             .then(res => res.json())
             .then(data => {
-                // data is expected to be an array of objects directly from Apps Script
-                if (!data || data.length === 0) {
-                    console.warn("No data received from vendor-data API or data is empty.");
+                const list = Object.values(data || {});
+                if (list.length === 0) {
                     document.getElementById("vendor-index").innerHTML = "<p>No vendor data available.</p>";
                     return;
                 }
 
                 const vendorMap = {};
-                data.forEach(item => {
-                    // The 'item' here is already a normalized object from the Apps Script
+                list.forEach(item => {
                     if (item.vendor && item.vendor.trim() !== "") {
                         const vendorName = item.vendor.trim();
-                        if (!vendorMap[vendorName]) {
-                            vendorMap[vendorName] = 0;
-                        }
-                        vendorMap[vendorName]++;
+                        vendorMap[vendorName] = (vendorMap[vendorName] || 0) + 1;
                     }
                 });
 
                 const container = document.getElementById("vendor-index");
-                container.innerHTML = ""; // Clear previous content
+                container.innerHTML = "";
 
                 if (Object.keys(vendorMap).length === 0) {
                     container.innerHTML = "<p>No active vendors found.</p>";
@@ -43,9 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
             });
     }
 
-    // Initial fetch when the page loads
     fetchVendorList();
-
-    // Refresh data every 10 seconds (adjust as needed)
     setInterval(fetchVendorList, 10000);
 });
