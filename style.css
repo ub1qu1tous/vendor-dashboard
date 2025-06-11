@@ -122,12 +122,12 @@ img.thumbnail {
   max-width: 100%;
   max-height: 100%;
   object-fit: cover;
-  opacity: 0;
+  opacity: 1;
   transition: opacity 0.3s ease;
 }
-img.thumbnail.loaded {
+/* img.thumbnail.loaded {
   opacity: 1;
-}
+} */
 
 /* Responsive */
 @media (max-width: 768px) {

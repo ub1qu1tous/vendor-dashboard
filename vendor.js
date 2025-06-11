@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             tr.innerHTML = `
               <td>${index + 1}</td>
-              <td> <div class="image-wrapper"> ${ d.imageUrl ? `<a href="${d.imageUrl}" target="_blank"> <img src="${d.imageUrl}?width=300" class="thumbnail" loading="lazy" referrerpolicy="no-referrer" alt="product image"> </a>` : `<span>No image</span>` } </div> </td>
+              <td> <div class="image-wrapper"> ${ d.imageUrl ? `<a href="${d.imageUrl}" target="_blank"> <img src="${d.imageUrl}" class="thumbnail" loading="lazy" referrerpolicy="no-referrer" alt="product image"> </a>` : `<span>No image</span>` } </div> </td>
               <td>${d.product || ''}</td>
               <td>${d.variant || ''}</td>
               <td>${d.category || ''}</td>
@@ -73,5 +73,5 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   fetchVendorData();
-  setInterval(fetchVendorData, 10000); // Refresh every 10s
+//   setInterval(fetchVendorData, 10000); // Refresh every 10s
 });
