@@ -1,6 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
   const params = new URLSearchParams(window.location.search);
-  const vendorName = params.get("vendor");
+  const vendorName = params.get("vendor") || "";
+  const vendorKey = vendorName.toLowerCase().replace(/[.#$[\]/]/g, '').replace(/\s+/g, '_');
+
   document.getElementById("vendor-name").textContent = vendorName;
 
   function parseDate(dateStr) {
@@ -19,49 +21,40 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function fetchVendorData() {
-    fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/.json")
+    fetch(`https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors/${vendorKey}.json`)
       .then(res => res.json())
       .then(data => {
         const allRecords = Object.values(data || {});
-        const filtered = [];
-
-        allRecords.forEach(entry => {
-          (entry.vendors || []).forEach(v => {
-            if (v.vendor === vendorName && v.readyToShip === false) {
-              filtered.push({
-                ...entry,
-                ...v
-              });
-            }
-          });
-        });
+        const filtered = allRecords.filter(entry => entry.v?.rts === false);
 
         const tbody = document.getElementById("product-rows");
         tbody.innerHTML = "";
 
         filtered
-          .sort((a, b) => parseDate(a.committedFinishDate) - parseDate(b.committedFinishDate))
+          .sort((a, b) => parseDate(a.v?.c) - parseDate(b.v?.c))
           .forEach((d, index) => {
             const tr = document.createElement("tr");
-
             tr.innerHTML = `
               <td>${index + 1}</td>
-              <td> <div class="image-wrapper"> ${ d.imageUrl ? `<a href="${d.imageUrl}" target="_blank"> <img src="${d.imageUrl}" class="thumbnail" loading="lazy" referrerpolicy="no-referrer" alt="product image"> </a>` : `<span>No image</span>` } </div> </td>
-              <td>${d.product || ''}</td>
-              <td>${d.variant || ''}</td>
-              <td>${d.category || ''}</td>
-              <td>${d.materialSummary || ''}</td>
-              <td>${d.size || ''}</td>
-              <td>${d.opportunityId || ''}</td>
-              <td><a href="${d.folderLink}" target="_blank">Folder</a></td>
-              <td><a href="${d.designerLink}" target="_blank">${d.designer || ''}</a></td>
-              <td>${d.quantity || ''}</td>
-              <td>${d.remarks || ''}</td>
-              <td>${d.taskAssignedOn || ''}</td>
-              <td>${d.committedFinishDate || ''}</td>
+              <td>
+                <div class="image-wrapper">
+                  ${d.url ? `<a href="${d.url}" target="_blank"><img src="${d.url}" class="thumbnail" loading="lazy" referrerpolicy="no-referrer" alt="product image"></a>` : `<span>No image</span>`}
+                </div>
+              </td>
+              <td>${d.prod || ''}</td>
+              <td>${d.var || ''}</td>
+              <td>${d.cat || ''}</td>
+              <td>${d.mat || ''}</td>
+              <td>${d.sz || ''}</td>
+              <td>${d.op || ''}</td>
+              <td><a href="${d.fld}" target="_blank">Folder</a></td>
+              <td>${d.dl && d.dl.startsWith('http') ? `<a href="${d.dl}" target="_blank">${d.des || ''}</a>` : `${d.des || ''}`}</td>
+              <td>${d.q || ''}</td>
+              <td>${d.v?.rm || ''}</td>
+              <td>${d.v?.t || ''}</td>
+              <td>${d.v?.c || ''}</td>
               <td>${d.pm || ''}</td>
             `;
-
             tbody.appendChild(tr);
           });
       })
@@ -75,3 +68,4 @@ document.addEventListener('DOMContentLoaded', function () {
   fetchVendorData();
 //   setInterval(fetchVendorData, 10000); // Refresh every 10s
 });
+

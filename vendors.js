@@ -1,13 +1,12 @@
-fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/.json")
+fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors.json")
   .then(res => res.json())
   .then(data => {
-    const records = Object.values(data || {});
     const vendorMap = {};
 
-    records.forEach(entry => {
-      (entry.vendors || []).forEach(v => {
-        const name = v.vendor?.trim();
-        if (name && v.readyToShip === false) {
+    Object.entries(data || {}).forEach(([vendorKey, entries]) => {
+      Object.values(entries || {}).forEach(entry => {
+        const name = entry.vendorDisplayName || vendorKey.replace(/_/g, ' ');
+        if (entry.v?.rts === false) {
           vendorMap[name] = (vendorMap[name] || 0) + 1;
         }
       });
@@ -22,4 +21,8 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
       link.textContent = `${vendor} (${vendorMap[vendor]})`;
       container.appendChild(link);
     });
+  })
+  .catch(err => {
+    console.error("Error fetching vendor list:", err);
+    document.getElementById("vendor-index").textContent = "Failed to load vendor index.";
   });
