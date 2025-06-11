@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         allRecords.forEach(entry => {
           (entry.vendors || []).forEach(v => {
-            if (v.vendor === vendorName && v.readyToShip !== true) {
+            if (v.vendor === vendorName && v.readyToShip === false) {
               filtered.push({
                 ...entry,
                 ...v
@@ -54,8 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
               <td>${d.size || ''}</td>
               <td>${d.opportunityId || ''}</td>
               <td><a href="${d.folderLink}" target="_blank">Folder</a></td>
-              <td>${d.designer || ''}</td>
-              <td><a href="${d.designerLink}" target="_blank">Link</a></td>
+              <td><a href="${d.designerLink}" target="_blank">${d.designer || ''}</a></td>
               <td>${d.quantity || ''}</td>
               <td>${d.remarks || ''}</td>
               <td>${d.taskAssignedOn || ''}</td>
