@@ -7,7 +7,7 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
     records.forEach(entry => {
       (entry.vendors || []).forEach(v => {
         const name = v.vendor?.trim();
-        if (name) {
+        if (name && v.readyToShip === false) {
           vendorMap[name] = (vendorMap[name] || 0) + 1;
         }
       });
