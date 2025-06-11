@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         allRecords.forEach(entry => {
           (entry.vendors || []).forEach(v => {
-            if (v.vendor === vendorName) {
+            if (v.vendor === vendorName && v.readyToShip !== true) {
               filtered.push({
                 ...entry,
                 ...v
