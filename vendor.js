@@ -1,9 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const params = new URLSearchParams(window.location.search);
   const vendorName = params.get("vendor") || "";
-  const vendorKey = vendorName.toLowerCase().replace(/[.#$[\]/]/g, '').replace(/\s+/g, '_');
-
-  document.getElementById("vendor-name").textContent = vendorName;
+  const vendorKey = cleanKey(vendorName);
 
   function parseDate(dateStr) {
     if (!dateStr) return new Date(9999, 11, 31);
@@ -21,9 +19,10 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function fetchVendorData() {
-    fetch(`https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors/${vendorKey}.json`)
+    fetch(`https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors/${encodeURIComponent(vendorKey)}.json`)
       .then(res => res.json())
       .then(data => {
+        document.getElementById("vendor-name").textContent = Object.values(data)[0].vendorDisplayName;
         const allRecords = Object.values(data || {});
         const filtered = allRecords.filter(entry => entry.v?.rts === false);
 
@@ -69,3 +68,9 @@ document.addEventListener('DOMContentLoaded', function () {
 //   setInterval(fetchVendorData, 10000); // Refresh every 10s
 });
 
+function cleanKey(input) {
+  return (input || "")
+    .toString()
+    .trim()
+    .toLowerCase();
+}
