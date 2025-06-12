@@ -5,45 +5,53 @@
   <meta charset="UTF-8" />
   <title>Vendor View</title>
   <link rel="stylesheet" href="style.css" />
-  
+
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QGDDWTWYWC"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
 
   gtag('config', 'G-QGDDWTWYWC');
 </script>
-<body>
-  <h1 id="vendor-name"></h1>
-  <div class="table-wrapper">
-    <table id="product-table">
-      <thead>
-        <tr>
-          <th>Sr No</th>
-          <th>Image</th>
-          <th>Product</th>
-          <th>Variant</th>
-          <th>Category</th>
-          <th>Material Summary</th>
-          <th>Size</th>
-          <th>Opp Id</th>
-          <th>Folder</th>
-          <th>Designer</th>
-          <th>Qty</th>
-          <th>Remarks</th>
-          <th>Task Assigned On</th>
-          <th>Expected Finish Date</th>
-          <th>Project Manager</th>
-        </tr>
-      </thead>
 
-      <tbody id="product-rows"></tbody>
-    </table>
+<body>
+  <div id="pdf-content">
+    <div class="header-wrapper">
+  <h1 id="vendor-name">Vendor Name</h1>
+  <button id="download-pdf">Download as PDF</button>
+</div>
+    <div class="table-wrapper">
+      <table id="product-table">
+        <thead>
+          <tr>
+            <th>Sr No</th>
+            <th>Image</th>
+            <th>Product</th>
+            <th>Variant</th>
+            <th>Category</th>
+            <th>Material Summary</th>
+            <th>Size</th>
+            <th>Opp Id</th>
+            <th>Folder</th>
+            <th>Designer</th>
+            <th>Qty</th>
+            <th>Remarks</th>
+            <th>Task Assigned On</th>
+            <th>Expected Finish Date</th>
+            <th>Project Manager</th>
+          </tr>
+        </thead>
+
+        <tbody id="product-rows"></tbody>
+      </table>
+    </div>
+    <p id="last-updated" class="vendor-meta">Last updated: <span>Loading...</span></p>
   </div>
-  <p id="last-updated" class="vendor-meta">Last updated: <span>Loading...</span></p>
   <script type="module" src="vendor.js"></script>
   <script type="module" src="vendor-header.js"></script>
 </body>

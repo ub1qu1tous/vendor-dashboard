@@ -74,3 +74,46 @@ function cleanKey(input) {
     .trim()
     .toLowerCase();
 }
+
+document.getElementById("download-pdf").addEventListener("click", async () => {
+  const original = document.getElementById("pdf-content");
+
+  // Step 1: Clone the content
+  const clone = original.cloneNode(true);
+  clone.id = "pdf-clone";
+  clone.style.position = "absolute";
+  clone.style.left = "-9999px";
+  clone.style.top = "0";
+  clone.style.overflow = "visible";
+  clone.style.width = "auto";
+  clone.style.minWidth = "max-content";
+  clone.style.padding = "40px";
+
+  // Step 2: Append clone to body
+  document.body.appendChild(clone);
+
+  // Step 3: Wait for layout
+  await new Promise(resolve => requestAnimationFrame(resolve));
+
+  // Step 4: Capture canvas
+  const canvas = await html2canvas(clone, {
+    scale: 2,
+    scrollX: 0,
+    scrollY: 0,
+    useCORS: true
+  });
+
+  // Step 5: Generate PDF
+  const { jsPDF } = window.jspdf;
+  const pdf = new jsPDF({
+    orientation: "landscape",
+    unit: "px",
+    format: [canvas.width, canvas.height]
+  });
+
+  pdf.addImage(canvas.toDataURL("image/jpeg", 1.0), "JPEG", 0, 0, canvas.width, canvas.height);
+  pdf.save("vendor-products.pdf");
+
+  // Step 6: Clean up
+  document.body.removeChild(clone);
+});
