@@ -37,7 +37,7 @@ a {
 
 a:hover {
   color: var(--primary-hover);
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 /* Vendor Index */
@@ -61,7 +61,8 @@ a:hover {
 }
 
 #vendor-index a:hover {
-  background: var(--hover);
+  background: var(--primary);
+  color: var(--bg);
 }
 
 /* Table Overflow Container */
