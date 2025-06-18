@@ -10,7 +10,7 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
       minute: "2-digit",
       second: "2-digit"
     });
-    document.querySelector("#last-updated span").textContent = formatted + " - Updated automatically every 5 minutes ";
+    document.querySelector("#last-updated span").textContent = formatted + " - Updated automatically every 15 minutes ";
   })
   .catch(() => {
     document.querySelector("#last-updated span").textContent = "Unavailable";
