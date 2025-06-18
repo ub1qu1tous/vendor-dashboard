@@ -24,6 +24,7 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
 
     const container = document.getElementById("vendor-index");
     container.innerHTML = "";
+    var ordercount = 0;
 
     Object.entries(vendorMap)
       .sort((a, b) => a[1].displayName.localeCompare(b[1].displayName))
@@ -32,7 +33,10 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
         link.href = `vendor.html?vendor=${encodeURIComponent(vendorKey)}`;
         link.textContent = `${displayName} (${count})`;
         container.appendChild(link);
+        ordercount += count;
       });
+    // document.getElementById("title").innerHTML = "Vendor Order List " + "(" + ordercount + ")";
+    document.getElementById("title").innerHTML = "Vendor Order List ";
   })
   .catch(err => {
     console.error("Error fetching vendor list:", err);
