@@ -46,7 +46,7 @@ https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app
 
 - **index.html** + `vendors.js`:
 - Fetches all vendor data.
-- Filters vendors with active (`rts: false`) entries.
+<!-- - Filters vendors with active (`rts: false`) entries. -->
 - Displays links like: `vendor.html?vendor=vendor_key`.
 
 - **vendor.html** + `vendor.js`:
