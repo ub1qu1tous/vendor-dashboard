@@ -24,15 +24,15 @@ or
 ## Project Structure
 
 vendor-dashboard/
-├── index.html # Vendor list landing page
-├── vendor.html # Individual vendor view
-├── 404.html # Custom 404 page for routing errors
-├── style.css # Styling and responsive layout
-├── vendors.js # Loads and displays the vendor index
-├── vendor.js # Loads and renders data for individual vendor
-├── vendor-header.js # Fetches and displays last updated timestamp
-├── firebase.json # Firebase Hosting configuration
-└── README.md # Project documentation
+- `index.html` — Vendor list landing page
+- `vendor.html` — Individual vendor detail view
+- `404.html` — Custom 404 error page
+- `style.css` — Styling and responsive layout
+- `vendors.js` — Loads and displays the vendor index
+- `vendor.js` — Renders data for an individual vendor based on URL params
+- `vendor-header.js` — Fetches and shows last updated timestamp
+- `firebase.json` — Firebase Hosting configuration file
+- `README.md` — Project documentation
 
 
 ---
