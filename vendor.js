@@ -25,7 +25,8 @@ document.addEventListener('DOMContentLoaded', function () {
         document.title = Object.values(data)[0].vendorDisplayName;
         document.getElementById("vendor-name").textContent = Object.values(data)[0].vendorDisplayName;
         const allRecords = Object.values(data || {});
-        const filtered = allRecords.filter(entry => entry.v?.rts === false);
+        const filtered = allRecords
+        // .filter(entry => entry.v?.rts === false);
 
         const tbody = document.getElementById("product-rows");
         tbody.innerHTML = "";

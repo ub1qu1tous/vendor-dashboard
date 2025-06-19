@@ -12,9 +12,9 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
           displayName = entry.vendorDisplayName; // use explicit display name if present
         }
 
-        if (entry.v?.rts === false) {
+        // if (entry.v?.rts === false) {
           count += 1;
-        }
+        // }
       });
 
       if (count > 0) {
