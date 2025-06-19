@@ -6,7 +6,7 @@ A live dashboard to view and track work orders per vendor, powered by Firebase R
 
 or 
 
-[https://https://vendor-dashboard-b63fb.web.app/](https://vendor-dashboard-b63fb.web.app/)
+[https://vendor-dashboard-b63fb.web.app/](https://vendor-dashboard-b63fb.web.app/)
 ---
 
 ## Features
