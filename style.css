@@ -161,19 +161,42 @@ img.thumbnail {
   }
 }
 
-table td:nth-child(7),
 table td:nth-child(8),
-table td:nth-child(13) {
+/* table td:nth-child(9), */
+table td:nth-child(14) {
   text-align: left;
 }
 
-table td:nth-child(7),
-table th:nth-child(7),
+/* table td:nth-child(9), */
+/* table th:nth-child(9)  */
 table td:nth-child(8),
 table th:nth-child(8) {
   width: 300px;
   max-width: 300px;
 }
+
+table td:nth-child(2),
+table th:nth-child(2) {
+  padding: 5px;
+} 
+
+table td:nth-child(3),
+table th:nth-child(3) {
+  width: 53px;
+}
+
+/* table td:nth-child(9),
+table th:nth-child(9) {
+  width: 275px;
+  max-width: 300px;
+} */
+
+table td:nth-child(10),
+table th:nth-child(10),
+table td:nth-child(11),
+table th:nth-child(11) {
+  width: 250px;
+} 
 
 .vendor-meta {
   font-size: 14px;
@@ -241,21 +264,22 @@ table th:nth-child(8) {
     size: A3 landscape;
   }
 
-  table th:nth-child(12),
-  table td:nth-child(12) {
-  width: 150px;
-}
+  table th:nth-child(15),
+  table td:nth-child(15) {
+    width: 150px;
+  }
 
   tbody tr:nth-child(even) {
-  background-color: #f4f3f3 !important;
-}
+    background-color: #f4f3f3 !important;
+  }
 
   tbody tr:hover {
-  background: var(--bg);
-  color: var(--text-primary);
-}
+    background: var(--bg);
+    color: var(--text-primary);
+  }
 
-  table
-  {min-width: 2000px;}
+  table {
+    min-width: 2000px;
+  }
 
 }

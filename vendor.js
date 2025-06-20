@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
             tr.innerHTML = `
               <td>${index + 1}</td>
               <td ${dateCellStyle}>${d.v?.c || ''}</td>
+              <td>${d.op || ''}</td>
               <td>
                 <div class="image-wrapper">
                   ${d.url ? `<a href="${d.url}" target="_blank"><img src="${d.url}" class="thumbnail" loading="lazy" referrerpolicy="no-referrer" alt="product image"></a>` : `<span>No image</span>`}
@@ -50,12 +51,12 @@ document.addEventListener('DOMContentLoaded', function () {
               <td>${d.cat || ''}</td>
               <td>${d.mat || ''}</td>
               <td>${d.sz || ''}</td>
-              <td>${d.op || ''}</td>
+              <td>${d.cr || ''}</td>
+              <td>${d.v?.rm || ''}</td>
               <td>${d.pm || ''}</td>
               <td><a href="${d.fld}" target="_blank">Folder</a></td>
               <td>${d.dl && d.dl.startsWith('http') ? `<a href="${d.dl}" target="_blank">${d.des || ''}</a>` : `${d.des || ''}`}</td>
               <td>${d.q || ''}</td>
-              <td>${d.v?.rm || ''}</td>
               <td>${d.v?.t || ''}</td>
             `;
             tbody.appendChild(tr);
