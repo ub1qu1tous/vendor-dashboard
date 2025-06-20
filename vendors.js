@@ -13,7 +13,7 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
         }
 
         // if (entry.v?.rts === false) {
-          count += 1;
+        count += 1;
         // }
       });
 
@@ -30,7 +30,10 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
       .sort((a, b) => a[1].displayName.localeCompare(b[1].displayName))
       .forEach(([vendorKey, { displayName, count }]) => {
         const link = document.createElement("a");
-        link.href = `vendor.html?vendor=${encodeURIComponent(vendorKey)}`;
+        link.href = isMobile()
+          ? `vendor-mobile.html?vendor=${encodeURIComponent(vendorKey)}`
+          : `vendor.html?vendor=${encodeURIComponent(vendorKey)}`;
+
         link.textContent = `${displayName} (${count})`;
         container.appendChild(link);
         ordercount += count;
@@ -42,3 +45,7 @@ fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatab
     console.error("Error fetching vendor list:", err);
     document.getElementById("vendor-index").textContent = "Failed to load vendor index.";
   });
+
+function isMobile() {
+  return window.innerWidth <= 768;
+}
