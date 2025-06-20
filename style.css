@@ -161,10 +161,10 @@ img.thumbnail {
   }
 }
 
-table td:nth-child(8),
+table td:nth-child(8)
 /* table td:nth-child(9), */
-table td:nth-child(14) {
-  text-align: left;
+/* table td:nth-child(14) */
+{  text-align: left;
 }
 
 /* table td:nth-child(9), */
