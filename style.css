@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
+/* ========== VARIABLES ========== */
 :root {
   --primary: #BD8448;
   --primary-hover: #A86C3A;
@@ -12,6 +13,7 @@
   --table-header: #F5F5F5;
 }
 
+/* ========== BASE LAYOUT ========== */
 body {
   font-family: 'Poppins', sans-serif;
   background: var(--bg);
@@ -29,18 +31,21 @@ h1 {
   margin-bottom: 32px;
 }
 
+.header-wrapper h1 {
+  margin: 32px 0;
+}
+
+/* ========== LINKS ========== */
 a {
   color: var(--primary);
   text-decoration: none;
   transition: 0.2s ease;
 }
-
 a:hover {
   color: var(--primary-hover);
-  /* text-decoration: underline; */
 }
 
-/* Vendor Index */
+/* ========== VENDOR INDEX ========== */
 #vendor-index {
   max-width: 900px;
   margin: 0 auto;
@@ -59,33 +64,26 @@ a:hover {
   color: var(--text-secondary);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
 }
-
 #vendor-index a:hover {
   background: var(--primary);
   color: var(--bg);
 }
 
-/* Table Overflow Container */
+/* ========== TABLE VIEW (Desktop) ========== */
 .table-wrapper {
   overflow-x: auto;
   width: 100%;
   margin-top: 40px;
 }
-
-/* Table Base */
 table {
   border-collapse: collapse;
-  width: auto;
   min-width: 2500px;
   background: var(--card);
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
 }
-
-/* Header */
 thead {
   background: var(--table-header);
 }
-
 thead th {
   white-space: nowrap;
   font-size: 14px;
@@ -94,29 +92,21 @@ thead th {
   text-align: center;
   padding: 16px 18px;
 }
-
-/* Body */
-th,
-td {
+th, td {
   padding: 18px;
   font-size: 14px;
   text-align: center;
   vertical-align: middle;
   border-bottom: 1px solid var(--border);
   word-break: break-word;
-  white-space: normal;
 }
-
 tbody tr:nth-child(even) {
   background-color: #f4f3f3;
 }
-
 tbody tr:hover {
   background: var(--text-primary);
   color: white;
 }
-
-/* Image */
 .image-wrapper {
   width: 100px;
   height: 100px;
@@ -125,7 +115,6 @@ tbody tr:hover {
   align-items: center;
   justify-content: center;
 }
-
 img.thumbnail {
   max-width: 100%;
   max-height: 100%;
@@ -134,98 +123,150 @@ img.thumbnail {
   transition: opacity 0.3s ease;
 }
 
-/* img.thumbnail.loaded {
-  opacity: 1;
-} */
-
-/* Responsive */
-@media (max-width: 768px) {
-  body {
-    padding: 16px;
-  }
-
-  h1 {
-    font-size: 22px;
-    margin-bottom: 24px;
-  }
-
-  th,
-  td {
-    padding: 12px;
-    font-size: 13px;
-  }
-
-  .image-wrapper {
-    width: 70px;
-    height: 70px;
-  }
-}
-
-table td:nth-child(8)
-/* table td:nth-child(9), */
-/* table td:nth-child(14) */
-{  text-align: left;
-}
-
-/* table td:nth-child(9), */
-/* table th:nth-child(9)  */
+/* Custom Width Adjustments */
 table td:nth-child(8),
 table th:nth-child(8) {
+  text-align: left;
   width: 300px;
   max-width: 300px;
 }
-
 table td:nth-child(2),
 table th:nth-child(2) {
   padding: 5px;
-} 
-
+}
 table td:nth-child(3),
 table th:nth-child(3) {
   width: 53px;
 }
-
-/* table td:nth-child(9),
-table th:nth-child(9) {
-  width: 275px;
-  max-width: 300px;
-} */
-
 table td:nth-child(10),
 table th:nth-child(10),
 table td:nth-child(11),
 table th:nth-child(11) {
   width: 250px;
-} 
-
-.vendor-meta {
-  font-size: 14px;
-  color: var(--text-secondary);
-  text-align: left;
-  margin-top: 10px;
 }
 
+/* ========== MOBILE PRODUCT LIST ========== */
+.mobile-product-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+}
+.product-card {
+  border: 1px solid var(--border);
+  padding: 12px;
+  border-radius: 8px;
+  background: var(--card);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  margin-bottom: 5%;
+}
+.product-card img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+.product-card h3 {
+  margin: 12px 0 6px;
+  font-size: 18px;
+  color: var(--text-secondary);
+}
+.product-card p {
+  margin: 4px 0;
+  font-size: 14px;
+  color: var(--text-primary);
+}
+
+/* ========== MODAL / POPUP STYLING ========== */
+.modal {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: flex; justify-content: center; align-items: center;
+  z-index: 1000;
+}
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 80%;
+  max-height: 90%;
+  overflow-y: auto;
+}
+.close-button {
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+}
+.hidden {
+  display: none;
+}
+
+/* ========== RESPONSIVE ========== */
+@media (max-width: 768px) {
+  body {
+    padding: 16px;
+  }
+  h1 {
+    font-size: 22px;
+    margin-bottom: 24px;
+  }
+  th, td {
+    padding: 12px;
+    font-size: 13px;
+  }
+  .image-wrapper {
+    width: 100px;
+    height: 100px;
+  }
+  .desktop-only { display: none !important;}
+  .mobile-only { display: block !important; }
+
+
+}
+.desktop-only { display: block; }
+.mobile-only { display: none; }
+
+/* ========== PRINT ========== */
 @media print {
   .table-wrapper {
     overflow: visible !important;
     width: auto !important;
   }
-
   #product-table {
     width: auto !important;
     table-layout: auto !important;
   }
-
-  #download-pdf {
+  #download-pdf,
+  .mobile-only,
+  .modal,
+  .modal-content {
     display: none !important;
+  }
+  .desktop-only {
+    display: block !important;
+  }
+  @page {
+    size: A3 landscape;
+  }
+  table th:nth-child(18),
+  table td:nth-child(18) {
+    width: 150px;
+  }
+  tbody tr:nth-child(even) {
+    background-color: #f4f3f3 !important;
+  }
+  tbody tr:hover {
+    background: var(--bg);
+    color: var(--text-primary);
+  }
+  table {
+    min-width: 2000px;
   }
 }
 
-.table-wrapper.expand-pdf {
-  overflow: visible !important;
-  width: auto !important;
-}
-
+/* ========== DOWNLOAD BUTTON ========== */
 #download-pdf {
   background: linear-gradient(110deg, var(--primary), var(--primary-hover));
   color: #fff;
@@ -239,47 +280,20 @@ table th:nth-child(11) {
   cursor: pointer;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-
 #download-pdf:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
   background: var(--primary-hover);
 }
-
 #download-pdf:active {
   transform: translateY(0);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.08);
 }
 
-
-.header-wrapper h1 {
-  font-size: 28px;
-  font-weight: 600;
+/* ========== METADATA FOOTER ========== */
+.vendor-meta {
+  font-size: 14px;
   color: var(--text-secondary);
-  margin: 32px 0 32px 0;
-}
-
-@media print {
-  @page {
-    size: A3 landscape;
-  }
-
-  table th:nth-child(15),
-  table td:nth-child(15) {
-    width: 150px;
-  }
-
-  tbody tr:nth-child(even) {
-    background-color: #f4f3f3 !important;
-  }
-
-  tbody tr:hover {
-    background: var(--bg);
-    color: var(--text-primary);
-  }
-
-  table {
-    min-width: 2000px;
-  }
-
+  text-align: left;
+  margin-top: 10px;
 }

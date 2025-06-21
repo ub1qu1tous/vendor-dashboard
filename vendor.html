@@ -5,7 +5,7 @@
   <meta charset="UTF-8" />
   <title></title>
   <link rel="stylesheet" href="style.css" />
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QGDDWTWYWC"></script>
@@ -20,13 +20,14 @@
 </script>
 
 <body>
-  <div id="pdf-content">
-    <div class="header-wrapper">
-  <h1 id="vendor-name"></h1>
-</div>
-    <div class="table-wrapper">
-      <table id="product-table">
-        <thead>
+  <div class="header-wrapper">
+    <h1 id="vendor-name"></h1>
+  </div>
+
+  <!-- Desktop Table -->
+  <div class="table-wrapper desktop-only">
+    <table id="product-table">
+      <thead>
           <tr>
             <th>Sr No</th>
             <th>Committed<br />Finish Date</th>
@@ -43,17 +44,28 @@
             <th>Folder</th>
             <th>Designer</th>
             <th>Qty</th>
-            <th>Task Assigned On</th>
+            <th>Task<br />Assigned On</th>
           </tr>
         </thead>
-
-        <tbody id="product-rows"></tbody>
-      </table>
-    </div>
-    <p id="last-updated" class="vendor-meta">Last updated: <span>Loading...</span></p>
+      <tbody id="product-rows"></tbody>
+    </table>
   </div>
+
+  <!-- Mobile Product List -->
+  <div id="product-list" class="mobile-only mobile-product-list"></div>
+
+  <!-- Product Detail Popup (for mobile) -->
+  <div id="product-modal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close-button">&times;</span>
+      <div id="product-detail"></div>
+    </div>
+  </div>
+
   <script type="module" src="vendor.js"></script>
   <script type="module" src="vendor-header.js"></script>
 </body>
 
+
 </html>
+
