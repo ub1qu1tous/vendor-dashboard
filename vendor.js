@@ -46,8 +46,25 @@ document.addEventListener('DOMContentLoaded', function () {
         filtered
           .sort((a, b) => parseDate(a.v?.c) - parseDate(b.v?.c))
           .forEach((d, index) => {
-            const isDue = d.v?.c && parseDate(d.v.c) <= new Date();
-            const dateCellStyle = isDue ? 'style="background: #E06666; color: white;"' : '';
+
+            const today = new Date();
+            const committedDate = parseDate(d.v?.c);
+            let dateCellStyle = '';
+            let dateTextStyle = '';
+
+            if (d.v?.c) {
+              const diffInDays = Math.ceil((committedDate - today) / (1000 * 60 * 60 * 24));
+
+              if (diffInDays <= 0) {
+                dateCellStyle = 'style="background: #E06666; color: white;"'; // For table cell
+                dateTextStyle = 'style="background: #E06666; color: black; padding: 0 5px; border-radius: 5px"'; // Red for mobile
+              } else if (diffInDays < 3) {
+                dateCellStyle = 'style="background: #FFD966; color: #333;"'; // Yellow in table
+                dateTextStyle = 'style="background: #FFD966; color: black; padding: 0 5px; border-radius: 5px"'; // Yellow text for mobile
+              }
+            }
+
+
             const tr = document.createElement("tr");
             tr.innerHTML = `
               <td>${index + 1}</td>
@@ -79,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function () {
               card.innerHTML = `
                 <img src="${d.url || ''}" alt="Product Image" class="thumbnail">
                 <h3>${d.prod || ''} ${d.var || ''}</h3>
-                <p>Committed Finish Date: ${d.v?.c || 'N/A'}</p>
+                <p>Committed Finish Date: <span id> <span ${dateTextStyle}>${d.v?.c || 'N/A'}</span></p>
               `;
               card.addEventListener('click', () => showProductDetail(vendorKey, d.key));
               mobileList.appendChild(card);
