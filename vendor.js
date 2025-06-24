@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
       .then(res => res.json())
       .then(data => {
         const vendorDisplayName = Object.values(data)[0].vendorDisplayName;
-        document.title = vendorDisplayName;
+        document.title = vendorDisplayName + " - Vendor Order List";
         document.getElementById("vendor-name").textContent = vendorDisplayName;
 
         // const allRecords = Object.entries(data || {}).map(([key, entry]) => {
@@ -129,10 +129,11 @@ function showProductDetail(vendorKey, entryKey) {
         <p><strong>Material:</strong> ${data.mat || ''}</p>
         <p><strong>Size:</strong> ${data.sz || ''}</p>
         <p><strong>Committed Finish Date:</strong> ${data.v?.c || ''}</p>
-        <p><strong>PM:</strong> ${data.pm || ''}</p>
+        <p><strong>Project Manager:</strong> ${data.pm || ''}</p>
         <p><strong>Designer:</strong> ${data.des || ''}</p>
         <p><strong>Quantity:</strong> ${data.q || ''}</p>
-        <p><strong>Remarks:</strong> ${data.v?.rm || ''}</p>
+        <p><strong>Client Remarks:</strong> ${data.v?.cr || ''}</p>
+        <p><strong>Vendor Remarks:</strong> ${data.v?.rm || ''}</p>
         <a href="${data.fld}" target="_blank">Product Folder</a><br>
         <a href="${data.dl}" target="_blank">Drawing Files</a>
       `;
