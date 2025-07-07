@@ -1,6 +1,6 @@
 # Vendor Order List Dashboard
 
-A live dashboard to view and track work orders per vendor, powered by Firebase Realtime Database and hosted via GitHub Pages.
+A live dashboard to view and track work orders per vendor and hosted via GitHub Pages.
 
 **Live Dashboard**: [https://ub1qu1tous.github.io/vendor-dashboard/](https://ub1qu1tous.github.io/vendor-dashboard/) 
 
@@ -17,7 +17,6 @@ or
 - Thumbnail previews and links to folders/files.
 - Auto-updating timestamp for data freshness.
 - Responsive design and print-friendly layout.
-- Firebase-hosted with clean URLs and custom 404 page.
 
 ---
 
@@ -31,7 +30,6 @@ vendor-dashboard/
 - `vendors.js` — Loads and displays the vendor index
 - `vendor.js` — Renders data for an individual vendor based on URL params
 - `vendor-header.js` — Fetches and shows last updated timestamp
-- `firebase.json` — Firebase Hosting configuration file
 - `README.md` — Project documentation
 
 
