@@ -1,12 +1,12 @@
 # Vendor Order List Dashboard
 
-A live dashboard to view and track work orders per vendor, powered by Firebase Realtime Database and hosted via Firebase Hosting.
+A live dashboard to view and track work orders per vendor, powered by Firebase Realtime Database and hosted via GitHub Pages.
 
 **Live Dashboard**: [https://ub1qu1tous.github.io/vendor-dashboard/](https://ub1qu1tous.github.io/vendor-dashboard/) 
 
 or 
 
-[https://vendor-dashboard-b63fb.web.app/](https://vendor-dashboard-b63fb.web.app/)
+[https://vendors.sulfur.one)
 ---
 
 ## Features
@@ -39,11 +39,6 @@ vendor-dashboard/
 
 ## How It Works
 
-- **Data Source**: Firebase Realtime Database at:
-
-https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/
-
-
 - **index.html** + `vendors.js`:
 - Fetches all vendor data.
 <!-- - Filters vendors with active (`rts: false`) entries. -->
@@ -55,9 +50,6 @@ https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app
 - Sorts by `Expected Finish Date`.
 - Highlights overdue dates in red.
 - Provides links for image previews, folders, and downloadable files.
-
-- **vendor-header.js**:
-- Loads and formats a last updated timestamp from `/lastUpdated.json`.
 
 ---
 
@@ -78,6 +70,5 @@ https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app
 
 ## Hosting
 
-- Hosted via Firebase.
-- Routing fallback handled by `404.html`.
+- Hosted on GitHub Pages.
 
