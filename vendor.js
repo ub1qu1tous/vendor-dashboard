@@ -19,8 +19,9 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   function fetchVendorData() {
-    fetch(`https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors/${encodeURIComponent(vendorKey)}.json`)
-      .then(res => res.json())
+    // fetch(`https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors/${encodeURIComponent(vendorKey)}.json`)
+    fetch(`https://raw.githubusercontent.com/ub1qu1tous/vendor-dashboard/main/data/latest.json`)
+    .then(res => res.json())
       .then(data => {
         const vendorDisplayName = Object.values(data)[0].vendorDisplayName;
         document.title = vendorDisplayName + " - Vendor Order List";

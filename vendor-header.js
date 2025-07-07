@@ -1,4 +1,5 @@
-fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/lastUpdated.json")
+// fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/lastUpdated.json")
+fetch(`https://raw.githubusercontent.com/ub1qu1tous/vendor-dashboard/main/data/latest.json`)
   .then(res => res.json())
   .then(data => {
     const date = new Date(data.timestamp);
