@@ -1,45 +1,52 @@
-// fetch("https://vendor-dashboard-b63fb-default-rtdb.asia-southeast1.firebasedatabase.app/vendors.json")
-fetch(`https://raw.githubusercontent.com/ub1qu1tous/vendor-dashboard/main/data/latest.json`)
+fetch("https://raw.githubusercontent.com/ub1qu1tous/vendor-dashboard/main/data/latest.json")
   .then(res => res.json())
   .then(data => {
-    const vendorMap = {}; // key: vendorKey, value: { displayName, count }
+    const vendors = data.vendors || {};
+    const tableBody = document.getElementById("vendor-table-body");
+    if (tableBody) tableBody.innerHTML = "";
 
-    Object.entries(data || {}).forEach(([vendorKey, entries]) => {
-      let count = 0;
-      let displayName = vendorKey.replace(/_/g, ' '); // fallback name
+    const vendorIndex = document.getElementById("vendor-index");
+    if (vendorIndex) vendorIndex.innerHTML = "";
 
-      Object.values(entries || {}).forEach(entry => {
-        if (entry.vendorDisplayName) {
-          displayName = entry.vendorDisplayName; // use explicit display name if present
-        }
+    const vendorEntries = Object.entries(vendors).sort();
 
-        // if (entry.v?.rts === false) {
-          count += 1;
-        // }
-      });
+    vendorEntries.forEach(([vendorKey, records]) => {
+      const vendorDisplayName = records[0]?.vendorDisplayName || vendorKey;
+      const totalOrders = records.length;
 
-      if (count > 0) {
-        vendorMap[vendorKey] = { displayName, count };
+      const a = document.createElement("a");
+      a.href = `vendor.html?vendor=${encodeURIComponent(vendorKey)}`;
+      a.textContent = `${vendorDisplayName} (${totalOrders})`;
+      if (vendorIndex) vendorIndex.appendChild(a);
+
+      if (tableBody) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td><a href="vendor.html?vendor=${encodeURIComponent(vendorKey)}">${vendorDisplayName}</a></td>
+          <td>${totalOrders}</td>
+        `;
+        tableBody.appendChild(tr);
       }
     });
 
-    const container = document.getElementById("vendor-index");
-    container.innerHTML = "";
-    var ordercount = 0;
+    if (vendorEntries.length === 0) {
+      if (vendorIndex) vendorIndex.innerHTML = `<p>No vendor data found.</p>`;
+      if (tableBody) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `<td colspan="2">No vendor data found.</td>`;
+        tableBody.appendChild(tr);
+      }
+    }
 
-    Object.entries(vendorMap)
-      .sort((a, b) => a[1].displayName.localeCompare(b[1].displayName))
-      .forEach(([vendorKey, { displayName, count }]) => {
-        const link = document.createElement("a");
-        link.href = `vendor.html?vendor=${encodeURIComponent(vendorKey)}`;
-        link.textContent = `${displayName} (${count})`;
-        container.appendChild(link);
-        ordercount += count;
-      });
     // document.getElementById("title").innerHTML = "Vendor Order List " + "(" + ordercount + ")";
     document.getElementById("title").innerHTML = "Vendor Order List ";
   })
-  .catch(err => {
-    console.error("Error fetching vendor list:", err);
-    document.getElementById("vendor-index").textContent = "Failed to load vendor index.";
+  .catch(error => {
+    console.error("Error loading vendors:", error);
+    const vendorIndex = document.getElementById("vendor-index");
+    if (vendorIndex) vendorIndex.innerHTML = `<p>Error loading vendor data.</p>`;
+    const tableBody = document.getElementById("vendor-table-body");
+    if (tableBody) {
+      tableBody.innerHTML = `<tr><td colspan="2">Error loading vendor data.</td></tr>`;
+    }
   });
