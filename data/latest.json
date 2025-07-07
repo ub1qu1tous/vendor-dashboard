@@ -7254,30 +7254,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
-    "true": [
-      {
-        "op": "032507",
-        "prod": "Cloudspire",
-        "var": "Grover",
-        "url": "https://i.ibb.co/SXm1XRFj/v05.jpg",
-        "cat": "Wardrobes",
-        "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass; RAL 1013 Oyster White HDHMR Shutter; Extra Clear 5mm Glass Mirror",
-        "sz": "Outer: 118.7\" x 24\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/1JcVcxhlmom3-zUehAfJfr_kzLIzg29uD",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1iImEgjo2wQnJ-kOlcgDs7ShoXEKnLp1C",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Wardrobe",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": true
-      }
-    ],
     "jain_marble": [
       {
         "op": "032507",
@@ -13060,6 +13036,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-07T10:22:19.216Z"
+    "timestamp": "2025-07-07T10:37:19.442Z"
   }
 }
