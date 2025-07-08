@@ -2421,7 +2421,7 @@
         "cr": "Daughter Bedroom Study Table",
         "v": {
           "t": "",
-          "c": "02-Jul-2025",
+          "c": "15-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5616,10 +5616,10 @@
         "pm": "Smruti Saraiya",
         "cr": "Entrance Shoe Rack",
         "v": {
-          "t": "",
+          "t": "08-Jul-2025",
           "c": "15-Jul-2025",
           "a": "",
-          "rm": "Laminate from AWS"
+          "rm": "Wall Hanging Shoerack,\nBackpanel Thickness 18mm required.\n2 Ventilation grills to be drilled at bottom.\nLaminate from AWS."
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6827,7 +6827,7 @@
         "cr": "Son Bedroom Bed",
         "v": {
           "t": "",
-          "c": "20-Jun-2025",
+          "c": "15-Jul-2025",
           "a": "",
           "rm": "Teak veneer Nightstand need to wall mount at site so need 18mm thick back\nDrawer size 36\" x 18\" x 6\""
         },
@@ -6981,7 +6981,7 @@
         "cr": "Son Bedroom Study Table",
         "v": {
           "t": "",
-          "c": "02-Jul-2025",
+          "c": "15-Jul-2025",
           "a": "",
           "rm": "Top, drawer box, drawer  , Leg PU colour,leg in HDHMR, round flap with hing so that it can open when needed as a basket use and close when not required"
         },
@@ -7601,7 +7601,7 @@
         "cr": "Daughter Bedroom Study Table",
         "v": {
           "t": "",
-          "c": "02-Jul-2025",
+          "c": "15-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8443,7 +8443,7 @@
         "cr": "Son Bedroom Study Table",
         "v": {
           "t": "",
-          "c": "02-Jul-2025",
+          "c": "15-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -13036,6 +13036,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-08T11:22:42.291Z"
+    "timestamp": "2025-07-08T11:38:45.235Z"
   }
 }
