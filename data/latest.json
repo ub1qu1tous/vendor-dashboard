@@ -9334,6 +9334,28 @@
           "rm": "dining metal part fitting "
         },
         "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "122415",
+        "prod": "Glowworm",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/0V9SGQ4c/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Suncity Indian Teak Structure; Suncity Indian Teak Drawer; Black Powder Coat Mild Steel Base; Black Powder Coat Mild Steel Handle",
+        "sz": "Outer: 26\" x 19\" x 25\"",
+        "fld": "https://drive.google.com/drive/folders/1N8Dli7HHMg3UToWGLHpZIopgmKyvitRp",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1Hwz3wNaWgWCFZkA_C_47veOelGqxNxV8",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "t": "08-Jul-2025",
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
       }
     ],
     "surat_pvd": [
@@ -13036,6 +13058,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-08T07:24:27.135Z"
+    "timestamp": "2025-07-08T07:37:37.908Z"
   }
 }
