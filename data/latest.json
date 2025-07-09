@@ -1108,6 +1108,28 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "072501",
+        "prod": "Capsicum",
+        "var": "Evan",
+        "url": "https://i.ibb.co/mtrn6mN/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Harvest Sheesham Frame; Sarom - Asaba 703 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 19\" x 20.5\" x 32.5\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ImsnZcEVkchBHlk8p-exJUKwo8UsM0or",
+        "des": "Akarsha Jha",
+        "dl": "https://drive.google.com/drive/folders/1HvKtCDUXBMQDMNjQVG6RV14JEyhAadvA",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric from client; Match the finish with the sample of the dining table",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082413",
         "prod": "Dragonheart",
         "var": "Neymar",
@@ -4273,6 +4295,28 @@
         "cr": "",
         "v": {
           "t": "29-Jan-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072501",
+        "prod": "Capsicum",
+        "var": "Evan",
+        "url": "https://i.ibb.co/mtrn6mN/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Harvest Sheesham Frame; Sarom - Asaba 703 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 19\" x 20.5\" x 32.5\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ImsnZcEVkchBHlk8p-exJUKwo8UsM0or",
+        "des": "Akarsha Jha",
+        "dl": "https://drive.google.com/drive/folders/1HvKtCDUXBMQDMNjQVG6RV14JEyhAadvA",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric from client; Match the finish with the sample of the dining table",
+        "v": {
+          "t": "",
           "c": "",
           "a": "",
           "rm": "no special instructions"
@@ -9182,6 +9226,50 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "072503",
+        "prod": "Gonul",
+        "var": "Semaria",
+        "url": "https://i.ibb.co/pwJhmJQ/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Black Powder Coat Mild Steel Top; Matt Buffing Bidasar Green Base; Black Powder Coat Mild Steel Support",
+        "sz": "Outer: 15.7\" x 15.7\" x 17.7\"",
+        "fld": "https://drive.google.com/drive/folders/1u24FsiDFNUC84Px_ji2nRfl4pkggFK6H?usp=sharing",
+        "des": "Tarishi Rathore",
+        "dl": "https://drive.google.com/drive/folders/1qlY5sDUc_g6-PtAXvNVXoRfQy2IVQrT9",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "072503",
+        "prod": "Osaka",
+        "var": "Nicole",
+        "url": "https://i.ibb.co/yFhXg2gQ/Whats-App-Image-2025-06-17-at-7-33-42-PM.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 32\" x 36\" x 30\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1HfWWF692kA9KENgd6HCz0NkzCTqzbEA6",
+        "des": "Tanmay Shah",
+        "dl": "https://drive.google.com/drive/folders/1_TQzc8onejQ3HNGXBlvjRBtFFdlJ9Vow",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "082301",
         "prod": "Noriko",
         "var": "Ardor",
@@ -13190,6 +13278,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-09T07:37:24.964Z"
+    "timestamp": "2025-07-09T07:52:27.061Z"
   }
 }
