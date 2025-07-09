@@ -11294,6 +11294,50 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
+        "op": "072501",
+        "prod": "Capsicum",
+        "var": "Evan",
+        "url": "https://i.ibb.co/mtrn6mN/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Harvest Sheesham Frame; Sarom - Asaba 703 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 19\" x 20.5\" x 32.5\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ImsnZcEVkchBHlk8p-exJUKwo8UsM0or",
+        "des": "Akarsha Jha",
+        "dl": "https://drive.google.com/drive/folders/1HvKtCDUXBMQDMNjQVG6RV14JEyhAadvA",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric from client; Match the finish with the sample of the dining table",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "The fabric comes from Banglore."
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "072502",
+        "prod": "Miu",
+        "var": "Yukon",
+        "url": "https://i.ibb.co/dQHFPmJ/0002.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Antique Black Mild Steel Legs",
+        "sz": "Outer: 72\" x 30\" x 30\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1YXljmAYMdc4J2Skzhoj9R-uPFjYrwv5C",
+        "des": "Tanmay Shah",
+        "dl": "https://drive.google.com/drive/folders/1KZH4LcvoFBmjcxmRp5DfdM8mdzRuRE6G",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "9 metre fabric from client, Make the seating softer",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "The fabric comes from Khandelwal Fabrics."
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
         "op": "092416",
         "prod": "Aramayo",
         "var": "Serin",
@@ -13146,6 +13190,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-09T06:07:28.103Z"
+    "timestamp": "2025-07-09T06:22:25.898Z"
   }
 }
