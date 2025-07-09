@@ -9204,6 +9204,28 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "082413",
+        "prod": "Affluence",
+        "var": "Lacie",
+        "url": "https://i.ibb.co/Dg8yPf5M/ibb.jpg",
+        "cat": "Sofas",
+        "mat": "Coll Delilah Shade no. 101 Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Backrest; Black PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 96\" x 33.5\" x 31\"",
+        "fld": "https://drive.google.com/drive/folders/1Fofg7jL8D5IRjH9Y9DS61m6I9OI98Fy_",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1XByicTG46EYO8VNd6m19O1JuCkv1i39n",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "09-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "102411",
         "prod": "Aegis",
         "var": "Elchi",
@@ -13124,6 +13146,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-09T05:37:21.664Z"
+    "timestamp": "2025-07-09T05:52:27.946Z"
   }
 }
