@@ -5594,7 +5594,7 @@
         "pm": "Dilip Jangir",
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
-          "t": "09-Jul-2025",
+          "t": "10-Jul-2025",
           "c": "",
           "a": "",
           "rm": "base satin metalic PU colour"
@@ -5616,7 +5616,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "t": "09-Jul-2025",
+          "t": "10-Jul-2025",
           "c": "",
           "a": "",
           "rm": "base satin metalic PU colour"
@@ -8423,7 +8423,7 @@
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
           "t": "02-Jul-2025",
-          "c": "09-Jul-2025",
+          "c": "10-Jul-2025",
           "a": "",
           "rm": "metal base"
         },
@@ -8445,7 +8445,7 @@
         "cr": "",
         "v": {
           "t": "02-Jul-2025",
-          "c": "09-Jul-2025",
+          "c": "10-Jul-2025",
           "a": "",
           "rm": "metal base"
         },
@@ -13168,6 +13168,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-09T14:37:27.278Z"
+    "timestamp": "2025-07-09T14:52:26.097Z"
   }
 }
