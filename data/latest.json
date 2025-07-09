@@ -10400,52 +10400,6 @@
         "vendorDisplayName": "AWS"
       }
     ],
-    "divine": [
-      {
-        "op": "052510",
-        "prod": "Eleska",
-        "var": "Philia",
-        "url": "https://i.ibb.co/cXtRrgmy/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
-        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
-        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Divine"
-      },
-      {
-        "op": "122414",
-        "prod": "Seubert",
-        "var": "Drake",
-        "url": "https://cdn3.evostore.io/productimages/dams/l/pcs800-o.jpg",
-        "cat": "Dining Tables",
-        "mat": "Pluto Texture Shutter PLT-235 Antique Pine Pre-Laminated  MDF Top; Matt Buffing Stainless Steel 304 Satin Base",
-        "sz": "Outer: 40\" x 30\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1T8zmuAqPUjT4RBirTMwCGGSz5FqGBB3T",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "SS Base"
-        },
-        "vendorDisplayName": "Divine"
-      }
-    ],
     "krishna_furnitech_polish_only": [
       {
         "op": "052513",
@@ -13187,9 +13141,33 @@
         },
         "vendorDisplayName": "Umang Glass Elements"
       }
+    ],
+    "divine": [
+      {
+        "op": "122414",
+        "prod": "Seubert",
+        "var": "Drake",
+        "url": "https://cdn3.evostore.io/productimages/dams/l/pcs800-o.jpg",
+        "cat": "Dining Tables",
+        "mat": "Pluto Texture Shutter PLT-235 Antique Pine Pre-Laminated  MDF Top; Matt Buffing Stainless Steel 304 Satin Base",
+        "sz": "Outer: 40\" x 30\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1T8zmuAqPUjT4RBirTMwCGGSz5FqGBB3T",
+        "des": "Readymade",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "SS Base"
+        },
+        "vendorDisplayName": "Divine"
+      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-09T10:24:24.205Z"
+    "timestamp": "2025-07-09T10:40:14.072Z"
   }
 }
