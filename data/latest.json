@@ -321,14 +321,14 @@
         "var": "Zoellick",
         "url": "https://i.ibb.co/MD8Xwk7F/0002.jpg",
         "cat": "Accent Chairs",
-        "mat": "Finish TBC Indian Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "mat": "Finish TBC Recycled Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
         "sz": "Outer: 27.17\" x 32.13\" x 30\", Seat Height: 15.28\"",
         "fld": "https://drive.google.com/drive/folders/1-1guzdz8ss1BnaL6P3xst1x52F3idz4P",
         "des": "Tanmay Shah",
         "dl": "https://drive.google.com/drive/folders/1SPjNtzyZSe69lxK1yv5EoDh_c1CGmKeH",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Need in valsadi teakwood",
+        "cr": "Client confirmed recycle teak;\nHOLD due to confimation of finish and fabric",
         "v": {
           "t": "04-Jun-2025",
           "c": "",
@@ -2479,14 +2479,14 @@
         "var": "Zoellick",
         "url": "https://i.ibb.co/MD8Xwk7F/0002.jpg",
         "cat": "Accent Chairs",
-        "mat": "Finish TBC Indian Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "mat": "Finish TBC Recycled Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
         "sz": "Outer: 27.17\" x 32.13\" x 30\", Seat Height: 15.28\"",
         "fld": "https://drive.google.com/drive/folders/1-1guzdz8ss1BnaL6P3xst1x52F3idz4P",
         "des": "Tanmay Shah",
         "dl": "https://drive.google.com/drive/folders/1SPjNtzyZSe69lxK1yv5EoDh_c1CGmKeH",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Need in valsadi teakwood",
+        "cr": "Client confirmed recycle teak;\nHOLD due to confimation of finish and fabric",
         "v": {
           "t": "",
           "c": "",
@@ -3273,14 +3273,14 @@
         "var": "Zoellick",
         "url": "https://i.ibb.co/MD8Xwk7F/0002.jpg",
         "cat": "Accent Chairs",
-        "mat": "Finish TBC Indian Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "mat": "Finish TBC Recycled Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
         "sz": "Outer: 27.17\" x 32.13\" x 30\", Seat Height: 15.28\"",
         "fld": "https://drive.google.com/drive/folders/1-1guzdz8ss1BnaL6P3xst1x52F3idz4P",
         "des": "Tanmay Shah",
         "dl": "https://drive.google.com/drive/folders/1SPjNtzyZSe69lxK1yv5EoDh_c1CGmKeH",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Need in valsadi teakwood",
+        "cr": "Client confirmed recycle teak;\nHOLD due to confimation of finish and fabric",
         "v": {
           "t": "",
           "c": "",
@@ -10578,6 +10578,74 @@
         "vendorDisplayName": "Shital Glass"
       }
     ],
+    "the_lighting_studio": [
+      {
+        "op": "052510",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://i.ibb.co/JRWM7HCy/image.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcase: 60\" x 18\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "052513",
+        "prod": "Elantris",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/Fk3wy5D3/image.png",
+        "cat": "Lamps",
+        "mat": "Satin Metallic PU Mild Steel Structure; Satin Metallic PU Mild Steel Frame; Satin Metallic PU Mild Steel Lamp Fitting",
+        "sz": "Outer: 39\" x 39\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1TAyhGULk3IuFkhat1iwAZ8IX8LTMoB3M",
+        "des": "Dilip Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "bulb, holder and metal work"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "052513",
+        "prod": "Lumyra",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
+        "cat": "Lamps",
+        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
+        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
+        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
+        "des": "Rohan Parmar",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "lamp shade with metal frame , bulb , holder"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      }
+    ],
     "krishna_furnitech_polish_only": [
       {
         "op": "052513",
@@ -10800,52 +10868,6 @@
           "rm": "Antique grey finish"
         },
         "vendorDisplayName": "Maan Singh"
-      }
-    ],
-    "the_lighting_studio": [
-      {
-        "op": "052513",
-        "prod": "Elantris",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/Fk3wy5D3/image.png",
-        "cat": "Lamps",
-        "mat": "Satin Metallic PU Mild Steel Structure; Satin Metallic PU Mild Steel Frame; Satin Metallic PU Mild Steel Lamp Fitting",
-        "sz": "Outer: 39\" x 39\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1TAyhGULk3IuFkhat1iwAZ8IX8LTMoB3M",
-        "des": "Dilip Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "bulb, holder and metal work"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "052513",
-        "prod": "Lumyra",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
-        "cat": "Lamps",
-        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
-        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
-        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
-        "des": "Rohan Parmar",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "lamp shade with metal frame , bulb , holder"
-        },
-        "vendorDisplayName": "The Lighting Studio"
       }
     ],
     "deco_ply": [
@@ -11453,7 +11475,7 @@
         "var": "Yukon",
         "url": "https://i.ibb.co/dQHFPmJ/0002.jpg",
         "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Antique Black Mild Steel Legs",
+        "mat": "Rio Collection Sr No 7 Ply & Foam Upholstery Structure; Antique Black Mild Steel Legs",
         "sz": "Outer: 72\" x 30\" x 30\", Seat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1YXljmAYMdc4J2Skzhoj9R-uPFjYrwv5C",
         "des": "Tanmay Shah",
@@ -13346,6 +13368,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-10T08:52:26.365Z"
+    "timestamp": "2025-07-10T09:08:41.067Z"
   }
 }
