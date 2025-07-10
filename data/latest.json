@@ -5705,9 +5705,9 @@
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
           "t": "10-Jul-2025",
-          "c": "",
+          "c": "14-Jul-2025",
           "a": "",
-          "rm": "base satin metalic PU colour"
+          "rm": "base satin metalic PU VMA 3020 colour"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5727,9 +5727,9 @@
         "cr": "",
         "v": {
           "t": "10-Jul-2025",
-          "c": "",
+          "c": "14-Jul-2025",
           "a": "",
-          "rm": "base satin metalic PU colour"
+          "rm": "base satin metalic PU VMA 3020 colour"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -13368,6 +13368,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-10T09:37:26.023Z"
+    "timestamp": "2025-07-10T09:52:23.882Z"
   }
 }
