@@ -448,6 +448,28 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "052510",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/u/1/folders/1o20IgteEnQGhURL6aGM1MIUYzfQ-KF2f",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Wooden Cylinder with Polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "062508",
         "prod": "Ayana",
         "var": "Faani",
@@ -3510,6 +3532,72 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "052510",
+        "prod": "Nyelle",
+        "var": "Urban",
+        "url": "https://i.ibb.co/KjtpyM1k/image.png",
+        "cat": "Back Panels",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Back Panel",
+        "sz": "Outer: 124\" x 2\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1mYiUIWq0TlQ83E4tT1r8XnaDcDoSY8mr",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052510",
+        "prod": "Ornelle",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
+        "cat": "Beds",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
+        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052510",
+        "prod": "Stingray",
+        "var": "Lux",
+        "url": "https://i.ibb.co/qMTGDpyy/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Mounting; Black PVD Stainless Steel 304 Matt Legs; Fabric TBC Recron Filling 4 Cushions",
+        "sz": "Outer: 78\" x 34.5\" x 28\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1fkZj8vZckxQuVlFAmTYDqyhfDtmppsei",
+        "des": "Maulik Parmar",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "052513",
         "prod": "Aviora",
         "var": "Justo",
@@ -5769,6 +5857,50 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "052510",
+        "prod": "Pomfret",
+        "var": "Muvil",
+        "url": "https://i.ibb.co/BHZY5CKt/Screenshot-2025-05-29-154336.png",
+        "cat": "Nightstands",
+        "mat": "Mirror Buffing Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; Finish TBC HDHMR Drawer Fascia",
+        "sz": "Outer: 24\" x 16\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "052510",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/9kXB3HBq/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 24\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
         "v": {
           "t": "",
           "c": "",
@@ -8274,6 +8406,160 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "052510",
+        "prod": "Nyelle",
+        "var": "Urban",
+        "url": "https://i.ibb.co/KjtpyM1k/image.png",
+        "cat": "Back Panels",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Back Panel",
+        "sz": "Outer: 124\" x 2\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1mYiUIWq0TlQ83E4tT1r8XnaDcDoSY8mr",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Ornelle",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
+        "cat": "Beds",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
+        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Pomfret",
+        "var": "Muvil",
+        "url": "https://i.ibb.co/BHZY5CKt/Screenshot-2025-05-29-154336.png",
+        "cat": "Nightstands",
+        "mat": "Mirror Buffing Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; Finish TBC HDHMR Drawer Fascia",
+        "sz": "Outer: 24\" x 16\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/9kXB3HBq/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 24\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/u/1/folders/1o20IgteEnQGhURL6aGM1MIUYzfQ-KF2f",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Stingray",
+        "var": "Lux",
+        "url": "https://i.ibb.co/qMTGDpyy/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Mounting; Black PVD Stainless Steel 304 Matt Legs; Fabric TBC Recron Filling 4 Cushions",
+        "sz": "Outer: 78\" x 34.5\" x 28\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1fkZj8vZckxQuVlFAmTYDqyhfDtmppsei",
+        "des": "Maulik Parmar",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "052513",
         "prod": "Lumyra",
         "var": "Ivy",
@@ -9127,6 +9413,94 @@
         "q": 8,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052510",
+        "prod": "Nyelle",
+        "var": "Urban",
+        "url": "https://i.ibb.co/KjtpyM1k/image.png",
+        "cat": "Back Panels",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Back Panel",
+        "sz": "Outer: 124\" x 2\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1mYiUIWq0TlQ83E4tT1r8XnaDcDoSY8mr",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052510",
+        "prod": "Ornelle",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
+        "cat": "Beds",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
+        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052510",
+        "prod": "Pomfret",
+        "var": "Muvil",
+        "url": "https://i.ibb.co/BHZY5CKt/Screenshot-2025-05-29-154336.png",
+        "cat": "Nightstands",
+        "mat": "Mirror Buffing Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; Finish TBC HDHMR Drawer Fascia",
+        "sz": "Outer: 24\" x 16\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052510",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/9kXB3HBq/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 24\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
         "v": {
           "t": "",
           "c": "",
@@ -10130,6 +10504,72 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "052510",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/u/1/folders/1o20IgteEnQGhURL6aGM1MIUYzfQ-KF2f",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Stingray",
+        "var": "Lux",
+        "url": "https://i.ibb.co/qMTGDpyy/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Mounting; Black PVD Stainless Steel 304 Matt Legs; Fabric TBC Recron Filling 4 Cushions",
+        "sz": "Outer: 78\" x 34.5\" x 28\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1fkZj8vZckxQuVlFAmTYDqyhfDtmppsei",
+        "des": "Maulik Parmar",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "052513",
         "prod": "Lumyra",
         "var": "Ivy",
@@ -11106,6 +11546,72 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "052510",
+        "prod": "Nyelle",
+        "var": "Urban",
+        "url": "https://i.ibb.co/KjtpyM1k/image.png",
+        "cat": "Back Panels",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Back Panel",
+        "sz": "Outer: 124\" x 2\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1mYiUIWq0TlQ83E4tT1r8XnaDcDoSY8mr",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "63x6 mm Patta"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "052510",
+        "prod": "Ornelle",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
+        "cat": "Beds",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
+        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "052510",
+        "prod": "Stingray",
+        "var": "Lux",
+        "url": "https://i.ibb.co/qMTGDpyy/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Mounting; Black PVD Stainless Steel 304 Matt Legs; Fabric TBC Recron Filling 4 Cushions",
+        "sz": "Outer: 78\" x 34.5\" x 28\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1fkZj8vZckxQuVlFAmTYDqyhfDtmppsei",
+        "des": "Maulik Parmar",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "052513",
         "prod": "Celviano",
         "var": "Kiera",
@@ -12005,6 +12511,72 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "052510",
+        "prod": "Pomfret",
+        "var": "Muvil",
+        "url": "https://i.ibb.co/BHZY5CKt/Screenshot-2025-05-29-154336.png",
+        "cat": "Nightstands",
+        "mat": "Mirror Buffing Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; Finish TBC HDHMR Drawer Fascia",
+        "sz": "Outer: 24\" x 16\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "052510",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "052510",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/u/1/folders/1o20IgteEnQGhURL6aGM1MIUYzfQ-KF2f",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
         "v": {
           "t": "",
           "c": "",
@@ -13874,6 +14446,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-10T11:37:24.692Z"
+    "timestamp": "2025-07-10T11:52:27.028Z"
   }
 }
