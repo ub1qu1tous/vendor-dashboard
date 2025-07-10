@@ -3466,6 +3466,28 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "052510",
+        "prod": "Eleska",
+        "var": "Philia",
+        "url": "https://i.ibb.co/cXtRrgmy/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
+        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
+        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
+        "des": "Hetvi Shah",
+        "dl": "NA",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "052513",
         "prod": "Aviora",
         "var": "Justo",
@@ -5664,6 +5686,50 @@
           "c": "10-Jul-2025",
           "a": "",
           "rm": "Wall Hanging Shoerack,\nBackpanel Thickness 18mm required.\n2 Ventilation grills to be drilled at bottom.\nLaminate from AWS."
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "052510",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://i.ibb.co/JRWM7HCy/image.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcase: 60\" x 18\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions\nGlass shelves in Vipra's Scope"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "052510",
+        "prod": "Calithea",
+        "var": "Koan",
+        "url": "https://i.ibb.co/9mC79yTd/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
+        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -7961,7 +8027,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Please follow Video Instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -7983,7 +8049,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Please follow Video Instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -8005,7 +8071,51 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Please follow Video Instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Calithea",
+        "var": "Koan",
+        "url": "https://i.ibb.co/9mC79yTd/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
+        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052510",
+        "prod": "Eleska",
+        "var": "Philia",
+        "url": "https://i.ibb.co/cXtRrgmy/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
+        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
+        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
+        "des": "Hetvi Shah",
+        "dl": "NA",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions\nCopy Sample chair we have at Warehouse"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -8780,6 +8890,28 @@
           "c": "",
           "a": "",
           "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052510",
+        "prod": "Calithea",
+        "var": "Koan",
+        "url": "https://i.ibb.co/9mC79yTd/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
+        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -9734,6 +9866,28 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "052510",
+        "prod": "Eleska",
+        "var": "Philia",
+        "url": "https://i.ibb.co/cXtRrgmy/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
+        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
+        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
+        "des": "Hetvi Shah",
+        "dl": "NA",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "052513",
         "prod": "Lumyra",
         "var": "Ivy",
@@ -10666,6 +10820,28 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "052510",
+        "prod": "Eleska",
+        "var": "Philia",
+        "url": "https://i.ibb.co/cXtRrgmy/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
+        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
+        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
+        "des": "Hetvi Shah",
+        "dl": "NA",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "052513",
         "prod": "Celviano",
         "var": "Kiera",
@@ -11479,7 +11655,29 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Make light part that is connected with leather strap"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "052510",
+        "prod": "Brionyx",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
+        "cat": "Room Dividers",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
+        "sz": "Outer: 43\" x 8\" x 102\"",
+        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1O1Mwx31997PX8QuV_cELN_lNdaWjF1RR",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
         },
         "vendorDisplayName": "The Lighting Studio"
       },
@@ -13368,6 +13566,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-10T10:52:25.613Z"
+    "timestamp": "2025-07-10T11:10:13.486Z"
   }
 }
