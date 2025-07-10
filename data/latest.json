@@ -5756,6 +5756,28 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "052510",
+        "prod": "Myqora",
+        "var": "Eulogy",
+        "url": "https://i.ibb.co/TxWBxhjP/image.png",
+        "cat": "Console Tables",
+        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
+        "sz": "Outer: 72.13\" x 22.44\" x 33.07\"",
+        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "052513",
         "prod": "Elantris",
         "var": "Quizzy",
@@ -7228,6 +7250,28 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052510",
+        "prod": "Myqora",
+        "var": "Eulogy",
+        "url": "https://i.ibb.co/TxWBxhjP/image.png",
+        "cat": "Console Tables",
+        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
+        "sz": "Outer: 72.13\" x 22.44\" x 33.07\"",
+        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Recrangle Wooden Pcs (Count will be given by Vipra)\nand Legs 4 PC"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -13830,6 +13874,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-10T11:22:25.240Z"
+    "timestamp": "2025-07-10T11:37:24.692Z"
   }
 }
