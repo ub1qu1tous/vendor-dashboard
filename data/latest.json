@@ -551,7 +551,7 @@
         "cr": "Brass ring at neck of the table",
         "v": {
           "t": "21-Jun-2025",
-          "c": "07-Jul-2025",
+          "c": "12-Jul-2025",
           "a": "",
           "rm": "Brass ring at neck of the table;\nPlease match finish with image given in folder"
         },
@@ -10035,7 +10035,7 @@
           "t": "12-Jul-2025",
           "c": "12-Jul-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Top fitting with plate, rod, marble with stud, bottom foam pad "
         },
         "vendorDisplayName": "Kamlesh Jangid"
       },
@@ -12667,7 +12667,7 @@
         "cr": "",
         "v": {
           "t": "02-Jul-2025",
-          "c": "07-Jul-2025",
+          "c": "12-Jul-2025",
           "a": "",
           "rm": "Baroda green marble as per farma"
         },
@@ -12689,7 +12689,7 @@
         "cr": "",
         "v": {
           "t": "02-Jul-2025",
-          "c": "08-Jul-2025",
+          "c": "12-Jul-2025",
           "a": "",
           "rm": "baswada white 2 pc, 9 inch dia, 45mm height"
         },
@@ -14512,6 +14512,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-11T09:37:23.958Z"
+    "timestamp": "2025-07-11T09:52:23.158Z"
   }
 }
