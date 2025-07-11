@@ -419,7 +419,7 @@
         "cr": "Master Bedroom Chest",
         "v": {
           "t": "26-Jun-2025",
-          "c": "09-Jul-2025",
+          "c": "13-Jul-2025",
           "a": "",
           "rm": "Send 4 fascia for CNC cutting."
         },
@@ -7296,316 +7296,6 @@
         "vendorDisplayName": "Vipra"
       }
     ],
-    "vittal_wood_tech": [
-      {
-        "op": "032502",
-        "prod": "Quinor",
-        "var": "Flaed",
-        "url": "https://i.ibb.co/xtFS5Qft/Screenshot-2025-04-30-150745.jpg",
-        "cat": "Staircase Railings",
-        "mat": "Natural Burma Border Teak Handrail; Black Powder Coat Mild Steel Spindle",
-        "sz": "Outer: 900\" x 4\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1UeLBpsDkx9VIlBQeQwyxk_DlsbXlfep-",
-        "des": "Parth Gada",
-        "dl": "",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "t": "29-Jun-2025",
-          "c": "07-Jul-2025",
-          "a": "",
-          "rm": "रेलिंग का मेटल कार्य हमारी ओर से 30 जून तक पूर्ण कर दिया जाएगा। आपको जो वुडन वर्क रेलिंग के लिए करना है, उसकी आवश्यकता 1 जुलाई से होगी। अतः कृपया अपनी तैयारी उसी अनुसार सुनिश्चित करें"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "032523",
-        "prod": "Clover",
-        "var": "Graysen",
-        "url": "https://i.ibb.co/WNLWvtVy/Screenshot-2025-06-14-154503.png",
-        "cat": "Lamps",
-        "mat": "Natural White Oak Structure; Natural Walnut Veneer Carcass; Finish TBC 16mm Plywood Support; Warm White LED Light Light; Warm White LED Light Bulb; Finish TBC Mild Steel Lamp Fitting",
-        "sz": "Outer: 84\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1mAh8icuC0dJGxD_0k3Mm-WShpOGphSrw",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1wQ07DEPkhGVkwfVpzJ_hv4cpG2GEinLq",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052510",
-        "prod": "Evarin",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/jPbjcrSy/image.png",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Banswada White Top; Black Matt Duco 16mm MDF Support; Black Matt Sheesham Legs; Gold PVD Stainless Steel 304 Matt Fixture",
-        "sz": "Outer: 96\" x 42\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1Pz9swNMaEihRNe4z0f3lndQydUV6dGxu",
-        "des": "Hetvi Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052510",
-        "prod": "Kwacha",
-        "var": "Myntra",
-        "url": "https://i.ibb.co/Zz6FkV1v/Whats-App-Image-2025-07-08-at-11-49-37-AM.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Ash Base; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 23\" x 26.5\" x 35\", Seat Height: 18.75\"",
-        "fld": "https://drive.google.com/drive/folders/175ljwmom7Ryh2gVMn2MqiwAgeOVc-LRm",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052510",
-        "prod": "Myqora",
-        "var": "Eulogy",
-        "url": "https://i.ibb.co/TxWBxhjP/image.png",
-        "cat": "Console Tables",
-        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
-        "sz": "Outer: 72.13\" x 22.44\" x 33.07\"",
-        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area;\n6 Drawers",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Recrangle Wooden Pcs (Count will be given by Vipra)\nand Legs 4 PC"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052513",
-        "prod": "Aviora",
-        "var": "Justo",
-        "url": "https://i.ibb.co/tT0dCVkZ/Whats-App-Image-2025-05-21-at-18-40-35-d1c30e9b.jpg",
-        "cat": "Chandeliers",
-        "mat": "Finish TBC Indian Teak Structure; Finish TBC Teak Veneer Panel; Clear SS Wire Rope Hardware; Fabric TBC Canvas Upholstery Curtain/Sheers; Natural Day Light (NDL) Flexible LED Light",
-        "sz": "Outer: 90\" x 14\" x 33\"",
-        "fld": "https://drive.google.com/drive/folders/1t80fTcTbpcjX72JN4gWKjJ2fmPFWavF3",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/10wOuLmzQYvlZ6nhwZSiMKA-NobW-Wac_",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "send to jodhpur for polish"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052513",
-        "prod": "Celviano",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/CK5BHvx3/image.png",
-        "cat": "Benches",
-        "mat": "Antique Grey White Oak Structure; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 48\" x 19\" x 24\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/13QoBlseHj_BlGis8KoA8Rtzf8n20tT52",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1icFcZXS1mQwZA-yC-vOL3r0GG2lst2qq",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "07-Jul-2025",
-          "a": "",
-          "rm": "send   to jodhpur at maan singh ji factory for polish"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052519",
-        "prod": "Velexia",
-        "var": "Gemini",
-        "url": "https://i.ibb.co/0pbk6Tqf/0002.jpg",
-        "cat": "Display Cabinet",
-        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
-        "sz": "Outer: 48\" x 24.8\" x 81.5\"",
-        "fld": "https://drive.google.com/drive/folders/1tiXXuGyKkvi-0KQkVMhlK1ErxH0hvnaH",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1KUoZpmPTwziNADJtDoW4BThgT1h7Vqrb",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Sample Lead Time: 17 Days for RAW Carcass",
-        "v": {
-          "t": "01-Jul-2025",
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "Raw Carcass"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052519",
-        "prod": "Velexia",
-        "var": "Strata",
-        "url": "https://i.ibb.co/cS08v6X6/Whats-App-Image-2025-07-03-at-13-32-32-ad1a4899.jpg",
-        "cat": "Display Cabinet",
-        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
-        "sz": "Outer: 36\" x 24.8\" x 81.5\"",
-        "fld": "https://drive.google.com/drive/folders/1dN-ulelj1UMjnjtZCmCKvvbBYt7jYQQy",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/16n5VRx-7p6B9UxahGsWfhVUBdDqxDhVJ",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "01-Jul-2025",
-          "c": "09-Jul-2025",
-          "a": "",
-          "rm": "Raw Carcass"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Halo",
-        "var": "Serene",
-        "url": "https://i.ibb.co/wh6j86tb/candle.jpg",
-        "cat": "",
-        "mat": "Suncity Indian Teak Structure",
-        "sz": "Outer: 4.5\" x 2\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1i-73-w7pO_FA3SXwTzuJeEW2vS4MiGum",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Hush",
-        "var": "Raver",
-        "url": "https://i.ibb.co/sXd9tZV/Whats-App-Image-2025-06-09-at-2-35-48-PM.jpg",
-        "cat": "",
-        "mat": "Suncity Sheesham Top",
-        "sz": "Outer: 6.3\" x 4.9\" x 0.8\"",
-        "fld": "https://drive.google.com/drive/folders/1W-nkaYanLOqzeOoHKFmsWVh0ckg4qkXd",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Muse",
-        "var": "Tuscany",
-        "url": "https://i.ibb.co/99SyG74S/Whats-App-Image-2025-06-09-at-2-16-21-PM.jpg",
-        "cat": "",
-        "mat": "Natural Burma Border Teak Structure; Natural Day Light (NDL) Flexible LED Light",
-        "sz": "Outer: 10\" x 6.5\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1IdFdaThEjRBUndHUicnpkW-QQJJWzyYo",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062528",
-        "prod": "Inyara",
-        "var": "Horizon",
-        "url": "https://i.ibb.co/7xxh8k5n/Whats-App-Image-2025-06-27-at-6-08-09-PM.jpg",
-        "cat": "Handles",
-        "mat": "Natural White Oak Handle",
-        "sz": "Outer: 6.5\" x 5.5\" x 54\"",
-        "fld": "https://drive.google.com/drive/folders/1grvJfAOEC6KllkAHSmgJUhfEOBnmYDNj",
-        "des": "Dilip Jangir",
-        "dl": "",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Delivery anywhere in Mumbai at ground floor level. Price includes fitting hardware, without polish.",
-        "v": {
-          "t": "02-Jul-2025",
-          "c": "07-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "112411",
-        "prod": "Shadowcrest",
-        "var": "Montana",
-        "url": "https://i.ibb.co/mVN3Thss/Whats-App-Image-2025-04-01-at-12-48-50-PM.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Suncity Recycled Teak Frame; Canvas Rust 115818 Ply & Foam Upholstery Inside Back; Artisan Sr No GL 332 Ply & Foam Upholstery Outside Back; Canvas Rust 115818 Foam Upholstery Seat; Artisan Sr No GL 332 Foam Upholstery Handle",
-        "sz": "Outer: 29\" x 32\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1xY6VlkICy5z0ek3MvGW6oWWyQC6h5KfB",
-        "des": "Maan Singh Rathore",
-        "dl": "https://drive.google.com/drive/folders/1Tuf0UakFMh7rct9sDUFhtpq8e6ixCuT-",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Formal Seating Accent Chair",
-        "v": {
-          "t": "",
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": "teak wood frame send to jodhpur without polish"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      }
-    ],
     "jain_marble": [
       {
         "op": "032507",
@@ -8226,28 +7916,6 @@
           "c": "10-Jul-2025",
           "a": "",
           "rm": "ss leg support"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052504",
-        "prod": "Crucis",
-        "var": "Theta",
-        "url": "https://i.ibb.co/YT7W4fvT/Whats-App-Image-2025-05-09-at-5-34-09-PM.jpg",
-        "cat": "Dressers",
-        "mat": "Olive White Oak Carcass; Olive White Oak Drawer; Olive White Oak Base; Gold PVD Stainless Steel 304 Matt Handle",
-        "sz": "Outer: 48\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/17PySo8IjVjd-qXaFAGjqzLhN-GJaTGHq",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1Hg6NPp7DPQRZgCPbRpIxdYffheypmO2M",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Master Bedroom Chest",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -10372,28 +10040,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "052504",
-        "prod": "Crucis",
-        "var": "Theta",
-        "url": "https://i.ibb.co/YT7W4fvT/Whats-App-Image-2025-05-09-at-5-34-09-PM.jpg",
-        "cat": "Dressers",
-        "mat": "Olive White Oak Carcass; Olive White Oak Drawer; Olive White Oak Base; Gold PVD Stainless Steel 304 Matt Handle",
-        "sz": "Outer: 48\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/17PySo8IjVjd-qXaFAGjqzLhN-GJaTGHq",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1Hg6NPp7DPQRZgCPbRpIxdYffheypmO2M",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Master Bedroom Chest",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "052510",
         "prod": "Avarion",
         "var": "Avore",
@@ -10942,6 +10588,294 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Surat PVD"
+      }
+    ],
+    "vittal_wood_tech": [
+      {
+        "op": "032523",
+        "prod": "Clover",
+        "var": "Graysen",
+        "url": "https://i.ibb.co/WNLWvtVy/Screenshot-2025-06-14-154503.png",
+        "cat": "Lamps",
+        "mat": "Natural White Oak Structure; Natural Walnut Veneer Carcass; Finish TBC 16mm Plywood Support; Warm White LED Light Light; Warm White LED Light Bulb; Finish TBC Mild Steel Lamp Fitting",
+        "sz": "Outer: 84\" x 18\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1mAh8icuC0dJGxD_0k3Mm-WShpOGphSrw",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1wQ07DEPkhGVkwfVpzJ_hv4cpG2GEinLq",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052510",
+        "prod": "Evarin",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/jPbjcrSy/image.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Matt Duco 16mm MDF Support; Black Matt Sheesham Legs; Gold PVD Stainless Steel 304 Matt Fixture",
+        "sz": "Outer: 96\" x 42\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1Pz9swNMaEihRNe4z0f3lndQydUV6dGxu",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052510",
+        "prod": "Kwacha",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/Zz6FkV1v/Whats-App-Image-2025-07-08-at-11-49-37-AM.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Ash Base; Black Powder Coat Mild Steel Mounting",
+        "sz": "Outer: 23\" x 26.5\" x 35\", Seat Height: 18.75\"",
+        "fld": "https://drive.google.com/drive/folders/175ljwmom7Ryh2gVMn2MqiwAgeOVc-LRm",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 8,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052510",
+        "prod": "Myqora",
+        "var": "Eulogy",
+        "url": "https://i.ibb.co/TxWBxhjP/image.png",
+        "cat": "Console Tables",
+        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
+        "sz": "Outer: 72.13\" x 22.44\" x 33.07\"",
+        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Recrangle Wooden Pcs (Count will be given by Vipra)\nand Legs 4 PC"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052513",
+        "prod": "Aviora",
+        "var": "Justo",
+        "url": "https://i.ibb.co/tT0dCVkZ/Whats-App-Image-2025-05-21-at-18-40-35-d1c30e9b.jpg",
+        "cat": "Chandeliers",
+        "mat": "Finish TBC Indian Teak Structure; Finish TBC Teak Veneer Panel; Clear SS Wire Rope Hardware; Fabric TBC Canvas Upholstery Curtain/Sheers; Natural Day Light (NDL) Flexible LED Light",
+        "sz": "Outer: 90\" x 14\" x 33\"",
+        "fld": "https://drive.google.com/drive/folders/1t80fTcTbpcjX72JN4gWKjJ2fmPFWavF3",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/10wOuLmzQYvlZ6nhwZSiMKA-NobW-Wac_",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "send to jodhpur for polish"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052513",
+        "prod": "Celviano",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/CK5BHvx3/image.png",
+        "cat": "Benches",
+        "mat": "Antique Grey White Oak Structure; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 48\" x 19\" x 24\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/13QoBlseHj_BlGis8KoA8Rtzf8n20tT52",
+        "des": "Dilip Jangir",
+        "dl": "https://drive.google.com/drive/folders/1icFcZXS1mQwZA-yC-vOL3r0GG2lst2qq",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "07-Jul-2025",
+          "a": "",
+          "rm": "send   to jodhpur at maan singh ji factory for polish"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052519",
+        "prod": "Velexia",
+        "var": "Gemini",
+        "url": "https://i.ibb.co/0pbk6Tqf/0002.jpg",
+        "cat": "Display Cabinet",
+        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
+        "sz": "Outer: 48\" x 24.8\" x 81.5\"",
+        "fld": "https://drive.google.com/drive/folders/1tiXXuGyKkvi-0KQkVMhlK1ErxH0hvnaH",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1KUoZpmPTwziNADJtDoW4BThgT1h7Vqrb",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Sample Lead Time: 17 Days for RAW Carcass",
+        "v": {
+          "t": "01-Jul-2025",
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "Raw Carcass"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052519",
+        "prod": "Velexia",
+        "var": "Strata",
+        "url": "https://i.ibb.co/cS08v6X6/Whats-App-Image-2025-07-03-at-13-32-32-ad1a4899.jpg",
+        "cat": "Display Cabinet",
+        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
+        "sz": "Outer: 36\" x 24.8\" x 81.5\"",
+        "fld": "https://drive.google.com/drive/folders/1dN-ulelj1UMjnjtZCmCKvvbBYt7jYQQy",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/16n5VRx-7p6B9UxahGsWfhVUBdDqxDhVJ",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "01-Jul-2025",
+          "c": "09-Jul-2025",
+          "a": "",
+          "rm": "Raw Carcass"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062527",
+        "prod": "Halo",
+        "var": "Serene",
+        "url": "https://i.ibb.co/wh6j86tb/candle.jpg",
+        "cat": "",
+        "mat": "Suncity Indian Teak Structure",
+        "sz": "Outer: 4.5\" x 2\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1i-73-w7pO_FA3SXwTzuJeEW2vS4MiGum",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "27-Jun-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062527",
+        "prod": "Hush",
+        "var": "Raver",
+        "url": "https://i.ibb.co/sXd9tZV/Whats-App-Image-2025-06-09-at-2-35-48-PM.jpg",
+        "cat": "",
+        "mat": "Suncity Sheesham Top",
+        "sz": "Outer: 6.3\" x 4.9\" x 0.8\"",
+        "fld": "https://drive.google.com/drive/folders/1W-nkaYanLOqzeOoHKFmsWVh0ckg4qkXd",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "27-Jun-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062527",
+        "prod": "Muse",
+        "var": "Tuscany",
+        "url": "https://i.ibb.co/99SyG74S/Whats-App-Image-2025-06-09-at-2-16-21-PM.jpg",
+        "cat": "",
+        "mat": "Natural Burma Border Teak Structure; Natural Day Light (NDL) Flexible LED Light",
+        "sz": "Outer: 10\" x 6.5\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1IdFdaThEjRBUndHUicnpkW-QQJJWzyYo",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "27-Jun-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062528",
+        "prod": "Inyara",
+        "var": "Horizon",
+        "url": "https://i.ibb.co/7xxh8k5n/Whats-App-Image-2025-06-27-at-6-08-09-PM.jpg",
+        "cat": "Handles",
+        "mat": "Natural White Oak Handle",
+        "sz": "Outer: 6.5\" x 5.5\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1grvJfAOEC6KllkAHSmgJUhfEOBnmYDNj",
+        "des": "Dilip Jangir",
+        "dl": "",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Delivery anywhere in Mumbai at ground floor level. Price includes fitting hardware, without polish.",
+        "v": {
+          "t": "02-Jul-2025",
+          "c": "07-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112411",
+        "prod": "Shadowcrest",
+        "var": "Montana",
+        "url": "https://i.ibb.co/mVN3Thss/Whats-App-Image-2025-04-01-at-12-48-50-PM.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Suncity Recycled Teak Frame; Canvas Rust 115818 Ply & Foam Upholstery Inside Back; Artisan Sr No GL 332 Ply & Foam Upholstery Outside Back; Canvas Rust 115818 Foam Upholstery Seat; Artisan Sr No GL 332 Foam Upholstery Handle",
+        "sz": "Outer: 29\" x 32\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1xY6VlkICy5z0ek3MvGW6oWWyQC6h5KfB",
+        "des": "Maan Singh Rathore",
+        "dl": "https://drive.google.com/drive/folders/1Tuf0UakFMh7rct9sDUFhtpq8e6ixCuT-",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Formal Seating Accent Chair",
+        "v": {
+          "t": "",
+          "c": "02-Jul-2025",
+          "a": "",
+          "rm": "teak wood frame send to jodhpur without polish"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "vishwakarma_glass": [
@@ -14512,6 +14446,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-11T10:52:49.287Z"
+    "timestamp": "2025-07-11T11:07:24.403Z"
   }
 }
