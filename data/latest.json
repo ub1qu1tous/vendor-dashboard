@@ -10062,50 +10062,6 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
-        "op": "072503",
-        "prod": "Gonul",
-        "var": "Semaria",
-        "url": "https://i.ibb.co/pwJhmJQ/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Powder Coat Mild Steel Top; Matt Buffing Bidasar Green Base; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 15.7\" x 15.7\" x 17.7\"",
-        "fld": "https://drive.google.com/drive/folders/1u24FsiDFNUC84Px_ji2nRfl4pkggFK6H?usp=sharing",
-        "des": "Tarishi Rathore",
-        "dl": "https://drive.google.com/drive/folders/1qlY5sDUc_g6-PtAXvNVXoRfQy2IVQrT9",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "09-Jul-2025",
-          "c": "",
-          "a": "",
-          "rm": "Top Fitting"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "072503",
-        "prod": "Osaka",
-        "var": "Nicole",
-        "url": "https://i.ibb.co/yFhXg2gQ/Whats-App-Image-2025-06-17-at-7-33-42-PM.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 32\" x 36\" x 30\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1HfWWF692kA9KENgd6HCz0NkzCTqzbEA6",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1_TQzc8onejQ3HNGXBlvjRBtFFdlJ9Vow",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "09-Jul-2025",
-          "c": "",
-          "a": "",
-          "rm": "Seat and Back Fitting"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
         "op": "082301",
         "prod": "Noriko",
         "var": "Ardor",
@@ -14578,6 +14534,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-11T06:08:17.916Z"
+    "timestamp": "2025-07-11T06:22:26.177Z"
   }
 }
