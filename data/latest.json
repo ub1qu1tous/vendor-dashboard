@@ -9554,6 +9554,28 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "062525",
+        "prod": "Seoul",
+        "var": "Malana",
+        "url": "https://i.ibb.co/hRzXBD94/sq-2.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Peca Sheesham Top; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 30\" x 30\" x 14\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1_VzMKuHCHlEpIyTn0-LA59VRKz0IPYU8",
+        "des": "Akarsha Jha",
+        "dl": "https://drive.google.com/drive/u/0/folders/1SZAo670w10PnuhQO-dz_h9tamLSz6GWj",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "12-Jul-2025",
+          "c": "12-Jul-2025",
+          "a": "",
+          "rm": "top fixing, buffer fixing"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "072409",
         "prod": "Chako",
         "var": "Typex",
@@ -14446,6 +14468,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-12T08:53:42.015Z"
+    "timestamp": "2025-07-12T09:07:25.486Z"
   }
 }
