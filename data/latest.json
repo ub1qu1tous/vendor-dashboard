@@ -6711,7 +6711,7 @@
         "sz": "Outer: 27.34\" x 20.25\" x 7\"",
         "fld": "https://drive.google.com/drive/folders/1T-ScXvnMYZ4tqox_plt7uXw1YdfPgYW_",
         "des": "Amish Parmar",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/16wFbm8VU_mDYy6ROg859W7XQYbyY-CT4",
         "q": 1,
         "pm": "Amish Parmar",
         "cr": "Grandparent's Bedroom Vanity Counter ; Vanity counter in the bathroom",
@@ -9990,50 +9990,6 @@
           "c": "10-Jul-2025",
           "a": "",
           "rm": "दराज बॉक्स को मेटल बेस के साथ फिक्स करें और बफर लगाएं, और हैंडल अभी खरीदें नहीं है 1,2 दिन में ख़रीदने के बाद वो भी लगने हे"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "122415",
-        "prod": "Kimiko",
-        "var": "Alta",
-        "url": "https://i.ibb.co/BHGrZ7G5/0001.jpg",
-        "cat": "Coffee Tables",
-        "mat": "  Structure",
-        "sz": "Outer: 30\" x 30\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1VCvTr1DVX4dudL9ZJxbuJUyu89XBzRFe",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1BfKBwdbF0gYgyXv_WDi936QYzByDQN8-",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Centre Table",
-        "v": {
-          "t": "08-Jul-2025",
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "buffer fixing"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "122415",
-        "prod": "Kimiko",
-        "var": "Beyaz",
-        "url": "https://i.ibb.co/cK9mgS5q/0001.jpg",
-        "cat": "Coffee Tables",
-        "mat": "  Structure",
-        "sz": "Outer: 20\" x 20\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1_TPixE3vh_TAf20vLJp3ZkO0UKmiLPua",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1JJJDtlCfzQMX3k_gHEOkF2syhe2n--Wh",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Side Table",
-        "v": {
-          "t": "08-Jul-2025",
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "buffer fixing"
         },
         "vendorDisplayName": "Kamlesh Jangid"
       },
@@ -14490,6 +14446,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-12T10:22:21.472Z"
+    "timestamp": "2025-07-12T10:37:23.726Z"
   }
 }
