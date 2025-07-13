@@ -1021,28 +1021,6 @@
       },
       {
         "op": "072409",
-        "prod": "Klingon",
-        "var": "Evan",
-        "url": "https://i.ibb.co/gMm4SCDb/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Bharat Furnishings CJ0167 SRN 556 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Black Matt Sheesham Legs",
-        "sz": "Outer: 30\" x 31\" x 28\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1Kv48Ff_C7jHp4nR-JuFn-ubDEXoZdQDl",
-        "des": "Tarishi Rathore",
-        "dl": "https://drive.google.com/drive/folders/1j1i2aMwOICy24q85w8VSW6hZKeE1ckg-",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom 03",
-        "v": {
-          "t": "",
-          "c": "25-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072409",
         "prod": "Tempestia",
         "var": "Finch",
         "url": "https://i.ibb.co/1L44vcs/0001.jpg",
@@ -9642,28 +9620,6 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
-        "op": "072409",
-        "prod": "Kangaroo",
-        "var": "Elyss",
-        "url": "https://i.ibb.co/1v2SXzd/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Natural Recycled Teak Top; Black Powder Coat Mild Steel Legs; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 22\" x 22\" x 21\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1-sPXCtfEQrJkL6UKLrQUPGJ4KLvzoogQ",
-        "des": "Akarsha Jha",
-        "dl": "https://drive.google.com/drive/folders/1plBZtmnPUMU-UQuFXZXmqIsq7jrcqXYg?usp=drive_link",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Entrance Lobby, Living Room",
-        "v": {
-          "t": "28-Jun-2025",
-          "c": "09-Jul-2025",
-          "a": "",
-          "rm": "legs fititng"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
         "op": "082301",
         "prod": "Noriko",
         "var": "Ardor",
@@ -14446,6 +14402,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-13T10:52:24.349Z"
+    "timestamp": "2025-07-13T11:07:22.882Z"
   }
 }
