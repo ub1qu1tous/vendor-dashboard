@@ -9532,6 +9532,28 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "062513",
+        "prod": "Novia",
+        "var": "Ivan",
+        "url": "https://i.ibb.co/YGYBKs1/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Rich Tobacco Sheesham Structure; Gold PVD Stainless Steel 304 Matt Fixture",
+        "sz": "Outer: 16\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1UEgK6V7VqbgCxgwW3mZi1syJ4Ck0SbF7",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1Vmt1ytD7mwKNvcnpMJN9o4kabZ4rkXex",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Brass ring at neck of the table",
+        "v": {
+          "t": "15-Jul-2025",
+          "c": "",
+          "a": "",
+          "rm": "BUFFER FIXING "
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "062516",
         "prod": "Luxora",
         "var": "Elide",
@@ -14424,6 +14446,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-14T11:22:27.573Z"
+    "timestamp": "2025-07-14T11:41:03.187Z"
   }
 }
