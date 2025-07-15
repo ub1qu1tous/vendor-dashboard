@@ -3730,6 +3730,28 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "062521",
+        "prod": "Maylene",
+        "var": "Ebony",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 22\" x 24\" x 35\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1OQUHT_gymSIgEqnsNUjWwcFAGOd9cTjv",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/folders/1xK6kAHNwCCIXwlVtkQ4x7P_H7J_rYlYi",
+        "q": 8,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "11-Jul-2025",
+          "c": "17-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "062529",
         "prod": "Zyverra",
         "var": "Terrano",
@@ -4919,28 +4941,6 @@
       },
       {
         "op": "102411",
-        "prod": "Bough",
-        "var": "Giles",
-        "url": "https://i.ibb.co/p4WPjcd/Screenshot-2024-11-14-181455.png",
-        "cat": "Sofas",
-        "mat": "Natural Recycled Teak Frame; Natural Recycled Teak Legs; Natural Recycled Teak Spindle; Natural Teak Veneer Platform; Fabric TBC Foam Upholstery 2 Cushions; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Foam Upholstery 2 Small Rectangular Kidney Pillows",
-        "sz": "Outer: 104\" x 36\" x 34\"",
-        "fld": "https://drive.google.com/drive/folders/1iKY6Qrw5uXxUq6DrDsq_yZWztUvZ3Qs3",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1MKUoePyMLqI3GvGcNBm3F113pmB9CtFx",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Sofa",
-        "v": {
-          "t": "28-Jun-2025",
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
         "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
@@ -4956,28 +4956,6 @@
         "v": {
           "t": "19-Mar-2025",
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "102411",
-        "prod": "Ironclad",
-        "var": "Aera",
-        "url": "https://i.ibb.co/stf1S9X/Screenshot-2024-11-14-170114.png",
-        "cat": "Sofas",
-        "mat": "Natural Recycled Teak Frame; Natural Recycled Teak Legs; Natural Recycled Teak Spindle; Natural Teak Veneer Platform; Fabric TBC Foam Upholstery 2 Cushions; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 96\" x 27\" x 34\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1dC-eFuQ_Ymx0evSkZyUHIPF8SbZhByss",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1PmHIqWZBIHwvZtQVV4Y32h7lTDx_yK99",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Darshan Patelʼs Bedroom Sofa",
-        "v": {
-          "t": "28-Jun-2025",
-          "c": "02-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -12141,28 +12119,6 @@
       },
       {
         "op": "102411",
-        "prod": "Ironclad",
-        "var": "Aera",
-        "url": "https://i.ibb.co/stf1S9X/Screenshot-2024-11-14-170114.png",
-        "cat": "Sofas",
-        "mat": "Natural Recycled Teak Frame; Natural Recycled Teak Legs; Natural Recycled Teak Spindle; Natural Teak Veneer Platform; Fabric TBC Foam Upholstery 2 Cushions; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 96\" x 27\" x 34\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1dC-eFuQ_Ymx0evSkZyUHIPF8SbZhByss",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1PmHIqWZBIHwvZtQVV4Y32h7lTDx_yK99",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Darshan Patelʼs Bedroom Sofa",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "28-May-2025",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "102411",
         "prod": "Mythara",
         "var": "Thunder",
         "url": "https://i.ibb.co/HXp38Zr/Screenshot-2024-11-14-173251.png",
@@ -14446,6 +14402,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-15T05:37:22.994Z"
+    "timestamp": "2025-07-15T05:52:20.521Z"
   }
 }
