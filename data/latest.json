@@ -8507,7 +8507,7 @@
         "cr": "",
         "v": {
           "t": "05-Jul-2025",
-          "c": "13-Jul-2025",
+          "c": "17-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9616,28 +9616,6 @@
           "c": "",
           "a": "",
           "rm": "Installation as per details given by DV"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "062513",
-        "prod": "Lantern",
-        "var": "Raver",
-        "url": "https://i.ibb.co/TBs2djCh/0002.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Powder Coat Mild Steel Frame; Black Sheesham Top; Mirror Buffing Baroda Green Marble Base",
-        "sz": "Outer: 16\" x 14\" x 26\"",
-        "fld": "https://drive.google.com/drive/folders/1qtP4LG5ER2j8i9Y7Q2IDusjG24haCAjz",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1IiXhysvJAr8DgrvsY7ckNfYNxJ_xYn2a",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "12-Jul-2025",
-          "c": "12-Jul-2025",
-          "a": "",
-          "rm": "Top fitting use black button head screw , marble stick with silicon, and foam pad -3mm of plate shape "
         },
         "vendorDisplayName": "Kamlesh Jangid"
       },
@@ -12830,50 +12808,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "062513",
-        "prod": "Lantern",
-        "var": "Raver",
-        "url": "https://i.ibb.co/TBs2djCh/0002.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Powder Coat Mild Steel Frame; Black Sheesham Top; Mirror Buffing Baroda Green Marble Base",
-        "sz": "Outer: 16\" x 14\" x 26\"",
-        "fld": "https://drive.google.com/drive/folders/1qtP4LG5ER2j8i9Y7Q2IDusjG24haCAjz",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1IiXhysvJAr8DgrvsY7ckNfYNxJ_xYn2a",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "02-Jul-2025",
-          "c": "12-Jul-2025",
-          "a": "",
-          "rm": "Baroda green marble as per farma"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "062513",
-        "prod": "Maple",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/BzVfXTY/ferah-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Distressed/Charcoal Sheesham Top; Gold PVD Stainless Steel 304 Matt Mounting; Mirror Buffing Andhi White Base; Black Powder Coat Mild Steel Fixture",
-        "sz": "Outer: 13\" x 13\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/1mInhdCCcK7DZRcTB0fi94FMo8oy4ZlD1",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1GFn1mwRBSL11OUbngFDfnUUn0W394ovv",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "02-Jul-2025",
-          "c": "12-Jul-2025",
-          "a": "",
-          "rm": "baswada white 2 pc, 9 inch dia, 45mm height"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
         "op": "072313",
         "prod": "Endsville",
         "var": "Sigma",
@@ -14666,6 +14600,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-16T05:07:33.211Z"
+    "timestamp": "2025-07-16T05:27:14.077Z"
   }
 }
