@@ -3648,7 +3648,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
         "cat": "Accent Chairs",
         "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 31.9\" x 36.6\" x 30.7\"",
+        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
         "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
         "des": "",
         "dl": "",
@@ -9753,28 +9753,6 @@
       },
       {
         "op": "082413",
-        "prod": "Affluence",
-        "var": "Lacie",
-        "url": "https://i.ibb.co/Dg8yPf5M/ibb.jpg",
-        "cat": "Sofas",
-        "mat": "Coll Delilah Shade no. 101 Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Backrest; Black PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 96\" x 33.5\" x 31\"",
-        "fld": "https://drive.google.com/drive/folders/1Fofg7jL8D5IRjH9Y9DS61m6I9OI98Fy_",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1XByicTG46EYO8VNd6m19O1JuCkv1i39n",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "09-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "082413",
         "prod": "Verge",
         "var": "Xany",
         "url": "https://i.ibb.co/MNFMw0W/Screenshot-2024-10-14-182447.png",
@@ -10415,28 +10393,6 @@
       },
       {
         "op": "082413",
-        "prod": "Affluence",
-        "var": "Lacie",
-        "url": "https://i.ibb.co/Dg8yPf5M/ibb.jpg",
-        "cat": "Sofas",
-        "mat": "Coll Delilah Shade no. 101 Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Backrest; Black PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 96\" x 33.5\" x 31\"",
-        "fld": "https://drive.google.com/drive/folders/1Fofg7jL8D5IRjH9Y9DS61m6I9OI98Fy_",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1XByicTG46EYO8VNd6m19O1JuCkv1i39n",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "25-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082413",
         "prod": "Summit",
         "var": "Elide",
         "url": "https://i.ibb.co/Cp87VFh4/0001.jpg",
@@ -10862,7 +10818,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
         "cat": "Accent Chairs",
         "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 31.9\" x 36.6\" x 30.7\"",
+        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
         "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
         "des": "",
         "dl": "",
@@ -11796,7 +11752,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
         "cat": "Accent Chairs",
         "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 31.9\" x 36.6\" x 30.7\"",
+        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
         "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
         "des": "",
         "dl": "",
@@ -14600,6 +14556,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-16T05:52:30.704Z"
+    "timestamp": "2025-07-16T06:07:26.096Z"
   }
 }
