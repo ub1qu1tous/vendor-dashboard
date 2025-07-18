@@ -3811,7 +3811,7 @@
         "cr": "",
         "v": {
           "t": "11-Jul-2025",
-          "c": "17-Jul-2025",
+          "c": "21-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6057,7 +6057,7 @@
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
           "t": "10-Jul-2025",
-          "c": "14-Jul-2025",
+          "c": "18-Jul-2025",
           "a": "",
           "rm": "base satin metalic PU VMA 3020 colour"
         },
@@ -6079,7 +6079,7 @@
         "cr": "",
         "v": {
           "t": "10-Jul-2025",
-          "c": "14-Jul-2025",
+          "c": "18-Jul-2025",
           "a": "",
           "rm": "base satin metalic PU VMA 3020 colour"
         },
@@ -8507,7 +8507,7 @@
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
           "t": "",
-          "c": "",
+          "c": "18-Jul-2025",
           "a": "",
           "rm": "lock key make long and lock late work"
         },
@@ -8529,7 +8529,7 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "",
+          "c": "18-Jul-2025",
           "a": "",
           "rm": "lock key make long and lock late work"
         },
@@ -8618,28 +8618,6 @@
         "v": {
           "t": "",
           "c": "12-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062521",
-        "prod": "Maylene",
-        "var": "Elegance",
-        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; D'Decor FabriCare Comfort IV Sr No 406 Ply & Foam Upholstery Seat; D'Decor FabriCare Comfort IV Sr No 406 Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 22\" x 24\" x 35\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1SZNM_bFOGPjy88Jyzmnj8XwVtJzley5j",
-        "des": "Parth Gada",
-        "dl": "https://drive.google.com/drive/folders/1G_tQXB-rowj8xEXRszbipy-Dg4EnGDeA",
-        "q": 8,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "05-Jul-2025",
-          "c": "17-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9569,7 +9547,7 @@
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
           "t": "30-Jun-2025",
-          "c": "12-Jul-2025",
+          "c": "19-Jul-2025",
           "a": "",
           "rm": "Fitting of shutter and 2 lock , need to kept this presentable at office  "
         },
@@ -9591,7 +9569,7 @@
         "cr": "",
         "v": {
           "t": "30-Jun-2025",
-          "c": "12-Jul-2025",
+          "c": "19-Jul-2025",
           "a": "",
           "rm": "Fitting of shutter and 2 lock , need to kept this presentable at office  "
         },
@@ -11316,8 +11294,8 @@
         "pm": "Dilip Jangir",
         "cr": "Sample Lead Time: 17 Days for RAW Carcass",
         "v": {
-          "t": "",
-          "c": "",
+          "t": "12-Jul-2025",
+          "c": "18-Jul-2025",
           "a": "",
           "rm": "Rich tobacco finish on carcass and shutter frame, and glass bidding ptti"
         },
@@ -11339,7 +11317,7 @@
         "cr": "",
         "v": {
           "t": "12-Jul-2025",
-          "c": "15-Jul-2025",
+          "c": "18-Jul-2025",
           "a": "",
           "rm": "Rich tobacco finish on carcass and shutter frame, and glass bidding ptti"
         },
@@ -11588,28 +11566,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "052513",
-        "prod": "Manta",
-        "var": "Stella",
-        "url": "https://i.ibb.co/YTysgs0Q/image.png",
-        "cat": "Sculptures",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Hand-Tufted New Zealand Wool Carpet",
-        "sz": "Outer: 102\" x 48\" x \";\nFabric Size: 72\" x 48\"",
-        "fld": "https://drive.google.com/drive/folders/1VVROHHypUl2g4T76kSlDrAALykhZziQx",
-        "des": "Dilip Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Carpet from galicha bdhaoi aakib bhai"
         },
         "vendorDisplayName": "AWS"
       },
@@ -12052,6 +12008,28 @@
           "c": "16-Jul-2025",
           "a": "",
           "rm": "Lamp fabric"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "052513",
+        "prod": "Manta",
+        "var": "Stella",
+        "url": "https://i.ibb.co/YTysgs0Q/image.png",
+        "cat": "Sculptures",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Hand-Tufted New Zealand Wool Carpet",
+        "sz": "Outer: 102\" x 48\" x \";\nFabric Size: 72\" x 48\"",
+        "fld": "https://drive.google.com/drive/folders/1VVROHHypUl2g4T76kSlDrAALykhZziQx",
+        "des": "Dilip Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "vipul bhai digital print"
         },
         "vendorDisplayName": "Aavaran"
       },
@@ -14666,6 +14644,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-18T07:37:29.165Z"
+    "timestamp": "2025-07-18T07:52:22.327Z"
   }
 }
