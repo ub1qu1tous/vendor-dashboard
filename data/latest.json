@@ -8817,7 +8817,7 @@
           "t": "02-Jul-2025",
           "c": "03-Jul-2025",
           "a": "",
-          "rm": "MS frame in 20x40 pipe "
+          "rm": "MS frame in 20x40 pipe \n3050mm x 508mm x 150mm"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -14688,6 +14688,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-19T13:22:24.351Z"
+    "timestamp": "2025-07-19T13:37:26.608Z"
   }
 }
