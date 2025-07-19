@@ -3423,28 +3423,6 @@
       },
       {
         "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "10 Mtr\n5 Mtr"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "052510",
         "prod": "Eleska",
         "var": "Philia",
         "url": "https://i.ibb.co/cXtRrgmy/image.png",
@@ -8207,28 +8185,6 @@
       },
       {
         "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052510",
         "prod": "Eleska",
         "var": "Philia",
         "url": "https://i.ibb.co/cXtRrgmy/image.png",
@@ -10239,28 +10195,6 @@
       },
       {
         "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
         "prod": "Eleska",
         "var": "Philia",
         "url": "https://i.ibb.co/cXtRrgmy/image.png",
@@ -11793,28 +11727,6 @@
       },
       {
         "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "052510",
         "prod": "Eleska",
         "var": "Philia",
         "url": "https://i.ibb.co/cXtRrgmy/image.png",
@@ -12921,7 +12833,7 @@
         "op": "052510",
         "prod": "Zeyora",
         "var": "Balk",
-        "url": "https://i.ibb.co/bM2cXfzJ/image.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_151520_158390_Screenshot_2025-07-19_151355.png",
         "cat": "Lamps",
         "mat": "White Powder Coat Mild Steel Frame; Clear Acrylic Solid Surface Mounting; Warm White LED Bulb Light; Fabric TBC Canvas Upholstery Canopy",
         "sz": "Outer: 8.5\" x 11.5\" x 25\"",
@@ -14600,6 +14512,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-19T09:37:40.189Z"
+    "timestamp": "2025-07-19T09:52:25.291Z"
   }
 }
