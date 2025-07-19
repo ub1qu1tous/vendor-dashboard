@@ -5960,7 +5960,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
         "cat": "Console Tables",
         "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
-        "sz": "Outer: 72.13\" x 22.44\" x 33.07\"",
+        "sz": "Outer: 72\" x 19.5\" x 30\"",
         "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
         "des": "Tanmay Shah",
         "dl": "",
@@ -8127,7 +8127,7 @@
         "sz": "Outer: 54\" x 30\" x 16\"",
         "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
         "des": "Hetvi Shah",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/15e7Z_ZHHZZDYXvQG7Nz7nltmfdU5HgFn",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
@@ -9620,6 +9620,28 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "062511",
+        "prod": "Umbrella",
+        "var": "Kerrie",
+        "url": "https://i.ibb.co/d0d8k2Vr/0002.jpg",
+        "cat": "Outdoor Sofas",
+        "mat": "Blue Sky 2 Sr No 202 RelWood UPB Structure; Blue Sky 2 Sr No 212 RelWood UPB Structure; Nesterra Black & White Sr No 009 RelWood UPB Structure; Nesterra Black & White Sr No 009 Ply & Foam Upholstery Backrest; Black Matt Mild Steel Base",
+        "sz": "Outer: 60\" x 50\" x 36\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/17QgsJZy3uGVDyKiq5DPUNgM585ufm4Pb",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "This sofa is suitable for semi-outdoor.",
+        "v": {
+          "t": "19-Jul-2025",
+          "c": "19-Jul-2025",
+          "a": "",
+          "rm": "leg buffers fitting"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "062513",
         "prod": "Novia",
         "var": "Ivan",
@@ -10159,7 +10181,7 @@
         "sz": "Outer: 54\" x 30\" x 16\"",
         "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
         "des": "Hetvi Shah",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/15e7Z_ZHHZZDYXvQG7Nz7nltmfdU5HgFn",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
@@ -10818,7 +10840,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
         "cat": "Console Tables",
         "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
-        "sz": "Outer: 72.13\" x 22.44\" x 33.07\"",
+        "sz": "Outer: 72\" x 19.5\" x 30\"",
         "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
         "des": "Tanmay Shah",
         "dl": "",
@@ -12771,7 +12793,7 @@
         "sz": "Outer: 54\" x 30\" x 16\"",
         "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
         "des": "Hetvi Shah",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/15e7Z_ZHHZZDYXvQG7Nz7nltmfdU5HgFn",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
@@ -14578,6 +14600,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-19T08:52:32.650Z"
+    "timestamp": "2025-07-19T09:07:38.042Z"
   }
 }
