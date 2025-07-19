@@ -9708,6 +9708,28 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "062521",
+        "prod": "Maylene",
+        "var": "Elegance",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; D'Decor FabriCare Comfort IV Sr No 406 Ply & Foam Upholstery Seat; D'Decor FabriCare Comfort IV Sr No 406 Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 22\" x 24\" x 35\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1SZNM_bFOGPjy88Jyzmnj8XwVtJzley5j",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/folders/1G_tQXB-rowj8xEXRszbipy-Dg4EnGDeA",
+        "q": 8,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "19-Jul-2025",
+          "c": "19-Jul-2025",
+          "a": "",
+          "rm": "Seat back  buffer fitting, back side button head  + screw black"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "072409",
         "prod": "Chako",
         "var": "Typex",
@@ -11302,28 +11324,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "072420",
-        "prod": "Poseidon",
-        "var": "Malana",
-        "url": "https://i.ibb.co/ym28VR4r/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Natural Burma Border Teak Frame; Fabric TBC Ply & Foam Upholstery Structure",
-        "sz": "Outer: 29\" x 26\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
         "op": "092416",
         "prod": "Coringa",
         "var": "Jaguar",
@@ -12555,28 +12555,6 @@
         "cr": "",
         "v": {
           "t": "29-Jan-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "072420",
-        "prod": "Poseidon",
-        "var": "Malana",
-        "url": "https://i.ibb.co/ym28VR4r/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Natural Burma Border Teak Frame; Fabric TBC Ply & Foam Upholstery Structure",
-        "sz": "Outer: 29\" x 26\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
           "c": "",
           "a": "",
           "rm": "no special instructions"
@@ -14600,6 +14578,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-19T07:39:52.384Z"
+    "timestamp": "2025-07-19T07:52:23.886Z"
   }
 }
