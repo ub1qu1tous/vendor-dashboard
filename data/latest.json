@@ -9505,7 +9505,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "Shoe unit to be wall hanged 6\" above ground, with anchor fastener. 10 given."
+          "rm": "Shoe unit to be wall hanged 1' above ground, with anchor fastener. 10 given."
         },
         "vendorDisplayName": "Kamlesh Jangid"
       },
@@ -14600,6 +14600,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-19T09:07:38.042Z"
+    "timestamp": "2025-07-19T09:22:21.912Z"
   }
 }
