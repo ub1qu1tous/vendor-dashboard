@@ -4566,6 +4566,28 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "072506",
+        "prod": "Carrot",
+        "var": "Marc",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_110105_071127_WhatsApp_Image_2025-07-19_at_10_58_09_e38e67a0.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Structure",
+        "sz": "Outer: 20\" x 20\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VlJEvZIxNCGuKdmyKeShIXevwr3d78Nh",
+        "des": "Atharva Kelkar",
+        "dl": "https://drive.google.com/drive/folders/1BuqtREOozNVkQvtmDoetY6uYuTGgsHqd",
+        "q": 8,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "072509",
         "prod": "Arcadia",
         "var": "Estes",
@@ -12760,6 +12782,28 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "072506",
+        "prod": "Carrot",
+        "var": "Marc",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_110105_071127_WhatsApp_Image_2025-07-19_at_10_58_09_e38e67a0.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Structure",
+        "sz": "Outer: 20\" x 20\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VlJEvZIxNCGuKdmyKeShIXevwr3d78Nh",
+        "des": "Atharva Kelkar",
+        "dl": "https://drive.google.com/drive/folders/1BuqtREOozNVkQvtmDoetY6uYuTGgsHqd",
+        "q": 8,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "072509",
         "prod": "Arcadia",
         "var": "Estes",
@@ -14820,6 +14864,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-21T04:52:23.259Z"
+    "timestamp": "2025-07-21T05:07:52.516Z"
   }
 }
