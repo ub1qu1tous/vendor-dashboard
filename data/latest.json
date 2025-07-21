@@ -1108,6 +1108,28 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "072506",
+        "prod": "Hilton",
+        "var": "Ardor",
+        "url": "https://i.ibb.co/2YJjVQM/29-inch-1.png",
+        "cat": "Nightstands",
+        "mat": "Finish TBC Oak Veneer Carcass; Finish TBC Oak Veneer Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Gloss Cap; Gold PVD Stainless Steel 304 Gloss Knobs",
+        "sz": "Outer: 29\" x 18\" x 21\"",
+        "fld": "https://drive.google.com/drive/folders/1eVJSpbpwfvMZ6JlnX3_Y3dgabd749PBY?usp=sharing",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/u/1/folders/1AHEFdl-cGYNMwZJljOh-jmDSVlYAuFyh",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "21-Jul-2025",
+          "c": "31-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "072509",
         "prod": "Anders",
         "var": "Francis",
@@ -8800,6 +8822,28 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072506",
+        "prod": "Hilton",
+        "var": "Ardor",
+        "url": "https://i.ibb.co/2YJjVQM/29-inch-1.png",
+        "cat": "Nightstands",
+        "mat": "Finish TBC Oak Veneer Carcass; Finish TBC Oak Veneer Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Gloss Cap; Gold PVD Stainless Steel 304 Gloss Knobs",
+        "sz": "Outer: 29\" x 18\" x 21\"",
+        "fld": "https://drive.google.com/drive/folders/1eVJSpbpwfvMZ6JlnX3_Y3dgabd749PBY?usp=sharing",
+        "des": "Parth Gada",
+        "dl": "https://drive.google.com/drive/u/1/folders/1AHEFdl-cGYNMwZJljOh-jmDSVlYAuFyh",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082424",
         "prod": "Elderglow",
         "var": "Ferah",
@@ -11114,28 +11158,6 @@
         "v": {
           "t": "27-Jun-2025",
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062528",
-        "prod": "Inyara",
-        "var": "Horizon",
-        "url": "https://i.ibb.co/7xxh8k5n/Whats-App-Image-2025-06-27-at-6-08-09-PM.jpg",
-        "cat": "Handles",
-        "mat": "Natural White Oak Handle",
-        "sz": "Outer: 6.5\" x 5.5\" x 54\"",
-        "fld": "https://drive.google.com/drive/folders/1grvJfAOEC6KllkAHSmgJUhfEOBnmYDNj",
-        "des": "Dilip Jangir",
-        "dl": "",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Delivery anywhere in Mumbai at ground floor level. Price includes fitting hardware, without polish.",
-        "v": {
-          "t": "02-Jul-2025",
-          "c": "07-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -14908,6 +14930,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-21T05:22:23.669Z"
+    "timestamp": "2025-07-21T05:39:04.757Z"
   }
 }
