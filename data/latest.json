@@ -202,6 +202,28 @@
         "vendorDisplayName": "Darshan Hardware"
       },
       {
+        "op": "072506",
+        "prod": "Gordon",
+        "var": "Baris",
+        "url": "https://i.ibb.co/4g0j4PF/a01IBB.jpg",
+        "cat": "Nightstands",
+        "mat": "Black Matt Sheesham Carcass; Black Matt Sheesham Base; Natural White Oak Drawer Fascia; Clear Rattan Hand-woven Weaving",
+        "sz": "Outer: 18\" x 18\" x 23\"",
+        "fld": "https://drive.google.com/drive/folders/1gQwrdsGhIrG-f9xYCPlJW-wfICcXDoHU",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/u/1/folders/1dCllB9xYPI5lSmv0epGgowVWQj2fUoHH",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Darshan Hardware"
+      },
+      {
         "op": "092416",
         "prod": "Kinchin",
         "var": "Marina",
@@ -1058,6 +1080,28 @@
         "v": {
           "t": "",
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072506",
+        "prod": "Gordon",
+        "var": "Baris",
+        "url": "https://i.ibb.co/4g0j4PF/a01IBB.jpg",
+        "cat": "Nightstands",
+        "mat": "Black Matt Sheesham Carcass; Black Matt Sheesham Base; Natural White Oak Drawer Fascia; Clear Rattan Hand-woven Weaving",
+        "sz": "Outer: 18\" x 18\" x 23\"",
+        "fld": "https://drive.google.com/drive/folders/1gQwrdsGhIrG-f9xYCPlJW-wfICcXDoHU",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/u/1/folders/1dCllB9xYPI5lSmv0epGgowVWQj2fUoHH",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "21-Jul-2025",
+          "c": "31-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4577,7 +4621,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/1BuqtREOozNVkQvtmDoetY6uYuTGgsHqd",
         "q": 8,
-        "pm": "",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "t": "",
@@ -12793,7 +12837,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/1BuqtREOozNVkQvtmDoetY6uYuTGgsHqd",
         "q": 8,
-        "pm": "",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "t": "",
@@ -14864,6 +14908,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-21T05:07:52.516Z"
+    "timestamp": "2025-07-21T05:22:23.669Z"
   }
 }
