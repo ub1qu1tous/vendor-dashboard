@@ -8584,7 +8584,7 @@
         "prod": "Umbrella",
         "var": "Kerrie",
         "url": "https://i.ibb.co/d0d8k2Vr/0002.jpg",
-        "cat": "Outdoor Sofas",
+        "cat": "Sofas",
         "mat": "Blue Sky 2 Sr No 202 RelWood UPB Structure; Blue Sky 2 Sr No 212 RelWood UPB Structure; Nesterra Black & White Sr No 009 RelWood UPB Structure; Nesterra Black & White Sr No 009 Ply & Foam Upholstery Backrest; Black Matt Mild Steel Base",
         "sz": "Outer: 60\" x 50\" x 36\", Seat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/17QgsJZy3uGVDyKiq5DPUNgM585ufm4Pb",
@@ -9270,7 +9270,7 @@
         "prod": "Umbrella",
         "var": "Kerrie",
         "url": "https://i.ibb.co/d0d8k2Vr/0002.jpg",
-        "cat": "Outdoor Sofas",
+        "cat": "Sofas",
         "mat": "Blue Sky 2 Sr No 202 RelWood UPB Structure; Blue Sky 2 Sr No 212 RelWood UPB Structure; Nesterra Black & White Sr No 009 RelWood UPB Structure; Nesterra Black & White Sr No 009 Ply & Foam Upholstery Backrest; Black Matt Mild Steel Base",
         "sz": "Outer: 60\" x 50\" x 36\", Seat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/17QgsJZy3uGVDyKiq5DPUNgM585ufm4Pb",
@@ -9668,7 +9668,7 @@
         "prod": "Umbrella",
         "var": "Kerrie",
         "url": "https://i.ibb.co/d0d8k2Vr/0002.jpg",
-        "cat": "Outdoor Sofas",
+        "cat": "Sofas",
         "mat": "Blue Sky 2 Sr No 202 RelWood UPB Structure; Blue Sky 2 Sr No 212 RelWood UPB Structure; Nesterra Black & White Sr No 009 RelWood UPB Structure; Nesterra Black & White Sr No 009 Ply & Foam Upholstery Backrest; Black Matt Mild Steel Base",
         "sz": "Outer: 60\" x 50\" x 36\", Seat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/17QgsJZy3uGVDyKiq5DPUNgM585ufm4Pb",
@@ -10948,7 +10948,7 @@
         "prod": "Halo",
         "var": "Serene",
         "url": "https://i.ibb.co/wh6j86tb/candle.jpg",
-        "cat": "",
+        "cat": "Accessories",
         "mat": "Suncity Indian Teak Structure",
         "sz": "Outer: 4.5\" x 2\" x 8\"",
         "fld": "https://drive.google.com/drive/folders/1i-73-w7pO_FA3SXwTzuJeEW2vS4MiGum",
@@ -10970,7 +10970,7 @@
         "prod": "Hush",
         "var": "Raver",
         "url": "https://i.ibb.co/sXd9tZV/Whats-App-Image-2025-06-09-at-2-35-48-PM.jpg",
-        "cat": "",
+        "cat": "Accessories",
         "mat": "Suncity Sheesham Top",
         "sz": "Outer: 6.3\" x 4.9\" x 0.8\"",
         "fld": "https://drive.google.com/drive/folders/1W-nkaYanLOqzeOoHKFmsWVh0ckg4qkXd",
@@ -10992,7 +10992,7 @@
         "prod": "Muse",
         "var": "Tuscany",
         "url": "https://i.ibb.co/99SyG74S/Whats-App-Image-2025-06-09-at-2-16-21-PM.jpg",
-        "cat": "",
+        "cat": "Accessories",
         "mat": "Natural Burma Border Teak Structure; Natural Day Light (NDL) Flexible LED Light",
         "sz": "Outer: 10\" x 6.5\" x 12\"",
         "fld": "https://drive.google.com/drive/folders/1IdFdaThEjRBUndHUicnpkW-QQJJWzyYo",
@@ -14842,6 +14842,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-22T09:37:41.525Z"
+    "timestamp": "2025-07-22T09:52:27.058Z"
   }
 }
