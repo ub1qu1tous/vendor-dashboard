@@ -1527,28 +1527,6 @@
       },
       {
         "op": "102411",
-        "prod": "Estuary",
-        "var": "Serbonia",
-        "url": "https://i.ibb.co/PGYgKJsR/0001.jpg",
-        "cat": "Pillars",
-        "mat": "Natural Recycled Teak Structure",
-        "sz": "Outer: 8\" x 8\" x 102.36\"",
-        "fld": "https://drive.google.com/drive/folders/1whIw5te_cZ29ruaKsGN4JE93ygWBRk3J",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/16gzL5u6nAlv0GVyjmygl2MeumtBWPdMF",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Pillar ; Wooden pillar acting as an aesthetic sculpture beside the swing",
-        "v": {
-          "t": "01-Jan-2025",
-          "c": "13-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "102411",
         "prod": "Ethereon",
         "var": "Onism",
         "url": "https://i.ibb.co/Kvs0f8k/0002.jpg",
@@ -5155,7 +5133,7 @@
           "t": "28-Jun-2025",
           "c": "02-Jul-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "चेयर की सीट और बैक त्यार हो गयी है पार्थभाई सारथि की वहा से वुडेन सपोर्ट पार्ट की जरूरत है वो आ जाये उसके बाद फाइनल फिटिंग हो पायेगा बैक का."
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -13706,8 +13684,8 @@
         "pm": "Rohan Parmar",
         "cr": "Living Room Pillar ; Wooden pillar acting as an aesthetic sculpture beside the swing",
         "v": {
-          "t": "",
-          "c": "",
+          "t": "22-Jul-2025",
+          "c": "28-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -14886,6 +14864,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-22T04:52:25.637Z"
+    "timestamp": "2025-07-22T05:07:25.817Z"
   }
 }
