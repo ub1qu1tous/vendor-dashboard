@@ -13428,50 +13428,6 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
-        "op": "052519",
-        "prod": "Velexia",
-        "var": "Gemini",
-        "url": "https://i.ibb.co/0pbk6Tqf/0002.jpg",
-        "cat": "Display Cabinet",
-        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
-        "sz": "Outer: 48\" x 24.8\" x 81.5\"",
-        "fld": "https://drive.google.com/drive/folders/1tiXXuGyKkvi-0KQkVMhlK1ErxH0hvnaH",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1KUoZpmPTwziNADJtDoW4BThgT1h7Vqrb",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Sample Lead Time: 17 Days for RAW Carcass",
-        "v": {
-          "t": "30-Jun-2025",
-          "c": "21-Jul-2025",
-          "a": "",
-          "rm": "Fitting of shutter, 2 lock , glass, brass logo,  and metal base  "
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "052519",
-        "prod": "Velexia",
-        "var": "Strata",
-        "url": "https://i.ibb.co/cS08v6X6/Whats-App-Image-2025-07-03-at-13-32-32-ad1a4899.jpg",
-        "cat": "Display Cabinet",
-        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
-        "sz": "Outer: 36\" x 24.8\" x 81.5\"",
-        "fld": "https://drive.google.com/drive/folders/1dN-ulelj1UMjnjtZCmCKvvbBYt7jYQQy",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/16n5VRx-7p6B9UxahGsWfhVUBdDqxDhVJ",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "30-Jun-2025",
-          "c": "21-Jul-2025",
-          "a": "",
-          "rm": "Fitting of shutter, 2 lock , glass, brass logo,  and metal base  "
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
         "op": "062521",
         "prod": "Maylene",
         "var": "Elegance",
@@ -14466,6 +14422,52 @@
         "vendorDisplayName": "Maan Singh"
       }
     ],
+    "kamlesh": [
+      {
+        "op": "052519",
+        "prod": "Velexia",
+        "var": "Gemini",
+        "url": "https://i.ibb.co/0pbk6Tqf/0002.jpg",
+        "cat": "Display Cabinet",
+        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
+        "sz": "Outer: 48\" x 24.8\" x 81.5\"",
+        "fld": "https://drive.google.com/drive/folders/1tiXXuGyKkvi-0KQkVMhlK1ErxH0hvnaH",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1KUoZpmPTwziNADJtDoW4BThgT1h7Vqrb",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Sample Lead Time: 17 Days for RAW Carcass",
+        "v": {
+          "t": "30-Jun-2025",
+          "c": "21-Jul-2025",
+          "a": "",
+          "rm": "Fitting of shutter, 2 lock , glass, brass logo,  and metal base  "
+        },
+        "vendorDisplayName": "kamlesh"
+      },
+      {
+        "op": "052519",
+        "prod": "Velexia",
+        "var": "Strata",
+        "url": "https://i.ibb.co/cS08v6X6/Whats-App-Image-2025-07-03-at-13-32-32-ad1a4899.jpg",
+        "cat": "Display Cabinet",
+        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
+        "sz": "Outer: 36\" x 24.8\" x 81.5\"",
+        "fld": "https://drive.google.com/drive/folders/1dN-ulelj1UMjnjtZCmCKvvbBYt7jYQQy",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/16n5VRx-7p6B9UxahGsWfhVUBdDqxDhVJ",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "30-Jun-2025",
+          "c": "21-Jul-2025",
+          "a": "",
+          "rm": "Fitting of shutter, 2 lock , glass, brass logo,  and metal base  "
+        },
+        "vendorDisplayName": "kamlesh"
+      }
+    ],
     "anil_engineers": [
       {
         "op": "072313",
@@ -14842,6 +14844,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-23T11:52:21.068Z"
+    "timestamp": "2025-07-23T12:08:42.250Z"
   }
 }
