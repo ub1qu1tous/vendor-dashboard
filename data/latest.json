@@ -14608,6 +14608,30 @@
         "vendorDisplayName": "Gujarat Handicrafts"
       }
     ],
+    "mandap": [
+      {
+        "op": "072522",
+        "prod": "Jakarta",
+        "var": "Ginger",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250725_103807_982271_Screenshot_2025-07-25_103756.png",
+        "cat": "Accent Tables",
+        "mat": "Finish TBC White Oak Top; Finish TBC White Oak Legs",
+        "sz": "Outer: 42\" x 42\" x 42\"",
+        "fld": "https://drive.google.com/drive/folders/1S38ARrf1SOZMVeitWbLuvxP4yrin_aPc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "Client shall arrange the loading from ground floor to the flat and its installation (Will share you a video once manufactured)",
+        "v": {
+          "t": "",
+          "c": "29-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      }
+    ],
     "rohan_parmar": [
       {
         "op": "102411",
@@ -14842,6 +14866,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-25T10:22:24.772Z"
+    "timestamp": "2025-07-25T10:37:21.272Z"
   }
 }
