@@ -441,7 +441,7 @@
         "cr": "Master Bedroom Chest",
         "v": {
           "t": "26-Jun-2025",
-          "c": "20-Jul-2025",
+          "c": "28-Aug-2025",
           "a": "",
           "rm": "Send 4 fascia for CNC cutting."
         },
@@ -14615,7 +14615,7 @@
         "var": "Ginger",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250725_103807_982271_Screenshot_2025-07-25_103756.png",
         "cat": "Accent Tables",
-        "mat": "Finish TBC White Oak Top; Finish TBC White Oak Legs",
+        "mat": "Jacobean White Oak Top; Jacobean White Oak Legs",
         "sz": "Outer: 42\" x 42\" x 42\"",
         "fld": "https://drive.google.com/drive/folders/1S38ARrf1SOZMVeitWbLuvxP4yrin_aPc",
         "des": "",
@@ -14866,6 +14866,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-25T11:22:20.708Z"
+    "timestamp": "2025-07-25T11:37:29.113Z"
   }
 }
