@@ -3818,6 +3818,28 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "062520",
+        "prod": "Lorikeet",
+        "var": "Crystal",
+        "url": "https://i.ibb.co/cCCr8mW/0000.jpg",
+        "cat": "Ottomans",
+        "mat": "Arezzo Logan Fluff Beige Ply & Foam Upholstery Structure",
+        "sz": "Outer: 19.5\" x 18.5\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/161F0A93srkPcakunNwYgIqRGtj2fTajE",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "062529",
         "prod": "Zyverra",
         "var": "Terrano",
@@ -12254,6 +12276,28 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "062520",
+        "prod": "Lorikeet",
+        "var": "Crystal",
+        "url": "https://i.ibb.co/cCCr8mW/0000.jpg",
+        "cat": "Ottomans",
+        "mat": "Arezzo Logan Fluff Beige Ply & Foam Upholstery Structure",
+        "sz": "Outer: 19.5\" x 18.5\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/161F0A93srkPcakunNwYgIqRGtj2fTajE",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "062529",
         "prod": "Elaris",
         "var": "Brenton",
@@ -14866,6 +14910,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-26T05:37:25.554Z"
+    "timestamp": "2025-07-26T05:52:27.404Z"
   }
 }
