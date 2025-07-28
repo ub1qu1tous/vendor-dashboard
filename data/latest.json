@@ -8646,6 +8646,28 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072409",
+        "prod": "Decker",
+        "var": "Nova",
+        "url": "https://i.ibb.co/JW9pPFw1/0002.jpg",
+        "cat": "Benches",
+        "mat": "Turkish Jute 11 HSN 5407 Ply & Foam Upholstery Seat; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 19\" x 17\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1EehuKOT-AqAui0LrQj7_h4p79KiHx4dX",
+        "des": "Akarsha Jha",
+        "dl": "https://drive.google.com/drive/folders/1HzUBsbukrvafs_b6R1YrBrKGSEFJ5Ftr",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom 01",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "072505",
         "prod": "Dagasca",
         "var": "Typex",
@@ -8952,28 +8974,6 @@
           "c": "20-Aug-2025",
           "a": "",
           "rm": "aluminium"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "072409",
-        "prod": "Decker",
-        "var": "Nova",
-        "url": "https://i.ibb.co/JW9pPFw1/0002.jpg",
-        "cat": "Benches",
-        "mat": "Turkish Jute 11 HSN 5407 Ply & Foam Upholstery Seat; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 60\" x 19\" x 17\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1EehuKOT-AqAui0LrQj7_h4p79KiHx4dX",
-        "des": "Akarsha Jha",
-        "dl": "https://drive.google.com/drive/folders/1HzUBsbukrvafs_b6R1YrBrKGSEFJ5Ftr",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom 01",
-        "v": {
-          "t": "",
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "ROhan will make it from makarpura"
         },
         "vendorDisplayName": "Aarti Steel"
       },
@@ -14778,6 +14778,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-28T06:07:25.378Z"
+    "timestamp": "2025-07-28T06:22:20.040Z"
   }
 }
