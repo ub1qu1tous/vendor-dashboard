@@ -1879,28 +1879,6 @@
       },
       {
         "op": "112411",
-        "prod": "Creoda",
-        "var": "Oren",
-        "url": "https://i.ibb.co/pvL7cw4q/0002.jpg",
-        "cat": "Beds",
-        "mat": "Natural White Oak Structure; Beverly Hill 722 Ply & Foam Upholstery Headboard; Oak Laminate 12mm Plywood Bed Slat Support; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 80.25\" x 87\" x 65\", Seat Height: 23.5\";\nMattress: 76\" x 80\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/15Rvxi4uLsdXJX0MFCL90l1xnVO-SmQPd",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1Dw-1XcT7xRSz7Rw4E92NvdZAmFOeVwcc",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "GF Bedroom Bed",
-        "v": {
-          "t": "",
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": "natural white oak bed "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "112411",
         "prod": "Cuttle",
         "var": "Avore",
         "url": "https://i.ibb.co/0RnYPCPm/0002.jpg",
@@ -9135,28 +9113,6 @@
       },
       {
         "op": "112411",
-        "prod": "Geneva",
-        "var": "Banksy",
-        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
-        "sz": "Outer: 120\" x 20\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1FDxri97lDmmh1NzvnrTD-Y5SQjR8yKza",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Media Console",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "black powderocat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "112411",
         "prod": "Halvik",
         "var": "June",
         "url": "https://i.ibb.co/hRVM0qJZ/0001.jpg",
@@ -9748,6 +9704,28 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "112411",
+        "prod": "Higgins",
+        "var": "Lumia",
+        "url": "https://i.ibb.co/Dg9CVjW2/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "White Wash Sheesham Structure; Brass Transparent Coat Mild Steel Knobs",
+        "sz": "Outer: 27\" x 17\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/13d2uFlbhZwNWZJG9Y-JaRkiW8mSVrSA8",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1g8pDWq8sQt89gUVcd7i4wLPFujSa9cGG",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Daughter Bedroom Nightstand",
+        "v": {
+          "t": "29-Jul-2025",
+          "c": "30-Jul-2025",
+          "a": "",
+          "rm": "knobs and buffers"
         },
         "vendorDisplayName": "Kamlesh Jangid"
       },
@@ -13932,6 +13910,28 @@
           "rm": "14-6-2025 - chhotubhai has to install carcass\n21-6-2025- Chhotubhai has to  install Shutter"
         },
         "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "112411",
+        "prod": "Geneva",
+        "var": "Banksy",
+        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
+        "cat": "Media Consoles",
+        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
+        "sz": "Outer: 120\" x 20\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1FDxri97lDmmh1NzvnrTD-Y5SQjR8yKza",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Home Theater Media Console",
+        "v": {
+          "t": "31-Jul-2025",
+          "c": "",
+          "a": "",
+          "rm": "shutter,sliding work"
+        },
+        "vendorDisplayName": "Chhoturam"
       }
     ],
     "divine": [
@@ -14426,6 +14426,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-29T11:37:25.939Z"
+    "timestamp": "2025-07-29T11:52:32.515Z"
   }
 }
