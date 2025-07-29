@@ -8427,28 +8427,6 @@
       },
       {
         "op": "092416",
-        "prod": "Espera",
-        "var": "Evan",
-        "url": "https://i.ibb.co/6Pzcc2Z/v02-3.jpg",
-        "cat": "Sofas",
-        "mat": "D Decor Aura Urbane Plain Sr No 216 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 59.06\" x 23.62\" x 29.75\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jkzcUn3zhiQUaKn1JOyubxFsvVnhvkjr",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1hM5XJUzCod1DL0Xs_qgLD6lwz4jD5_Qh",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Enterance Lobby;\nNEED SIZE 1500 X 600MM",
-        "v": {
-          "t": "",
-          "c": "25-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092416",
         "prod": "Sloane",
         "var": "Rawlins",
         "url": "https://i.ibb.co/m87xBvs/0002.jpg",
@@ -14426,6 +14404,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-29T12:07:24.398Z"
+    "timestamp": "2025-07-29T12:27:47.380Z"
   }
 }
