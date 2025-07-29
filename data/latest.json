@@ -10968,50 +10968,6 @@
         "vendorDisplayName": "Vishwakarma Glass"
       },
       {
-        "op": "102411",
-        "prod": "Lucentia",
-        "var": "Insignia",
-        "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 36\" x 1\" x 66\"",
-        "fld": "https://drive.google.com/drive/folders/1alZbANUB8NdSZaYDRNAgBA7oEeQcYt8j",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/14-l7rmc3Ta9Ji6Ju_xvKTgiYFfBgCSGw",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Darshan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "t": "19-Mar-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "102411",
-        "prod": "Lucentia",
-        "var": "Theta",
-        "url": "https://i.ibb.co/gLTLcDm4/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 43\" x 1\" x 61\"",
-        "fld": "https://drive.google.com/drive/folders/184FpILaxT92dL4SdgYC9qih7Ds1uVSoM",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/12kiowleBLzKQjZQWBg8W8SnfWWzW5u2b",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "t": "19-Mar-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
         "op": "102413",
         "prod": "Sirius",
         "var": "Raver",
@@ -12428,6 +12384,72 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "102411",
+        "prod": "Infinara",
+        "var": "Rayis",
+        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 28\" x 2\" x 66\"",
+        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1eTsQygz2HwRAlR7gYWO3gDbsDnkPSKPW",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
+        "v": {
+          "t": "26-Jul-2025",
+          "c": "28-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "102411",
+        "prod": "Lucentia",
+        "var": "Insignia",
+        "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Natural Recycled Teak Frame; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 36\" x 1\" x 66\"",
+        "fld": "https://drive.google.com/drive/folders/1alZbANUB8NdSZaYDRNAgBA7oEeQcYt8j",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/14-l7rmc3Ta9Ji6Ju_xvKTgiYFfBgCSGw",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Darshan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
+        "v": {
+          "t": "26-Jul-2025",
+          "c": "28-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "102411",
+        "prod": "Lucentia",
+        "var": "Theta",
+        "url": "https://i.ibb.co/gLTLcDm4/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Natural Recycled Teak Frame; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 43\" x 1\" x 61\"",
+        "fld": "https://drive.google.com/drive/folders/184FpILaxT92dL4SdgYC9qih7Ds1uVSoM",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/12kiowleBLzKQjZQWBg8W8SnfWWzW5u2b",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Vandan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
+        "v": {
+          "t": "26-Jul-2025",
+          "c": "28-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Shital Glass"
       }
     ],
     "the_lighting_studio": [
@@ -13030,72 +13052,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "102411",
-        "prod": "Infinara",
-        "var": "Rayis",
-        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 28\" x 2\" x 66\"",
-        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1eTsQygz2HwRAlR7gYWO3gDbsDnkPSKPW",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
-        "v": {
-          "t": "01-Jun-2025",
-          "c": "14-Jun-2025",
-          "a": "",
-          "rm": "natural polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "102411",
-        "prod": "Lucentia",
-        "var": "Insignia",
-        "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 36\" x 1\" x 66\"",
-        "fld": "https://drive.google.com/drive/folders/1alZbANUB8NdSZaYDRNAgBA7oEeQcYt8j",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/14-l7rmc3Ta9Ji6Ju_xvKTgiYFfBgCSGw",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Darshan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "t": "01-Jun-2025",
-          "c": "12-Jun-2025",
-          "a": "",
-          "rm": "natural polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "102411",
-        "prod": "Lucentia",
-        "var": "Theta",
-        "url": "https://i.ibb.co/gLTLcDm4/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 43\" x 1\" x 61\"",
-        "fld": "https://drive.google.com/drive/folders/184FpILaxT92dL4SdgYC9qih7Ds1uVSoM",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/12kiowleBLzKQjZQWBg8W8SnfWWzW5u2b",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "t": "01-Jun-2025",
-          "c": "12-Jun-2025",
-          "a": "",
-          "rm": "natural polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
         "op": "112411",
         "prod": "Shadowcrest",
         "var": "Montana",
@@ -13419,28 +13375,6 @@
         "q": 1,
         "pm": "Rohan Parmar",
         "cr": "Grandparent's Media Console",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
-        "prod": "Infinara",
-        "var": "Rayis",
-        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 28\" x 2\" x 66\"",
-        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1eTsQygz2HwRAlR7gYWO3gDbsDnkPSKPW",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
         "v": {
           "t": "",
           "c": "",
@@ -14668,6 +14602,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-29T05:52:26.049Z"
+    "timestamp": "2025-07-29T06:07:23.871Z"
   }
 }
