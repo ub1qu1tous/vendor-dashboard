@@ -8421,7 +8421,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "6mm leveler buffer "
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -14426,6 +14426,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-31T10:37:28.975Z"
+    "timestamp": "2025-07-31T10:52:22.958Z"
   }
 }
