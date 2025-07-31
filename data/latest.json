@@ -3068,28 +3068,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "122401",
-        "prod": "Kellogg",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/SP0Vv1n/z-filnoir-chair-01-scont-1.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1W6npU29-pu3Niru4Stagbk328h8gK8nL",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 4,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "fabric not selected by Arch. Droped msg but no action by Archi."
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "122423",
         "prod": "Sachimo",
         "var": "Alta",
@@ -5044,28 +5022,6 @@
         "v": {
           "t": "",
           "c": "29-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122401",
-        "prod": "Kellogg",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/SP0Vv1n/z-filnoir-chair-01-scont-1.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1W6npU29-pu3Niru4Stagbk328h8gK8nL",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 4,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9752,6 +9708,28 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
+        "op": "122401",
+        "prod": "Kellogg",
+        "var": "Bagel",
+        "url": "https://i.ibb.co/SP0Vv1n/z-filnoir-chair-01-scont-1.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1W6npU29-pu3Niru4Stagbk328h8gK8nL",
+        "des": "Readymade",
+        "dl": "NA",
+        "q": 4,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "t": "31-Jul-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
         "op": "122415",
         "prod": "Glowworm",
         "var": "Hyde",
@@ -14426,6 +14404,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-07-31T12:37:25.647Z"
+    "timestamp": "2025-07-31T12:52:24.379Z"
   }
 }
