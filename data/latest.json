@@ -1086,6 +1086,50 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "072518",
+        "prod": "Nectar",
+        "var": "Coca",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250721_154744_399101_WhatsApp_Image_2025-07-21_at_1_25_03_PM.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 21.7\" x 19.7\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1XX14MNk9THDQ9C4l5whSIVL8uwmSKC7F",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1h8K94WX3kuBtygSpw-gCagGNH2uMl8u_",
+        "q": 8,
+        "pm": "Maulik Parmar",
+        "cr": "7 metre fabric from client (8 Chairs)",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072518",
+        "prod": "Olyra",
+        "var": "Dion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250721_154744_399979_WhatsApp_Image_2025-07-21_at_1_26_37_PM__1_.jpeg",
+        "cat": "Bar & Counter Stools",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
+        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
+        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1GreqldxQJtbFLYWSWGUT_Y_wC1c2m3mM",
+        "q": 4,
+        "pm": "Maulik Parmar",
+        "cr": "3.5 metre fabric from client (4 Chairs)",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082413",
         "prod": "Dragonheart",
         "var": "Neymar",
@@ -2492,28 +2536,6 @@
           "c": "",
           "a": "",
           "rm": "The fabric comes from Banglore."
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "072517",
-        "prod": "Thirelle",
-        "var": "Elvis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250721_160529_797667_WhatsApp_Image_2025-06-23_at_3_35_37_PM__1___Copy_.jpeg",
-        "cat": "Benches",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC Laminate Internal Carcass; Clear Hydraulics Storage",
-        "sz": "Outer: 60\" x 21\" x 19\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/11P37ntjzLUkx37wYt1ISr0tubl-VRI9m",
-        "des": "",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "5 metre fabric from client",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Client/Fabric"
       },
@@ -4112,7 +4134,7 @@
         "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC Laminate Internal Carcass; Clear Hydraulics Storage",
         "sz": "Outer: 60\" x 21\" x 19\", Seat Height: 19\"",
         "fld": "https://drive.google.com/drive/folders/11P37ntjzLUkx37wYt1ISr0tubl-VRI9m",
-        "des": "",
+        "des": "Parth Joshi",
         "dl": "Yes",
         "q": 1,
         "pm": "Maulik Parmar",
@@ -4121,7 +4143,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Hydraulic Storage"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -13194,6 +13216,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-01T07:39:56.095Z"
+    "timestamp": "2025-08-01T07:53:27.683Z"
   }
 }
