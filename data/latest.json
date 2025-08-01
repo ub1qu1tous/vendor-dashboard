@@ -6807,7 +6807,7 @@
           "t": "",
           "c": "30-Jul-2025",
           "a": "",
-          "rm": "Internal laminate similar to Outer PU"
+          "rm": "make as per metal frame, Internal laminate similar to Outer PU, Handle and Normal channels will be used to open drawers"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -13238,6 +13238,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-01T09:07:32.657Z"
+    "timestamp": "2025-08-01T09:22:25.200Z"
   }
 }
