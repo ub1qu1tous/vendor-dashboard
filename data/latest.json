@@ -1901,28 +1901,6 @@
       },
       {
         "op": "112411",
-        "prod": "Geneva",
-        "var": "Banksy",
-        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
-        "sz": "Outer: 120\" x 20\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1FDxri97lDmmh1NzvnrTD-Y5SQjR8yKza",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Media Console",
-        "v": {
-          "t": "",
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": "1. Loose shelf required inside sliding shutter\n2. Media unit top has no cut out so make it plane \n3. Back side wire manager hole required spec. will be in drawing "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "112411",
         "prod": "Minsitthar",
         "var": "Oren",
         "url": "https://i.ibb.co/N2ktgms2/0002.jpg",
@@ -6526,6 +6504,28 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "112411",
+        "prod": "Geneva",
+        "var": "Banksy",
+        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
+        "cat": "Media Consoles",
+        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
+        "sz": "Outer: 120\" x 20\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1FDxri97lDmmh1NzvnrTD-Y5SQjR8yKza",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Home Theater Media Console",
+        "v": {
+          "t": "02-Aug-2025",
+          "c": "05-Aug-2025",
+          "a": "",
+          "rm": "shutter frame making as per size given by chhotubhai"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122217",
         "prod": "Moonshadow",
         "var": "Macy",
@@ -7657,23 +7657,23 @@
       },
       {
         "op": "112411",
-        "prod": "Geneva",
-        "var": "Banksy",
-        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
-        "sz": "Outer: 120\" x 20\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1FDxri97lDmmh1NzvnrTD-Y5SQjR8yKza",
+        "prod": "Dewmist",
+        "var": "Irina",
+        "url": "https://i.ibb.co/BVQ4ZjHm/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Atmosphere 707 Ply & Foam Upholstery Structure; Brass Transparent Coat Mild Steel Legs",
+        "sz": "Outer: 18\" x 20\" x 29.5\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/11J0mkjtg6gw8h4EY7zN3VSyOWgVRokoT",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1La5mSRFYYngHCJ_KNBWRlx6akQMMhJHW",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "Home Theater Media Console",
+        "cr": "Master Bedroom Accent Chair",
         "v": {
-          "t": "02-Jul-2025",
-          "c": "03-Jul-2025",
+          "t": "",
+          "c": "",
           "a": "",
-          "rm": "MS frame in 20x40 pipe \n3050mm x 508mm x 150mm"
+          "rm": "L shape ptta in 104 degree"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -12950,6 +12950,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-02T11:39:09.220Z"
+    "timestamp": "2025-08-02T11:52:27.381Z"
   }
 }
