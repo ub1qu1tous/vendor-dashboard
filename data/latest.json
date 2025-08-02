@@ -246,28 +246,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krisha Lights"
-      },
-      {
-        "op": "052513",
-        "prod": "Lumyra",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
-        "cat": "Lamps",
-        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
-        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
-        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
-        "des": "Rohan Parmar",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "bulb , holder  and wire in black double core "
-        },
-        "vendorDisplayName": "Krisha Lights"
       }
     ],
     "krishna_furnitech": [
@@ -3062,8 +3040,8 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "t": "",
-          "c": "",
+          "t": "02-Aug-2025",
+          "c": "04-Aug-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7326,28 +7304,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "052513",
-        "prod": "Lumyra",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
-        "cat": "Lamps",
-        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
-        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
-        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
-        "des": "Rohan Parmar",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "17-Jul-2025",
-          "a": "",
-          "rm": "Lamp stand in ss matt"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "062506",
         "prod": "Cloaked",
         "var": "Brume",
@@ -7964,28 +7920,6 @@
           "c": "09-Aug-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "072504",
-        "prod": "Eloura",
-        "var": "Vama",
-        "url": "https://i.ibb.co/93WR9mPd/Whats-App-Image-2025-06-10-at-18-24-13-2fff993d.jpg",
-        "cat": "Shelvings",
-        "mat": "  ",
-        "sz": "Outer: 7.24\" x 4.8\" x 77.87\"",
-        "fld": "https://drive.google.com/drive/folders/11QDPd-kmuuI8U0sCtWmBX9BE2VZECPml",
-        "des": "Dilip Jangir",
-        "dl": "",
-        "q": 10,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "2116 HB"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -8848,28 +8782,6 @@
           "c": "",
           "a": "",
           "rm": "BLACK PVD"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052513",
-        "prod": "Lumyra",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
-        "cat": "Lamps",
-        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
-        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
-        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
-        "des": "Rohan Parmar",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "gold matt "
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -10844,29 +10756,31 @@
         "vendorDisplayName": "Aavaran"
       }
     ],
-    "krishna_furnitech_polish_only": [
+    "the_lighting_studio": [
       {
         "op": "052513",
-        "prod": "Aviora",
-        "var": "Justo",
-        "url": "https://i.ibb.co/tT0dCVkZ/Whats-App-Image-2025-05-21-at-18-40-35-d1c30e9b.jpg",
-        "cat": "Chandeliers",
-        "mat": "Suncity Indian Teak Structure; Suncity Teak Veneer Panel; Clear SS Wire Rope Hardware; Fabric TBC Canvas Upholstery Curtain/Sheers; Natural Day Light (NDL) Flexible LED Light",
-        "sz": "Outer: 90\" x 14\" x 33\"",
-        "fld": "https://drive.google.com/drive/folders/1t80fTcTbpcjX72JN4gWKjJ2fmPFWavF3",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/10wOuLmzQYvlZ6nhwZSiMKA-NobW-Wac_",
+        "prod": "Elantris",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/Fk3wy5D3/image.png",
+        "cat": "Lamps",
+        "mat": "Satin Metallic PU Mild Steel Structure; Satin Metallic PU Mild Steel Frame; Satin Metallic PU Mild Steel Lamp Fitting",
+        "sz": "Outer: 39\" x 39\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1TAyhGULk3IuFkhat1iwAZ8IX8LTMoB3M",
+        "des": "Dilip Jangir",
+        "dl": "https://drive.google.com/drive/folders/1B1DhpWXeiOJFtBj3MGfnav3EhXiC7Pqx",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "t": "12-Jul-2025",
-          "c": "16-Jul-2025",
+          "t": "",
+          "c": "14-Jul-2025",
           "a": "",
-          "rm": "suncity teak finish"
+          "rm": "bulb, holder and metal work"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
+        "vendorDisplayName": "The Lighting Studio"
+      }
+    ],
+    "krishna_furnitech_polish_only": [
       {
         "op": "052519",
         "prod": "Velexia",
@@ -11130,54 +11044,6 @@
           "rm": " suncity teak polish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      }
-    ],
-    "maan_singh": [
-      {
-        "op": "052513",
-        "prod": "Celviano",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/CK5BHvx3/image.png",
-        "cat": "Benches",
-        "mat": "Antique Grey White Oak Structure; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 48\" x 19\" x 24\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/13QoBlseHj_BlGis8KoA8Rtzf8n20tT52",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1icFcZXS1mQwZA-yC-vOL3r0GG2lst2qq",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "16-Jul-2025",
-          "c": "18-Jul-2025",
-          "a": "",
-          "rm": "Antique grey finish"
-        },
-        "vendorDisplayName": "Maan Singh"
-      }
-    ],
-    "the_lighting_studio": [
-      {
-        "op": "052513",
-        "prod": "Elantris",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/Fk3wy5D3/image.png",
-        "cat": "Lamps",
-        "mat": "Satin Metallic PU Mild Steel Structure; Satin Metallic PU Mild Steel Frame; Satin Metallic PU Mild Steel Lamp Fitting",
-        "sz": "Outer: 39\" x 39\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1TAyhGULk3IuFkhat1iwAZ8IX8LTMoB3M",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1B1DhpWXeiOJFtBj3MGfnav3EhXiC7Pqx",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "14-Jul-2025",
-          "a": "",
-          "rm": "bulb, holder and metal work"
-        },
-        "vendorDisplayName": "The Lighting Studio"
       }
     ],
     "chhoturam": [
@@ -12950,6 +12816,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-02T13:07:27.494Z"
+    "timestamp": "2025-08-02T13:22:24.354Z"
   }
 }
