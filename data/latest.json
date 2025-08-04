@@ -5250,50 +5250,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "052519",
-        "prod": "Velexia",
-        "var": "Gemini",
-        "url": "https://i.ibb.co/0pbk6Tqf/0002.jpg",
-        "cat": "Display Cabinet",
-        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
-        "sz": "Outer: 48\" x 24.8\" x 81.5\"",
-        "fld": "https://drive.google.com/drive/folders/1tiXXuGyKkvi-0KQkVMhlK1ErxH0hvnaH",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1KUoZpmPTwziNADJtDoW4BThgT1h7Vqrb",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Sample Lead Time: 17 Days for RAW Carcass",
-        "v": {
-          "t": "10-Jul-2025",
-          "c": "18-Jul-2025",
-          "a": "",
-          "rm": "base satin metalic PU VMA 3020 colour"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "052519",
-        "prod": "Velexia",
-        "var": "Strata",
-        "url": "https://i.ibb.co/cS08v6X6/Whats-App-Image-2025-07-03-at-13-32-32-ad1a4899.jpg",
-        "cat": "Display Cabinet",
-        "mat": "Rich Tobacco Sheesham Structure; Rich Tobacco Sheesham Shutter Frame; Extra Clear 4mm Glass Shutter Panel; Satin Metallic PU Mild Steel Base; Black Powder Coat Mild Steel Frame; Extra Clear 4mm Glass Panel; Natural Day Light (NDL) Aluminium Profile Light; Rich Tobacco Teak Veneer Back Panel",
-        "sz": "Outer: 36\" x 24.8\" x 81.5\"",
-        "fld": "https://drive.google.com/drive/folders/1dN-ulelj1UMjnjtZCmCKvvbBYt7jYQQy",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/16n5VRx-7p6B9UxahGsWfhVUBdDqxDhVJ",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "10-Jul-2025",
-          "c": "18-Jul-2025",
-          "a": "",
-          "rm": "base satin metalic PU VMA 3020 colour"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "062506",
         "prod": "Cloaked",
         "var": "Brume",
@@ -5603,28 +5559,6 @@
       },
       {
         "op": "082413",
-        "prod": "Chateaux",
-        "var": "Wattage",
-        "url": "https://i.ibb.co/zT0TFqTF/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Albester White Marble Top; Natural Black Veneer Support; Natural Black Veneer Base; Natural Black Wood Vaulted Fluted Veneer Panel",
-        "sz": "Outer: 96\" x 39\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1T7w2eQ-PFkJJDv10WJ4ySiHW7gjfs1cP",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1GiJJK627hsfkXh9koZRjvUOwimvgG9GU",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "t": "",
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": "Black Finsh on Veneer"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082413",
         "prod": "Grandeur",
         "var": "Istanbul",
         "url": "https://i.ibb.co/VcQ720CL/0002.jpg",
@@ -5686,28 +5620,6 @@
           "c": "15-Jul-2025",
           "a": "",
           "rm": "metal structure will be given first"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082413",
-        "prod": "Phantom",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/ZGXx5hy/0001.jpg",
-        "cat": "Media Consoles",
-        "mat": "Natural Black Veneer Carcass; SCS 0015 16mm Plywood Internal Carcass; SCS 0015 16mm Plywood Shutter; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 60\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1ozkTgBxAZcsq7MpYDz6hy-PEp7yLiH4B",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1iZzXkXH0KFGewUog-hTP7yjT63fHDeig",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Jaybhai's Bedroom",
-        "v": {
-          "t": "",
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -12794,6 +12706,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-04T04:22:21.213Z"
+    "timestamp": "2025-08-04T04:38:44.333Z"
   }
 }
