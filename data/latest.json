@@ -5184,28 +5184,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "042504",
-        "prod": "Nebulith",
-        "var": "Victor",
-        "url": "https://i.ibb.co/201LPjNQ/Whats-App-Image-2025-04-04-at-21-46-57.jpg",
-        "cat": "Bookcases",
-        "mat": "Natural Wenge Veneer Carcass; RAL 3003 Ruby Red HDHMR Shelf; Natural Wenge Veneer Shutter; RAL 3003 Ruby Red HDHMR Shutter; Finish TBC 16mm Plywood Internal Carcass",
-        "sz": "Outer: 84\" x 16\" x 114\"",
-        "fld": "https://drive.google.com/drive/folders/1h3jLNz0qb6YsS2lNbGNKXxtKHycN6nTv",
-        "des": "Parth Gada",
-        "dl": "https://drive.google.com/drive/folders/1Dhd6xyXlnK5iShQO1uFDf7NgdW4rdHZt",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "052504",
         "prod": "Crucis",
         "var": "Theta",
@@ -12706,6 +12684,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-04T04:38:44.333Z"
+    "timestamp": "2025-08-04T04:52:20.061Z"
   }
 }
