@@ -5558,6 +5558,28 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "072512",
+        "prod": "Aetheris",
+        "var": "Dyson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250718_161739_709506_Screenshot_from_2025-07-18_16-16-17.jpg",
+        "cat": "Bookcases",
+        "mat": "Sparkle Silver (SP7159-HB) Mild Steel Frame; Merino Tahiti Teak 10803 SF Laminate Shelf; Merino Tahiti Teak 10803 SF Laminate Niche; RAL 3002 Carmine Red (PU) HDHMR Back Panel; RAL 3002 Carmine Red (PU) HDHMR Shelf",
+        "sz": "Outer: 72.5\" x 14\" x 93.5\"",
+        "fld": "https://drive.google.com/drive/folders/1OiVfll682oFz8CPZ2khjy-S95lN2QiWN",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1PtiHUNiXQfNeGZ3eYrvf1vR2uY9MWS61",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082413",
         "prod": "Grandeur",
         "var": "Istanbul",
@@ -7480,6 +7502,28 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072512",
+        "prod": "Aetheris",
+        "var": "Dyson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250718_161739_709506_Screenshot_from_2025-07-18_16-16-17.jpg",
+        "cat": "Bookcases",
+        "mat": "Sparkle Silver (SP7159-HB) Mild Steel Frame; Merino Tahiti Teak 10803 SF Laminate Shelf; Merino Tahiti Teak 10803 SF Laminate Niche; RAL 3002 Carmine Red (PU) HDHMR Back Panel; RAL 3002 Carmine Red (PU) HDHMR Shelf",
+        "sz": "Outer: 72.5\" x 14\" x 93.5\"",
+        "fld": "https://drive.google.com/drive/folders/1OiVfll682oFz8CPZ2khjy-S95lN2QiWN",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1PtiHUNiXQfNeGZ3eYrvf1vR2uY9MWS61",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082424",
         "prod": "Elderglow",
         "var": "Ferah",
@@ -7892,6 +7936,28 @@
         "dl": "https://drive.google.com/drive/folders/1fA0GU0z2ogkkKhp4uTTB9F0qO6nnFIbD",
         "q": 1,
         "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "072512",
+        "prod": "Aetheris",
+        "var": "Dyson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250718_161739_709506_Screenshot_from_2025-07-18_16-16-17.jpg",
+        "cat": "Bookcases",
+        "mat": "Sparkle Silver (SP7159-HB) Mild Steel Frame; Merino Tahiti Teak 10803 SF Laminate Shelf; Merino Tahiti Teak 10803 SF Laminate Niche; RAL 3002 Carmine Red (PU) HDHMR Back Panel; RAL 3002 Carmine Red (PU) HDHMR Shelf",
+        "sz": "Outer: 72.5\" x 14\" x 93.5\"",
+        "fld": "https://drive.google.com/drive/folders/1OiVfll682oFz8CPZ2khjy-S95lN2QiWN",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1PtiHUNiXQfNeGZ3eYrvf1vR2uY9MWS61",
+        "q": 1,
+        "pm": "Smruti Saraiya",
         "cr": "",
         "v": {
           "t": "",
@@ -12710,6 +12776,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T11:37:29.291Z"
+    "timestamp": "2025-08-05T11:54:01.408Z"
   }
 }
