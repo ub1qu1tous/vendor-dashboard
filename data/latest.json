@@ -7392,28 +7392,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072529",
-        "prod": "Davenport",
-        "var": "Xany",
-        "url": "https://i.ibb.co/7NrNw7Z/2-2-2.jpg",
-        "cat": "Console Tables",
-        "mat": "Mirror Buffing Banswada White Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 52\" x 10\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/15YCF73Euz1RHFo9f-uISszrQUgBODoQN",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Without Marble Top\nHeight Will be 36\"",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "6mm leveler buffer "
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "082424",
         "prod": "Elderglow",
         "var": "Ferah",
@@ -12364,6 +12342,30 @@
         "vendorDisplayName": "Mandap"
       }
     ],
+    "vishwas_steel_surat": [
+      {
+        "op": "072529",
+        "prod": "Davenport",
+        "var": "Xany",
+        "url": "https://i.ibb.co/7NrNw7Z/2-2-2.jpg",
+        "cat": "Console Tables",
+        "mat": "Mirror Buffing Banswada White Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 52\" x 10\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/15YCF73Euz1RHFo9f-uISszrQUgBODoQN",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Without Marble Top\nHeight Will be 36\"",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "6mm leveler buffer "
+        },
+        "vendorDisplayName": "Vishwas Steel Surat"
+      }
+    ],
     "rohan_parmar": [
       {
         "op": "102411",
@@ -12530,6 +12532,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T09:52:25.902Z"
+    "timestamp": "2025-08-05T10:07:47.532Z"
   }
 }
