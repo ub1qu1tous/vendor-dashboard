@@ -7327,6 +7327,28 @@
       },
       {
         "op": "072313",
+        "prod": "Odie",
+        "var": "Urban",
+        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "River Bianco Equador Top; Black Powder Coat Aluminium Base",
+        "sz": "Outer: 24\" x 24\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1kk64EV_9J8YXWeOAqHTO9L2OMF9gnkY5",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Deck Front GF Outdoor Accent Table",
+        "v": {
+          "t": "",
+          "c": "14-Aug-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "072313",
         "prod": "Silia",
         "var": "Zuri",
         "url": "https://i.ibb.co/nq0DmXhF/multi-centre.jpg",
@@ -7783,6 +7805,28 @@
         "q": 4,
         "pm": "Dilip Jangir",
         "cr": "Shipping will be To pay",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "072313",
+        "prod": "Odie",
+        "var": "Urban",
+        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "River Bianco Equador Top; Black Powder Coat Aluminium Base",
+        "sz": "Outer: 24\" x 24\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1kk64EV_9J8YXWeOAqHTO9L2OMF9gnkY5",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Deck Front GF Outdoor Accent Table",
         "v": {
           "t": "",
           "c": "",
@@ -12640,6 +12684,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T05:25:02.902Z"
+    "timestamp": "2025-08-05T05:38:35.673Z"
   }
 }
