@@ -8168,28 +8168,6 @@
         "vendorDisplayName": "Kamlesh Jangid"
       },
       {
-        "op": "072502",
-        "prod": "Miu",
-        "var": "Yukon",
-        "url": "https://i.ibb.co/dQHFPmJ/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Rio Collection Sr No 7 Ply & Foam Upholstery Structure; Antique Black Mild Steel Legs",
-        "sz": "Outer: 72\" x 30\" x 30\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1YXljmAYMdc4J2Skzhoj9R-uPFjYrwv5C",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1KZH4LcvoFBmjcxmRp5DfdM8mdzRuRE6G",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "9 metre fabric from client, Make the seating softer",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Legs Fitting"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
         "op": "082301",
         "prod": "Noriko",
         "var": "Ardor",
@@ -12552,6 +12530,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T07:07:23.551Z"
+    "timestamp": "2025-08-05T07:22:23.591Z"
   }
 }
