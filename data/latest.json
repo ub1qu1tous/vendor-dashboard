@@ -3063,7 +3063,7 @@
         "cr": "",
         "v": {
           "t": "02-Aug-2025",
-          "c": "04-Aug-2025",
+          "c": "07-Aug-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3085,9 +3085,31 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "20-Jul-2025",
+          "c": "06-Aug-2025",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052513",
+        "prod": "Lumyra",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
+        "cat": "Lamps",
+        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
+        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
+        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
+        "des": "Rohan Parmar",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "04-Aug-2025",
+          "c": "06-Aug-2025",
+          "a": "",
+          "rm": "fabric work for shade"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -3293,7 +3315,7 @@
         "op": "062529",
         "prod": "Zyverra",
         "var": "Terrano",
-        "url": "https://i.ibb.co/PzfbbYx0/Whats-App-Image-2025-06-30-at-3-54-10-PM.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250805_184023_303118_Terrano-3.jpg",
         "cat": "Ottomans",
         "mat": "F&F Divine Adorn Sesame Ply & Foam Upholstery Structure; Black PVC Legs",
         "sz": "Outer: 17\" x 17\" x 17\"",
@@ -9591,7 +9613,7 @@
         "op": "062529",
         "prod": "Zyverra",
         "var": "Terrano",
-        "url": "https://i.ibb.co/PzfbbYx0/Whats-App-Image-2025-06-30-at-3-54-10-PM.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250805_184023_303118_Terrano-3.jpg",
         "cat": "Ottomans",
         "mat": "F&F Divine Adorn Sesame Ply & Foam Upholstery Structure; Black PVC Legs",
         "sz": "Outer: 17\" x 17\" x 17\"",
@@ -9987,50 +10009,6 @@
       },
       {
         "op": "052513",
-        "prod": "Celviano",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/CK5BHvx3/image.png",
-        "cat": "Benches",
-        "mat": "Antique Grey White Oak Structure; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 48\" x 19\" x 24\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/13QoBlseHj_BlGis8KoA8Rtzf8n20tT52",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1icFcZXS1mQwZA-yC-vOL3r0GG2lst2qq",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "20-Jun-2025",
-          "c": "20-Jul-2025",
-          "a": "",
-          "rm": "Printed fabric"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "052513",
-        "prod": "Lumyra",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/Y7cyY0PD/image.png",
-        "cat": "Lamps",
-        "mat": "Gold PVD Stainless Steel 304 Matt Base; White Powder Coat Mild Steel Frame; Fabric TBC Canvas Upholstery Lamp Fitting; Gold PVD Stainless Steel 304 Matt Hardware; Natural Day Light (NDL) LED Bulb Light; Finish TBC Cotton Webbing Frills",
-        "sz": "Outer: 31\" x 31\" x 67\";\nShade: 22\" x 22\" x 5\"",
-        "fld": "https://drive.google.com/drive/folders/123I1ShE7MQIO2jJW0Npw_OtWdKzqtZME",
-        "des": "Rohan Parmar",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "16-Jul-2025",
-          "a": "",
-          "rm": "Lamp fabric"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "052513",
         "prod": "Manta",
         "var": "Stella",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250719_125544_177212_v05.jpg",
@@ -10253,7 +10231,7 @@
         "op": "062529",
         "prod": "Zyverra",
         "var": "Terrano",
-        "url": "https://i.ibb.co/PzfbbYx0/Whats-App-Image-2025-06-30-at-3-54-10-PM.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250805_184023_303118_Terrano-3.jpg",
         "cat": "Ottomans",
         "mat": "F&F Divine Adorn Sesame Ply & Foam Upholstery Structure; Black PVC Legs",
         "sz": "Outer: 17\" x 17\" x 17\"",
@@ -12710,6 +12688,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T12:54:34.465Z"
+    "timestamp": "2025-08-05T13:18:47.963Z"
   }
 }
