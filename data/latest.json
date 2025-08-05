@@ -8562,50 +8562,6 @@
           "rm": "Knob fitting, marble, buffer fitting"
         },
         "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "122423",
-        "prod": "Hancock",
-        "var": "Sven",
-        "url": "https://i.ibb.co/sdmY8Sng/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Mungo SRN 820 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 84\" x 40\" x 26\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1QGMurPPRVybUHoe-Dhq6bPKKUy6CxeBS",
-        "des": "Tarishi Rathore",
-        "dl": "https://drive.google.com/drive/folders/1gssyTM2j8FgsWaHd7WOeblwqviML1nvY",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "30-Jul-2025",
-          "a": "",
-          "rm": "Base Fitting"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "122423",
-        "prod": "Recoup",
-        "var": "Xavier",
-        "url": "https://i.ibb.co/Txq30JSM/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Mura Mura SRN 817 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 28\" x 29\" x 26\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1zVi63NBGFXWlOj3vkp-eurqexfgDBX8p",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1p7DxHiDXoLKUvwvt5slGYRLk4LJO0ozh",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "30-Jul-2025",
-          "a": "",
-          "rm": "Base Fitting"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
       }
     ],
     "surat_pvd": [
@@ -12596,6 +12552,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T06:52:22.604Z"
+    "timestamp": "2025-08-05T07:07:23.551Z"
   }
 }
