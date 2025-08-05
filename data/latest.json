@@ -1857,28 +1857,6 @@
       },
       {
         "op": "112411",
-        "prod": "Eduardo",
-        "var": "Yorker",
-        "url": "https://i.ibb.co/Kc9MZ3WT/0002.jpg",
-        "cat": "Beds",
-        "mat": "White Wash Sheesham Structure; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 76.5\" x 82.5\" x 57\", Seat Height: 24\";\nMattress: 72\" x 78\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1JmF83eBYz1rKwzLEkZKE1KUTpwclsW4f",
-        "des": "Parthsarthi Suthar",
-        "dl": "https://drive.google.com/drive/folders/1HELRMWY9q0y3-2a6AVZQGXZKLtp8n-UJ",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Bed",
-        "v": {
-          "t": "",
-          "c": "29-Jun-2025",
-          "a": "",
-          "rm": "white wash sheesham  bed"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "112411",
         "prod": "Minsitthar",
         "var": "Oren",
         "url": "https://i.ibb.co/N2ktgms2/0002.jpg",
@@ -4711,28 +4689,6 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Master Bedroom Bench",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122415",
-        "prod": "Jellify",
-        "var": "Raxia",
-        "url": "https://i.ibb.co/v4PdrPvx/Screenshot-2025-04-05-094401.png",
-        "cat": "Sectional Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Black Powder Coat Mild Steel Sofa Bed Fitting",
-        "sz": "Outer: 94\" x 34\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1H_SAEzw6_Sht4Mh54xCMwTcIz9TIzL-K",
-        "des": "Maulik Parmar",
-        "dl": "https://drive.google.com/drive/folders/1Mqo1ETtqYr2boxqWa6I7PR8mGdRiJxCP?usp=sharing",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Sectional Sofa",
         "v": {
           "t": "",
           "c": "",
@@ -10644,28 +10600,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "122415",
-        "prod": "Jellify",
-        "var": "Raxia",
-        "url": "https://i.ibb.co/v4PdrPvx/Screenshot-2025-04-05-094401.png",
-        "cat": "Sectional Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Black Powder Coat Mild Steel Sofa Bed Fitting",
-        "sz": "Outer: 94\" x 34\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1H_SAEzw6_Sht4Mh54xCMwTcIz9TIzL-K",
-        "des": "Maulik Parmar",
-        "dl": "https://drive.google.com/drive/folders/1Mqo1ETtqYr2boxqWa6I7PR8mGdRiJxCP?usp=sharing",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Sectional Sofa",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "order to jatin bhai"
-        },
-        "vendorDisplayName": "Aavaran"
       }
     ],
     "the_lighting_studio": [
@@ -12542,28 +12476,6 @@
           "rm": "ready made legs 4 pc"
         },
         "vendorDisplayName": "FS Sofa Legs"
-      },
-      {
-        "op": "122415",
-        "prod": "Jellify",
-        "var": "Raxia",
-        "url": "https://i.ibb.co/v4PdrPvx/Screenshot-2025-04-05-094401.png",
-        "cat": "Sectional Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Black Powder Coat Mild Steel Sofa Bed Fitting",
-        "sz": "Outer: 94\" x 34\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1H_SAEzw6_Sht4Mh54xCMwTcIz9TIzL-K",
-        "des": "Maulik Parmar",
-        "dl": "https://drive.google.com/drive/folders/1Mqo1ETtqYr2boxqWa6I7PR8mGdRiJxCP?usp=sharing",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Sectional Sofa",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "sofa cum bed fitting"
-        },
-        "vendorDisplayName": "FS Sofa Legs"
       }
     ],
     "chandrabhan": [
@@ -12684,6 +12596,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-05T06:22:24.165Z"
+    "timestamp": "2025-08-05T06:37:22.570Z"
   }
 }
