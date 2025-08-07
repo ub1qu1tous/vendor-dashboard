@@ -7217,28 +7217,6 @@
       },
       {
         "op": "062506",
-        "prod": "Cloaked",
-        "var": "Brume",
-        "url": "https://i.ibb.co/5gsm80xj/Whats-App-Image-2025-06-07-at-12-38-17-6a45aee3.jpg",
-        "cat": "Bookcases",
-        "mat": "RAL 7022 Umbra Grey Mild Steel Frame; Natural Walnut Veneer Panel",
-        "sz": "Outer: 96.85\" x 15.98\" x 125.19\"",
-        "fld": "https://drive.google.com/drive/folders/1Tss4vgLnRY2L7xUZOEbVJ79CUBfXcDNI",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1hSfvFw9KQJbC2YjIIttuZNuPYiVC3n1B",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "08-Jul-2025",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062506",
         "prod": "Sway",
         "var": "Junior",
         "url": "https://i.ibb.co/xtjdsxGC/Whats-App-Image-2025-06-23-at-15-01-35-dfe4e24f.jpg",
@@ -12482,74 +12460,6 @@
         "vendorDisplayName": "FS Sofa Legs"
       }
     ],
-    "chandrabhan": [
-      {
-        "op": "122401",
-        "prod": "Glasswing",
-        "var": "Sparkle",
-        "url": "https://i.ibb.co/FLVFmB0j/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Deluxe-100 Gothic Grey 16mm Plywood Carcass; Extra Clear 4mm Glass Mirror; Krayon A-104 Dark Grey Acrylic Solid Surface Panel",
-        "sz": "Outer: 78\" x 3.5\" x 47\"",
-        "fld": "https://drive.google.com/drive/folders/1TWyMl2ZsepjGRzvfXtC4ZBc7gYVEOHaL",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1XugC_vhCVeSULiRakZM0Y0NTS2oB_6MP",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "will by corian once client confirms with DV."
-        },
-        "vendorDisplayName": "Chandrabhan"
-      },
-      {
-        "op": "122401",
-        "prod": "Stag",
-        "var": "Robin",
-        "url": "https://i.ibb.co/SD4j8xV5/0001.jpg",
-        "cat": "Smart Mirrors",
-        "mat": "Krayon A-104 Dark Grey Acrylic Solid Surface Panel; Clear 4mm Glass Mirror; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; RAL 3013 Tomato Red HDHMR Niche",
-        "sz": "Outer: 56\" x 7\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1UkPdJeGB4toFwveIKSgu2qSlD05BRaRZ",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1hUDixHnVml32YuAdkcbKjyTB58NqiSn7",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "will by corian once client confirms with DV."
-        },
-        "vendorDisplayName": "Chandrabhan"
-      },
-      {
-        "op": "122401",
-        "prod": "Stag",
-        "var": "Spykar",
-        "url": "https://i.ibb.co/ycC6tjWB/0002.jpg",
-        "cat": "Console Tables",
-        "mat": "Krayon A-104 Dark Grey 16mm Plywood Structure",
-        "sz": "Outer: 56\" x 20\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1oQzG-hqhFBlVJApj4CNq83LkkgOPi0-J",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1LuQW7b1NiS3thP4iAbzbXo5f0ycWxEAH",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "will by corian once client confirms with DV."
-        },
-        "vendorDisplayName": "Chandrabhan"
-      }
-    ],
     "umang_glass_elements": [
       {
         "op": "122401",
@@ -12572,6 +12482,30 @@
           "rm": "14/6/2025 - Today praveenbhai will go to vipra to check making of glass"
         },
         "vendorDisplayName": "Umang Glass Elements"
+      }
+    ],
+    "chandrabhan": [
+      {
+        "op": "122401",
+        "prod": "Stag",
+        "var": "Robin",
+        "url": "https://i.ibb.co/SD4j8xV5/0001.jpg",
+        "cat": "Smart Mirrors",
+        "mat": "Krayon A-104 Dark Grey Acrylic Solid Surface Panel; Clear 4mm Glass Mirror; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; RAL 3013 Tomato Red HDHMR Niche",
+        "sz": "Outer: 56\" x 7\" x 45\"",
+        "fld": "https://drive.google.com/drive/folders/1UkPdJeGB4toFwveIKSgu2qSlD05BRaRZ",
+        "des": "Darshan Desai",
+        "dl": "https://drive.google.com/drive/folders/1hUDixHnVml32YuAdkcbKjyTB58NqiSn7",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "31-Jul-2025",
+          "a": "",
+          "rm": "will by corian once client confirms with DV."
+        },
+        "vendorDisplayName": "Chandrabhan"
       }
     ],
     "divine": [
@@ -12600,6 +12534,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-07T05:07:22.699Z"
+    "timestamp": "2025-08-07T05:22:26.282Z"
   }
 }
