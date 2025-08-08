@@ -4126,6 +4126,28 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "072528",
+        "prod": "Dolce",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/YhTrFm2/Quizzy-6.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Suncity Recycled Teak Frame; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 30\" x 33\" x 32\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1-YwIvhYIUPO7BBkZuO-iCOIJSLdhbR60",
+        "des": "Shivani Oza",
+        "dl": "https://drive.google.com/drive/folders/1OQQNkExTmvOsM8J5kC98voZufmOmMuWa",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "072529",
         "prod": "Herbie",
         "var": "Evan",
@@ -12710,6 +12732,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-08T04:37:26.878Z"
+    "timestamp": "2025-08-08T04:52:29.360Z"
   }
 }
