@@ -1163,7 +1163,7 @@
         "des": "",
         "dl": "https://drive.google.com/drive/u/0/folders/1A_Xzcbf_rDV8akp5-7rZZjDOKynyo5ax",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -1185,7 +1185,7 @@
         "des": "Parth Gada",
         "dl": "https://drive.google.com/drive/u/0/folders/1oQOxB1eyvTj-EZll9QWLG1fa8g4LmF05",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -4093,7 +4093,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/1ih0e5qbefOX7pA90hiksEML2fpDu8Kho",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -4115,7 +4115,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/10KJS18HKwhebIgvzDPyBzazFzHnxOp0G",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -4137,7 +4137,7 @@
         "des": "Shivani Oza",
         "dl": "https://drive.google.com/drive/folders/1EKkpM-CxhvTzdkMhoPwxwSPxK_V1sbN8",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -4159,7 +4159,7 @@
         "des": "",
         "dl": "",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -4181,7 +4181,7 @@
         "des": "Shivani Oza",
         "dl": "https://drive.google.com/drive/folders/1OQQNkExTmvOsM8J5kC98voZufmOmMuWa",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -4203,13 +4203,57 @@
         "des": "Parth Gada",
         "dl": "https://drive.google.com/drive/u/0/folders/1oQOxB1eyvTj-EZll9QWLG1fa8g4LmF05",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
           "c": "",
           "a": "",
           "rm": "Fabric Change"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072528",
+        "prod": "Odin",
+        "var": "Dolma",
+        "url": "https://i.ibb.co/NngLXNX/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Elephanta Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Arezzo Sherwood No 07 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 22.5\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1o6EIczuazlNczt1W9fdfqiMu3q_vhPnH",
+        "des": "Saniya Deshpande",
+        "dl": "https://drive.google.com/drive/folders/1iePxsRhVzDeoKsBzLqfWLkmsWsJ2ogUE?usp=share_link",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072528",
+        "prod": "Rieger",
+        "var": "Bawra",
+        "url": "https://i.ibb.co/MfStLVF/Screenshot-2024-12-31-150003.jpg",
+        "cat": "Credenzas",
+        "mat": "Harvest Teak Veneer Internal Carcass; Harvest Indian Teak Shutter; Harvest Indian Teak Carcass; Extra Clear 4mm Glass Mirror; Brown Tinted 8mm Glass Shelf; Gold PVD Stainless Steel 202 Matt Handle; Fabric TBC 18mm Plywood Niche; Fabric TBC 18mm Plywood Mounting; Gold PVD Stainless Steel 304 Matt Mounting; Antique Brass Stainless Steel 304 Matt Base",
+        "sz": "Outer: 45\" x 21.3\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1whl9M2-YA9qZGjnYY-zIkHg9vH--uzjt",
+        "des": "Kapil Grover",
+        "dl": "https://drive.google.com/drive/u/1/folders/1viF9C2p82-Pn22AS5THtxxjV1nbpB_z8",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Upholstrery change"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -5745,13 +5789,35 @@
         "des": "Parth Gada",
         "dl": "https://drive.google.com/drive/folders/1Z8-8ZYg8OEimRBpVdgZOPFd8vO9Kw_aD",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
           "c": "",
           "a": "",
           "rm": "1 Leg PU, Rest polish"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072528",
+        "prod": "Rieger",
+        "var": "Bawra",
+        "url": "https://i.ibb.co/MfStLVF/Screenshot-2024-12-31-150003.jpg",
+        "cat": "Credenzas",
+        "mat": "Harvest Teak Veneer Internal Carcass; Harvest Indian Teak Shutter; Harvest Indian Teak Carcass; Extra Clear 4mm Glass Mirror; Brown Tinted 8mm Glass Shelf; Gold PVD Stainless Steel 202 Matt Handle; Fabric TBC 18mm Plywood Niche; Fabric TBC 18mm Plywood Mounting; Gold PVD Stainless Steel 304 Matt Mounting; Antique Brass Stainless Steel 304 Matt Base",
+        "sz": "Outer: 45\" x 21.3\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1whl9M2-YA9qZGjnYY-zIkHg9vH--uzjt",
+        "des": "Kapil Grover",
+        "dl": "https://drive.google.com/drive/u/1/folders/1viF9C2p82-Pn22AS5THtxxjV1nbpB_z8",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Alignment, Polish and Touchup"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -7689,7 +7755,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/1ih0e5qbefOX7pA90hiksEML2fpDu8Kho",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -7711,7 +7777,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/10KJS18HKwhebIgvzDPyBzazFzHnxOp0G",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -7733,7 +7799,7 @@
         "des": "",
         "dl": "https://drive.google.com/drive/u/0/folders/1A_Xzcbf_rDV8akp5-7rZZjDOKynyo5ax",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -7955,7 +8021,7 @@
         "des": "",
         "dl": "https://drive.google.com/drive/u/0/folders/1A_Xzcbf_rDV8akp5-7rZZjDOKynyo5ax",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -8221,7 +8287,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/1ih0e5qbefOX7pA90hiksEML2fpDu8Kho",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -8243,7 +8309,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/10KJS18HKwhebIgvzDPyBzazFzHnxOp0G",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -8265,7 +8331,7 @@
         "des": "",
         "dl": "https://drive.google.com/drive/u/0/folders/1A_Xzcbf_rDV8akp5-7rZZjDOKynyo5ax",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -8973,7 +9039,7 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/1ih0e5qbefOX7pA90hiksEML2fpDu8Kho",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -8995,13 +9061,35 @@
         "des": "Atharva Kelkar",
         "dl": "https://drive.google.com/drive/folders/10KJS18HKwhebIgvzDPyBzazFzHnxOp0G",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072528",
+        "prod": "Rieger",
+        "var": "Bawra",
+        "url": "https://i.ibb.co/MfStLVF/Screenshot-2024-12-31-150003.jpg",
+        "cat": "Credenzas",
+        "mat": "Harvest Teak Veneer Internal Carcass; Harvest Indian Teak Shutter; Harvest Indian Teak Carcass; Extra Clear 4mm Glass Mirror; Brown Tinted 8mm Glass Shelf; Gold PVD Stainless Steel 202 Matt Handle; Fabric TBC 18mm Plywood Niche; Fabric TBC 18mm Plywood Mounting; Gold PVD Stainless Steel 304 Matt Mounting; Antique Brass Stainless Steel 304 Matt Base",
+        "sz": "Outer: 45\" x 21.3\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1whl9M2-YA9qZGjnYY-zIkHg9vH--uzjt",
+        "des": "Kapil Grover",
+        "dl": "https://drive.google.com/drive/u/1/folders/1viF9C2p82-Pn22AS5THtxxjV1nbpB_z8",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "recoating"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -10061,7 +10149,7 @@
         "des": "Tarishi Rathore",
         "dl": "https://drive.google.com/drive/u/0/folders/1L_TxAMEcC-IG6gDOyKv_gESqwM_arKKv",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -10083,13 +10171,13 @@
         "des": "Parth Gada",
         "dl": "https://drive.google.com/drive/u/1/folders/1GZEPQN5veYyoIWIO8UqQBicbnf0Xz3q-",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Leg in stock, and Top from damaged marble"
         },
         "vendorDisplayName": "aws"
       },
@@ -11016,7 +11104,7 @@
         "pm": "Rohan Parmar",
         "cr": "Give Dimension for fixing hardware with the ceiling to the client",
         "v": {
-          "t": "",
+          "t": "08-Aug-2025",
           "c": "",
           "a": "",
           "rm": "internal structure in ply; Fitting at Site"
@@ -11194,28 +11282,6 @@
         "v": {
           "t": "",
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
-        "prod": "Estuary",
-        "var": "Serbonia",
-        "url": "https://i.ibb.co/PGYgKJsR/0001.jpg",
-        "cat": "Pillars",
-        "mat": "Natural Recycled Teak Structure",
-        "sz": "Outer: 8\" x 8\" x 102.36\"",
-        "fld": "https://drive.google.com/drive/folders/1whIw5te_cZ29ruaKsGN4JE93ygWBRk3J",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/16gzL5u6nAlv0GVyjmygl2MeumtBWPdMF",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Pillar ; Wooden pillar acting as an aesthetic sculpture beside the swing",
-        "v": {
-          "t": "22-Jul-2025",
-          "c": "27-Jul-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -12161,7 +12227,7 @@
         "des": "Priya Patel",
         "dl": "https://drive.google.com/drive/u/0/folders/1JGgpJC7IG5AfxyIgMlJvfqhEQ89JtciG",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -12183,7 +12249,7 @@
         "des": "Lavanya Nagpal",
         "dl": "https://drive.google.com/drive/folders/105bng2jQKEhDcn3QDPhcs_LSg6zHsoJc",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -12205,7 +12271,7 @@
         "des": "Lavanya Nagpal",
         "dl": "https://drive.google.com/drive/u/0/folders/1rPOelyBs0mJBR4s0nuL0avhdF2PAWD8Q",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
@@ -12227,13 +12293,35 @@
         "des": "Parth Gada",
         "dl": "https://drive.google.com/drive/u/1/folders/1GZEPQN5veYyoIWIO8UqQBicbnf0Xz3q-",
         "q": 1,
-        "pm": "Rohan Parmar",
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "t": "",
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "072528",
+        "prod": "Odin",
+        "var": "Dolma",
+        "url": "https://i.ibb.co/NngLXNX/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Elephanta Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Arezzo Sherwood No 07 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 22.5\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1o6EIczuazlNczt1W9fdfqiMu3q_vhPnH",
+        "des": "Saniya Deshpande",
+        "dl": "https://drive.google.com/drive/folders/1iePxsRhVzDeoKsBzLqfWLkmsWsJ2ogUE?usp=share_link",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "repolishing"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -13062,6 +13150,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-08T06:39:16.801Z"
+    "timestamp": "2025-08-08T06:55:10.038Z"
   }
 }
