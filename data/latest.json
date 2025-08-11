@@ -426,6 +426,28 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "062505",
+        "prod": "Bower",
+        "var": "Vesper",
+        "url": "https://i.ibb.co/K5k6Cvq/v02-1.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Black Distressed/Charcoal Sheesham Top; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 42\" x 22\" x 12.5\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1tcaU3B3NnLrEwcGxytn3yUagPuIIxnqW",
+        "des": "",
+        "dl": "https://drive.google.com/drive/u/0/folders/1Mft5jq4kNIWzxQwpXNKLV-TRli3Xrl63",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "25-Aug-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "062508",
         "prod": "Ayana",
         "var": "Faani",
@@ -9916,6 +9938,28 @@
         "vendorDisplayName": "Nishant CNC"
       },
       {
+        "op": "062505",
+        "prod": "Bower",
+        "var": "Vesper",
+        "url": "https://i.ibb.co/K5k6Cvq/v02-1.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Black Distressed/Charcoal Sheesham Top; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 42\" x 22\" x 12.5\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1tcaU3B3NnLrEwcGxytn3yUagPuIIxnqW",
+        "des": "",
+        "dl": "https://drive.google.com/drive/u/0/folders/1Mft5jq4kNIWzxQwpXNKLV-TRli3Xrl63",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
         "op": "102416",
         "prod": "Goliath",
         "var": "Esquire",
@@ -13150,6 +13194,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-11T05:40:17.964Z"
+    "timestamp": "2025-08-11T05:55:54.711Z"
   }
 }
