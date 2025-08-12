@@ -10532,6 +10532,28 @@
         "vendorDisplayName": "Nishant CNC"
       },
       {
+        "op": "102411",
+        "prod": "Driftbloom",
+        "var": "Livia",
+        "url": "https://i.ibb.co/7NxYfXBC/Screenshot-2025-04-03-121300.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Baroda Green Marble Top; Finish TBC Indian Teak Base",
+        "sz": "Outer: 18\" x 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1XzrhkLk9R7T5lLhN6Ksb1YFYc6rRgFO4",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1oibJx4GGBkJhvWJLOTChXJ1yq7MDhjKD",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Accent Table ; Accent table paired with the coffee table",
+        "v": {
+          "t": "01-Aug-2025",
+          "c": "04-Aug-2025",
+          "a": "04-Aug-2025",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
         "op": "102416",
         "prod": "Goliath",
         "var": "Esquire",
@@ -11765,7 +11787,7 @@
         "cr": "Give Dimension for fixing hardware with the ceiling to the client",
         "v": {
           "t": "08-Aug-2025",
-          "c": "",
+          "c": "14-Aug-2025",
           "a": "",
           "rm": "internal structure in ply; Fitting at Site"
         },
@@ -14008,6 +14030,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-12T04:52:22.868Z"
+    "timestamp": "2025-08-12T05:07:24.803Z"
   }
 }
