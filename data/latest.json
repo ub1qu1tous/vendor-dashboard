@@ -10328,28 +10328,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "072505",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Natural White Oak Top; Black Matt Sheesham Base",
-        "sz": "Outer: 48\" x 30\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "https://drive.google.com/drive/folders/1FdFED4VUQtzheC2I9YcQ2WcwMnTouZ32",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "082501",
         "prod": "Nestle",
         "var": "Amada",
@@ -14404,6 +14382,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-14T09:52:28.742Z"
+    "timestamp": "2025-08-14T10:07:25.267Z"
   }
 }
