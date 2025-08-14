@@ -3884,28 +3884,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "072420",
-        "prod": "Poseidon",
-        "var": "Malana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250730_104823_415246_0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Natural Burma Border Teak Frame; Fabric TBC Ply & Foam Upholstery Structure",
-        "sz": "Outer: 29\" x 26\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
-        "des": "Hetvi Shah",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "072501",
         "prod": "Capsicum",
         "var": "Evan",
@@ -14426,6 +14404,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-14T08:22:23.488Z"
+    "timestamp": "2025-08-14T08:37:24.607Z"
   }
 }
