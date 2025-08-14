@@ -10194,272 +10194,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "vittal_wood_tech": [
-      {
-        "op": "032523",
-        "prod": "Clover",
-        "var": "Graysen",
-        "url": "https://i.ibb.co/WNLWvtVy/Screenshot-2025-06-14-154503.png",
-        "cat": "Lamps",
-        "mat": "Natural White Oak Structure; Natural Walnut Veneer Carcass; Finish TBC 16mm Plywood Support; Warm White LED Light Light; Warm White LED Light Bulb; Finish TBC Mild Steel Lamp Fitting",
-        "sz": "Outer: 84\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1mAh8icuC0dJGxD_0k3Mm-WShpOGphSrw",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1wQ07DEPkhGVkwfVpzJ_hv4cpG2GEinLq",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Light Sample Developement"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052503",
-        "prod": "Ariselle",
-        "var": "Gia",
-        "url": "https://i.ibb.co/4nNwCTbf/image.png",
-        "cat": "Benches",
-        "mat": "Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Structure; Natural Recycled Teak Seat; Black PVD Stainless Steel 304 Matt Shelf; Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Legs",
-        "sz": "Outer: 74\" x 20\" x 24\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1AuoQkvkFV7wWy3W5f3Rv8mtg5oqwUh5O",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1YcMFB2Uvunemclq7tRvemOM_JkeLIPjW",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "15-Jul-2025",
-          "c": "20-Jul-2025",
-          "a": "",
-          "rm": "HDHMR sq. box sent to vadodara, round box,"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062510",
-        "prod": "Flurry",
-        "var": "Felipe",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1WYK5vvjb400BJoiHKamw1SKpnjYaOrme",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Need one sample first, And final chairs will be needed by 30th Aug"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Halo",
-        "var": "Serene",
-        "url": "https://i.ibb.co/wh6j86tb/candle.jpg",
-        "cat": "Accessories",
-        "mat": "Suncity Indian Teak Structure",
-        "sz": "Outer: 4.5\" x 2\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1i-73-w7pO_FA3SXwTzuJeEW2vS4MiGum",
-        "des": "Vikas Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Hush",
-        "var": "Raver",
-        "url": "https://i.ibb.co/sXd9tZV/Whats-App-Image-2025-06-09-at-2-35-48-PM.jpg",
-        "cat": "Accessories",
-        "mat": "Suncity Sheesham Top",
-        "sz": "Outer: 6.3\" x 4.9\" x 0.8\"",
-        "fld": "https://drive.google.com/drive/folders/1W-nkaYanLOqzeOoHKFmsWVh0ckg4qkXd",
-        "des": "Vikas Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Muse",
-        "var": "Tuscany",
-        "url": "https://i.ibb.co/99SyG74S/Whats-App-Image-2025-06-09-at-2-16-21-PM.jpg",
-        "cat": "Accessories",
-        "mat": "Natural Burma Border Teak Structure; Natural Day Light (NDL) Flexible LED Light",
-        "sz": "Outer: 10\" x 6.5\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1IdFdaThEjRBUndHUicnpkW-QQJJWzyYo",
-        "des": "Vikas Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082501",
-        "prod": "Nestle",
-        "var": "Amada",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250806_162945_097244_Screenshot_2025-08-06_162747.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Matt White Oak Top; Black Matt Oak Veneer Base",
-        "sz": "Outer: 30\" x 30\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1NRcMVYFElOQcCFOKDKCrp3w9IIvnPixK",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1CubPKUWJkAS0t7sVshAkCrp813IxVa49",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "13-Aug-2025",
-          "a": "",
-          "rm": "Delivery Jodhpur; Veneer from AWS"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082501",
-        "prod": "Nestle",
-        "var": "Atrica",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250806_163008_923852_Screenshot_2025-08-06_162909.png",
-        "cat": "Coffee Tables",
-        "mat": "Natural White Oak Top; Natural Oak Veneer Base",
-        "sz": "Outer: 24\" x 24\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1WmSdA3ughAlpjOKgMErdf1Zammvjjdab",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1ioReORMpWcF7Av5OtwI7ZhRCfg9jw8RW",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "13-Aug-2025",
-          "a": "",
-          "rm": "Delivery Jodhpur; Veneer from AWS"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Belize",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
-        "cat": "Coffee Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
-        "sz": "Outer: 42\" x 21\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/16HVMRS-csucfz9uTeLkJl-7_caR3GASG",
-        "des": "",
-        "dl": "Yes",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "13-Aug-2025",
-          "a": "",
-          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Coca",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
-        "cat": "Coffee Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
-        "sz": "Outer: TBC\" x TBC\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1D7uyriJ3pTPEcuLCqYhwJcbHK1ScQvbI",
-        "des": "",
-        "dl": "Yes",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "13-Aug-2025",
-          "a": "",
-          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Dabster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
-        "sz": "Outer: TBC\" x TBC\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1f68WzwkfmQ32TTaJsgQ_va9g26fpIDyc",
-        "des": "",
-        "dl": "Yes",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "13-Aug-2025",
-          "a": "",
-          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Erken",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
-        "sz": "Outer: 24\" x 24\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1jDFtAL5CR9cRu7yz7Jk_-K187nmfdOJE",
-        "des": "",
-        "dl": "Yes",
-        "q": 3,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "13-Aug-2025",
-          "a": "",
-          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      }
-    ],
     "vishwakarma_glass": [
       {
         "op": "052318",
@@ -12098,6 +11832,228 @@
           "rm": "bulb, holder and metal work"
         },
         "vendorDisplayName": "The Lighting Studio"
+      }
+    ],
+    "vittal_wood_tech": [
+      {
+        "op": "062510",
+        "prod": "Flurry",
+        "var": "Felipe",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
+        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
+        "des": "Tanmay Shah",
+        "dl": "https://drive.google.com/drive/folders/1WYK5vvjb400BJoiHKamw1SKpnjYaOrme",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Need one sample first, And final chairs will be needed by 30th Aug"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062527",
+        "prod": "Halo",
+        "var": "Serene",
+        "url": "https://i.ibb.co/wh6j86tb/candle.jpg",
+        "cat": "Accessories",
+        "mat": "Suncity Indian Teak Structure",
+        "sz": "Outer: 4.5\" x 2\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1i-73-w7pO_FA3SXwTzuJeEW2vS4MiGum",
+        "des": "Vikas Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "27-Jun-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062527",
+        "prod": "Hush",
+        "var": "Raver",
+        "url": "https://i.ibb.co/sXd9tZV/Whats-App-Image-2025-06-09-at-2-35-48-PM.jpg",
+        "cat": "Accessories",
+        "mat": "Suncity Sheesham Top",
+        "sz": "Outer: 6.3\" x 4.9\" x 0.8\"",
+        "fld": "https://drive.google.com/drive/folders/1W-nkaYanLOqzeOoHKFmsWVh0ckg4qkXd",
+        "des": "Vikas Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "27-Jun-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062527",
+        "prod": "Muse",
+        "var": "Tuscany",
+        "url": "https://i.ibb.co/99SyG74S/Whats-App-Image-2025-06-09-at-2-16-21-PM.jpg",
+        "cat": "Accessories",
+        "mat": "Natural Burma Border Teak Structure; Natural Day Light (NDL) Flexible LED Light",
+        "sz": "Outer: 10\" x 6.5\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1IdFdaThEjRBUndHUicnpkW-QQJJWzyYo",
+        "des": "Vikas Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "t": "27-Jun-2025",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082501",
+        "prod": "Nestle",
+        "var": "Amada",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250806_162945_097244_Screenshot_2025-08-06_162747.png",
+        "cat": "Coffee Tables",
+        "mat": "Black Matt White Oak Top; Black Matt Oak Veneer Base",
+        "sz": "Outer: 30\" x 30\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/1NRcMVYFElOQcCFOKDKCrp3w9IIvnPixK",
+        "des": "Tanmay Shah",
+        "dl": "https://drive.google.com/drive/folders/1CubPKUWJkAS0t7sVshAkCrp813IxVa49",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "13-Aug-2025",
+          "a": "",
+          "rm": "Delivery Jodhpur; Veneer from AWS"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082501",
+        "prod": "Nestle",
+        "var": "Atrica",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250806_163008_923852_Screenshot_2025-08-06_162909.png",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Natural Oak Veneer Base",
+        "sz": "Outer: 24\" x 24\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1WmSdA3ughAlpjOKgMErdf1Zammvjjdab",
+        "des": "Tanmay Shah",
+        "dl": "https://drive.google.com/drive/folders/1ioReORMpWcF7Av5OtwI7ZhRCfg9jw8RW",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "13-Aug-2025",
+          "a": "",
+          "rm": "Delivery Jodhpur; Veneer from AWS"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082501",
+        "prod": "Olyvion",
+        "var": "Belize",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
+        "cat": "Coffee Tables",
+        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
+        "sz": "Outer: 42\" x 21\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/16HVMRS-csucfz9uTeLkJl-7_caR3GASG",
+        "des": "",
+        "dl": "Yes",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "13-Aug-2025",
+          "a": "",
+          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082501",
+        "prod": "Olyvion",
+        "var": "Coca",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
+        "cat": "Coffee Tables",
+        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
+        "sz": "Outer: TBC\" x TBC\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1D7uyriJ3pTPEcuLCqYhwJcbHK1ScQvbI",
+        "des": "",
+        "dl": "Yes",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "13-Aug-2025",
+          "a": "",
+          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082501",
+        "prod": "Olyvion",
+        "var": "Dabster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
+        "cat": "Accent Tables",
+        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
+        "sz": "Outer: TBC\" x TBC\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1f68WzwkfmQ32TTaJsgQ_va9g26fpIDyc",
+        "des": "",
+        "dl": "Yes",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "13-Aug-2025",
+          "a": "",
+          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082501",
+        "prod": "Olyvion",
+        "var": "Erken",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_103127_233922_WhatsApp_Image_2025-07-29_at_2_49_50_PM.jpeg",
+        "cat": "Accent Tables",
+        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
+        "sz": "Outer: 24\" x 24\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1jDFtAL5CR9cRu7yz7Jk_-K187nmfdOJE",
+        "des": "",
+        "dl": "Yes",
+        "q": 3,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "13-Aug-2025",
+          "a": "",
+          "rm": "Delivery Jodhpur; Brass Inlay Material from AWS"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "chhoturam": [
@@ -14382,6 +14338,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-14T10:07:25.267Z"
+    "timestamp": "2025-08-14T10:22:25.139Z"
   }
 }
