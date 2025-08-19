@@ -7854,50 +7854,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "052503",
-        "prod": "Ariselle",
-        "var": "Gia",
-        "url": "https://i.ibb.co/4nNwCTbf/image.png",
-        "cat": "Benches",
-        "mat": "Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Structure; Natural Recycled Teak Seat; Black PVD Stainless Steel 304 Matt Shelf; Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Legs",
-        "sz": "Outer: 74\" x 20\" x 24\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1AuoQkvkFV7wWy3W5f3Rv8mtg5oqwUh5O",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1YcMFB2Uvunemclq7tRvemOM_JkeLIPjW",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "16-Jul-2025",
-          "c": "20-Jul-2025",
-          "a": "",
-          "rm": "SS Matt dia 25mm pipe 3 pcs with both side bush with 8mm thread"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062506",
-        "prod": "Sway",
-        "var": "Junior",
-        "url": "https://i.ibb.co/xtjdsxGC/Whats-App-Image-2025-06-23-at-15-01-35-dfe4e24f.jpg",
-        "cat": "Storage Cabinets",
-        "mat": "Egger F186 ST9 Light Grey Chicago Concrete Pre-Laminated  Engineered Wood Carcass; Egger F186 ST9 Light Grey Chicago Concrete Pre-Laminated  Engineered Wood Internal Carcass; Egger F186 ST9 Light Grey Chicago Concrete Pre-Laminated  Engineered Wood Shutter; Egger F186 ST9 Light Grey Chicago Concrete Pre-Laminated  Engineered Wood Drawer; Simpolo Spectra Wine Ceramic Tile Top; RAL 3013 Tomato Red Mild Steel Niche",
-        "sz": "Outer: 44\" x 20\" x 111\"",
-        "fld": "https://drive.google.com/drive/folders/1G1Cg7Iei2aIX92giXtqscwMvkTsplCI0",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1KpX8N8Alo8KTRTKLDc7psY7zvYKoPrfl",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "062510",
         "prod": "Jurell",
         "var": "Ginette",
@@ -13810,6 +13766,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-19T05:07:24.413Z"
+    "timestamp": "2025-08-19T05:22:28.094Z"
   }
 }
