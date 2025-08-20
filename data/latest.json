@@ -9358,28 +9358,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "052503",
-        "prod": "Ariselle",
-        "var": "Gia",
-        "url": "https://i.ibb.co/4nNwCTbf/image.png",
-        "cat": "Benches",
-        "mat": "Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Structure; Natural Recycled Teak Seat; Black PVD Stainless Steel 304 Matt Shelf; Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Legs",
-        "sz": "Outer: 74\" x 20\" x 24\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1AuoQkvkFV7wWy3W5f3Rv8mtg5oqwUh5O",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1YcMFB2Uvunemclq7tRvemOM_JkeLIPjW",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "BLACK PVD"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "072313",
         "prod": "Endsville",
         "var": "Sigma",
@@ -13744,6 +13722,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-20T15:24:04.908Z"
+    "timestamp": "2025-08-20T15:37:24.302Z"
   }
 }
