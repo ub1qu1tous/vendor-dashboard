@@ -1858,28 +1858,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "072517",
-        "prod": "Thirelle",
-        "var": "Elvis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_164251_034543_Screenshot_2025-08-01_164205.png",
-        "cat": "Benches",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC Laminate Internal Carcass; Clear Hydraulics Storage",
-        "sz": "Outer: 60\" x 22\" x 19\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/11P37ntjzLUkx37wYt1ISr0tubl-VRI9m",
-        "des": "Tanmay Shah",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "5 metre fabric from client",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Hydraulic Storage"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "072518",
         "prod": "Nectar",
         "var": "Coca",
@@ -13084,6 +13062,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-22T13:37:23.463Z"
+    "timestamp": "2025-08-22T13:52:25.487Z"
   }
 }
