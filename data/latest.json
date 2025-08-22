@@ -7370,50 +7370,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "062524",
-        "prod": "Kontiki",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/ZVZ1GCY/v02.jpg",
-        "cat": "S-Class",
-        "mat": "Mirror PU Lamination Statuario Top; Black Distressed/Charcoal Sheesham Shelf; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 38\" x 38\" x 13\"",
-        "fld": "https://drive.google.com/drive/folders/1PicOeohxEsX9-NNpnuwSWWDb6aq-g5Gy",
-        "des": "Shivani Oza",
-        "dl": "https://drive.google.com/drive/u/0/folders/1hevn88W7xfY9IzG5gtnf9Nz3N5vWiyNO",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Shipping will be To pay",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062524",
-        "prod": "Kontiki",
-        "var": "Kylar",
-        "url": "https://i.ibb.co/VDq42VW/led-tv-unit-500x500.jpg",
-        "cat": "S-Class",
-        "mat": "Mirror PU Lamination Statuario Top; Black Distressed/Charcoal Sheesham Shelf; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 24\" x 24\" x 21\"",
-        "fld": "https://drive.google.com/drive/folders/1z3iBzu9hfjcx1t7T1XjfuvSx2AhCUMt9",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1ueqXGscy9kL2NuwTDD5Or0qz03-niYuY",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Shipping will be To pay",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "072313",
         "prod": "Endsville",
         "var": "Sigma",
@@ -8025,50 +7981,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062524",
-        "prod": "Kontiki",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/ZVZ1GCY/v02.jpg",
-        "cat": "S-Class",
-        "mat": "Mirror PU Lamination Statuario Top; Black Distressed/Charcoal Sheesham Shelf; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 38\" x 38\" x 13\"",
-        "fld": "https://drive.google.com/drive/folders/1PicOeohxEsX9-NNpnuwSWWDb6aq-g5Gy",
-        "des": "Shivani Oza",
-        "dl": "https://drive.google.com/drive/u/0/folders/1hevn88W7xfY9IzG5gtnf9Nz3N5vWiyNO",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Shipping will be To pay",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062524",
-        "prod": "Kontiki",
-        "var": "Kylar",
-        "url": "https://i.ibb.co/VDq42VW/led-tv-unit-500x500.jpg",
-        "cat": "S-Class",
-        "mat": "Mirror PU Lamination Statuario Top; Black Distressed/Charcoal Sheesham Shelf; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 24\" x 24\" x 21\"",
-        "fld": "https://drive.google.com/drive/folders/1z3iBzu9hfjcx1t7T1XjfuvSx2AhCUMt9",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1ueqXGscy9kL2NuwTDD5Or0qz03-niYuY",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Shipping will be To pay",
         "v": {
           "t": "",
           "c": "",
@@ -13216,6 +13128,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-22T05:22:20.484Z"
+    "timestamp": "2025-08-22T05:38:26.804Z"
   }
 }
