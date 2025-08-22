@@ -2013,28 +2013,6 @@
       },
       {
         "op": "072528",
-        "prod": "Atrium",
-        "var": "Lux",
-        "url": "https://i.ibb.co/WH0XCG3/Terrano-2.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Suncity Recycled Teak Frame; Sarrom (Piano) Retro SRN 101 Ply & Foam Upholstery Structure",
-        "sz": "Outer: 27\" x 34\" x 34\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1DsON1t9oUOPFpG2-p16mXK1ZT7dMkQPJ",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1Dx7ZhWDDNX3NwfizUK8dYWXv0sNvRfEB",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Only Lining/Fabric Work"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072528",
         "prod": "Dolce",
         "var": "Brume",
         "url": "https://i.ibb.co/YhTrFm2/Quizzy-6.jpg",
@@ -13106,6 +13084,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-22T06:52:20.750Z"
+    "timestamp": "2025-08-22T07:07:24.817Z"
   }
 }
