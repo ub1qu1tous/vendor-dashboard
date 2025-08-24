@@ -9272,50 +9272,6 @@
           "rm": "HDHMR finish as per sample"
         },
         "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "072420",
-        "prod": "Solstice",
-        "var": "Omnibus",
-        "url": "https://i.ibb.co/68VP2n1/Whats-App-Image-2024-08-05-at-2-44-43-PM.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Matt PU HDHMR Top; Black Matt Mango Frame; Black Matt Mango Legs; Finish TBC Mango Legs",
-        "sz": "Outer: 20\" x 20\" x 22\"",
-        "fld": "https://drive.google.com/drive/folders/1gIk7wKtysm-HxaslM-q6GsK5oBrgr7El",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1SoeCrVAuBT3jXyTPtAdWnVmHYViosjCB",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Black, Red and Stencil PU as mentioned"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "072420",
-        "prod": "Solstice",
-        "var": "Redcedar",
-        "url": "https://i.ibb.co/r4thG98/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Black Matt PU HDHMR Top; Black Matt Mango Frame; Finish TBC Mango Legs; Finish TBC Mango Legs",
-        "sz": "Outer: 60\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1qwne2_rEgq10DPIzRw9qZRqUxFahbUew",
-        "des": "Dilip Jangir",
-        "dl": "https://drive.google.com/drive/folders/1uoB8qKAaxSx51BvYrrpqNCD36uItYenN",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
       }
     ],
     "nishant_cnc": [
@@ -13038,6 +12994,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-24T16:22:20.183Z"
+    "timestamp": "2025-08-24T16:37:23.435Z"
   }
 }
