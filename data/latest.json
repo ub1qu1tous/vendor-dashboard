@@ -12892,30 +12892,6 @@
         "vendorDisplayName": "Chandrabhan Corian"
       }
     ],
-    "mandap": [
-      {
-        "op": "072522",
-        "prod": "Jakarta",
-        "var": "Ginger",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250725_171113_883744_WhatsApp_Image_2025-07-25_at_17_02_04_2fda91d7.jpg",
-        "cat": "Accent Tables",
-        "mat": "Jacobean White Oak Top; Jacobean White Oak Legs",
-        "sz": "Outer: 42\" x 42\" x 42\"",
-        "fld": "https://drive.google.com/drive/folders/1S38ARrf1SOZMVeitWbLuvxP4yrin_aPc",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1Sz2qHq_Nr5xG_62qtm7N5xIL2U00i4K8",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Client shall arrange the loading from ground floor to the flat and its installation (Will share you a video once manufactured)",
-        "v": {
-          "t": "",
-          "c": "29-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      }
-    ],
     "vishwas_steel_surat": [
       {
         "op": "072529",
@@ -13062,6 +13038,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-24T16:07:21.020Z"
+    "timestamp": "2025-08-24T16:22:20.183Z"
   }
 }
