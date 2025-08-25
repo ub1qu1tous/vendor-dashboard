@@ -426,6 +426,28 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
+        "op": "072527",
+        "prod": "Fermot",
+        "var": "Sigma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_142546_773034_WhatsApp_Image_2025-08-12_at_13_34_48_feff43d3.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure",
+        "sz": "Outer: \" x \" x \"",
+        "fld": "https://drive.google.com/drive/folders/1JxyLMqkNsUA3B50awUDx470pWPlVAxim",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
         "op": "092416",
         "prod": "Aramayo",
         "var": "Serin",
@@ -1918,6 +1940,28 @@
         "v": {
           "t": "",
           "c": "30-Aug-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072527",
+        "prod": "Fermot",
+        "var": "Sigma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_142546_773034_WhatsApp_Image_2025-08-12_at_13_34_48_feff43d3.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure",
+        "sz": "Outer: \" x \" x \"",
+        "fld": "https://drive.google.com/drive/folders/1JxyLMqkNsUA3B50awUDx470pWPlVAxim",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5206,6 +5250,116 @@
         "vendorDisplayName": "Jain Marble"
       },
       {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 78\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1x58MMhHp0BzEsZ-P7iIp8HdZN5JTgVIB",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "P black Matt FInish Granite"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "Serin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 42\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1-T5MFqS4kAfLpSbUGOYGtCK_9UqfI7QG",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "P black Matt FInish Granite"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 76\" x 18\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1NLTvH0i7q7Cn4rSVlLeD3Fj8OuCPRNm2",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "P black Matt FInish Granite"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072527",
+        "prod": "Fourcourts",
+        "var": "Spykar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
+        "cat": "Dining Tables",
+        "mat": "Matt Buffing  Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
+        "sz": "Outer: 66\" x 33\" x 29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Qq9LTnzPNVvULNbKe-CkmPTxsOf_kbZk",
+        "des": "",
+        "dl": "",
+        "q": 5,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "White Kota from Baba Marble"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072527",
+        "prod": "Fourcourts",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
+        "cat": "Dining Tables",
+        "mat": "Matt Buffing  Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
+        "sz": "Outer: 84\" x 33\" x 29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1inOg9l61z_l7puw7UyLQ1XgV7U7XNnKb",
+        "des": "",
+        "dl": "",
+        "q": 3,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "White Kota from Baba Marble"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
         "op": "082310",
         "prod": "Daisie",
         "var": "Jaguar",
@@ -6218,6 +6372,72 @@
           "c": "25-Aug-2025",
           "a": "",
           "rm": "wood, marble"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 78\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1x58MMhHp0BzEsZ-P7iIp8HdZN5JTgVIB",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "Serin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 42\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1-T5MFqS4kAfLpSbUGOYGtCK_9UqfI7QG",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 76\" x 18\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1NLTvH0i7q7Cn4rSVlLeD3Fj8OuCPRNm2",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -9630,6 +9850,50 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "072527",
+        "prod": "Fourcourts",
+        "var": "Spykar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
+        "cat": "Dining Tables",
+        "mat": "Matt Buffing  Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
+        "sz": "Outer: 66\" x 33\" x 29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Qq9LTnzPNVvULNbKe-CkmPTxsOf_kbZk",
+        "des": "",
+        "dl": "",
+        "q": 5,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "MDF with Duco Support"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "072527",
+        "prod": "Fourcourts",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
+        "cat": "Dining Tables",
+        "mat": "Matt Buffing  Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
+        "sz": "Outer: 84\" x 33\" x 29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1inOg9l61z_l7puw7UyLQ1XgV7U7XNnKb",
+        "des": "",
+        "dl": "",
+        "q": 3,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "MDF with Duco Support"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "072528",
         "prod": "Avocado",
         "var": "Tau",
@@ -12752,6 +13016,28 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Deco Ply"
+      },
+      {
+        "op": "072527",
+        "prod": "Fermot",
+        "var": "Sigma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_142546_773034_WhatsApp_Image_2025-08-12_at_13_34_48_feff43d3.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure",
+        "sz": "Outer: \" x \" x \"",
+        "fld": "https://drive.google.com/drive/folders/1JxyLMqkNsUA3B50awUDx470pWPlVAxim",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Sunmica for Skirting"
+        },
+        "vendorDisplayName": "Deco Ply"
       }
     ],
     "gujarat_handicrafts": [
@@ -12846,6 +13132,52 @@
           "rm": "Corian Application and Polish"
         },
         "vendorDisplayName": "Chandrabhan Corian"
+      }
+    ],
+    "mandap": [
+      {
+        "op": "072527",
+        "prod": "Fourcourts",
+        "var": "Spykar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
+        "cat": "Dining Tables",
+        "mat": "Matt Buffing  Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
+        "sz": "Outer: 66\" x 33\" x 29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Qq9LTnzPNVvULNbKe-CkmPTxsOf_kbZk",
+        "des": "",
+        "dl": "",
+        "q": 5,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "black powderocat bases"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "072527",
+        "prod": "Fourcourts",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
+        "cat": "Dining Tables",
+        "mat": "Matt Buffing  Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
+        "sz": "Outer: 84\" x 33\" x 29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1inOg9l61z_l7puw7UyLQ1XgV7U7XNnKb",
+        "des": "",
+        "dl": "",
+        "q": 3,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "black powderocat bases"
+        },
+        "vendorDisplayName": "Mandap"
       }
     ],
     "vishwas_steel_surat": [
@@ -12994,6 +13326,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-25T06:37:21.344Z"
+    "timestamp": "2025-08-25T06:52:22.882Z"
   }
 }
