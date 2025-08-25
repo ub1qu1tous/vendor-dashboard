@@ -6303,7 +6303,7 @@
         "cr": "Satnam Cabin's Desk",
         "v": {
           "t": "",
-          "c": "",
+          "c": "06-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -13130,6 +13130,30 @@
         "vendorDisplayName": "Gujarat Handicrafts"
       }
     ],
+    "the_art_room": [
+      {
+        "op": "072509",
+        "prod": "Anders",
+        "var": "Francis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_181044_048233_WhatsApp_Image_2025-07-14_at_17_46_00_ce6e859c.jpg",
+        "cat": "Office Desks",
+        "mat": "Natural Oak Veneer Carcass; Tan-Fabric Laminate 16mm Plywood Internal Carcass; Natural Oak Veneer Shutter; Natural Oak Veneer Drawer (Carrillo); Natural White Oak Legs; Natural White Oak Top; Grey Powder Coat Mild Steel Base; Grey Powder Coat Mild Steel Legs",
+        "sz": "Outer: 90\" x 36\" x 31\";\nStorage Unit: 66\" x 18\" x 23\"",
+        "fld": "https://drive.google.com/drive/folders/11QVMtqEO3rvjtI847_0PPC3ORESaQOhc",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/129I9lBnyDCUNJtj1ieXQl5arrxJ5xvMk",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Satnam Cabin's Desk",
+        "v": {
+          "t": "",
+          "c": "31-Aug-2025",
+          "a": "",
+          "rm": "Metal Base; Lser Plate; Brass etching panel for top"
+        },
+        "vendorDisplayName": "The Art Room"
+      }
+    ],
     "smit_enterprise": [
       {
         "op": "072509",
@@ -13392,6 +13416,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-25T10:37:23.370Z"
+    "timestamp": "2025-08-25T10:53:45.465Z"
   }
 }
