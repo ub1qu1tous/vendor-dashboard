@@ -6447,7 +6447,7 @@
         "var": "August",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
         "cat": "Storage Cabinets",
-        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
         "sz": "Outer: 78\" x 24\" x 36\"",
         "fld": "https://drive.google.com/drive/folders/1x58MMhHp0BzEsZ-P7iIp8HdZN5JTgVIB",
         "des": "",
@@ -6469,7 +6469,7 @@
         "var": "Groot",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
         "cat": "Storage Cabinets",
-        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
         "sz": "Outer: 73\" x 24\" x 36\"",
         "fld": "https://drive.google.com/drive/folders/1NLTvH0i7q7Cn4rSVlLeD3Fj8OuCPRNm2",
         "des": "",
@@ -6491,7 +6491,7 @@
         "var": "Serin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
         "cat": "Storage Cabinets",
-        "mat": "Matt Buffing Black Granite Top; Black Matt Sheesham Carcass; Black Matt Sheesham Drawer; Black Matt Sheesham Shutter; Black Matt Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
         "sz": "Outer: 48\" x 24\" x 36\"",
         "fld": "https://drive.google.com/drive/folders/1-T5MFqS4kAfLpSbUGOYGtCK_9UqfI7QG",
         "des": "",
@@ -12634,6 +12634,50 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 78\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1x58MMhHp0BzEsZ-P7iIp8HdZN5JTgVIB",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Drawer will be 6\"\nInternal Detail As Per Drawing",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Rich Tobacco"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_239419_WhatsApp_Image_2025-08-12_at_13_22_19_b245e618.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 73\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1NLTvH0i7q7Cn4rSVlLeD3Fj8OuCPRNm2",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Drawer will be 6\"\nInternal Detail As Per Drawing",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Rich Tobacco"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "072528",
         "prod": "Abacus",
         "var": "Indiana",
@@ -13834,6 +13878,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-26T05:52:22.124Z"
+    "timestamp": "2025-08-26T06:07:21.492Z"
   }
 }
