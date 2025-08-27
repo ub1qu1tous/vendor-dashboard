@@ -4192,28 +4192,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "062506",
-        "prod": "Cloaked",
-        "var": "Brume",
-        "url": "https://i.ibb.co/5gsm80xj/Whats-App-Image-2025-06-07-at-12-38-17-6a45aee3.jpg",
-        "cat": "Bookcases",
-        "mat": "RAL 7022 Umbra Grey Mild Steel Frame; Natural Walnut Veneer Panel",
-        "sz": "Outer: 96.85\" x 15.98\" x 125.19\"",
-        "fld": "https://drive.google.com/drive/folders/1Tss4vgLnRY2L7xUZOEbVJ79CUBfXcDNI",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1hSfvFw9KQJbC2YjIIttuZNuPYiVC3n1B",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "08-Jul-2025",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "072313",
         "prod": "Vancera",
         "var": "Tyler",
@@ -15506,6 +15484,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-27T10:52:27.423Z"
+    "timestamp": "2025-08-27T11:07:30.839Z"
   }
 }
