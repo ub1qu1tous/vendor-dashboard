@@ -2408,6 +2408,28 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "082520",
+        "prod": "Coolock",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250823_165306_652726_pasted_image_1755948187187.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 25\" x 24\" x 31\"",
+        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
+        "des": "",
+        "dl": "",
+        "q": 6,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092416",
         "prod": "Argos",
         "var": "Nairobi",
@@ -8482,6 +8504,28 @@
         "dl": "Yes",
         "q": 2,
         "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082520",
+        "prod": "Coolock",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250823_165306_652726_pasted_image_1755948187187.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 25\" x 24\" x 31\"",
+        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
+        "des": "",
+        "dl": "",
+        "q": 6,
+        "pm": "Amish Parmar",
         "cr": "",
         "v": {
           "t": "",
@@ -15368,6 +15412,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-28T08:07:26.209Z"
+    "timestamp": "2025-08-28T08:23:00.007Z"
   }
 }
