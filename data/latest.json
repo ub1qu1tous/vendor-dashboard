@@ -3173,8 +3173,8 @@
         "cr": "Master Bedroom Wardrobe",
         "v": {
           "t": "",
-          "c": "21-Jul-2025",
-          "a": "28-Aug-2025",
+          "c": "28-Aug-2025",
+          "a": "",
           "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
         },
         "vendorDisplayName": "Vipra"
@@ -3195,8 +3195,8 @@
         "cr": "Master Bedroom Wardrobe",
         "v": {
           "t": "",
-          "c": "21-Jul-2025",
-          "a": "28-Aug-2025",
+          "c": "28-Aug-2025",
+          "a": "",
           "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
         },
         "vendorDisplayName": "Vipra"
@@ -3217,8 +3217,8 @@
         "cr": "Master Bedroom Wardrobe",
         "v": {
           "t": "",
-          "c": "21-Jul-2025",
-          "a": "28-Aug-2025",
+          "c": "28-Aug-2025",
+          "a": "",
           "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
         },
         "vendorDisplayName": "Vipra"
@@ -3239,8 +3239,8 @@
         "cr": "Master Bedroom Wardrobe",
         "v": {
           "t": "",
-          "c": "21-Jul-2025",
-          "a": "28-Aug-2025",
+          "c": "28-Aug-2025",
+          "a": "",
           "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
         },
         "vendorDisplayName": "Vipra"
@@ -3261,8 +3261,8 @@
         "cr": "Master Bedroom Wardrobe",
         "v": {
           "t": "",
-          "c": "21-Jul-2025",
-          "a": "28-Aug-2025",
+          "c": "28-Aug-2025",
+          "a": "",
           "rm": "Shutter: 15-Sep-2025"
         },
         "vendorDisplayName": "Vipra"
@@ -4053,7 +4053,7 @@
         "cr": "Master Bedroom Chest",
         "v": {
           "t": "",
-          "c": "",
+          "c": "07-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5153,7 +5153,7 @@
         "cr": "Breakfast Counter",
         "v": {
           "t": "16-Jun-2025",
-          "c": "30-Jun-2025",
+          "c": "15-Sept-2025",
           "a": "",
           "rm": "30/6/2025 - Dispatch Shutter"
         },
@@ -14763,7 +14763,7 @@
         "cr": "Main kitchen",
         "v": {
           "t": "13-Jun-2025",
-          "c": "05-Aug-2025",
+          "c": "15-Sept-2025",
           "a": "",
           "rm": "14-6-2025 - chhotubhai has to install carcass\n21-6-2025- Chhotubhai has to  install Shutter"
         },
@@ -14785,7 +14785,7 @@
         "cr": "Service Table",
         "v": {
           "t": "16-Jun-2025",
-          "c": "05-Aug-2025",
+          "c": "15-Sept-2025",
           "a": "",
           "rm": "14-6-2025 - chhotubhai has to install carcass\n21-6-2025- Chhotubhai has to  install Shutter"
         },
@@ -15484,6 +15484,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-28T05:24:54.846Z"
+    "timestamp": "2025-08-28T05:42:21.508Z"
   }
 }
