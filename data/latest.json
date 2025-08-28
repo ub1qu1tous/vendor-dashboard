@@ -1347,7 +1347,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "8 Mtr"
+          "rm": "9 Mtr"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -1369,7 +1369,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "29 Mtr"
+          "rm": "32 Mtr"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -1391,7 +1391,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "11 Mtr Structure\n3 Mtr for Piping"
+          "rm": "12 Mtr Structure\n3 Mtr for Piping"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -6715,7 +6715,7 @@
         "sz": "Outer: 16\" x 15\" x 23\"",
         "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
         "des": "Tanmay Shah",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/16fgOoDFs7JFNOh5T1S6MQJexnVj0O0WD",
         "q": 2,
         "pm": "Rohan Parmar",
         "cr": "",
@@ -8523,7 +8523,7 @@
         "sz": "Outer: 16\" x 15\" x 23\"",
         "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
         "des": "Tanmay Shah",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/16fgOoDFs7JFNOh5T1S6MQJexnVj0O0WD",
         "q": 2,
         "pm": "Rohan Parmar",
         "cr": "",
@@ -9429,7 +9429,7 @@
         "sz": "Outer: 16\" x 15\" x 23\"",
         "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
         "des": "Tanmay Shah",
-        "dl": "Yes",
+        "dl": "https://drive.google.com/drive/folders/16fgOoDFs7JFNOh5T1S6MQJexnVj0O0WD",
         "q": 2,
         "pm": "Rohan Parmar",
         "cr": "",
@@ -11828,72 +11828,6 @@
           "c": "",
           "a": "",
           "rm": "vipul bhai digital print"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "062510",
-        "prod": "Flurry",
-        "var": "Felipe",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1WYK5vvjb400BJoiHKamw1SKpnjYaOrme",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "062510",
-        "prod": "Hawkthorn",
-        "var": "Embrace",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_163435_506445_Capture.jpg",
-        "cat": "Sectional Sofas",
-        "mat": "Ador Vogue Summit VOGU011 Foam Upholstery Structure",
-        "sz": "Outer: 48\" x 72\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/19FvDq5xwL78h4LwhXJ-qNq_15j0rFkNx",
-        "des": "Maulik Parmar",
-        "dl": "Yes",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "062510",
-        "prod": "Jurell",
-        "var": "Ginette",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
-        "cat": "Sofas",
-        "mat": "CASAMIA Zuri Hampton LN 002 CO 001 Ply & Foam Upholstery Structure; Wood Brown (M2149-HB) Mild Steel Frame",
-        "sz": "Outer: 84\" x 30.5\" x 34\"",
-        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/16oiH94nw5JPOWSzYqZF5LpEK2EzNPsBd",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
       },
@@ -15678,6 +15612,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-28T09:43:16.374Z"
+    "timestamp": "2025-08-28T09:54:54.372Z"
   }
 }
