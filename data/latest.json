@@ -4236,28 +4236,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "072420",
-        "prod": "Quill",
-        "var": "Demus",
-        "url": "https://i.ibb.co/gjy0kJD/Whats-App-Image-2024-08-14-at-17-06-32.jpg",
-        "cat": "Accessories",
-        "mat": "Finish TBC Mango Frame",
-        "sz": "Outer: 37\" x 3\" x 43\"",
-        "fld": "https://drive.google.com/drive/folders/1YPpu1CCnKPxu8bUh92OixOuY8Z7Sjy6h",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Paint Finish as per Direction"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "072509",
         "prod": "Alton",
         "var": "Brida",
@@ -4493,7 +4471,7 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "",
+          "c": "07-Oct-2025",
           "a": "",
           "rm": "Drawer Construction with Fascia and White PU Finish, Natural Polish on Knobs/Legs"
         },
@@ -4515,7 +4493,7 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "",
+          "c": "07-Oct-2025",
           "a": "",
           "rm": "Drawer Construction with Fascia and White PU Finish, Natural Polish on Knobs/Legs"
         },
@@ -4537,7 +4515,7 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "",
+          "c": "07-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -11302,6 +11280,28 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "082519",
+        "prod": "Skerries",
+        "var": "Campbell",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_144415_365541_WhatsApp_Image_2025-08-22_at_1_30_19_PM.jpeg",
+        "cat": "Awnings",
+        "mat": "Black Powder Coat Aluminium Frame; Sauleda Botella 2245 Canvas Upholstery Canopy",
+        "sz": "Outer: 78\" x 78\" x 39\"",
+        "fld": "https://drive.google.com/drive/folders/1LaI6USG02PpOVpB9fiCeuTkWM6482tFE",
+        "des": "P&D Associates",
+        "dl": "https://drive.google.com/drive/folders/1h5Kju8eYXCbiFVW1fFG8Rn5e6fRusV0b",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "This is a Sample Order for approval; Price Inlcudes Fitting and Delivery; Scaffolding in Client Scope",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Smruti is working with a new vendor"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "092416",
         "prod": "Butterfly",
         "var": "Fables",
@@ -13087,7 +13087,7 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "",
+          "c": "10-Sept-2025",
           "a": "",
           "rm": "Carcase, Knobs in Oak"
         },
@@ -13109,7 +13109,7 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "",
+          "c": "10-Sept-2025",
           "a": "",
           "rm": "Carcase, Knobs, Legs in Oak"
         },
@@ -14978,30 +14978,6 @@
         "vendorDisplayName": "Deco Ply"
       }
     ],
-    "gujarat_handicrafts": [
-      {
-        "op": "072420",
-        "prod": "Quill",
-        "var": "Demus",
-        "url": "https://i.ibb.co/gjy0kJD/Whats-App-Image-2024-08-14-at-17-06-32.jpg",
-        "cat": "Accessories",
-        "mat": "Finish TBC Mango Frame",
-        "sz": "Outer: 37\" x 3\" x 43\"",
-        "fld": "https://drive.google.com/drive/folders/1YPpu1CCnKPxu8bUh92OixOuY8Z7Sjy6h",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Gujarat Handicrafts"
-      }
-    ],
     "the_art_room": [
       {
         "op": "072509",
@@ -15392,6 +15368,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-28T06:11:07.487Z"
+    "timestamp": "2025-08-28T06:25:41.761Z"
   }
 }
