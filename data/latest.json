@@ -5373,53 +5373,9 @@
         "cr": "",
         "v": {
           "t": "",
-          "c": "31-Jul-2025",
+          "c": "03-Sept-2025",
           "a": "",
-          "rm": "17/6/2025 - PU Color\n17/6/2025 - Railing\n21/6/2025 - glass"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122401",
-        "prod": "Glasswing",
-        "var": "Sparkle",
-        "url": "https://i.ibb.co/FLVFmB0j/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Deluxe-100 Gothic Grey 16mm Plywood Carcass; Extra Clear 4mm Glass Mirror; Krayon A-104 Dark Grey Acrylic Solid Surface Panel",
-        "sz": "Outer: 78\" x 3.5\" x 47\"",
-        "fld": "https://drive.google.com/drive/folders/1TWyMl2ZsepjGRzvfXtC4ZBc7gYVEOHaL",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1XugC_vhCVeSULiRakZM0Y0NTS2oB_6MP",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122401",
-        "prod": "Stag",
-        "var": "Robin",
-        "url": "https://i.ibb.co/SD4j8xV5/0001.jpg",
-        "cat": "Smart Mirrors",
-        "mat": "Krayon A-104 Dark Grey Acrylic Solid Surface Panel; Clear 4mm Glass Mirror; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; RAL 3013 Tomato Red HDHMR Niche",
-        "sz": "Outer: 56\" x 7\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1UkPdJeGB4toFwveIKSgu2qSlD05BRaRZ",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1hUDixHnVml32YuAdkcbKjyTB58NqiSn7",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
+          "rm": "Pu Finish Bracket As Per Drawing Given By Amish Parmar"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -15433,57 +15389,9 @@
         },
         "vendorDisplayName": "FS Sofa Legs"
       }
-    ],
-    "umang_glass_elements": [
-      {
-        "op": "122401",
-        "prod": "Stag",
-        "var": "Robin",
-        "url": "https://i.ibb.co/SD4j8xV5/0001.jpg",
-        "cat": "Smart Mirrors",
-        "mat": "Krayon A-104 Dark Grey Acrylic Solid Surface Panel; Clear 4mm Glass Mirror; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; RAL 3013 Tomato Red HDHMR Niche",
-        "sz": "Outer: 56\" x 7\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1UkPdJeGB4toFwveIKSgu2qSlD05BRaRZ",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1hUDixHnVml32YuAdkcbKjyTB58NqiSn7",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "14/6/2025 - Today praveenbhai will go to vipra to check making of glass"
-        },
-        "vendorDisplayName": "Umang Glass Elements"
-      }
-    ],
-    "chandrabhan": [
-      {
-        "op": "122401",
-        "prod": "Stag",
-        "var": "Robin",
-        "url": "https://i.ibb.co/SD4j8xV5/0001.jpg",
-        "cat": "Smart Mirrors",
-        "mat": "Krayon A-104 Dark Grey Acrylic Solid Surface Panel; Clear 4mm Glass Mirror; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; RAL 3013 Tomato Red HDHMR Niche",
-        "sz": "Outer: 56\" x 7\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1UkPdJeGB4toFwveIKSgu2qSlD05BRaRZ",
-        "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1hUDixHnVml32YuAdkcbKjyTB58NqiSn7",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "31-Jul-2025",
-          "a": "",
-          "rm": "will by corian once client confirms with DV."
-        },
-        "vendorDisplayName": "Chandrabhan"
-      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-28T05:53:10.511Z"
+    "timestamp": "2025-08-28T06:11:07.487Z"
   }
 }
