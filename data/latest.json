@@ -7584,6 +7584,28 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "082531",
+        "prod": "Elkwood",
+        "var": "Trickle",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_165054_954260_WhatsApp_Image_2025-08-01_at_4_23_20_PM.jpeg",
+        "cat": "Study Tables",
+        "mat": "Natural Recycled Teak Structure; Natural Recycled Teak Drawer; Natural Recycled Teak Leg-Rest",
+        "sz": "Outer: 48\" x 24\" x 32\";\nLeg-Rest: 43\" x 12\" x 2\"",
+        "fld": "https://drive.google.com/drive/folders/1vvdrT_qlexFVgfeTgwOo_xDTDTjqIRlg",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1oGOeX-p16j6fGllPe8qiCnmwPMp5MLtO",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "tunes_hardware": [
@@ -15524,6 +15546,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-08-30T10:22:24.413Z"
+    "timestamp": "2025-08-30T10:37:23.577Z"
   }
 }
