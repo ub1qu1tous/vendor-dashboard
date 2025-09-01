@@ -2871,28 +2871,6 @@
       },
       {
         "op": "102411",
-        "prod": "Anglia",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/Ytb910d/Screenshot-2024-11-14-183643.png",
-        "cat": "Dining Chairs",
-        "mat": "Natural Recycled Teak Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 23\" x 23.5\" x 32\"",
-        "fld": "https://drive.google.com/drive/folders/1TQzYsFLLbPofFaHm02-wA8HIJJy6qNbh",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1lZcOMkOlbFmQIiwf9dRBCdSKQucPtCmS",
-        "q": 8,
-        "pm": "Rohan Parmar",
-        "cr": "Dinning Room Dining Chair ; Eight-seater dining Chairs",
-        "v": {
-          "t": "28-Jun-2025",
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": "चेयर की सीट और बैक त्यार हो गयी है पार्थभाई सारथि की वहा से वुडेन सपोर्ट पार्ट की जरूरत है वो आ जाये उसके बाद फाइनल फिटिंग हो पायेगा बैक का."
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
         "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
@@ -15458,6 +15436,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-01T06:22:50.435Z"
+    "timestamp": "2025-09-01T06:37:29.931Z"
   }
 }
