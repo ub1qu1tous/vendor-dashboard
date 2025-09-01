@@ -2420,7 +2420,7 @@
         "dl": "",
         "q": 6,
         "pm": "Amish Parmar",
-        "cr": "",
+        "cr": "Will provide ply, foam structure, and metal frame; lining work to be done by client.",
         "v": {
           "t": "",
           "c": "",
@@ -8570,7 +8570,7 @@
         "dl": "",
         "q": 6,
         "pm": "Amish Parmar",
-        "cr": "",
+        "cr": "Will provide ply, foam structure, and metal frame; lining work to be done by client.",
         "v": {
           "t": "",
           "c": "",
@@ -9454,7 +9454,7 @@
         "dl": "",
         "q": 6,
         "pm": "Amish Parmar",
-        "cr": "",
+        "cr": "Will provide ply, foam structure, and metal frame; lining work to be done by client.",
         "v": {
           "t": "",
           "c": "",
@@ -15458,6 +15458,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-01T05:07:23.828Z"
+    "timestamp": "2025-09-01T05:22:18.650Z"
   }
 }
