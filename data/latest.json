@@ -8846,28 +8846,6 @@
         "vendorDisplayName": "Aarti Steel"
       },
       {
-        "op": "072313",
-        "prod": "Odie",
-        "var": "Urban",
-        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
-        "cat": "Outdoor Coffee Tables",
-        "mat": "River Bianco Equador Top; Black Powder Coat Aluminium Base",
-        "sz": "Outer: 24\" x 24\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1kk64EV_9J8YXWeOAqHTO9L2OMF9gnkY5",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Outdoor Accent Table",
-        "v": {
-          "t": "",
-          "c": "20-Aug-2025",
-          "a": "",
-          "rm": "aluminium"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
         "op": "072528",
         "prod": "Dorothy",
         "var": "Turia",
@@ -9217,7 +9195,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": ""
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -14925,9 +14903,9 @@
         "cr": "Deck Front GF Outdoor Accent Table",
         "v": {
           "t": "",
-          "c": "14-Aug-2025",
+          "c": "20-Aug-2025",
           "a": "",
-          "rm": "base in 8mm aluminium"
+          "rm": "8mm ms"
         },
         "vendorDisplayName": "The Art Room"
       },
@@ -15436,6 +15414,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-01T13:52:32.118Z"
+    "timestamp": "2025-09-01T14:07:20.825Z"
   }
 }
