@@ -8448,94 +8448,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Belize",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250826_183844_378546_pasted_image_1756213727130.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
-        "sz": "Outer: 30.5\" x 23.5\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/16HVMRS-csucfz9uTeLkJl-7_caR3GASG",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1N7DgEhs38I5juMRLh5UOmI_A8EDzTGh4",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "Brass Inlay Patti"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Coca",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250826_183707_204297_pasted_image_1756213626906.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base",
-        "sz": "Outer: 27\" x 22.5\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1D7uyriJ3pTPEcuLCqYhwJcbHK1ScQvbI",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1mauu01avkyyJQQBO_FO-Hl6Ep1ZkWlrV",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "Brass Inlay Patti"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Dabster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250826_183800_256350_pasted_image_1756213679153.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 22\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1f68WzwkfmQ32TTaJsgQ_va9g26fpIDyc",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/17vuQLZiPWZzH_IxVX7vi2J7pGKD2prj2",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "Brass Inlay Patti"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082501",
-        "prod": "Olyvion",
-        "var": "Erken",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250828_111438_647192_pasted_image_1756359885639.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Base; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 24\" x 24\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1jDFtAL5CR9cRu7yz7Jk_-K187nmfdOJE",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1uw-mYX62Tht3hGa6d7lS4gBouIL7Gi01",
-        "q": 3,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "Brass Inlay Patti"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "082510",
         "prod": "Walkins",
         "var": "Quizzy",
@@ -9459,7 +9371,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "black matt powdercoat"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -15165,7 +15077,7 @@
         "op": "082510",
         "prod": "Tundra",
         "var": "Muvil",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_105906_528846_img25.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_095556_653536_pasted_image_1756787159749.png",
         "cat": "Accent Tables",
         "mat": "Finish TBC White Oak Top; Finish TBC White Oak Base",
         "sz": "Outer: 16\" x 16\" x 16\"",
@@ -15223,7 +15135,7 @@
           "t": "",
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Top only"
         },
         "vendorDisplayName": "Mandap"
       },
@@ -15392,6 +15304,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-02T04:25:12.024Z"
+    "timestamp": "2025-09-02T04:37:21.473Z"
   }
 }
