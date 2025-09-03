@@ -8030,6 +8030,50 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072516",
+        "prod": "Pastel",
+        "var": "Robin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_175110_334764_img30.jpg",
+        "cat": "Beds",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Headboard; Black Powder Coat Mild Steel Posters; Black Powder Coat Mild Steel Canopy; Fabric TBC Recron Filling 2 Large Rectangular Kidney Pillows",
+        "sz": "Outer: 79\" x 82.5\" x 82.5\"",
+        "fld": "https://drive.google.com/drive/folders/1gebFU8pnonWiW56iDMgu5BbqmsimnPEW",
+        "des": "Dilip Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "9 metre fabric from client",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "072516",
+        "prod": "Petal",
+        "var": "Haydn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_175110_335354_img35.jpg",
+        "cat": "Benches",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 59\" x 17.5\" x 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1kRBcCLLzrerSwDyeoOiwbo5QSeunv18P",
+        "des": "Dilip Jangir",
+        "dl": "Yes",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "1.5 metre fabric from client",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "072526",
         "prod": "Lichen",
         "var": "Georgian",
@@ -10179,7 +10223,7 @@
         "op": "082530",
         "prod": "Newbow",
         "var": "Arley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_115216_552501_pasted_image_1756448540102.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
         "cat": "Coffee Tables",
         "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
         "sz": "Outer: 48\" x 33\" x 15\"",
@@ -10201,7 +10245,7 @@
         "op": "082530",
         "prod": "Newbow",
         "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_115216_553035_pasted_image_1756448540104.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_135010_544907_pasted_image_1756887614285.png",
         "cat": "Accent Tables",
         "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
         "sz": "Outer: 18\" x 18\" x 18\"",
@@ -10821,7 +10865,7 @@
         "op": "082530",
         "prod": "Newbow",
         "var": "Arley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_115216_552501_pasted_image_1756448540102.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
         "cat": "Coffee Tables",
         "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
         "sz": "Outer: 48\" x 33\" x 15\"",
@@ -10843,7 +10887,7 @@
         "op": "082530",
         "prod": "Newbow",
         "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_115216_553035_pasted_image_1756448540104.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_135010_544907_pasted_image_1756887614285.png",
         "cat": "Accent Tables",
         "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
         "sz": "Outer: 18\" x 18\" x 18\"",
@@ -12547,7 +12591,7 @@
         "op": "082530",
         "prod": "Newbow",
         "var": "Arley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_115216_552501_pasted_image_1756448540102.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
         "cat": "Coffee Tables",
         "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
         "sz": "Outer: 48\" x 33\" x 15\"",
@@ -12569,7 +12613,7 @@
         "op": "082530",
         "prod": "Newbow",
         "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_115216_553035_pasted_image_1756448540104.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_135010_544907_pasted_image_1756887614285.png",
         "cat": "Accent Tables",
         "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
         "sz": "Outer: 18\" x 18\" x 18\"",
@@ -14908,6 +14952,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-03T08:07:24.317Z"
+    "timestamp": "2025-09-03T08:24:22.866Z"
   }
 }
