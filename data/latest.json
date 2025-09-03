@@ -12368,94 +12368,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "062510",
-        "prod": "Flurry",
-        "var": "Felipe",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/folders/1WYK5vvjb400BJoiHKamw1SKpnjYaOrme",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Need one sample first, And final chairs will be needed by 30th Aug"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Halo",
-        "var": "Serene",
-        "url": "https://i.ibb.co/wh6j86tb/candle.jpg",
-        "cat": "Accessories",
-        "mat": "Suncity Indian Teak Structure",
-        "sz": "Outer: 4.5\" x 2\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1i-73-w7pO_FA3SXwTzuJeEW2vS4MiGum",
-        "des": "Vikas Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Hush",
-        "var": "Raver",
-        "url": "https://i.ibb.co/sXd9tZV/Whats-App-Image-2025-06-09-at-2-35-48-PM.jpg",
-        "cat": "Accessories",
-        "mat": "Suncity Sheesham Top",
-        "sz": "Outer: 6.3\" x 4.9\" x 0.8\"",
-        "fld": "https://drive.google.com/drive/folders/1W-nkaYanLOqzeOoHKFmsWVh0ckg4qkXd",
-        "des": "Vikas Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062527",
-        "prod": "Muse",
-        "var": "Tuscany",
-        "url": "https://i.ibb.co/99SyG74S/Whats-App-Image-2025-06-09-at-2-16-21-PM.jpg",
-        "cat": "Accessories",
-        "mat": "Natural Burma Border Teak Structure; Natural Day Light (NDL) Flexible LED Light",
-        "sz": "Outer: 10\" x 6.5\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1IdFdaThEjRBUndHUicnpkW-QQJJWzyYo",
-        "des": "Vikas Jangir",
-        "dl": "Yes",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "t": "27-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "082501",
         "prod": "Nestle",
         "var": "Amada",
@@ -12691,6 +12603,28 @@
         "q": 8,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "062510",
+        "prod": "Flurry",
+        "var": "Felipe",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
+        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
+        "des": "Tanmay Shah",
+        "dl": "https://drive.google.com/drive/folders/1WYK5vvjb400BJoiHKamw1SKpnjYaOrme",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "t": "",
           "c": "",
@@ -14974,6 +14908,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-03T06:52:21.897Z"
+    "timestamp": "2025-09-03T07:07:26.594Z"
   }
 }
