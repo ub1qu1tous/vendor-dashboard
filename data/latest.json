@@ -3560,7 +3560,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250805_145657_249752_Screenshot_from_2025-08-05_14-55-51.png",
         "cat": "Media Consoles",
         "mat": "Finish TBC Oak Veneer Carcass; Finish TBC Oak Veneer Shutter; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 166\" x 16\" x 16\"",
+        "sz": "Outer: 166\" x 16\" x 16\", Seat Height: .\"",
         "fld": "https://drive.google.com/drive/folders/1bBIJhTApWPYYeWwIPOKtoGu-K12HbJoB",
         "des": "",
         "dl": "",
@@ -3582,7 +3582,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250805_150201_576333_Screenshot_from_2025-08-05_15-01-54.png",
         "cat": "Study Tables",
         "mat": "  Carcass;   Drawer;   Drawer Fascia",
-        "sz": "Outer: 55\" x 20\" x 30\"",
+        "sz": "Outer: 55\" x 20\" x 30\", Seat Height: .\"",
         "fld": "https://drive.google.com/drive/folders/1wnECDN_JVkE7dqwlN8vroajAFYawy3jm",
         "des": "",
         "dl": "",
@@ -3604,7 +3604,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250805_150201_575742_Screenshot_from_2025-08-05_15-01-43.png",
         "cat": "Media Consoles",
         "mat": "  Carcass;   Shutter",
-        "sz": "Outer: 114\" x 16\" x 14\"",
+        "sz": "Outer: 114\" x 16\" x 14\", Seat Height: .\"",
         "fld": "https://drive.google.com/drive/folders/1cjcwMYaKxii6e1BmPfZb60e5cPVaxyYN",
         "des": "",
         "dl": "",
@@ -3626,7 +3626,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250805_150201_575295_Screenshot_from_2025-08-05_15-01-36.png",
         "cat": "Nightstands",
         "mat": "  Carcass;   Drawer;   Drawer Fascia; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 79\" x 20\" x 17\"",
+        "sz": "Outer: 79\" x 20\" x 17\", Seat Height: .\"",
         "fld": "https://drive.google.com/drive/folders/12byhGV0Douc61veZ1kzNX0WNX4aGzlzE",
         "des": "",
         "dl": "",
@@ -3648,7 +3648,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250805_150201_573148_Screenshot_from_2025-08-05_15-01-21.png",
         "cat": "Nightstands",
         "mat": "  Carcass;   Drawer;   Drawer Fascia; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 30\" x 20\" x 17\"",
+        "sz": "Outer: 30\" x 20\" x 17\", Seat Height: .\"",
         "fld": "https://drive.google.com/drive/folders/1Zbtaxvu_YaNsSnGdnaeG-feisN0i-AGH",
         "des": "",
         "dl": "",
@@ -7332,7 +7332,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250805_145657_249752_Screenshot_from_2025-08-05_14-55-51.png",
         "cat": "Media Consoles",
         "mat": "Finish TBC Oak Veneer Carcass; Finish TBC Oak Veneer Shutter; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 166\" x 16\" x 16\"",
+        "sz": "Outer: 166\" x 16\" x 16\", Seat Height: .\"",
         "fld": "https://drive.google.com/drive/folders/1bBIJhTApWPYYeWwIPOKtoGu-K12HbJoB",
         "des": "",
         "dl": "",
@@ -14732,6 +14732,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-04T08:25:17.368Z"
+    "timestamp": "2025-09-04T08:37:49.133Z"
   }
 }
