@@ -10686,6 +10686,28 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "082532",
+        "prod": "Beckie",
+        "var": "Ethan",
+        "url": "https://i.ibb.co/4Z1tkvr/0002.jpg",
+        "cat": "Sofas",
+        "mat": "Natural White Oak Frame; Clear Pre-woven Rattan Weaving; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 55.5\" x 27.6\" x 28.3\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1LQotNRGRFSBeopWFbjqFOqP_x5YtxbU1",
+        "des": "Vikas Jangir",
+        "dl": "https://drive.google.com/drive/folders/1OjUusSgDDtrFn68YD7L6R3BmCLe9PXPi",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "washing"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "092416",
         "prod": "Butterfly",
         "var": "Fables",
@@ -12408,6 +12430,28 @@
           "c": "11-Sept-2025",
           "a": "",
           "rm": "Legs in HDHMR for PU Finisg; with fitting methodology, top material is a ceramic tile"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082532",
+        "prod": "Beckie",
+        "var": "Ethan",
+        "url": "https://i.ibb.co/4Z1tkvr/0002.jpg",
+        "cat": "Sofas",
+        "mat": "Natural White Oak Frame; Clear Pre-woven Rattan Weaving; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 55.5\" x 27.6\" x 28.3\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1LQotNRGRFSBeopWFbjqFOqP_x5YtxbU1",
+        "des": "Vikas Jangir",
+        "dl": "https://drive.google.com/drive/folders/1OjUusSgDDtrFn68YD7L6R3BmCLe9PXPi",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "Repairing as discussed"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       }
@@ -14632,6 +14676,28 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "082534",
+        "prod": "Visby",
+        "var": "Yorker",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_113630_099628_pasted_image_1756793189137.jpeg",
+        "cat": "Accent Tables",
+        "mat": "Harvest White Oak Structure; Harvest Oak Veneer Top",
+        "sz": "Outer: 20\" x 20\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1K07TwjVVY6rO38jGdKJKxrI7sjmtV6s9",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "t": "",
+          "c": "19-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
       }
     ],
     "vishwas_steel_surat": [
@@ -14732,6 +14798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-04T16:38:19.143Z"
+    "timestamp": "2025-09-04T16:53:21.464Z"
   }
 }
