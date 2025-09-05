@@ -3188,7 +3188,7 @@
         "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass",
         "sz": "Outer: 64.21\" x 24\" x 118.1\"",
         "fld": "https://drive.google.com/drive/folders/1H1JNEYND3oDgWYtU35TMtUwJFcwlbhj7",
-        "des": "Dilip Jangir",
+        "des": "",
         "dl": "",
         "q": 1,
         "pm": "Dilip Jangir",
@@ -3210,7 +3210,7 @@
         "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass",
         "sz": "Outer: 57.4\" x 34\" x 118.1\"",
         "fld": "https://drive.google.com/drive/folders/1tuBbQF4BJfWX72ILMGfLy4Pcw1pYp7V7",
-        "des": "Dilip Jangir",
+        "des": "",
         "dl": "",
         "q": 1,
         "pm": "Dilip Jangir",
@@ -11979,7 +11979,7 @@
         "sz": "Outer: 43\" x 43\" x 15\"",
         "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
         "des": "Tanmay Shah",
-        "dl": "",
+        "dl": "https://drive.google.com/drive/folders/1PEqdWr3nxdIlcL-md1GCy_fFPunYQHpq",
         "q": 2,
         "pm": "Amish Parmar",
         "cr": "",
@@ -12997,7 +12997,7 @@
         "sz": "Outer: 102\" x 102\" x 2\"",
         "fld": "https://drive.google.com/drive/folders/1xG3offcnVppdA4unojSN8zY6CnISDccl",
         "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1v0O2VdiOQrZsnbvqqSXmcOWVF_kLhrOc",
+        "dl": "",
         "q": 1,
         "pm": "Amish Parmar",
         "cr": "",
@@ -13019,7 +13019,7 @@
         "sz": "Outer: 110.6\" x 152.8\" x 2\"",
         "fld": "https://drive.google.com/drive/folders/1eEZc9TeoWr_R2B4QB1-JCLVJjXLay5Za",
         "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/11OqhWAphGaMj-bFzSriXaI5Md-RRo26g",
+        "dl": "",
         "q": 1,
         "pm": "Amish Parmar",
         "cr": "",
@@ -13041,7 +13041,7 @@
         "sz": "Outer: 110.6\" x 9\" x 2\"",
         "fld": "https://drive.google.com/drive/folders/1EYHKSl2dmmmvy1sTGm732bqy2lnqsnXe",
         "des": "Darshan Desai",
-        "dl": "https://drive.google.com/drive/folders/1Cr8ZjJAchgsQdBK16qCEGXKlocZWZy5i",
+        "dl": "",
         "q": 1,
         "pm": "Amish Parmar",
         "cr": "",
@@ -14735,7 +14735,7 @@
         "sz": "Outer: 43\" x 43\" x 15\"",
         "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
         "des": "Tanmay Shah",
-        "dl": "",
+        "dl": "https://drive.google.com/drive/folders/1PEqdWr3nxdIlcL-md1GCy_fFPunYQHpq",
         "q": 2,
         "pm": "Amish Parmar",
         "cr": "",
@@ -14798,6 +14798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-05T09:53:20.666Z"
+    "timestamp": "2025-09-05T10:11:29.457Z"
   }
 }
