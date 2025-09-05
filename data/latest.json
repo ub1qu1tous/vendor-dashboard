@@ -9976,74 +9976,6 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
-    "ashok_polish": [
-      {
-        "op": "052503",
-        "prod": "Ariselle",
-        "var": "Gia",
-        "url": "https://i.ibb.co/4nNwCTbf/image.png",
-        "cat": "Benches",
-        "mat": "Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Structure; Natural Recycled Teak Seat; Black PVD Stainless Steel 304 Matt Shelf; Asian Paints Royale Play Archi Concrete Muted Grey 8231 HDHMR Legs",
-        "sz": "Outer: 74\" x 20\" x 24\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1AuoQkvkFV7wWy3W5f3Rv8mtg5oqwUh5O",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1YcMFB2Uvunemclq7tRvemOM_JkeLIPjW",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "HDHMR finish as per sample"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "082530",
-        "prod": "Newbow",
-        "var": "Arley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
-        "cat": "Coffee Tables",
-        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
-        "sz": "Outer: 48\" x 33\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1cDBsZ9Kd3-Ww6Xd0rAvTzMixY3hfOE80",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "Tile Slab will provide by client",
-        "v": {
-          "t": "",
-          "c": "18-Sept-2025",
-          "a": "",
-          "rm": "White Glossy PU"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "082530",
-        "prod": "Newbow",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_135010_544907_pasted_image_1756887614285.png",
-        "cat": "Accent Tables",
-        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
-        "sz": "Outer: 18\" x 18\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/157EDQpujIP6C9s3QYiAV5Mb_hkB-uppu",
-        "des": "",
-        "dl": "",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "Tile Slab will provide by client",
-        "v": {
-          "t": "",
-          "c": "18-Sept-2025",
-          "a": "",
-          "rm": "White Glossy PU"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      }
-    ],
     "nishant_cnc": [
       {
         "op": "052504",
@@ -14748,6 +14680,52 @@
         "vendorDisplayName": "Umang Glass Elements"
       }
     ],
+    "ashok_polish": [
+      {
+        "op": "082530",
+        "prod": "Newbow",
+        "var": "Arley",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
+        "sz": "Outer: 48\" x 33\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1cDBsZ9Kd3-Ww6Xd0rAvTzMixY3hfOE80",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Tile Slab will provide by client",
+        "v": {
+          "t": "",
+          "c": "18-Sept-2025",
+          "a": "",
+          "rm": "White Glossy PU"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      },
+      {
+        "op": "082530",
+        "prod": "Newbow",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_135010_544907_pasted_image_1756887614285.png",
+        "cat": "Accent Tables",
+        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
+        "sz": "Outer: 18\" x 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/157EDQpujIP6C9s3QYiAV5Mb_hkB-uppu",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "Tile Slab will provide by client",
+        "v": {
+          "t": "",
+          "c": "18-Sept-2025",
+          "a": "",
+          "rm": "White Glossy PU"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      }
+    ],
     "rohan_parmar": [
       {
         "op": "102411",
@@ -14798,6 +14776,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-05T14:22:25.219Z"
+    "timestamp": "2025-09-05T14:39:09.363Z"
   }
 }
