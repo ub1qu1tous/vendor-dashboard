@@ -262,7 +262,7 @@
         "dl": "https://drive.google.com/drive/folders/1SPjNtzyZSe69lxK1yv5EoDh_c1CGmKeH",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Client confirmed recycle teak;",
+        "cr": "Client confirmed recycle teak",
         "v": {
           "t": "",
           "c": "",
@@ -968,7 +968,7 @@
         "dl": "https://drive.google.com/drive/folders/1SPjNtzyZSe69lxK1yv5EoDh_c1CGmKeH",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Client confirmed recycle teak;",
+        "cr": "Client confirmed recycle teak",
         "v": {
           "t": "",
           "c": "",
@@ -6151,7 +6151,7 @@
           "t": "21-Jul-2025",
           "c": "31-Jul-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "24\" Karna hai"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -14798,6 +14798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-05T05:37:23.043Z"
+    "timestamp": "2025-09-05T05:53:04.282Z"
   }
 }
