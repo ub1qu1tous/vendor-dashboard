@@ -2398,7 +2398,7 @@
         "dl": "https://drive.google.com/drive/folders/1JQEFDxID7zyw1HadgGX46kMxXmSMq5zV",
         "q": 6,
         "pm": "Amish Parmar",
-        "cr": "Will provide ply, foam structure, and metal frame; lining work to be done by client.",
+        "cr": "AWS to provide ply & foam structure, and metal frame\nLining work to be done by client.",
         "v": {
           "t": "",
           "c": "",
@@ -8042,7 +8042,7 @@
         "dl": "https://drive.google.com/drive/folders/1JQEFDxID7zyw1HadgGX46kMxXmSMq5zV",
         "q": 6,
         "pm": "Amish Parmar",
-        "cr": "Will provide ply, foam structure, and metal frame; lining work to be done by client.",
+        "cr": "AWS to provide ply & foam structure, and metal frame\nLining work to be done by client.",
         "v": {
           "t": "",
           "c": "",
@@ -8860,7 +8860,7 @@
         "dl": "https://drive.google.com/drive/folders/1JQEFDxID7zyw1HadgGX46kMxXmSMq5zV",
         "q": 6,
         "pm": "Amish Parmar",
-        "cr": "Will provide ply, foam structure, and metal frame; lining work to be done by client.",
+        "cr": "AWS to provide ply & foam structure, and metal frame\nLining work to be done by client.",
         "v": {
           "t": "",
           "c": "",
@@ -14798,6 +14798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-05T08:07:32.824Z"
+    "timestamp": "2025-09-05T08:22:26.871Z"
   }
 }
