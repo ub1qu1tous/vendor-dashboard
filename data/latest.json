@@ -224,28 +224,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krisha Lights"
-      },
-      {
-        "op": "072511",
-        "prod": "Sprinkle",
-        "var": "Embrace",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250805_160903_252582_WhatsApp_Image_2025-08-05_at_11_10_06_AM.jpeg",
-        "cat": "Chandeliers",
-        "mat": "Clear 16mm Plywood Structure; Finish TBC Acrylic Solid Surface Panel; Natural White Oak Mounting; Clear Stainless Steel 304 Matt Fixture; Clear SS Wire Rope Lamp Fitting",
-        "sz": "Outer: 84\" x 6\" x 6.75\"",
-        "fld": "https://drive.google.com/drive/folders/1kyKqlIuDmcWzXCCu_rZL8bw6KSXPaXcs",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1Tde9s2d_v7CKhZ1RRBrF9TOp6zju9HSg",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Give Dimension for fixing hardware with the ceiling to the client",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Diffuser Panel and Lights inside"
-        },
-        "vendorDisplayName": "Krisha Lights"
       }
     ],
     "clientfabric": [
@@ -7788,28 +7766,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072511",
-        "prod": "Sprinkle",
-        "var": "Embrace",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250805_160903_252582_WhatsApp_Image_2025-08-05_at_11_10_06_AM.jpeg",
-        "cat": "Chandeliers",
-        "mat": "Clear 16mm Plywood Structure; Finish TBC Acrylic Solid Surface Panel; Natural White Oak Mounting; Clear Stainless Steel 304 Matt Fixture; Clear SS Wire Rope Lamp Fitting",
-        "sz": "Outer: 84\" x 6\" x 6.75\"",
-        "fld": "https://drive.google.com/drive/folders/1kyKqlIuDmcWzXCCu_rZL8bw6KSXPaXcs",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1Tde9s2d_v7CKhZ1RRBrF9TOp6zju9HSg",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Give Dimension for fixing hardware with the ceiling to the client",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "Harware and Wire Rope"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "072516",
         "prod": "Pastel",
         "var": "Robin",
@@ -14798,6 +14754,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-06T08:22:22.199Z"
+    "timestamp": "2025-09-06T08:37:37.336Z"
   }
 }
