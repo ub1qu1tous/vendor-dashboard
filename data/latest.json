@@ -8184,6 +8184,28 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "102411",
+        "prod": "Driftbloom",
+        "var": "Livia",
+        "url": "https://i.ibb.co/7NxYfXBC/Screenshot-2025-04-03-121300.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Baroda Green Marble Top; Finish TBC Indian Teak Base",
+        "sz": "Outer: 18\" x 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1XzrhkLk9R7T5lLhN6Ksb1YFYc6rRgFO4",
+        "des": "Hetvi Shah",
+        "dl": "https://drive.google.com/drive/folders/1oibJx4GGBkJhvWJLOTChXJ1yq7MDhjKD",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Accent Table ; Accent table paired with the coffee table",
+        "v": {
+          "t": "",
+          "c": "06-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "112411",
         "prod": "Dewmist",
         "var": "Irina",
@@ -14776,6 +14798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-06T05:56:26.498Z"
+    "timestamp": "2025-09-06T06:11:59.509Z"
   }
 }
