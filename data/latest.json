@@ -7920,28 +7920,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072528",
-        "prod": "Dorothy",
-        "var": "Turia",
-        "url": "https://i.ibb.co/TRLh6M7/Turia-1.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Peca Sheesham Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 28\" x 28\" x 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1Xc4z8f9Omr_7OPm0_-uHXiReSZPxjk3b",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/u/0/folders/1A_Xzcbf_rDV8akp5-7rZZjDOKynyo5ax",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "082424",
         "prod": "Elderglow",
         "var": "Ferah",
@@ -8292,28 +8270,6 @@
           "c": "",
           "a": "",
           "rm": "8 laser-cut plate for leg fixing"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "072528",
-        "prod": "Dorothy",
-        "var": "Turia",
-        "url": "https://i.ibb.co/TRLh6M7/Turia-1.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Peca Sheesham Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 28\" x 28\" x 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1Xc4z8f9Omr_7OPm0_-uHXiReSZPxjk3b",
-        "des": "Tanmay Shah",
-        "dl": "https://drive.google.com/drive/u/0/folders/1A_Xzcbf_rDV8akp5-7rZZjDOKynyo5ax",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
       },
@@ -14754,6 +14710,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-06T08:37:37.336Z"
+    "timestamp": "2025-09-06T08:55:47.580Z"
   }
 }
