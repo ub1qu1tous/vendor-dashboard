@@ -2716,28 +2716,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "102411",
-        "prod": "Zhask",
-        "var": "Sable",
-        "url": "https://i.ibb.co/BH9XTmVL/Screenshot-2025-04-03-130154.png",
-        "cat": "Accent Chairs",
-        "mat": "Harvest White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 26.6\" x 24.2\" x 31.5\"",
-        "fld": "https://drive.google.com/drive/folders/1nZ2AT8nUd4WwN6X00fc8WxaUTIskh9jS",
-        "des": "Parthsarthi Suthar",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Accent Chair",
-        "v": {
-          "t": "18-Jun-2025",
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "112411",
         "prod": "Creoda",
         "var": "Oren",
@@ -10708,28 +10686,6 @@
         "vendorDisplayName": "Aavaran"
       },
       {
-        "op": "102411",
-        "prod": "Zhask",
-        "var": "Sable",
-        "url": "https://i.ibb.co/BH9XTmVL/Screenshot-2025-04-03-130154.png",
-        "cat": "Accent Chairs",
-        "mat": "Harvest White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 26.6\" x 24.2\" x 31.5\"",
-        "fld": "https://drive.google.com/drive/folders/1nZ2AT8nUd4WwN6X00fc8WxaUTIskh9jS",
-        "des": "Parthsarthi Suthar",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Accent Chair",
-        "v": {
-          "t": "",
-          "c": "",
-          "a": "28-May-2025",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
         "op": "112411",
         "prod": "Shadowcrest",
         "var": "Montana",
@@ -14094,6 +14050,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-09T06:08:45.069Z"
+    "timestamp": "2025-09-09T06:23:28.638Z"
   }
 }
