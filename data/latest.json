@@ -6398,6 +6398,28 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "082508",
+        "prod": "Delfit",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250804_182701_480443_WhatsApp_Image_2025-08-04_at_11_48_30_590c7428.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt White Oak Top; Natural White Oak Legs; Black Matt White Oak Legs",
+        "sz": "Outer: 72\" x 36\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Waev8c76JdW_e-c3hbSpdpsir-C7Ot2m",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "Client Required Delivery before 11-10-25",
+        "v": {
+          "t": "",
+          "c": "08-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082510",
         "prod": "Walkins",
         "var": "Quizzy",
@@ -14590,6 +14612,96 @@
         "vendorDisplayName": "Vishwas Steel Surat"
       }
     ],
+    "casa_creations": [
+      {
+        "op": "082508",
+        "prod": "Aztec",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250804_182701_479067_WhatsApp_Image_2025-08-04_at_11_40_50_e9e6c10a.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Clear Travertine Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 64\" x 19\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1MzqnEBs4kc0MnaHWnylm44jl_gMO1qiP",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "Client Required Delivery before 11-10-25",
+        "v": {
+          "t": "",
+          "c": "08-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "082508",
+        "prod": "Aztec",
+        "var": "Roxie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250804_182701_479067_WhatsApp_Image_2025-08-04_at_11_40_50_e9e6c10a.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Black White Oak Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 66\" x 16\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1j2AjpQIj1QIKXfLe3h-MD67j9G_fngrX",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "Client Required Delivery before 11-10-25",
+        "v": {
+          "t": "",
+          "c": "08-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "082508",
+        "prod": "Brasco",
+        "var": "Ozone",
+        "url": "https://i.pinimg.com/1200x/13/41/c2/1341c24d9a47348e25e1ec7c8f9f7d07.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Clear Travertine Top; Antique Brass Stainless Steel 304 Matt Base",
+        "sz": "Outer: 42\" x 42\" x 16.42\"",
+        "fld": "https://drive.google.com/drive/folders/1G66EKAZvpPGudNZbDleddfFZ1_VnL6-Z",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "Client Required Delivery before 11-10-25",
+        "v": {
+          "t": "",
+          "c": "08-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "082508",
+        "prod": "Lusk",
+        "var": "Hunter",
+        "url": "https://jeffsfurniturepk.com/cdn/shop/products/image_96f0e750-edb7-402d-be52-eb1fe67b1fcb_720x.jpg?v=1671809447",
+        "cat": "Bar & Counter Stools",
+        "mat": "Black Indian Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Armrest; Gold PVD Stainless Steel 304 Matt Leg-Rest; Gold PVD Stainless Steel 304 Matt Accessories",
+        "sz": "Outer: 25\" x 22\" x 43\"",
+        "fld": "https://drive.google.com/drive/folders/1Bsj3ty05bniJ4jm3f88YSQbVFoKl4lcj",
+        "des": "",
+        "dl": "",
+        "q": 3,
+        "pm": "",
+        "cr": "5.5m Fabric by client\nClient Required Delivery before 11-10-25",
+        "v": {
+          "t": "",
+          "c": "08-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
+      }
+    ],
     "umang_glass_elements": [
       {
         "op": "082520",
@@ -14710,6 +14822,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-09T05:23:43.990Z"
+    "timestamp": "2025-09-09T05:37:30.962Z"
   }
 }
