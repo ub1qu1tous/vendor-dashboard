@@ -7348,6 +7348,28 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072518",
+        "prod": "Olyra",
+        "var": "Dion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250721_154744_399979_WhatsApp_Image_2025-07-21_at_1_26_37_PM__1_.jpeg",
+        "cat": "Bar & Counter Stools",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
+        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
+        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1GreqldxQJtbFLYWSWGUT_Y_wC1c2m3mM",
+        "q": 4,
+        "pm": "Maulik Parmar",
+        "cr": "3.5 metre fabric from client (4 Chairs)",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "364mm length 19mm dia pipe, QTy=4pcs, ss matt"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "072526",
         "prod": "Lichen",
         "var": "Georgian",
@@ -9134,6 +9156,28 @@
           "c": "10-Aug-2025",
           "a": "",
           "rm": "8 rings PVD gold"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072518",
+        "prod": "Olyra",
+        "var": "Dion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250721_154744_399979_WhatsApp_Image_2025-07-21_at_1_26_37_PM__1_.jpeg",
+        "cat": "Bar & Counter Stools",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
+        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
+        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
+        "des": "Parthsarthi Suthar",
+        "dl": "https://drive.google.com/drive/folders/1GreqldxQJtbFLYWSWGUT_Y_wC1c2m3mM",
+        "q": 4,
+        "pm": "Maulik Parmar",
+        "cr": "3.5 metre fabric from client (4 Chairs)",
+        "v": {
+          "t": "",
+          "c": "",
+          "a": "",
+          "rm": "gold pvd"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -13940,6 +13984,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-11T05:37:26.632Z"
+    "timestamp": "2025-09-11T05:54:10.277Z"
   }
 }
