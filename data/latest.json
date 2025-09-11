@@ -5430,50 +5430,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "062524",
-        "prod": "Kontiki",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/ZVZ1GCY/v02.jpg",
-        "cat": "S-Class",
-        "mat": "Mirror PU Lamination Statuario Top; Black Distressed/Charcoal Sheesham Shelf; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 38\" x 38\" x 13\"",
-        "fld": "https://drive.google.com/drive/folders/1PicOeohxEsX9-NNpnuwSWWDb6aq-g5Gy",
-        "des": "Shivani Oza",
-        "dl": "https://drive.google.com/drive/u/0/folders/1hevn88W7xfY9IzG5gtnf9Nz3N5vWiyNO",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Shipping will be To pay",
-        "v": {
-          "t": "04-Jul-2025",
-          "c": "25-Jul-2025",
-          "a": "",
-          "rm": "Wood Work and Marble (if in budget)"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062524",
-        "prod": "Kontiki",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_183710_952490_pasted_image_1757596035549.png",
-        "cat": "S-Class",
-        "mat": "Mirror PU Lamination Statuario Top; Black Distressed/Charcoal Sheesham Shelf; Black Powder Coat Mild Steel Support",
-        "sz": "Outer: 24\" x 24\" x 21\"",
-        "fld": "https://drive.google.com/drive/folders/1z3iBzu9hfjcx1t7T1XjfuvSx2AhCUMt9",
-        "des": "Hetvi Shah",
-        "dl": "https://drive.google.com/drive/folders/1ueqXGscy9kL2NuwTDD5Or0qz03-niYuY",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Shipping will be To pay",
-        "v": {
-          "t": "04-Jul-2025",
-          "c": "25-Jul-2025",
-          "a": "",
-          "rm": "Wood Work and Marble (if in budget)"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "072313",
         "prod": "Ascovia",
         "var": "Scroll",
@@ -14158,6 +14114,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-11T15:22:37.427Z"
+    "timestamp": "2025-09-11T15:37:34.564Z"
   }
 }
