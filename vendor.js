@@ -377,7 +377,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <td>${d.v?.rm || ''}</td>
             <td>${d.pm || ''}</td>
             <td><a href="${d.fld}" target="_blank">Folder</a></td>
-            <td>${d.dl && d.dl.startsWith('http') ? `<a href="${d.dl}" target="_blank">${d.des || ''}</a>` : `${d.des || ''}`}</td>
+            <td>${d.dl || ''}</td>
             <td>${d.q || ''}</td>
             <td>${d.v?.t || ''}</td>
           `;
@@ -449,7 +449,7 @@ function showProductDetail(recordIndex) {
     <p><strong>Client Remarks:</strong> ${record.cr || ''}</p>
     <p><strong>Vendor Remarks:</strong> ${record.v?.rm || ''}</p>
     ${record.fld ? `<a href="${record.fld}" target="_blank">Product Folder</a><br>` : ''}
-    ${record.dl ? `<a href="${record.dl}" target="_blank">Drawing Files</a>` : ''}
+    <p><strong>Model Approved On:</strong> ${record.dl || ''}</p>
   `;
   document.getElementById("product-modal").classList.remove("hidden");
 }
