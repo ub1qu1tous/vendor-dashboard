@@ -380,8 +380,8 @@ document.addEventListener('DOMContentLoaded', function () {
             <td>${d.des || ''}</td>
             <td>${d.dl || ''}</td>
             <td>${d.q || ''}</td>
-            <td>${d.v?.t || ''}</td>
-          `;
+            `;
+            // <td>${d.v?.t || ''}</td>
           tbody.appendChild(tr);
 
           if (mobileList) {
@@ -449,7 +449,7 @@ function showProductDetail(recordIndex) {
     <p><strong>Quantity:</strong> ${record.q || ''}</p>
     <p><strong>Client Remarks:</strong> ${record.cr || ''}</p>
     <p><strong>Vendor Remarks:</strong> ${record.v?.rm || ''}</p>
-    <p><strong>Model Approved On:</strong> ${record.dl || ''}</p>
+    <p><strong>Design Approved On:</strong> ${record.dl || ''}</p>
     ${record.fld ? `<a href="${record.fld}" target="_blank">Product Folder</a><br>` : ''}
   `;
   document.getElementById("product-modal").classList.remove("hidden");
