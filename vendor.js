@@ -440,6 +440,7 @@ function showProductDetail(recordIndex) {
   container.innerHTML = `
     <h2>${record.prod || ''} ${record.var || ''}</h2>
     ${record.url ? `<img src="${record.url}" class="thumbnail" alt="Product Image">` : ''}
+    <p><strong>Opp Id:</strong> ${record.op || ''}</p>
     <p><strong>Category:</strong> ${record.cat || ''}</p>
     <p><strong>Material:</strong> ${record.mat || ''}</p>
     <p><strong>Size:</strong> ${record.sz || ''}</p>
