@@ -7484,27 +7484,6 @@
       },
       {
         "op": "102411",
-        "prod": "Infinara",
-        "var": "Rayis",
-        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 28\" x 2\" x 66\"",
-        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
-        "des": "Hetvi Shah",
-        "dl": "29-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "102411",
         "prod": "Lucentia",
         "var": "Insignia",
         "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
@@ -11161,6 +11140,69 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
+        "op": "102411",
+        "prod": "Infinara",
+        "var": "Rayis",
+        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 28\" x 2\" x 66\"",
+        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
+        "des": "Hetvi Shah",
+        "dl": "29-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
+        "v": {
+          "c": "13-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "102411",
+        "prod": "Iridion",
+        "var": "Aphra",
+        "url": "https://i.ibb.co/4BcnjrX/0002-2.jpg",
+        "cat": "Mirrors",
+        "mat": "Brass Transparent Coat Aluminium Frame; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 22\" x 0.5\" x 32\"",
+        "fld": "https://drive.google.com/drive/folders/1fX01_3eT7bruN-fS46ZgzAzbLExUhb8J",
+        "des": "Readymade",
+        "dl": "",
+        "q": 4,
+        "pm": "Rohan Parmar",
+        "cr": "Grandparent's Bedroom ; Vandan Patel's Bedroom ; \nDaughter's Room ; Powder Bathroom",
+        "v": {
+          "c": "13-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "102411",
+        "prod": "Iridion",
+        "var": "Opal",
+        "url": "https://i.ibb.co/HpYbzz81/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Brass Transparent Coat Aluminium Frame; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 42\" x 0.5\" x 61\"",
+        "fld": "https://drive.google.com/drive/folders/1IofivD9jnejh7i67pyw_MfIRt8OsxsLc",
+        "des": "Readymade",
+        "dl": "",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Darshan Patel's Bedroom",
+        "v": {
+          "c": "13-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
         "op": "102412",
         "prod": "Astromira",
         "var": "Endear",
@@ -12510,6 +12552,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-16T12:37:26.631Z"
+    "timestamp": "2025-09-16T12:52:34.293Z"
   }
 }
