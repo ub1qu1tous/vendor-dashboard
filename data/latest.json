@@ -344,48 +344,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "072527",
-        "prod": "Fermot",
-        "var": "Sigma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193616_280735_WhatsApp_Image_2025-09-12_at_19_32_22__1_.jpeg",
-        "cat": "Sofas",
-        "mat": "V&J Falcon Leather 303 Ply & Foam Upholstery Structure; WP 199 Auerbach Oak 16mm Plywood Base",
-        "sz": "Outer: 96\" x 24\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1JxyLMqkNsUA3B50awUDx470pWPlVAxim",
-        "des": "Dipen Gada",
-        "dl": "09-Sept-2025",
-        "q": 4,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "072527",
-        "prod": "Fermot",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193616_280191_WhatsApp_Image_2025-09-12_at_19_32_22.jpeg",
-        "cat": "Sofas",
-        "mat": "V&J Falcon Leather 303 Ply & Foam Upholstery Structure; WP 199 Auerbach Oak 16mm Plywood Base",
-        "sz": "Outer: 84\" x 24\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1BR5ZPJ1yTNu8Yj6n2d23zFGkjHJOSLjM",
-        "des": "Dipen Gada",
-        "dl": "09-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "082520",
         "prod": "Honeysuckle",
         "var": "Evan",
@@ -4803,43 +4761,64 @@
       },
       {
         "op": "072527",
-        "prod": "Fourcourts",
-        "var": "Spykar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
-        "cat": "Dining Tables",
-        "mat": "Finish TBC White Kota Stone Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
-        "sz": "Outer: 90\" x 33\" x 29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Qq9LTnzPNVvULNbKe-CkmPTxsOf_kbZk",
-        "des": "Dipen Gada",
-        "dl": "26-Aug-2025",
-        "q": 3,
+        "prod": "Darnsdale",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_762645_WhatsApp_Image_2025-09-12_at_19_31_58.jpeg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 78\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1x58MMhHp0BzEsZ-P7iIp8HdZN5JTgVIB",
+        "des": "Parthsarthi Suthar",
+        "dl": "13-Sept-2025",
+        "q": 2,
         "pm": "Parth Gada",
-        "cr": "",
+        "cr": "Drawer will be 6\"\nLouvres in Shutters\nInternal Detail As Per Drawing",
         "v": {
-          "c": "20-Sept-2025",
+          "c": "",
           "a": "",
-          "rm": "White Kota from Baba Marble"
+          "rm": ""
         },
         "vendorDisplayName": "Jain Marble"
       },
       {
         "op": "072527",
-        "prod": "Fourcourts",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_132345_238805_WhatsApp_Image_2025-08-12_at_13_22_20_c15098af.jpg",
-        "cat": "Dining Tables",
-        "mat": "Finish TBC White Kota Stone Top; Black Powder Coat Hammered Wrought Iron Base; White Matt Duco 17mm MDF Support",
-        "sz": "Outer: 72\" x 33\" x 29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1inOg9l61z_l7puw7UyLQ1XgV7U7XNnKb",
-        "des": "Dipen Gada",
-        "dl": "26-Aug-2025",
-        "q": 5,
+        "prod": "Darnsdale",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_763223_WhatsApp_Image_2025-09-12_at_19_32_19.jpeg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 73\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1NLTvH0i7q7Cn4rSVlLeD3Fj8OuCPRNm2",
+        "des": "Parthsarthi Suthar",
+        "dl": "13-Sept-2025",
+        "q": 1,
         "pm": "Parth Gada",
-        "cr": "",
+        "cr": "Drawer will be 6\"\nLouvres in Shutters\nInternal Detail As Per Drawing",
         "v": {
-          "c": "20-Sept-2025",
+          "c": "",
           "a": "",
-          "rm": "White Kota from Baba Marble"
+          "rm": ""
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072527",
+        "prod": "Darnsdale",
+        "var": "Serin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_763753_WhatsApp_Image_2025-09-12_at_19_32_20__1_.jpeg",
+        "cat": "Storage Cabinets",
+        "mat": "Matt Buffing Black Granite Top; Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Rich Tobacco Sheesham Shutter; Rich Tobacco Sheesham Legs; Black Powder Coat Mild Steel Accessories",
+        "sz": "Outer: 48\" x 24\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1-T5MFqS4kAfLpSbUGOYGtCK_9UqfI7QG",
+        "des": "Parthsarthi Suthar",
+        "dl": "13-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Drawer will be 6\"\nLouvres in Shutters\nInternal Detail As Per Drawing",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
         },
         "vendorDisplayName": "Jain Marble"
       },
@@ -6695,7 +6674,7 @@
         "pm": "Rohan Parmar",
         "cr": "",
         "v": {
-          "c": "29-Sept-2025",
+          "c": "28-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -10147,6 +10126,69 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "082524",
+        "prod": "Clonliff",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_760297_WhatsApp_Image_2025-09-12_at_19_32_21__1_.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 54\" x 6\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
+        "v": {
+          "c": "30-Sept-2025",
+          "a": "",
+          "rm": "As per farma."
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082524",
+        "prod": "Coombs",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_761418_WhatsApp_Image_2025-09-12_at_19_32_20__2_.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 76\" x 7.5\" x 69\"",
+        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "30-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082524",
+        "prod": "Croydon",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_762037_WhatsApp_Image_2025-09-12_at_19_32_21.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 60\" x 2.5\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "30-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "082530",
         "prod": "Newbow",
         "var": "Arley",
@@ -10544,6 +10586,69 @@
           "c": "21-Aug-2025",
           "a": "",
           "rm": "Mat Black"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082524",
+        "prod": "Clonliff",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_760297_WhatsApp_Image_2025-09-12_at_19_32_21__1_.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 54\" x 6\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
+        "v": {
+          "c": "07-Oct-2025",
+          "a": "",
+          "rm": "Rich Tobacco Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082524",
+        "prod": "Coombs",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_761418_WhatsApp_Image_2025-09-12_at_19_32_20__2_.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 76\" x 7.5\" x 69\"",
+        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "07-Oct-2025",
+          "a": "",
+          "rm": "Rich Tobacco Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082524",
+        "prod": "Croydon",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_762037_WhatsApp_Image_2025-09-12_at_19_32_21.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 60\" x 2.5\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "07-Oct-2025",
+          "a": "",
+          "rm": "Rich Tobacco Finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -12074,50 +12179,6 @@
         "vendorDisplayName": "Smit Enterprise"
       }
     ],
-    "deco_ply": [
-      {
-        "op": "072527",
-        "prod": "Fermot",
-        "var": "Sigma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193616_280735_WhatsApp_Image_2025-09-12_at_19_32_22__1_.jpeg",
-        "cat": "Sofas",
-        "mat": "V&J Falcon Leather 303 Ply & Foam Upholstery Structure; WP 199 Auerbach Oak 16mm Plywood Base",
-        "sz": "Outer: 96\" x 24\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1JxyLMqkNsUA3B50awUDx470pWPlVAxim",
-        "des": "Dipen Gada",
-        "dl": "09-Sept-2025",
-        "q": 4,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Sunmica for Skirting"
-        },
-        "vendorDisplayName": "Deco Ply"
-      },
-      {
-        "op": "072527",
-        "prod": "Fermot",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193616_280191_WhatsApp_Image_2025-09-12_at_19_32_22.jpeg",
-        "cat": "Sofas",
-        "mat": "V&J Falcon Leather 303 Ply & Foam Upholstery Structure; WP 199 Auerbach Oak 16mm Plywood Base",
-        "sz": "Outer: 84\" x 24\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1BR5ZPJ1yTNu8Yj6n2d23zFGkjHJOSLjM",
-        "des": "Dipen Gada",
-        "dl": "09-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Sunmica for Skirting"
-        },
-        "vendorDisplayName": "Deco Ply"
-      }
-    ],
     "mandap": [
       {
         "op": "072527",
@@ -12552,6 +12613,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-17T08:22:37.413Z"
+    "timestamp": "2025-09-17T08:44:12.459Z"
   }
 }
