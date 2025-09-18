@@ -5627,7 +5627,7 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "052510",
+        "op": "092518",
         "prod": "Seaweed",
         "var": "Ivy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
@@ -5638,7 +5638,7 @@
         "des": "Hetvi Shah",
         "dl": "05-Sept-2025",
         "q": 1,
-        "pm": "Maulik Parmar",
+        "pm": "",
         "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
@@ -7376,7 +7376,7 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "052510",
+        "op": "092518",
         "prod": "Seaweed",
         "var": "Ivy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
@@ -7387,7 +7387,7 @@
         "des": "Hetvi Shah",
         "dl": "05-Sept-2025",
         "q": 1,
-        "pm": "Maulik Parmar",
+        "pm": "",
         "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
@@ -11140,7 +11140,7 @@
     ],
     "the_lighting_studio": [
       {
-        "op": "052510",
+        "op": "092518",
         "prod": "Virelle",
         "var": "Brume",
         "url": "https://i.ibb.co/VptzDTRs/image.png",
@@ -11151,7 +11151,7 @@
         "des": "Hetvi Shah",
         "dl": "16-Jul-2025",
         "q": 1,
-        "pm": "Maulik Parmar",
+        "pm": "",
         "cr": "Dining Room",
         "v": {
           "c": "",
@@ -11161,7 +11161,7 @@
         "vendorDisplayName": "The Lighting Studio"
       },
       {
-        "op": "052510",
+        "op": "092518",
         "prod": "Zarela",
         "var": "Cory",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250719_145817_409563_Screenshot_2025-07-19_145747.png",
@@ -11172,7 +11172,7 @@
         "des": "Tanmay Shah",
         "dl": "26-Jul-2025",
         "q": 2,
-        "pm": "Maulik Parmar",
+        "pm": "",
         "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
@@ -11182,7 +11182,7 @@
         "vendorDisplayName": "The Lighting Studio"
       },
       {
-        "op": "052510",
+        "op": "092518",
         "prod": "Zeyora",
         "var": "Balk",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250719_151520_158390_Screenshot_2025-07-19_151355.png",
@@ -11193,7 +11193,7 @@
         "des": "Hetvi Shah",
         "dl": "16-Jul-2025",
         "q": 1,
-        "pm": "Maulik Parmar",
+        "pm": "",
         "cr": "Passage",
         "v": {
           "c": "",
@@ -13056,6 +13056,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T11:23:22.894Z"
+    "timestamp": "2025-09-18T11:43:25.780Z"
   }
 }
