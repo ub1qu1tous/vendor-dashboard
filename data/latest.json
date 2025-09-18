@@ -5585,27 +5585,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "092518",
-        "prod": "Seaweed",
-        "var": "Ivy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 60\" x 18\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2025",
-        "q": 1,
-        "pm": "",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Center legs Loose hone chahiye, Aur hollow hone chahiye, Niche se wire upar unit tk pahoch sake aese"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "062510",
         "prod": "Jurell",
         "var": "Ginette",
@@ -6001,6 +5980,27 @@
           "c": "05-Jul-2025",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092518",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 18\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Center legs Loose hone chahiye, Aur hollow hone chahiye, Niche se wire upar unit tk pahoch sake aese"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -6873,7 +6873,7 @@
         "op": "082520",
         "prod": "Dolphins",
         "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110230_612905_Screenshot_2025-09-16_105743.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250918_175729_032653_Screenshot_2025-09-17_150242.png",
         "cat": "Dining Tables",
         "mat": "Black Matt White Ash Top; Black Matt White Ash Base",
         "sz": "Outer: 72\" x 47\" x 30\"",
@@ -7334,27 +7334,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "092518",
-        "prod": "Seaweed",
-        "var": "Ivy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 60\" x 18\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2025",
-        "q": 1,
-        "pm": "",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "052514",
         "prod": "Quiver",
         "var": "Hazel",
@@ -7664,6 +7643,27 @@
         "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri\n",
         "v": {
           "c": "23-Jun-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092518",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 18\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -10993,6 +10993,27 @@
     ],
     "the_lighting_studio": [
       {
+        "op": "052513",
+        "prod": "Elantris",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/Fk3wy5D3/image.png",
+        "cat": "Lamps",
+        "mat": "Satin Metallic PU Mild Steel Structure; Satin Metallic PU Mild Steel Frame; Satin Metallic PU Mild Steel Lamp Fitting",
+        "sz": "Outer: 39\" x 39\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1TAyhGULk3IuFkhat1iwAZ8IX8LTMoB3M",
+        "des": "Dilip Jangir",
+        "dl": "06-Jul-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "14-Jul-2025",
+          "a": "",
+          "rm": "bulb, holder and metal work"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
         "op": "092518",
         "prod": "Virelle",
         "var": "Brume",
@@ -11052,27 +11073,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "052513",
-        "prod": "Elantris",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/Fk3wy5D3/image.png",
-        "cat": "Lamps",
-        "mat": "Satin Metallic PU Mild Steel Structure; Satin Metallic PU Mild Steel Frame; Satin Metallic PU Mild Steel Lamp Fitting",
-        "sz": "Outer: 39\" x 39\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1TAyhGULk3IuFkhat1iwAZ8IX8LTMoB3M",
-        "des": "Dilip Jangir",
-        "dl": "06-Jul-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "14-Jul-2025",
-          "a": "",
-          "rm": "bulb, holder and metal work"
         },
         "vendorDisplayName": "The Lighting Studio"
       }
@@ -12594,6 +12594,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T12:22:27.446Z"
+    "timestamp": "2025-09-18T12:46:21.558Z"
   }
 }
