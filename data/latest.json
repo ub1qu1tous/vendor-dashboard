@@ -7122,6 +7122,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092511",
+        "prod": "Texel",
+        "var": "June",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_133851_659790_pasted_image_1757664534367.jpeg",
+        "cat": "Dining Tables",
+        "mat": "Black Distressed/Charcoal Sheesham Top; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 96\" x 42\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/19NUMNnLa4VUcYQ-jnkVbX_1wWEyxHIDN",
+        "des": "Parthsarthi Suthar",
+        "dl": "18-Sept-2025",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "11-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -12888,6 +12909,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T15:54:30.206Z"
+    "timestamp": "2025-09-18T16:07:32.660Z"
   }
 }
