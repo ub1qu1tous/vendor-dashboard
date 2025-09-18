@@ -5816,6 +5816,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "082412",
+        "prod": "Richie",
+        "var": "Junior",
+        "url": "https://i.ibb.co/KcKLHPy6/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Legs; Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082424",
         "prod": "Elderglow",
         "var": "Ferah",
@@ -8388,6 +8409,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "082412",
+        "prod": "Richie",
+        "var": "Junior",
+        "url": "https://i.ibb.co/KcKLHPy6/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Legs; Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "082413",
         "prod": "Summit",
         "var": "Elide",
@@ -9711,6 +9753,48 @@
         "q": 6,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "082412",
+        "prod": "Richie",
+        "var": "Junior",
+        "url": "https://i.ibb.co/KcKLHPy6/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Legs; Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "082412",
+        "prod": "Richie",
+        "var": "Junior",
+        "url": "https://i.ibb.co/KcKLHPy6/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Legs; Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -11073,6 +11157,27 @@
           "c": "14-Jul-2025",
           "a": "",
           "rm": "bulb, holder and metal work"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "082412",
+        "prod": "Malvina",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/6F5NKW1/PHOTO-2024-08-17-12-04-49.jpg",
+        "cat": "Lamps",
+        "mat": "Fabric TBC Canvas Upholstery Structure; Black Powder Coat Aluminium Frame",
+        "sz": "Outer: 30\" x 30\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/18vJPEb1fC1vuXMqSNScAUhdRL6PFubLA",
+        "des": "Rohan Parmar",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "The Lighting Studio"
       },
@@ -12678,6 +12783,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T13:09:04.286Z"
+    "timestamp": "2025-09-18T13:25:26.146Z"
   }
 }
