@@ -2698,6 +2698,90 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092513",
+        "prod": "Olhaven",
+        "var": "Erik",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_105824_245645_pasted_image_1758000510789.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Walnut Laminate 16mm Plywood Skirting; Finish TBC Sheesham Legs",
+        "sz": "Outer: 115\" x 47\" x 32.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1l5C7wdjral_oi-QJjO2kwV9yn91oqUP8",
+        "des": "Maulik Parmar",
+        "dl": "16-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Sept-2025",
+          "a": "",
+          "rm": "Sofa and Laminate Skirting"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092513",
+        "prod": "Raheni",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250915_172716_892345_pasted_image_1757937439138.png",
+        "cat": "Beds",
+        "mat": "Sugar Shade 901 Ply & Foam Upholstery Headboard; Sugar Shade 901 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 63\" x 83\" x 42\", Seat Height: 22\";\nMattress: 60\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1Dhx9UrlejFxM08MYxd0yvmMY6z362doz",
+        "des": "Maulik Parmar",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092513",
+        "prod": "Skydew",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_122303_307971_pasted_image_1758005588156.png",
+        "cat": "Storage Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Headboard; Fabric TBC Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 75\" x 86\" x 48\", Seat Height: 22\";\nMattress: 72\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1LwTxG9muIrg6SQ67srWZLDJIktYBAHWO",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Bed with Hydraulic Storage"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092513",
+        "prod": "Tambia",
+        "var": "Reid",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250915_180110_928611_pasted_image_1757939475371.png",
+        "cat": "Benches",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure",
+        "sz": "Outer: 60\" x 21\" x 18\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1YFd0EwjIEs_z2C4Atca4-nxDCWqNHzb6",
+        "des": "Maulik Parmar",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -9108,6 +9192,48 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "092513",
+        "prod": "Olhaven",
+        "var": "Erik",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_105824_245645_pasted_image_1758000510789.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Walnut Laminate 16mm Plywood Skirting; Finish TBC Sheesham Legs",
+        "sz": "Outer: 115\" x 47\" x 32.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1l5C7wdjral_oi-QJjO2kwV9yn91oqUP8",
+        "des": "Maulik Parmar",
+        "dl": "16-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Laminate and Wood Legs"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092513",
+        "prod": "Skydew",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_122303_307971_pasted_image_1758005588156.png",
+        "cat": "Storage Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Headboard; Fabric TBC Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 75\" x 86\" x 48\", Seat Height: 22\";\nMattress: 72\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1LwTxG9muIrg6SQ67srWZLDJIktYBAHWO",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Laminate and Wood Legs"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "102416",
         "prod": "Goliath",
         "var": "Esquire",
@@ -10435,6 +10561,27 @@
           "c": "",
           "a": "",
           "rm": "Repairing as discussed"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092513",
+        "prod": "Spinny",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_125244_759974_pasted_image_1758007369446.png",
+        "cat": "Beds",
+        "mat": "Sugar Shade 913 Ply & Foam Upholstery Headboard; Sugar Shade 913 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support; Finish TBC Indian Teak Frame; Finish TBC Indian Teak Legs",
+        "sz": "Outer: 48\" x 82\" x 81\", Seat Height: 22\";\nMattress: 45\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1oK53z-pT-KGr-tRA1IcamFfRBuLlsYjB",
+        "des": "Maulik Parmar",
+        "dl": "16-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       }
@@ -12804,6 +12951,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T10:14:16.936Z"
+    "timestamp": "2025-09-18T10:24:48.801Z"
   }
 }
