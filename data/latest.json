@@ -1145,48 +1145,6 @@
       },
       {
         "op": "062510",
-        "prod": "Flurry",
-        "var": "Felipe",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
-        "des": "Tanmay Shah",
-        "dl": "28-Jul-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "9 Mtr"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062510",
-        "prod": "Hawkthorn",
-        "var": "Embrace",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_163435_506445_Capture.jpg",
-        "cat": "Sectional Sofas",
-        "mat": "Ador Vogue Summit VOGU011 Foam Upholstery Structure",
-        "sz": "Outer: 48\" x 72\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/19FvDq5xwL78h4LwhXJ-qNq_15j0rFkNx",
-        "des": "Maulik Parmar",
-        "dl": "",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "32 Mtr"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062510",
         "prod": "Jurell",
         "var": "Ginette",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
@@ -2120,6 +2078,27 @@
         "fld": "https://drive.google.com/drive/folders/14gTIbHAvytS1y7vEjiO_OrPl0_9QuwqT",
         "des": "Tanmay Shah",
         "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082412",
+        "prod": "Arvesso",
+        "var": "Numin",
+        "url": "https://i.ibb.co/vvH4qFYY/image.png",
+        "cat": "Daybeds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Bolster",
+        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
@@ -5585,27 +5564,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "062510",
-        "prod": "Jurell",
-        "var": "Ginette",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
-        "cat": "Sofas",
-        "mat": "CASAMIA Zuri Hampton LN 002 CO 001 Ply & Foam Upholstery Structure; Wood Brown (M2149-HB) Mild Steel Frame",
-        "sz": "Outer: 84\" x 30.5\" x 34\"",
-        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
-        "des": "Tanmay Shah",
-        "dl": "27-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "072313",
         "prod": "Endsville",
         "var": "Sigma",
@@ -5791,6 +5749,48 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082412",
+        "prod": "Arvesso",
+        "var": "Numin",
+        "url": "https://i.ibb.co/vvH4qFYY/image.png",
+        "cat": "Daybeds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Bolster",
+        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082412",
+        "prod": "Calviro",
+        "var": "Jean",
+        "url": "https://i.ibb.co/qYDrfMnc/image.png",
+        "cat": "Coffee Tables",
+        "mat": "Black Powder Coat Mild Steel Frame; Matt Buffing Stainless Steel 304 Matt Legs; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
+        "sz": "Outer: 54\" x 30\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1u-WsbrLVjoiQ36J2o36E3BVNGeysoEny",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room\nMS black powdercoat excluding ss visible in leg",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "SS and MS both materials are there, CNC work will be done on those parts."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -6167,6 +6167,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://i.ibb.co/jvn3p09k/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -7494,6 +7515,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "082412",
+        "prod": "Arvesso",
+        "var": "Numin",
+        "url": "https://i.ibb.co/vvH4qFYY/image.png",
+        "cat": "Daybeds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Bolster",
+        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -9636,6 +9678,27 @@
       },
       {
         "op": "082412",
+        "prod": "Arvesso",
+        "var": "Numin",
+        "url": "https://i.ibb.co/vvH4qFYY/image.png",
+        "cat": "Daybeds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Bolster",
+        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "082412",
         "prod": "Limca",
         "var": "George",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_155317_253068_pasted_image_1757586201113.jpeg",
@@ -10039,27 +10102,6 @@
       },
       {
         "op": "072313",
-        "prod": "Endsville",
-        "var": "Sigma",
-        "url": "https://i.ibb.co/GvfPtN4M/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Legs; Mirror Buffing Banswada White Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 96\" x 48\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1l6GFsDdUpgrdzP0CVu8Mgrt3cgZ-uqeo",
-        "des": "Hetvi Shah",
-        "dl": "30-Apr-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area GF Dining Table",
-        "v": {
-          "c": "15-Aug-2025",
-          "a": "",
-          "rm": "one leg "
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "072313",
         "prod": "Odie",
         "var": "Urban",
         "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
@@ -10114,6 +10156,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://i.ibb.co/jvn3p09k/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -10355,6 +10418,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://i.ibb.co/jvn3p09k/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "082510",
         "prod": "Rinsun",
         "var": "Ethel",
@@ -10538,27 +10622,6 @@
         "q": 8,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "062510",
-        "prod": "Flurry",
-        "var": "Felipe",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Katana Fulani Monochrome 119112 Ply & Foam Upholstery Structure; Natural Recycled Teak Frame",
-        "sz": "Outer: 29.5\" x 36\" x 33\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1YshmqogA793xWNT3OSRI_bJzuAc2yNxn",
-        "des": "Tanmay Shah",
-        "dl": "28-Jul-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -12393,6 +12456,50 @@
         "vendorDisplayName": "Vishwas Steel Surat"
       }
     ],
+    "umang_glass_elements": [
+      {
+        "op": "082412",
+        "prod": "Calviro",
+        "var": "Jean",
+        "url": "https://i.ibb.co/qYDrfMnc/image.png",
+        "cat": "Coffee Tables",
+        "mat": "Black Powder Coat Mild Steel Frame; Matt Buffing Stainless Steel 304 Matt Legs; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
+        "sz": "Outer: 54\" x 30\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1u-WsbrLVjoiQ36J2o36E3BVNGeysoEny",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room\nMS black powdercoat excluding ss visible in leg",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Tinted Glass"
+        },
+        "vendorDisplayName": "Umang Glass Elements"
+      },
+      {
+        "op": "082520",
+        "prod": "Pianica",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
+        "cat": "Coffee Tables",
+        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Bidasar Green Legs",
+        "sz": "Outer: 43\" x 43\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
+        "des": "Tanmay Shah",
+        "dl": "06-Sept-2025",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Umang Glass Elements"
+      }
+    ],
     "casa_creations": [
       {
         "op": "082508",
@@ -12477,29 +12584,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Casa Creations"
-      }
-    ],
-    "umang_glass_elements": [
-      {
-        "op": "082520",
-        "prod": "Pianica",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
-        "cat": "Coffee Tables",
-        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Bidasar Green Legs",
-        "sz": "Outer: 43\" x 43\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
-        "des": "Tanmay Shah",
-        "dl": "06-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Umang Glass Elements"
       }
     ],
     "ashok_polish": [
@@ -12594,6 +12678,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T12:46:21.558Z"
+    "timestamp": "2025-09-18T13:09:04.286Z"
   }
 }
