@@ -5774,6 +5774,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "082501",
+        "prod": "Ring",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/pv7hWgS/0000.jpg",
+        "cat": "Accent Tables",
+        "mat": "Finish TBC White Ash Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 18\" x 18\" x 23\"",
+        "fld": "https://drive.google.com/drive/folders/14lnyi4DD3K3qQJh9knKwhTzaAE-QgtSG",
+        "des": "Parth Gada",
+        "dl": "03-Mar-2023",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082520",
         "prod": "Coolock",
         "var": "Gypster",
@@ -8978,27 +8999,6 @@
           "c": "05-Aug-2025",
           "a": "",
           "rm": "Veneer from Vadodara"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "082501",
-        "prod": "Ring",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/pv7hWgS/0000.jpg",
-        "cat": "Accent Tables",
-        "mat": "Finish TBC White Ash Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 18\" x 18\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/14lnyi4DD3K3qQJh9knKwhTzaAE-QgtSG",
-        "des": "Parth Gada",
-        "dl": "03-Mar-2023",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "ring base from stock 2 pcs"
         },
         "vendorDisplayName": "AWS"
       },
@@ -12930,6 +12930,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T06:54:01.719Z"
+    "timestamp": "2025-09-18T07:07:38.868Z"
   }
 }
