@@ -5921,27 +5921,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "112411",
-        "prod": "Dewmist",
-        "var": "Irina",
-        "url": "https://i.ibb.co/BVQ4ZjHm/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Atmosphere 707 Ply & Foam Upholstery Structure; Brass Transparent Coat Mild Steel Legs",
-        "sz": "Outer: 18\" x 20\" x 29.5\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/11J0mkjtg6gw8h4EY7zN3VSyOWgVRokoT",
-        "des": "Hetvi Shah",
-        "dl": "29-Mar-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "L shape ptta in 104 degree"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "122415",
         "prod": "Skyridge",
         "var": "Fynn",
@@ -12951,6 +12930,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T06:37:25.826Z"
+    "timestamp": "2025-09-18T06:54:01.719Z"
   }
 }
