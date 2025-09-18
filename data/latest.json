@@ -7712,6 +7712,27 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
+        "op": "092502",
+        "prod": "Lucan",
+        "var": "Sigma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250904_131116_328114_pasted_image_1756971680108.jpeg",
+        "cat": "Console Table Bases",
+        "mat": "Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 42\" x 16\" x 39\"",
+        "fld": "https://drive.google.com/drive/folders/1UHzRiObOs6oKuvlb_ZciPtkIgxCBNYE0",
+        "des": "Hetvi Shah",
+        "dl": "06-Sept-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "It Is Managed With Our Upcoming Other Material Transport To Mumbai in part load ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
         "op": "092518",
         "prod": "Seaweed",
         "var": "Ivy",
@@ -12783,6 +12804,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-18T13:25:26.146Z"
+    "timestamp": "2025-09-18T13:37:34.309Z"
   }
 }
