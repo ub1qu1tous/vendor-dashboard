@@ -5270,6 +5270,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072313",
+        "prod": "Tranquil",
+        "var": "Xerri",
+        "url": "https://i.ibb.co/XkDj39Mv/Screenshot-2025-07-02-180545.png",
+        "cat": "Accent Chairs",
+        "mat": "Natural Recycled Teak Frame; Italian Herringbone SKU 8112 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 35\" x 39\" x 31.3\", Seat Height: 17.25\"",
+        "fld": "https://drive.google.com/drive/folders/1suDOVeuTPrYnO0c_2Q4uanVd90vPTPqX",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room GF Accent Chair ; Fabric Qty Each 3.5 mtr",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "072515",
         "prod": "Canoe",
         "var": "Ryson",
@@ -5438,6 +5459,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072528",
+        "prod": "Rieger",
+        "var": "Bawra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_131122_366061_pasted_image_1758094887468.png",
+        "cat": "Credenzas",
+        "mat": "Harvest Teak Veneer Internal Carcass; Harvest Indian Teak Shutter; Harvest Indian Teak Carcass; Extra Clear 4mm Glass Mirror; Brown Tinted 8mm Glass Shelf; Gold PVD Stainless Steel 202 Matt Handle; Fabric TBC 18mm Plywood Niche; Fabric TBC 18mm Plywood Mounting; Gold PVD Stainless Steel 304 Matt Mounting; Antique Brass Stainless Steel 304 Matt Base",
+        "sz": "Outer: 45\" x 21.3\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1whl9M2-YA9qZGjnYY-zIkHg9vH--uzjt",
+        "des": "Kapil Grover",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "new  2 pc handle in 16mm pipe 1000mm length as per previour size but in straight pipe with previous hole center"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082412",
         "prod": "Arvesso",
         "var": "Numin",
@@ -5559,7 +5601,7 @@
         "v": {
           "c": "19-Sept-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "2 pc in ss 25mm dia pipe"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -8068,7 +8110,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "recoating"
+          "rm": "pvd in 2 pc handle"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -12025,6 +12067,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-19T06:42:06.417Z"
+    "timestamp": "2025-09-19T06:55:58.877Z"
   }
 }
