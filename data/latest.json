@@ -5270,27 +5270,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072313",
-        "prod": "Tranquil",
-        "var": "Xerri",
-        "url": "https://i.ibb.co/XkDj39Mv/Screenshot-2025-07-02-180545.png",
-        "cat": "Accent Chairs",
-        "mat": "Natural Recycled Teak Frame; Italian Herringbone SKU 8112 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 35\" x 39\" x 31.3\", Seat Height: 17.25\"",
-        "fld": "https://drive.google.com/drive/folders/1suDOVeuTPrYnO0c_2Q4uanVd90vPTPqX",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Accent Chair ; Fabric Qty Each 3.5 mtr",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "072515",
         "prod": "Canoe",
         "var": "Ryson",
@@ -12067,6 +12046,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-19T06:55:58.877Z"
+    "timestamp": "2025-09-19T07:23:26.129Z"
   }
 }
