@@ -5438,27 +5438,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072528",
-        "prod": "Rieger",
-        "var": "Bawra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_131122_366061_pasted_image_1758094887468.png",
-        "cat": "Credenzas",
-        "mat": "Harvest Teak Veneer Internal Carcass; Harvest Indian Teak Shutter; Harvest Indian Teak Carcass; Extra Clear 4mm Glass Mirror; Brown Tinted 8mm Glass Shelf; Gold PVD Stainless Steel 202 Matt Handle; Fabric TBC 18mm Plywood Niche; Fabric TBC 18mm Plywood Mounting; Gold PVD Stainless Steel 304 Matt Mounting; Antique Brass Stainless Steel 304 Matt Base",
-        "sz": "Outer: 45\" x 21.3\" x 60\"",
-        "fld": "https://drive.google.com/drive/folders/1whl9M2-YA9qZGjnYY-zIkHg9vH--uzjt",
-        "des": "Kapil Grover",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "new  2 pc handle in 16mm pipe 1000mm length as per previour size but in straight pipe with previous hole center"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "082412",
         "prod": "Arvesso",
         "var": "Numin",
@@ -5560,27 +5539,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082501",
-        "prod": "Ring",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/pv7hWgS/0000.jpg",
-        "cat": "Accent Tables",
-        "mat": "Finish TBC White Ash Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 18\" x 18\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/14lnyi4DD3K3qQJh9knKwhTzaAE-QgtSG",
-        "des": "Parth Gada",
-        "dl": "03-Mar-2023",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "19-Sept-2025",
-          "a": "",
-          "rm": "2 pc in ss 25mm dia pipe"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -8094,27 +8052,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "072528",
-        "prod": "Rieger",
-        "var": "Bawra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_131122_366061_pasted_image_1758094887468.png",
-        "cat": "Credenzas",
-        "mat": "Harvest Teak Veneer Internal Carcass; Harvest Indian Teak Shutter; Harvest Indian Teak Carcass; Extra Clear 4mm Glass Mirror; Brown Tinted 8mm Glass Shelf; Gold PVD Stainless Steel 202 Matt Handle; Fabric TBC 18mm Plywood Niche; Fabric TBC 18mm Plywood Mounting; Gold PVD Stainless Steel 304 Matt Mounting; Antique Brass Stainless Steel 304 Matt Base",
-        "sz": "Outer: 45\" x 21.3\" x 60\"",
-        "fld": "https://drive.google.com/drive/folders/1whl9M2-YA9qZGjnYY-zIkHg9vH--uzjt",
-        "des": "Kapil Grover",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "pvd in 2 pc handle"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "072529",
         "prod": "Davenport",
         "var": "Xany",
@@ -8172,27 +8109,6 @@
         "cr": "Jaybhai's Bedroom",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082501",
-        "prod": "Ring",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/pv7hWgS/0000.jpg",
-        "cat": "Accent Tables",
-        "mat": "Finish TBC White Ash Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 18\" x 18\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/14lnyi4DD3K3qQJh9knKwhTzaAE-QgtSG",
-        "des": "Parth Gada",
-        "dl": "03-Mar-2023",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "21-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -12067,6 +11983,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-22T11:26:33.728Z"
+    "timestamp": "2025-09-22T11:38:47.120Z"
   }
 }
