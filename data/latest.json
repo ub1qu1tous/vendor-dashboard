@@ -5690,6 +5690,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "082530",
+        "prod": "Newbow",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_144704_624392_pasted_image_1758014229619.png",
+        "cat": "Accent Tables",
+        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
+        "sz": "Outer: 18\" x 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/157EDQpujIP6C9s3QYiAV5Mb_hkB-uppu",
+        "des": "Tanmay Shah",
+        "dl": "13-Sept-2025",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "Tile Slab will provide by client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "38mm MS metal pipe, and top marble fixing plate"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "092416",
         "prod": "Sloane",
         "var": "Rawlins",
@@ -12046,6 +12067,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-22T11:10:43.426Z"
+    "timestamp": "2025-09-22T11:26:33.728Z"
   }
 }
