@@ -4459,7 +4459,7 @@
         "v": {
           "c": "20-Sept-2025",
           "a": "",
-          "rm": "Top, drawer box, drawer  , Leg PU colour,leg in HDHMR, round flap with hing so that it can open when needed as a basket use and close when not required"
+          "rm": "Drawer box and PU work"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5748,7 +5748,7 @@
         "v": {
           "c": "15-Jul-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Ring for net hanging"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -10059,6 +10059,27 @@
           "rm": "Frame; Legs; all assemblable modular - Delivery Jodhpur"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122415",
+        "prod": "Skyridge",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/35gtNTQj/Whats-App-Image-2025-04-02-at-15-35-02-5923e4dc.jpg",
+        "cat": "Study Tables",
+        "mat": "RAL 7004 Signal Grey HDHMR Top; RAL 7004 Signal Grey HDHMR Drawer Box; RAL 7004 Signal Grey HDHMR Drawer; RAL 7004 Signal Grey HDHMR Legs",
+        "sz": "Outer: 72\" x 24\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1GEl3JGep4i1i0Nidp_hxAbSUrhFiXzK5",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Son Bedroom Study Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "table in HDHMR and Fascia for drawer, we will make drawer internal at Vipra"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "krishna_furnitech_polish_only": [
@@ -11983,6 +12004,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-23T05:52:23.225Z"
+    "timestamp": "2025-09-23T06:07:26.394Z"
   }
 }
