@@ -5800,27 +5800,6 @@
       },
       {
         "op": "072313",
-        "prod": "Rainveil",
-        "var": "Zaira",
-        "url": "https://i.ibb.co/ns3mHXj7/Screenshot-2025-07-03-150605.png",
-        "cat": "Sofas",
-        "mat": "Natural Recycled Teak Frame; Maverick Versace Sr No 5812 Ply & Foam Upholstery Seat; Maverick Versace Sr No 5812 Recron Filling 3 Cushions",
-        "sz": "Outer: 104\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1qHbxbmLapTtWqlsZ_yrY7WM90Okxxm6u",
-        "des": "Hetvi Shah",
-        "dl": "03-May-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Sofa ; Fabric Qty Each 9.0 mtr",
-        "v": {
-          "c": "17-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072313",
         "prod": "Silia",
         "var": "Zuri",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_184654_084331_pasted_image_1757596618836.png",
@@ -6031,27 +6010,6 @@
       },
       {
         "op": "072528",
-        "prod": "Dorothy",
-        "var": "Turia",
-        "url": "https://i.ibb.co/TRLh6M7/Turia-1.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Peca Sheesham Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 28\" x 28\" x 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1Xc4z8f9Omr_7OPm0_-uHXiReSZPxjk3b",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "18-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072528",
         "prod": "Grouse",
         "var": "Justo",
         "url": "https://i.ibb.co/wrKvX9d/0002.jpg",
@@ -6194,27 +6152,6 @@
           "c": "08-Oct-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082510",
-        "prod": "Walkins",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_112723_660407_pasted_image_1756792646711.png",
-        "cat": "Accent Tables",
-        "mat": "Finish TBC White Oak Top; Grey Powder Coat Mild Steel Base",
-        "sz": "Outer: 16\" x 15\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
-        "des": "Tanmay Shah",
-        "dl": "29-Aug-2025",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "20-Sept-2025",
-          "a": "",
-          "rm": "Top"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -11607,6 +11544,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-23T09:27:12.787Z"
+    "timestamp": "2025-09-23T09:45:30.076Z"
   }
 }
