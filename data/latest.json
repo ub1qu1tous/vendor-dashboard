@@ -3115,7 +3115,7 @@
         "v": {
           "c": "30-Sept-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU work on HDHMR outer carcass, and inside storage unit making"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -7735,7 +7735,7 @@
         "vendorDisplayName": "Kamlesh Jangid"
       }
     ],
-    "surat_pvd": [
+    "vittal_wood_tech": [
       {
         "op": "032507",
         "prod": "Wrasse",
@@ -7753,114 +7753,9 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "gold matt"
+          "rm": "outer carcass in HDHMR, under ka storage vipra me bnega us hisab se outer carcass bnaye taki un dono ko bad me joda ja ske, upper ak nanowhite ka stone lgega as per whitebackground image "
         },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
-        "prod": "Avarion",
-        "var": "Avore",
-        "url": "https://i.ibb.co/svj8gWy1/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Clear 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 54\" x 30\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
-        "des": "Hetvi Shah",
-        "dl": "20-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
-        "prod": "Avarion",
-        "var": "Bullion",
-        "url": "https://i.ibb.co/3m17vmDr/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Clear 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 30\" x 30\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1AQmEtbtKAPZDJT3mILbchfjbUV8ahVZV",
-        "des": "Hetvi Shah",
-        "dl": "31-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Mustang",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 84\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1ifh-4V6VaYub2pSNjYxxPX6HtfzhxSXp",
-        "des": "Tanmay Shah",
-        "dl": "13-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
-        "prod": "Eleska",
-        "var": "Philia",
-        "url": "https://i.ibb.co/cXtRrgmy/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
-        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
-        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
-        "des": "Hetvi Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Vittal Wood-tech"
       },
       {
         "op": "052510",
@@ -7881,38 +7776,38 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "072313",
-        "prod": "Endsville",
-        "var": "Sigma",
-        "url": "https://i.ibb.co/GvfPtN4M/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Legs; Mirror Buffing Banswada White Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 96\" x 48\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1l6GFsDdUpgrdzP0CVu8Mgrt3cgZ-uqeo",
-        "des": "Hetvi Shah",
-        "dl": "30-Apr-2025",
-        "q": 1,
+        "op": "052510",
+        "prod": "Kwacha",
+        "var": "Myntra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_182238_896912_pasted_image_1757595163311.png",
+        "cat": "Dining Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Ash Base; Black Powder Coat Mild Steel Mounting",
+        "sz": "Outer: 23\" x 26.5\" x 35\", Seat Height: 18.75\"",
+        "fld": "https://drive.google.com/drive/folders/175ljwmom7Ryh2gVMn2MqiwAgeOVc-LRm",
+        "des": "Tanmay Shah",
+        "dl": "18-Jul-2025",
+        "q": 8,
         "pm": "Maulik Parmar",
-        "cr": "Dining Area GF Dining Table",
+        "cr": "Dining Area",
         "v": {
-          "c": "10-Aug-2025",
+          "c": "",
           "a": "",
-          "rm": "8 rings PVD gold"
+          "rm": "Please follow Video Instructions"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "072515",
-        "prod": "Canoe",
-        "var": "Ryson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
         "des": "Tanmay Shah",
         "dl": "",
         "q": 2,
@@ -7923,238 +7818,196 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "072515",
-        "prod": "Glacierhorn",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_142617_709887_Screenshot_2025-09-22_142558.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Legs; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 92.5\" x 83\" x 43\", Seat Height: 20\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
+        "op": "082510",
+        "prod": "Rinsun",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_093932_407829_pasted_image_1756786175117.png",
+        "cat": "Chests",
+        "mat": "Finish TBC 16mm MDF Carcass; Finish TBC 16mm MDF Drawer Fascia; Deluxe-02 Frosty White 16mm MDF Internal Carcass; Natural White Oak Knobs",
+        "sz": "Outer: 47\" x 16\" x 35\"",
+        "fld": "https://drive.google.com/drive/folders/1mcqnNZ8k28s1YZBgkkLk7sxc7DK9hGxC",
         "des": "Tanmay Shah",
-        "dl": "19-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyani Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072515",
-        "prod": "Glint",
-        "var": "Cello",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
-        "cat": "Dining Chairs",
-        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Finish TBC Stainless Steel 304 Matt Accessories",
-        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072515",
-        "prod": "Nolvera",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_182148_852072_Screenshot_2025-08-01_182137.png",
-        "cat": "Console Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Gold PVD Stainless Steel 202 Matt Frame; Finish TBC Black Veneer Legs; Finish TBC Black Veneer Accessories",
-        "sz": "Outer: 48\" x 16\" x 33\"",
-        "fld": "https://drive.google.com/drive/folders/1la9jiyj_sgMnjeFhPFHFH7V05CvdEjGb",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072518",
-        "prod": "Olyra",
-        "var": "Dion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110510_886630_pasted_image_1758000917231.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
-        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
-        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
-        "des": "Parthsarthi Suthar",
-        "dl": "26-Jul-2025",
-        "q": 4,
-        "pm": "Maulik Parmar",
-        "cr": "3.5 metre fabric from client (4 Chairs)",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "gold pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072528",
-        "prod": "Arcadia",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/rvv7fYv/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Sarrom (Milano) Amber SRN 111 Ply & Foam Upholstery Structure; Sarrom (Milano)- Rambo SRN 111  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 37\" x 31\" x 31.5\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1wTe_-6su-GfRebtmkbdSk-2r7d9eu79I",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072528",
-        "prod": "Arcadia",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/3vJK6dm/0002-10.jpg",
-        "cat": "Sofas",
-        "mat": "Sarrom (Luke) SRN 119  Ply & Foam Upholstery Structure; Sarrom (Luke) SRN 119  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 78\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1KrydcS2qX7UYTN65nNRw10unMhGLtdIK",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072529",
-        "prod": "Davenport",
-        "var": "Xany",
-        "url": "https://i.ibb.co/7NrNw7Z/2-2-2.jpg",
-        "cat": "Console Tables",
-        "mat": "Mirror Buffing Banswada White Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 52\" x 10\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/15YCF73Euz1RHFo9f-uISszrQUgBODoQN",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Without Marble Top\nHeight Will be 36\"",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082412",
-        "prod": "Richie",
-        "var": "Junior",
-        "url": "https://i.ibb.co/KcKLHPy6/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Legs; Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
-        "des": "Hetvi Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082413",
-        "prod": "Summit",
-        "var": "Elide",
-        "url": "https://i.ibb.co/Cp87VFh4/0001.jpg",
-        "cat": "Shelvings",
-        "mat": "Black PVD Stainless Steel 304 Matt Frame; Leather Club - II  Sr. 204 12mm Plywood Shelf; Leather Club - II  Sr. 204 12mm Plywood Panel; Gold PVD Stainless Steel 304 Matt Frame (Book Shelf)",
-        "sz": "Outer: 45\" x 10\" x 111.5\"",
-        "fld": "https://drive.google.com/drive/folders/1vxv6Gc7u4RajYdWlvACI4D2q7PJbvpSM",
-        "des": "Rohan Parmar",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Jaybhai's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "102411",
-        "prod": "Citadel",
-        "var": "Drake",
-        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
-        "cat": "Swings",
-        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
-        "sz": "Outer: 60\" x 24\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
-        "des": "Hetvi Shah",
-        "dl": "25-Dec-2024",
+        "dl": "30-Aug-2025",
         "q": 1,
         "pm": "Rohan Parmar",
-        "cr": "Living Room Swing",
+        "cr": "",
         "v": {
-          "c": "",
+          "c": "10-Sept-2025",
+          "a": "",
+          "rm": "Carcase, Knobs in Oak"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082510",
+        "prod": "Rosco",
+        "var": "Audus",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_094519_795375_pasted_image_1756786522580.png",
+        "cat": "Nightstands",
+        "mat": "Finish TBC 12mm MDF Carcass; Finish TBC 16mm MDF Drawer Fascia; Deluxe-02 Frosty White 16mm MDF Internal Carcass; Natural White Oak Knobs; Natural White Oak Legs",
+        "sz": "Outer: 20\" x 16\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/12PE2qkGNPBNeVJ1DCtJbIxBKx12sPmRv",
+        "des": "Tanmay Shah",
+        "dl": "31-Aug-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "10-Sept-2025",
+          "a": "",
+          "rm": "Carcase, Knobs, Legs in Oak"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082524",
+        "prod": "Clonliff",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_760297_WhatsApp_Image_2025-09-12_at_19_32_21__1_.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 54\" x 6\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
+        "v": {
+          "c": "30-Sept-2025",
+          "a": "",
+          "rm": "As per farma."
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082524",
+        "prod": "Coombs",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_761418_WhatsApp_Image_2025-09-12_at_19_32_20__2_.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 76\" x 7.5\" x 69\"",
+        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "30-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "102416",
-        "prod": "Fluke",
-        "var": "Trickle",
-        "url": "https://i.ibb.co/Wv42rJ5k/0001.jpg",
-        "cat": "Nightstands",
-        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Black PVD Stainless Steel 304 Matt Frame; Finish TBC HDHMR Drawer Fascia; Black PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 18\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1O1p33V3FA7V_MfRjoXMc7PTh190CH4ws",
-        "des": "Hetvi Shah",
-        "dl": "12-Jan-2025",
+        "op": "082524",
+        "prod": "Croydon",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_762037_WhatsApp_Image_2025-09-12_at_19_32_21.jpeg",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 60\" x 2.5\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "30-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082530",
+        "prod": "Newbow",
+        "var": "Arley",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
+        "sz": "Outer: 48\" x 33\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1cDBsZ9Kd3-Ww6Xd0rAvTzMixY3hfOE80",
+        "des": "Tanmay Shah",
+        "dl": "13-Sept-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Tile Slab will provide by client",
+        "v": {
+          "c": "11-Sept-2025",
+          "a": "",
+          "rm": "Legs in HDHMR for PU Finisg; with fitting methodology, top material is a ceramic tile"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082530",
+        "prod": "Newbow",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_144704_624392_pasted_image_1758014229619.png",
+        "cat": "Accent Tables",
+        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
+        "sz": "Outer: 18\" x 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/157EDQpujIP6C9s3QYiAV5Mb_hkB-uppu",
+        "des": "Tanmay Shah",
+        "dl": "13-Sept-2025",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "Tile Slab will provide by client",
+        "v": {
+          "c": "11-Sept-2025",
+          "a": "",
+          "rm": "Legs in HDHMR for PU Finisg; with fitting methodology, top material is a ceramic tile"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092513",
+        "prod": "Spinny",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_125244_759974_pasted_image_1758007369446.png",
+        "cat": "Beds",
+        "mat": "Sugar Shade 913 Ply & Foam Upholstery Headboard; Sugar Shade 913 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support; Natural White Oak Frame; Natural White Oak Legs",
+        "sz": "Outer: 48\" x 78\" x 81\", Seat Height: 22\";\nMattress: 45\" x 74\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1oK53z-pT-KGr-tRA1IcamFfRBuLlsYjB",
+        "des": "Maulik Parmar",
+        "dl": "16-Sept-2025",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom",
+        "cr": "",
         "v": {
-          "c": "30-Jun-2025",
+          "c": "23-Sept-2025",
           "a": "",
-          "rm": "black pvd"
+          "rm": "Frame; Legs; all assemblable modular - Delivery Jodhpur"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122415",
+        "prod": "Skyridge",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/35gtNTQj/Whats-App-Image-2025-04-02-at-15-35-02-5923e4dc.jpg",
+        "cat": "Study Tables",
+        "mat": "RAL 7004 Signal Grey HDHMR Top; RAL 7004 Signal Grey HDHMR Drawer Box; RAL 7004 Signal Grey HDHMR Drawer; RAL 7004 Signal Grey HDHMR Legs",
+        "sz": "Outer: 72\" x 24\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1GEl3JGep4i1i0Nidp_hxAbSUrhFiXzK5",
+        "des": "Hetvi Shah",
+        "dl": "01-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Son Bedroom Study Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "table in HDHMR and Fascia for drawer, we will make drawer internal at Vipra, Net jaha lg rahi hai vaha 1 ss ka ring aayega 6mm ka and jb net use krna hoga to upper k roiund cap dena hai jisse table use krte wqt vaha pr dubara lgaya ja ske , dhkkan pe hing lgana hai open klrne k liye "
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "vishwakarma_glass": [
@@ -8707,6 +8560,407 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
+      }
+    ],
+    "surat_pvd": [
+      {
+        "op": "052510",
+        "prod": "Avarion",
+        "var": "Avore",
+        "url": "https://i.ibb.co/svj8gWy1/image.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 54\" x 30\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
+        "des": "Hetvi Shah",
+        "dl": "20-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Avarion",
+        "var": "Bullion",
+        "url": "https://i.ibb.co/3m17vmDr/image.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 30\" x 30\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1AQmEtbtKAPZDJT3mILbchfjbUV8ahVZV",
+        "des": "Hetvi Shah",
+        "dl": "31-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Digbet",
+        "var": "Mustang",
+        "url": "https://i.ibb.co/XZM0G3R1/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
+        "sz": "Outer: 84\" x 42\" x 33\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1ifh-4V6VaYub2pSNjYxxPX6HtfzhxSXp",
+        "des": "Tanmay Shah",
+        "dl": "13-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Digbet",
+        "var": "Nycia",
+        "url": "https://i.ibb.co/XZM0G3R1/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca White Oak Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
+        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
+        "des": "Tanmay Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Eleska",
+        "var": "Philia",
+        "url": "https://i.ibb.co/cXtRrgmy/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Canvas Upholstery Outside Canopy; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions; Fabric TBC Foam Upholstery 3 Cushions",
+        "sz": "Outer: 35.4\" x 30\" x 30\", Seat Height: 15.7\"",
+        "fld": "https://drive.google.com/drive/folders/1z2TF54YX2pCye2D3LNqfXGAQ_jco8UHr",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052510",
+        "prod": "Evarin",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/jPbjcrSy/image.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Matt Duco 16mm MDF Support; Black Matt Sheesham Legs; Gold PVD Stainless Steel 304 Matt Fixture",
+        "sz": "Outer: 90\" x 42\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1Pz9swNMaEihRNe4z0f3lndQydUV6dGxu",
+        "des": "Hetvi Shah",
+        "dl": "02-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072313",
+        "prod": "Endsville",
+        "var": "Sigma",
+        "url": "https://i.ibb.co/GvfPtN4M/0002.jpg",
+        "cat": "Dining Tables",
+        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Legs; Mirror Buffing Banswada White Legs; Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 96\" x 48\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1l6GFsDdUpgrdzP0CVu8Mgrt3cgZ-uqeo",
+        "des": "Hetvi Shah",
+        "dl": "30-Apr-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area GF Dining Table",
+        "v": {
+          "c": "10-Aug-2025",
+          "a": "",
+          "rm": "8 rings PVD gold"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072515",
+        "prod": "Canoe",
+        "var": "Ryson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072515",
+        "prod": "Glacierhorn",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_142617_709887_Screenshot_2025-09-22_142558.png",
+        "cat": "Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Legs; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 92.5\" x 83\" x 43\", Seat Height: 20\";\nMattress: 72\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
+        "des": "Tanmay Shah",
+        "dl": "19-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyani Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072515",
+        "prod": "Glint",
+        "var": "Cello",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Finish TBC Stainless Steel 304 Matt Accessories",
+        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072515",
+        "prod": "Nolvera",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_182148_852072_Screenshot_2025-08-01_182137.png",
+        "cat": "Console Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Gold PVD Stainless Steel 202 Matt Frame; Finish TBC Black Veneer Legs; Finish TBC Black Veneer Accessories",
+        "sz": "Outer: 48\" x 16\" x 33\"",
+        "fld": "https://drive.google.com/drive/folders/1la9jiyj_sgMnjeFhPFHFH7V05CvdEjGb",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072518",
+        "prod": "Olyra",
+        "var": "Dion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110510_886630_pasted_image_1758000917231.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
+        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
+        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
+        "des": "Parthsarthi Suthar",
+        "dl": "26-Jul-2025",
+        "q": 4,
+        "pm": "Maulik Parmar",
+        "cr": "3.5 metre fabric from client (4 Chairs)",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "gold pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072528",
+        "prod": "Arcadia",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/rvv7fYv/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Sarrom (Milano) Amber SRN 111 Ply & Foam Upholstery Structure; Sarrom (Milano)- Rambo SRN 111  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 37\" x 31\" x 31.5\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1wTe_-6su-GfRebtmkbdSk-2r7d9eu79I",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072528",
+        "prod": "Arcadia",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/3vJK6dm/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Sarrom (Luke) SRN 119  Ply & Foam Upholstery Structure; Sarrom (Luke) SRN 119  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 78\" x 32\" x 31\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1KrydcS2qX7UYTN65nNRw10unMhGLtdIK",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072529",
+        "prod": "Davenport",
+        "var": "Xany",
+        "url": "https://i.ibb.co/7NrNw7Z/2-2-2.jpg",
+        "cat": "Console Tables",
+        "mat": "Mirror Buffing Banswada White Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 52\" x 10\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/15YCF73Euz1RHFo9f-uISszrQUgBODoQN",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Without Marble Top\nHeight Will be 36\"",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "082412",
+        "prod": "Richie",
+        "var": "Junior",
+        "url": "https://i.ibb.co/KcKLHPy6/image.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Legs; Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "082413",
+        "prod": "Summit",
+        "var": "Elide",
+        "url": "https://i.ibb.co/Cp87VFh4/0001.jpg",
+        "cat": "Shelvings",
+        "mat": "Black PVD Stainless Steel 304 Matt Frame; Leather Club - II  Sr. 204 12mm Plywood Shelf; Leather Club - II  Sr. 204 12mm Plywood Panel; Gold PVD Stainless Steel 304 Matt Frame (Book Shelf)",
+        "sz": "Outer: 45\" x 10\" x 111.5\"",
+        "fld": "https://drive.google.com/drive/folders/1vxv6Gc7u4RajYdWlvACI4D2q7PJbvpSM",
+        "des": "Rohan Parmar",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Jaybhai's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "102411",
+        "prod": "Citadel",
+        "var": "Drake",
+        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
+        "cat": "Swings",
+        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
+        "sz": "Outer: 60\" x 24\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
+        "des": "Hetvi Shah",
+        "dl": "25-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Swing",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "102416",
+        "prod": "Fluke",
+        "var": "Trickle",
+        "url": "https://i.ibb.co/Wv42rJ5k/0001.jpg",
+        "cat": "Nightstands",
+        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Black PVD Stainless Steel 304 Matt Frame; Finish TBC HDHMR Drawer Fascia; Black PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 20\" x 18\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1O1p33V3FA7V_MfRjoXMc7PTh190CH4ws",
+        "des": "Hetvi Shah",
+        "dl": "12-Jan-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "black pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
       }
     ],
     "shital_glass": [
@@ -9826,260 +10080,6 @@
           "rm": "bidasar green"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
-      }
-    ],
-    "vittal_wood_tech": [
-      {
-        "op": "052510",
-        "prod": "Evarin",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/jPbjcrSy/image.png",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Banswada White Top; Black Matt Duco 16mm MDF Support; Black Matt Sheesham Legs; Gold PVD Stainless Steel 304 Matt Fixture",
-        "sz": "Outer: 90\" x 42\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1Pz9swNMaEihRNe4z0f3lndQydUV6dGxu",
-        "des": "Hetvi Shah",
-        "dl": "02-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052510",
-        "prod": "Kwacha",
-        "var": "Myntra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_182238_896912_pasted_image_1757595163311.png",
-        "cat": "Dining Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Ash Base; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 23\" x 26.5\" x 35\", Seat Height: 18.75\"",
-        "fld": "https://drive.google.com/drive/folders/175ljwmom7Ryh2gVMn2MqiwAgeOVc-LRm",
-        "des": "Tanmay Shah",
-        "dl": "18-Jul-2025",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082412",
-        "prod": "Earthhaven",
-        "var": "Mobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
-        "sz": "Outer: 22\" x 22\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082510",
-        "prod": "Rinsun",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_093932_407829_pasted_image_1756786175117.png",
-        "cat": "Chests",
-        "mat": "Finish TBC 16mm MDF Carcass; Finish TBC 16mm MDF Drawer Fascia; Deluxe-02 Frosty White 16mm MDF Internal Carcass; Natural White Oak Knobs",
-        "sz": "Outer: 47\" x 16\" x 35\"",
-        "fld": "https://drive.google.com/drive/folders/1mcqnNZ8k28s1YZBgkkLk7sxc7DK9hGxC",
-        "des": "Tanmay Shah",
-        "dl": "30-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "10-Sept-2025",
-          "a": "",
-          "rm": "Carcase, Knobs in Oak"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082510",
-        "prod": "Rosco",
-        "var": "Audus",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_094519_795375_pasted_image_1756786522580.png",
-        "cat": "Nightstands",
-        "mat": "Finish TBC 12mm MDF Carcass; Finish TBC 16mm MDF Drawer Fascia; Deluxe-02 Frosty White 16mm MDF Internal Carcass; Natural White Oak Knobs; Natural White Oak Legs",
-        "sz": "Outer: 20\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/12PE2qkGNPBNeVJ1DCtJbIxBKx12sPmRv",
-        "des": "Tanmay Shah",
-        "dl": "31-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "10-Sept-2025",
-          "a": "",
-          "rm": "Carcase, Knobs, Legs in Oak"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082524",
-        "prod": "Clonliff",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_760297_WhatsApp_Image_2025-09-12_at_19_32_21__1_.jpeg",
-        "cat": "Windows",
-        "mat": "Rich Tobacco Sheesham Frame",
-        "sz": "Outer: 54\" x 6\" x 60\"",
-        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
-        "v": {
-          "c": "30-Sept-2025",
-          "a": "",
-          "rm": "As per farma."
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082524",
-        "prod": "Coombs",
-        "var": "Brittany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_761418_WhatsApp_Image_2025-09-12_at_19_32_20__2_.jpeg",
-        "cat": "Windows",
-        "mat": "Rich Tobacco Sheesham Frame",
-        "sz": "Outer: 76\" x 7.5\" x 69\"",
-        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "30-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082524",
-        "prod": "Croydon",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193439_762037_WhatsApp_Image_2025-09-12_at_19_32_21.jpeg",
-        "cat": "Windows",
-        "mat": "Rich Tobacco Sheesham Frame",
-        "sz": "Outer: 60\" x 2.5\" x 54\"",
-        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "30-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082530",
-        "prod": "Newbow",
-        "var": "Arley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
-        "cat": "Coffee Tables",
-        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
-        "sz": "Outer: 48\" x 33\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1cDBsZ9Kd3-Ww6Xd0rAvTzMixY3hfOE80",
-        "des": "Tanmay Shah",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "Tile Slab will provide by client",
-        "v": {
-          "c": "11-Sept-2025",
-          "a": "",
-          "rm": "Legs in HDHMR for PU Finisg; with fitting methodology, top material is a ceramic tile"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082530",
-        "prod": "Newbow",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_144704_624392_pasted_image_1758014229619.png",
-        "cat": "Accent Tables",
-        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
-        "sz": "Outer: 18\" x 18\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/157EDQpujIP6C9s3QYiAV5Mb_hkB-uppu",
-        "des": "Tanmay Shah",
-        "dl": "13-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "Tile Slab will provide by client",
-        "v": {
-          "c": "11-Sept-2025",
-          "a": "",
-          "rm": "Legs in HDHMR for PU Finisg; with fitting methodology, top material is a ceramic tile"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092513",
-        "prod": "Spinny",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_125244_759974_pasted_image_1758007369446.png",
-        "cat": "Beds",
-        "mat": "Sugar Shade 913 Ply & Foam Upholstery Headboard; Sugar Shade 913 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support; Natural White Oak Frame; Natural White Oak Legs",
-        "sz": "Outer: 48\" x 78\" x 81\", Seat Height: 22\";\nMattress: 45\" x 74\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1oK53z-pT-KGr-tRA1IcamFfRBuLlsYjB",
-        "des": "Maulik Parmar",
-        "dl": "16-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "23-Sept-2025",
-          "a": "",
-          "rm": "Frame; Legs; all assemblable modular - Delivery Jodhpur"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122415",
-        "prod": "Skyridge",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/35gtNTQj/Whats-App-Image-2025-04-02-at-15-35-02-5923e4dc.jpg",
-        "cat": "Study Tables",
-        "mat": "RAL 7004 Signal Grey HDHMR Top; RAL 7004 Signal Grey HDHMR Drawer Box; RAL 7004 Signal Grey HDHMR Drawer; RAL 7004 Signal Grey HDHMR Legs",
-        "sz": "Outer: 72\" x 24\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1GEl3JGep4i1i0Nidp_hxAbSUrhFiXzK5",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Son Bedroom Study Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "table in HDHMR and Fascia for drawer, we will make drawer internal at Vipra"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "krishna_furnitech_polish_only": [
@@ -12004,6 +12004,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-23T06:07:26.394Z"
+    "timestamp": "2025-09-23T06:24:24.076Z"
   }
 }
