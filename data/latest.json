@@ -5019,27 +5019,6 @@
       },
       {
         "op": "072313",
-        "prod": "Endsville",
-        "var": "Sigma",
-        "url": "https://i.ibb.co/GvfPtN4M/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Legs; Mirror Buffing Banswada White Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 96\" x 48\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1l6GFsDdUpgrdzP0CVu8Mgrt3cgZ-uqeo",
-        "des": "Hetvi Shah",
-        "dl": "30-Apr-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area GF Dining Table",
-        "v": {
-          "c": "05-Aug-2025",
-          "a": "",
-          "rm": "leg ring 8 pcs as per farma "
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072313",
         "prod": "Silia",
         "var": "Zuri",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_184654_084331_pasted_image_1757596618836.png",
@@ -11544,6 +11523,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-24T06:40:41.523Z"
+    "timestamp": "2025-09-24T06:53:02.320Z"
   }
 }
