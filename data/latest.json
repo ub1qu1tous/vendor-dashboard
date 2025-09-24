@@ -3436,27 +3436,6 @@
       },
       {
         "op": "082413",
-        "prod": "Harbor",
-        "var": "Yukon",
-        "url": "https://i.ibb.co/mCpDj00b/image.png",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Albester White Marble Top; Gold PVD Stainless Steel 304 Matt Mounting; Natural Black Veneer Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Black Veneer Shutter; Mirror Buffing Albester White Marble Base; Mirror Buffing Albester White Marble Support; Gold PVD Stainless Steel 304 Matt Accessories",
-        "sz": "Outer: 53\" x 16\" x 27\"",
-        "fld": "https://drive.google.com/drive/folders/1Tl6B7ml7UXL2uQ-GrH53WyVYNznW3X9y",
-        "des": "Tanmay Shah",
-        "dl": "17-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyanbhai's Bedroom",
-        "v": {
-          "c": "30-Jul-2025",
-          "a": "",
-          "rm": "Use paper vaneer for exterior"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082413",
         "prod": "Opulence",
         "var": "Quanta",
         "url": "https://i.ibb.co/SwwSGxm0/0002.jpg",
@@ -3576,27 +3555,6 @@
         "cr": "",
         "v": {
           "c": "07-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "092416",
-        "prod": "Harlequin",
-        "var": "Zany",
-        "url": "https://i.ibb.co/jh5JWK1/HARLEYQUINN-1-of-8-1.jpg",
-        "cat": "Nightstands",
-        "mat": "Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Carcass; White Matt Duco 18mm MDF Drawer Fascia; Matt Buffing Leather Strap Handle; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 20\" x 16.5\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1GT01wBDUDzxvZAlEF0RyUe94NEqWV8GQ",
-        "des": "Tarishi Rathore",
-        "dl": "11-Dec-2021",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri",
-        "v": {
-          "c": "30-Jun-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -11735,6 +11693,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-24T08:56:53.892Z"
+    "timestamp": "2025-09-24T09:16:29.352Z"
   }
 }
