@@ -4361,6 +4361,48 @@
         "vendorDisplayName": "Jain Marble"
       },
       {
+        "op": "072313",
+        "prod": "Ascovia",
+        "var": "Scroll",
+        "url": "https://i.ibb.co/qYQP1KgZ/Screenshot-2025-07-03-180435.png",
+        "cat": "Coffee Tables",
+        "mat": "Mirror Buffing Bianco Equador Top; Natural Recycled Teak Base",
+        "sz": "Outer: 42\" x 42\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1VqJC9imLaSkdxcLhweasPQ9_xZmatmJ4",
+        "des": "Hetvi Shah",
+        "dl": "25-Apr-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room GF Coffee Table",
+        "v": {
+          "c": "26-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072313",
+        "prod": "Odie",
+        "var": "Urban",
+        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "River Bianco Equador Top; Black Powder Coat Aluminium Base",
+        "sz": "Outer: 24\" x 24\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
+        "des": "Hetvi Shah",
+        "dl": "29-Apr-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Deck Front GF Outdoor Accent Table",
+        "v": {
+          "c": "26-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
         "op": "072527",
         "prod": "Darnsdale",
         "var": "August",
@@ -9348,27 +9390,6 @@
       },
       {
         "op": "072313",
-        "prod": "Odie",
-        "var": "Urban",
-        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
-        "cat": "Outdoor Coffee Tables",
-        "mat": "River Bianco Equador Top; Black Powder Coat Aluminium Base",
-        "sz": "Outer: 24\" x 24\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
-        "des": "Hetvi Shah",
-        "dl": "29-Apr-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Outdoor Accent Table",
-        "v": {
-          "c": "20-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "072313",
         "prod": "Silia",
         "var": "Zuri",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_184654_084331_pasted_image_1757596618836.png",
@@ -11060,6 +11081,27 @@
           "rm": "Wood Inlay"
         },
         "vendorDisplayName": "Siddhi Vinayak Marble"
+      },
+      {
+        "op": "072313",
+        "prod": "Odie",
+        "var": "Urban",
+        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "River Bianco Equador Top; Black Powder Coat Aluminium Base",
+        "sz": "Outer: 24\" x 24\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
+        "des": "Hetvi Shah",
+        "dl": "29-Apr-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Deck Front GF Outdoor Accent Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Siddhi Vinayak Marble"
       }
     ],
     "the_art_room": [
@@ -11693,6 +11735,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-24T10:22:24.556Z"
+    "timestamp": "2025-09-24T10:37:26.993Z"
   }
 }
