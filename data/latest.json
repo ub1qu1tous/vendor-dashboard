@@ -7785,48 +7785,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "072313",
-        "prod": "Sequoia",
-        "var": "Swain",
-        "url": "https://i.ibb.co/mCk3FRNf/Whats-App-Image-2025-04-03-at-10-48-40.jpg",
-        "cat": "Archived",
-        "mat": "Mosa Oasis 29 Ply & Foam Upholstery Structure",
-        "sz": "Outer: 35\" x 33\" x 32\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1kQn5a3dEQLKABWxv3rrDAnUKR5bKJnbE",
-        "des": "Readymade",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Multipurpose Room SF Accent Chair ; Fabric Qty Each 6.0 mtr",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "072313",
-        "prod": "Sequoia",
-        "var": "Weber",
-        "url": "https://i.ibb.co/Zz8KDLgc/Whats-App-Image-2025-04-03-at-10-48-39.jpg",
-        "cat": "Archived",
-        "mat": "Mosa Oasis 29 Ply & Foam Upholstery Structure",
-        "sz": "Outer: 84\" x 33\" x 32\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/18Ru7X-x42H_e5QlV4mVBrMoPJpoxPM6q",
-        "des": "Readymade",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Multipurpose Room SF Sofa ; Fabric Qty Each 10.0 mtr",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "072527",
         "prod": "Fourcourts",
         "var": "Spykar",
@@ -11523,6 +11481,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-24T08:27:03.170Z"
+    "timestamp": "2025-09-24T08:37:27.987Z"
   }
 }
