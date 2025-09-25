@@ -6282,6 +6282,132 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092507",
+        "prod": "Abyss",
+        "var": "Elyss",
+        "url": "https://i.ibb.co/WW9ZZG4k/0002.jpg",
+        "cat": "Study Tables",
+        "mat": "Jacobean Sheesham Top; Jacobean Sheesham Drawer; Jacobean Sheesham Legs",
+        "sz": "Outer: 48\" x 24\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1jHmEoY9mr7qD_xCFZGENPQe85CR1OH6P",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092507",
+        "prod": "Ayana",
+        "var": "Faani",
+        "url": "https://i.ibb.co/Wv21fnR1/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Rich Tobacco Sheesham Carcass; Rich Tobacco Sheesham Drawer; Black Powder Coat Aluminium Profile Handle",
+        "sz": "Outer: 20\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 4,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092507",
+        "prod": "Canvas",
+        "var": "Hue",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_123637_100924_Screenshot_2025-09-22_123622.png",
+        "cat": "Beds",
+        "mat": "Jacobean Sheesham Structure; Sugar Shade 901 Ply & Foam Upholstery Headboard; Clear 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 76\" x 75.5\" x 42.5\", Seat Height: 18\";\nMattress: 72\" x 78\" x 6\"",
+        "fld": "https://drive.google.com/drive/folders/1zuPNLlLH_FINSeRFIU7OaMSKcEsUAWWO",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092507",
+        "prod": "Lucentia",
+        "var": "Jet",
+        "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Jacobean Sheesham Frame; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 30\" x 1\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1Y3YBuwKLqp_JjNINMRKZhhAtnM_08X_W",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092507",
+        "prod": "Valencia",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_123637_101661_Screenshot_2025-09-22_123607.png",
+        "cat": "Wardrobes",
+        "mat": "Jacobean Sheesham Veneer Carcass; Jacobean Sheesham Base; Black Powder Coat Mild Steel Handle; Jacobean Sheesham Veneer Shutter; Jacobean Sheesham Veneer Drawer Fascia; Finish TBC Laminate Internal Carcass",
+        "sz": "Outer: 48\" x 24\" x 96\";\nBase: 42\" x 18\" x 7\"",
+        "fld": "https://drive.google.com/drive/folders/1QINQzBGuKKbNC8VCIFN9U6uAiY5Ty3qW",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092507",
+        "prod": "Walter",
+        "var": "Turkey",
+        "url": "https://i.ibb.co/zSBcbzm/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Jacobean Sheesham Frame; Sugar Shade 901 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 20\" x 23\" x 30\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1LmBSCUboPCyXOjVaLZVe0oWEKs7u7b9C",
+        "des": "Saniya Deshpande",
+        "dl": "22-Mar-2023",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "092511",
         "prod": "Texel",
         "var": "June",
@@ -11735,6 +11861,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-25T09:37:32.721Z"
+    "timestamp": "2025-09-25T09:52:27.220Z"
   }
 }
