@@ -2550,7 +2550,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "03-Oct-2025",
           "a": "",
           "rm": "Please follow Video Instructions"
         },
@@ -2571,7 +2571,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "03-Oct-2025",
           "a": "",
           "rm": "Please follow Video Instructions"
         },
@@ -2697,7 +2697,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "03-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4425,7 +4425,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4446,7 +4446,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4488,7 +4488,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5723,27 +5723,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "052510",
-        "prod": "Ornelle",
-        "var": "Myntra",
-        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "052514",
         "prod": "Quiver",
         "var": "Hazel",
@@ -6159,7 +6138,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "10-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7841,7 +7820,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7862,7 +7841,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8242,7 +8221,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8263,7 +8242,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8412,7 +8391,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "02-Oct-2025",
           "a": "",
           "rm": "63x6 mm Patta"
         },
@@ -9620,71 +9599,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
-    "srk_readymade_legs": [
-      {
-        "op": "052510",
-        "prod": "Ornelle",
-        "var": "Myntra",
-        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "072409",
-        "prod": "Ireni",
-        "var": "Kemp",
-        "url": "https://i.ibb.co/XrgHjzn8/0002.jpg",
-        "cat": "Beds",
-        "mat": "Saxon SRN 30 Ply & Foam Upholstery Structure; Brass Transparent Coat Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 70\" x 88\" x 38\", Seat Height: 18.5\";\nMattress: 60\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1EwO6g7cU1ydi0VIBF1Um0U_7Gt_VxErS",
-        "des": "Tarishi Rathore",
-        "dl": "10-Mar-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "072515",
-        "prod": "Meander",
-        "var": "Endear",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_153250_225289_pasted_image_1758880975609.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Foam Upholstery Headboard; Blackodise Mild Steel Legs; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 89\" x 91\" x 45\", Seat Height: 19\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1bYxZLmBD-NgSctfR3pHbgbptvkcetrrU",
-        "des": "Tanmay Shah",
-        "dl": "18-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      }
-    ],
     "divine": [
       {
         "op": "052510",
@@ -10831,6 +10745,50 @@
         "vendorDisplayName": "The Art Room"
       }
     ],
+    "srk_readymade_legs": [
+      {
+        "op": "072409",
+        "prod": "Ireni",
+        "var": "Kemp",
+        "url": "https://i.ibb.co/XrgHjzn8/0002.jpg",
+        "cat": "Beds",
+        "mat": "Saxon SRN 30 Ply & Foam Upholstery Structure; Brass Transparent Coat Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 70\" x 88\" x 38\", Seat Height: 18.5\";\nMattress: 60\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1EwO6g7cU1ydi0VIBF1Um0U_7Gt_VxErS",
+        "des": "Tarishi Rathore",
+        "dl": "10-Mar-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "072515",
+        "prod": "Meander",
+        "var": "Endear",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_153250_225289_pasted_image_1758880975609.png",
+        "cat": "Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Foam Upholstery Headboard; Blackodise Mild Steel Legs; Oak Laminate 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 89\" x 91\" x 45\", Seat Height: 19\";\nMattress: 72\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1bYxZLmBD-NgSctfR3pHbgbptvkcetrrU",
+        "des": "Tanmay Shah",
+        "dl": "18-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      }
+    ],
     "baba_marble": [
       {
         "op": "072527",
@@ -11882,6 +11840,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-26T10:52:26.757Z"
+    "timestamp": "2025-09-26T11:07:35.887Z"
   }
 }
