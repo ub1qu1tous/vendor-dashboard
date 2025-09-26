@@ -2783,7 +2783,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Whole metal Frame Arbuda, Wooden patti size must be given once structure is ready."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3649,6 +3649,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072515",
+        "prod": "Cassi",
+        "var": "Bullion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_154304_528372_Screenshot_2025-08-22_154132.png",
+        "cat": "Benches",
+        "mat": "Black Powder Coat Mild Steel Structure; Fabric TBC Ply & Foam Upholstery Seat; Natural White Oak Inlay; Finish TBC Foam Upholstery Bolster; Black Powder Coat Mild Steel Mounting",
+        "sz": "Outer: 57\" x 29.5\" x 23\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1MsSANNbF8beKCnX6DCIT7ZczfrPWn-SY",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Only Oak Patti needed\n4 Pc, Size will be given by Dilipbhai"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -11861,6 +11882,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-26T12:37:28.746Z"
+    "timestamp": "2025-09-26T12:52:47.560Z"
   }
 }
