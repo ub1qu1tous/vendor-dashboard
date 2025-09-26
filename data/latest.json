@@ -2718,7 +2718,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "02-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4027,6 +4027,27 @@
           "c": "19-Sept-2025",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092416",
+        "prod": "Matias",
+        "var": "Isidora",
+        "url": "https://i.ibb.co/4H3VwFk/0002.jpg",
+        "cat": "Dressers",
+        "mat": "Suncity White Oak Carcass; Suncity White Oak Drawer; Mirror Buffing Statuario Top; Suncity White Oak Support; Suncity White Oak Legs; Black Powder Coat Mild Steel Knobs",
+        "sz": "Outer: 48\" x 18\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/19AIkxBsk1RTZmTwlu1j91ofGVZTqeXDz",
+        "des": "Parth Gada",
+        "dl": "19-May-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "MOTHER’S BEDROOM;\nWooden finish same as chair and tv unit",
+        "v": {
+          "c": "29-Sept-2025",
+          "a": "",
+          "rm": "Banswara Marble Top (Woode Parts already receive)"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -6159,7 +6180,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "10-Oct-2025",
           "a": "",
           "rm": "2 Mtr"
         },
@@ -8412,7 +8433,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "02-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9065,7 +9086,7 @@
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -11840,6 +11861,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-26T11:22:29.189Z"
+    "timestamp": "2025-09-26T11:37:32.340Z"
   }
 }
