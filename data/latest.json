@@ -3315,6 +3315,27 @@
         "vendorDisplayName": "Aarti Steel"
       },
       {
+        "op": "082530",
+        "prod": "Newbow",
+        "var": "Arley",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_134856_747334_pasted_image_1756887540254.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
+        "sz": "Outer: 48\" x 33\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1cDBsZ9Kd3-Ww6Xd0rAvTzMixY3hfOE80",
+        "des": "Tanmay Shah",
+        "dl": "13-Sept-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Tile Slab will provide by client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
         "op": "102412",
         "prod": "Astromira",
         "var": "Endear",
@@ -4319,6 +4340,27 @@
         "cr": "Daughter Bedroom Console Cum Study Table",
         "v": {
           "c": "19-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092529",
+        "prod": "butterfly",
+        "var": "Erik",
+        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 23\" x 21.5\" x 32\", Seat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1VO07HvT88ELuM0Di8hbokSknBYMBlfSE",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5371,27 +5413,6 @@
         "des": "Tanmay Shah",
         "dl": "13-Sept-2025",
         "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "Tile Slab will provide by client",
-        "v": {
-          "c": "11-Sept-2025",
-          "a": "",
-          "rm": "Legs in HDHMR for PU Finisg; with fitting methodology, top material is a ceramic tile"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082530",
-        "prod": "Newbow",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_144704_624392_pasted_image_1758014229619.png",
-        "cat": "Accent Tables",
-        "mat": "Clear 15mm Motto Statuario Volakas Top; White Gloss PU HDHMR Base",
-        "sz": "Outer: 18\" x 18\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/157EDQpujIP6C9s3QYiAV5Mb_hkB-uppu",
-        "des": "Tanmay Shah",
-        "dl": "13-Sept-2025",
-        "q": 2,
         "pm": "Amish Parmar",
         "cr": "Tile Slab will provide by client",
         "v": {
@@ -7819,6 +7840,27 @@
         "cr": "Formal Seating Accent Chair",
         "v": {
           "c": "29-Jun-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092529",
+        "prod": "butterfly",
+        "var": "Erik",
+        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 23\" x 21.5\" x 32\", Seat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1VO07HvT88ELuM0Di8hbokSknBYMBlfSE",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -11798,6 +11840,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-27T07:07:30.605Z"
+    "timestamp": "2025-09-27T07:22:25.638Z"
   }
 }
