@@ -4349,7 +4349,7 @@
         "op": "092529",
         "prod": "butterfly",
         "var": "Erik",
-        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250927_132839_102727_Screenshot_2025-09-27_132732.png",
         "cat": "Dining Chairs",
         "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat",
         "sz": "Outer: 23\" x 21.5\" x 32\", Seat Height: 20\"",
@@ -5473,13 +5473,13 @@
         "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; Finish TBC Foam Upholstery Support",
         "sz": "Outer: 120\" x 1.5\" x 48\"",
         "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
-        "des": "",
+        "des": "Hetvi Shah",
         "dl": "",
         "q": 1,
-        "pm": "",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5494,13 +5494,13 @@
         "mat": "Natural Burma Border Teak Carcass; Natural Burma Border Teak Legs",
         "sz": "Outer: 24\" x 16.14\" x 20\"",
         "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
-        "des": "",
+        "des": "Hetvi Shah",
         "dl": "",
         "q": 2,
-        "pm": "",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5510,7 +5510,7 @@
         "op": "092520",
         "prod": "Uluru",
         "var": "Quanta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_130955_545463__SUN0692.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_180907_480690_pasted_image_1758544752461.png",
         "cat": "Beds",
         "mat": "Natural Burma Border Teak Structure",
         "sz": "Outer: 60\" x 78\" x 13\", Seat Height: 19\";\nMattress: 58\" x 76\" x 6\"",
@@ -5518,10 +5518,10 @@
         "des": "Dipen Gada",
         "dl": "01-Jan-2010",
         "q": 1,
-        "pm": "",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "05-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7849,7 +7849,7 @@
         "op": "092529",
         "prod": "butterfly",
         "var": "Erik",
-        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250927_132839_102727_Screenshot_2025-09-27_132732.png",
         "cat": "Dining Chairs",
         "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat",
         "sz": "Outer: 23\" x 21.5\" x 32\", Seat Height: 20\"",
@@ -8998,6 +8998,27 @@
         "dl": "02-Jan-2010",
         "q": 4,
         "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092520",
+        "prod": "Kaveri",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
+        "cat": "Headboards",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; Finish TBC Foam Upholstery Support",
+        "sz": "Outer: 120\" x 1.5\" x 48\"",
+        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -11792,6 +11813,52 @@
         "vendorDisplayName": "Vishwas Steel Surat"
       }
     ],
+    "faheeem": [
+      {
+        "op": "092521",
+        "prod": "Storico",
+        "var": "Pearl",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_153330_269258_Screenshot_2025-09-22_152433.png",
+        "cat": "Accent Tables",
+        "mat": "Black Powder Coat Aluminium Structure",
+        "sz": "Outer: 14\" x 14\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1-gaqbsSWvD3wRiNDU0Kcr8m7puViKAxj",
+        "des": "Dilip Jangir",
+        "dl": "",
+        "q": 5,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "04-Oct-2025",
+          "a": "",
+          "rm": "Moradabad"
+        },
+        "vendorDisplayName": "Faheeem"
+      }
+    ],
+    "lalji_handicrafts": [
+      {
+        "op": "092525",
+        "prod": "Reyari",
+        "var": "Felipe",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_162834_754044_Screenshot_2025-09-26_162518.png",
+        "cat": "Storage Cabinets",
+        "mat": "Finish TBC Reclaimed Hardwood Carcass; Finish TBC Reclaimed Hardwood Internal Carcass; Finish TBC Reclaimed Hardwood Shutter; Finish TBC Reclaimed Hardwood Drawer; Finish TBC Knobs Accessories",
+        "sz": "Outer: 33\" x 22\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1zvl8uWB307d0rg-QyBmUQOglKwBsvZYg",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "04-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Lalji Handicrafts"
+      }
+    ],
     "smit_enterprise": [
       {
         "op": "102412",
@@ -11840,6 +11907,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-27T07:52:23.976Z"
+    "timestamp": "2025-09-27T08:11:49.410Z"
   }
 }
