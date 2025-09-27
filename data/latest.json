@@ -5444,6 +5444,69 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "092520",
+        "prod": "Kaveri",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
+        "cat": "Headboards",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; Finish TBC Foam Upholstery Support",
+        "sz": "Outer: 120\" x 1.5\" x 48\"",
+        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092520",
+        "prod": "Rosenfeld",
+        "var": "Finch",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
+        "cat": "Nightstands",
+        "mat": "Natural Burma Border Teak Carcass; Natural Burma Border Teak Legs",
+        "sz": "Outer: 24\" x 16.14\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092520",
+        "prod": "Uluru",
+        "var": "Quanta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_130955_545463__SUN0692.jpg",
+        "cat": "Beds",
+        "mat": "Natural Burma Border Teak Structure",
+        "sz": "Outer: 60\" x 78\" x 13\", Seat Height: 19\";\nMattress: 58\" x 76\" x 6\"",
+        "fld": "https://drive.google.com/drive/folders/12nJ84cyuXNK3hR0kKF8PSXmcUFu1CJ-9",
+        "des": "Dipen Gada",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "122415",
         "prod": "Skyridge",
         "var": "Fynn",
@@ -7138,7 +7201,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250924_104031_974759_Screenshot_2025-09-24_103847.png",
         "cat": "Accent Chairs",
         "mat": "Fabric TBC Ply & Foam Upholstery Structure; White Distressed White Oak Frame",
-        "sz": "Outer: 27.5\" x 27.5\" x 31.5\", Seat Height: 20\"",
+        "sz": "Outer: 29\" x 37.5\" x 32\", Seat Height: 18.5\"",
         "fld": "https://drive.google.com/drive/folders/1wWXrAi5lyJoyBtyFga5FFi4iCgNCHl5M",
         "des": "Parthsarthi Suthar",
         "dl": "13-Apr-2024",
@@ -11376,7 +11439,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250924_104031_974759_Screenshot_2025-09-24_103847.png",
         "cat": "Accent Chairs",
         "mat": "Fabric TBC Ply & Foam Upholstery Structure; White Distressed White Oak Frame",
-        "sz": "Outer: 27.5\" x 27.5\" x 31.5\", Seat Height: 20\"",
+        "sz": "Outer: 29\" x 37.5\" x 32\", Seat Height: 18.5\"",
         "fld": "https://drive.google.com/drive/folders/1wWXrAi5lyJoyBtyFga5FFi4iCgNCHl5M",
         "des": "Parthsarthi Suthar",
         "dl": "13-Apr-2024",
@@ -11735,6 +11798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-27T05:40:59.655Z"
+    "timestamp": "2025-09-27T05:53:38.765Z"
   }
 }
