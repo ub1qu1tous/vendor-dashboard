@@ -130,27 +130,6 @@
         "vendorDisplayName": "Darshan Hardware"
       },
       {
-        "op": "072506",
-        "prod": "Gordon",
-        "var": "Baris",
-        "url": "https://i.ibb.co/4g0j4PF/a01IBB.jpg",
-        "cat": "Nightstands",
-        "mat": "Black Matt Sheesham Carcass; Black Matt Sheesham Base; Natural White Oak Drawer Fascia; Clear Rattan Hand-woven Weaving",
-        "sz": "Outer: 18\" x 18\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/1gQwrdsGhIrG-f9xYCPlJW-wfICcXDoHU",
-        "des": "Parthsarthi Suthar",
-        "dl": "05-Aug-2023",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "2 knobs gold"
-        },
-        "vendorDisplayName": "Darshan Hardware"
-      },
-      {
         "op": "092416",
         "prod": "Kinchin",
         "var": "Marina",
@@ -3541,30 +3520,9 @@
         "pm": "Maulik Parmar",
         "cr": "Guest Bedroom",
         "v": {
-          "c": "23-Sept-2025",
+          "c": "29-Sept-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072506",
-        "prod": "Hilton",
-        "var": "Ardor",
-        "url": "https://i.ibb.co/2YJjVQM/29-inch-1.png",
-        "cat": "Nightstands",
-        "mat": "White Wash Oak Veneer Carcass; White Wash Oak Veneer Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Gloss Cap; Gold PVD Stainless Steel 304 Gloss Knobs",
-        "sz": "Outer: 29\" x 18\" x 21\"",
-        "fld": "https://drive.google.com/drive/folders/1eVJSpbpwfvMZ6JlnX3_Y3dgabd749PBY?usp=sharing",
-        "des": "Parth Gada",
-        "dl": "22-May-2022",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "16-Sept-2025",
-          "a": "",
-          "rm": "24\" Karna hai"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3961,7 +3919,7 @@
         "pm": "Rohan Parmar",
         "cr": "",
         "v": {
-          "c": "28-Sept-2025",
+          "c": "04-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -12537,6 +12495,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-29T10:39:58.525Z"
+    "timestamp": "2025-09-29T10:53:06.677Z"
   }
 }
