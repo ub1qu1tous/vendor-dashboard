@@ -4026,7 +4026,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "will send fabric."
+          "rm": "will send fabric for the headboard."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4089,7 +4089,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "will send fabric."
+          "rm": "will send fabric for the seat."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -12705,6 +12705,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-30T10:22:30.024Z"
+    "timestamp": "2025-09-30T10:37:27.017Z"
   }
 }
