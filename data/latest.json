@@ -4005,7 +4005,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "will send 4 handles for 4 nightstands."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4026,7 +4026,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "will send fabric."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4068,7 +4068,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "will send 12 handles for 2 wardrobes."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4089,7 +4089,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "will send fabric."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -5428,7 +5428,7 @@
         "var": "Numin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
         "cat": "Headboards",
-        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; Finish TBC Foam Upholstery Support",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
         "sz": "Outer: 120\" x 1.5\" x 48\"",
         "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
         "des": "Hetvi Shah",
@@ -9616,6 +9616,48 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "092507",
+        "prod": "Canvas",
+        "var": "Hue",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_111610_268148_Screenshot_2025-09-30_111459.png",
+        "cat": "Beds",
+        "mat": "Jacobean Sheesham Structure; Sugar Shade 901 Ply & Foam Upholstery Headboard; Clear 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 76\" x 75.5\" x 42.5\", Seat Height: 18\";\nMattress: 72\" x 78\" x 6\"",
+        "fld": "https://drive.google.com/drive/folders/1zuPNLlLH_FINSeRFIU7OaMSKcEsUAWWO",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092507",
+        "prod": "Walter",
+        "var": "Turkey",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250927_143358_628880_Screenshot_2025-09-27_112646.png",
+        "cat": "Dining Chairs",
+        "mat": "Jacobean Sheesham Frame; Sugar Shade 901 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 20\" x 23\" x 30\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1LmBSCUboPCyXOjVaLZVe0oWEKs7u7b9C",
+        "des": "Saniya Deshpande",
+        "dl": "22-Mar-2023",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "092513",
         "prod": "Calicut",
         "var": "Puma",
@@ -9705,7 +9747,7 @@
         "var": "Numin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
         "cat": "Headboards",
-        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; Finish TBC Foam Upholstery Support",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
         "sz": "Outer: 120\" x 1.5\" x 48\"",
         "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
         "des": "Hetvi Shah",
@@ -12663,6 +12705,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-30T10:07:29.913Z"
+    "timestamp": "2025-09-30T10:22:30.024Z"
   }
 }
