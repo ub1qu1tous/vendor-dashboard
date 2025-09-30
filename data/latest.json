@@ -5507,6 +5507,48 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Drake",
+        "url": "https://i.ibb.co/sjSQx22/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/14KjIdO41g5KYwFx5XMqg7kcTivGqCvQE",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Elin",
+        "url": "https://i.ibb.co/kS5DQpq/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Cushions",
+        "sz": "Outer: 72\" x 30\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1FPcSptw_TOC3750N5WnAq6TgjwJQZ-D7",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "122415",
         "prod": "Skyridge",
         "var": "Fynn",
@@ -8434,6 +8476,48 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Drake",
+        "url": "https://i.ibb.co/sjSQx22/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/14KjIdO41g5KYwFx5XMqg7kcTivGqCvQE",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Elin",
+        "url": "https://i.ibb.co/kS5DQpq/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Cushions",
+        "sz": "Outer: 72\" x 30\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1FPcSptw_TOC3750N5WnAq6TgjwJQZ-D7",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -10460,6 +10544,48 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Drake",
+        "url": "https://i.ibb.co/sjSQx22/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/14KjIdO41g5KYwFx5XMqg7kcTivGqCvQE",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Peca Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Elin",
+        "url": "https://i.ibb.co/kS5DQpq/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Cushions",
+        "sz": "Outer: 72\" x 30\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1FPcSptw_TOC3750N5WnAq6TgjwJQZ-D7",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Peca Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "112411",
         "prod": "Shadowcrest",
         "var": "Montana",
@@ -11883,27 +12009,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082534",
-        "prod": "Visby",
-        "var": "Yorker",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_135049_619230_pasted_image_1757406052891.png",
-        "cat": "Accent Tables",
-        "mat": "Harvest White Oak Structure; Harvest Oak Veneer Top",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1K07TwjVVY6rO38jGdKJKxrI7sjmtV6s9",
-        "des": "Tanmay Shah",
-        "dl": "10-Sept-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "19-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
       }
     ],
     "umang_glass_elements": [
@@ -12651,6 +12756,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Drake",
+        "url": "https://i.ibb.co/sjSQx22/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/14KjIdO41g5KYwFx5XMqg7kcTivGqCvQE",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "2m + 2m Seat and Cushion Seperate"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "092534",
+        "prod": "Gregory",
+        "var": "Elin",
+        "url": "https://i.ibb.co/kS5DQpq/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Cushions",
+        "sz": "Outer: 72\" x 30\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1FPcSptw_TOC3750N5WnAq6TgjwJQZ-D7",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "2.5m + 2.5m Seat and Cushion Seperate"
+        },
+        "vendorDisplayName": "Client/Fabric"
       }
     ],
     "faheeem": [
@@ -12747,6 +12894,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-30T11:55:44.921Z"
+    "timestamp": "2025-09-30T12:39:16.022Z"
   }
 }
