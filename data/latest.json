@@ -2957,27 +2957,6 @@
       },
       {
         "op": "082520",
-        "prod": "Coolock",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_141228_932885_pasted_image_1758012153420.png",
-        "cat": "Dining Chairs",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 25\" x 24\" x 31\"",
-        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
-        "des": "Tanmay Shah",
-        "dl": "05-Sept-2025",
-        "q": 6,
-        "pm": "Amish Parmar",
-        "cr": "AWS will provide ply and foam structure Lining work will be done by client himself as it is Leather;\r\nMetal base with powder coating will be provided by AWS",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082520",
         "prod": "Dorset",
         "var": "Nova",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_115411_773773_pasted_image_1757571855780.png",
@@ -4742,7 +4721,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "black powdercoat"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -12166,6 +12145,50 @@
         "vendorDisplayName": "Ramnivas Polish"
       }
     ],
+    "vishwas_steel_surat": [
+      {
+        "op": "082520",
+        "prod": "Coolock",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_141228_932885_pasted_image_1758012153420.png",
+        "cat": "Dining Chairs",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 25\" x 24\" x 31\"",
+        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
+        "des": "Tanmay Shah",
+        "dl": "05-Sept-2025",
+        "q": 6,
+        "pm": "Amish Parmar",
+        "cr": "AWS will provide ply and foam structure Lining work will be done by client himself as it is Leather;\r\nMetal base with powder coating will be provided by AWS",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "6 pcs ms raw "
+        },
+        "vendorDisplayName": "Vishwas Steel Surat"
+      },
+      {
+        "op": "092516",
+        "prod": "Calix",
+        "var": "Turkey",
+        "url": "https://i.ibb.co/jzdjCqj/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Pure Essentials Forty Vani Smoke  115220 Ply & Foam Upholstery Structure; HOF Grey M2140-HB Mild Steel Frame",
+        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1HDYEWlcn_Fk5kHY59dPnL6mkrXDkGsWI",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 4,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "bases "
+        },
+        "vendorDisplayName": "Vishwas Steel Surat"
+      }
+    ],
     "clientfabric": [
       {
         "op": "082520",
@@ -12630,29 +12653,6 @@
         "vendorDisplayName": "Client/Fabric"
       }
     ],
-    "vishwas_steel_surat": [
-      {
-        "op": "092516",
-        "prod": "Calix",
-        "var": "Turkey",
-        "url": "https://i.ibb.co/jzdjCqj/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Pure Essentials Forty Vani Smoke  115220 Ply & Foam Upholstery Structure; HOF Grey M2140-HB Mild Steel Frame",
-        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1HDYEWlcn_Fk5kHY59dPnL6mkrXDkGsWI",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 4,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "bases "
-        },
-        "vendorDisplayName": "Vishwas Steel Surat"
-      }
-    ],
     "faheeem": [
       {
         "op": "092521",
@@ -12747,6 +12747,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-09-30T10:52:28.915Z"
+    "timestamp": "2025-09-30T11:12:55.609Z"
   }
 }
