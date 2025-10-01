@@ -4010,27 +4010,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "092513",
-        "prod": "Spinny",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_125244_759974_pasted_image_1758007369446.png",
-        "cat": "Beds",
-        "mat": "Sugar Shade 913 Ply & Foam Upholstery Headboard; Sugar Shade 913 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support; Natural White Oak Frame; Natural White Oak Legs",
-        "sz": "Outer: 48\" x 78\" x 81\", Seat Height: 22\";\nMattress: 45\" x 74\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1oK53z-pT-KGr-tRA1IcamFfRBuLlsYjB",
-        "des": "Maulik Parmar",
-        "dl": "16-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "23-Sept-2025",
-          "a": "",
-          "rm": "Frame; Legs; all assemblable modular - Delivery Jodhpur"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "092529",
         "prod": "Butterfly",
         "var": "Erik",
@@ -4048,27 +4027,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "102411",
-        "prod": "Citadel",
-        "var": "Drake",
-        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
-        "cat": "Swings",
-        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
-        "sz": "Outer: 60\" x 24\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
-        "des": "Hetvi Shah",
-        "dl": "25-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Swing",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "Seat received, Back yet to be received"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -10654,27 +10612,6 @@
       },
       {
         "op": "102411",
-        "prod": "Grove",
-        "var": "Vama",
-        "url": "https://i.ibb.co/FkZGYwx0/0002.jpg",
-        "cat": "Beds",
-        "mat": "Natural Recycled Teak Structure; Clear Lacquered Pre-woven Rattan Weaving; Teak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 74\" x 84\" x 63\", Seat Height: 19.5\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1hIQplIkxdO5v6cXJiWvvwdlFnSgFb1YI",
-        "des": "Hetvi Shah",
-        "dl": "01-Jan-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Grandparent's Bedroom Bed ; King-size bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
         "prod": "Halcyona",
         "var": "Carat",
         "url": "https://i.ibb.co/twZKhg4n/0002.jpg",
@@ -12684,6 +12621,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-01T07:24:50.026Z"
+    "timestamp": "2025-10-01T07:53:03.585Z"
   }
 }
