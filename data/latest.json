@@ -4010,27 +4010,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "102411",
-        "prod": "Ethereon",
-        "var": "Onism",
-        "url": "https://i.ibb.co/Kvs0f8k/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Legs",
-        "sz": "Outer: 96\" x 42\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1bEnGZmxcmNoszhp4yEzRw5kcY8FNZmCi",
-        "des": "Hetvi Shah",
-        "dl": "18-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Dinning Room Dining Table; Eight-seater dining table",
-        "v": {
-          "c": "20-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "102413",
         "prod": "Sirius",
         "var": "Raver",
@@ -12600,6 +12579,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-01T11:37:44.758Z"
+    "timestamp": "2025-10-01T11:52:29.281Z"
   }
 }
