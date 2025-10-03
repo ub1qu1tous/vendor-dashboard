@@ -7300,69 +7300,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "082523",
-        "prod": "Corinthia",
-        "var": "Drake",
-        "url": "https://i.ibb.co/ZNYg3q8/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Glammy Baroque 717 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 30.5\" x 38\" x 38.5\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1tq8KUjV5v0aRBy9_JR7mtbHCzQyAgLWn",
-        "des": "Akarsha Jha",
-        "dl": "07-Jan-2023",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082523",
-        "prod": "Felix",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/Y0nMr50/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Jacobean Sheesham Frame; AZCO Country GA-113 Ply & Foam Upholstery Seat; AZCO Country GA-113 Foam Upholstery Backrest; Clear Lacquered Pre-woven Rattan Weaving",
-        "sz": "Outer: 26\" x 22\" x 28\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1FbFryOt4eeVduQT3d5Zq-jH_fGUQ0g9N",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082523",
-        "prod": "Onion",
-        "var": "Elide",
-        "url": "https://i.ibb.co/1M2MbSh/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Sarom Montero 817 Ply & Foam Upholstery Seat; Sarom Montero 817 Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 21\" x 20\" x 32\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/141BkDO-AfaLE9akfoB9eGoNz65r0xPtC",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "082525",
         "prod": "Citadel",
         "var": "Drake",
@@ -10082,48 +10019,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "082523",
-        "prod": "Felix",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/Y0nMr50/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Jacobean Sheesham Frame; AZCO Country GA-113 Ply & Foam Upholstery Seat; AZCO Country GA-113 Foam Upholstery Backrest; Clear Lacquered Pre-woven Rattan Weaving",
-        "sz": "Outer: 26\" x 22\" x 28\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1FbFryOt4eeVduQT3d5Zq-jH_fGUQ0g9N",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "082523",
-        "prod": "Kaulder",
-        "var": "Bogen",
-        "url": "https://i.ibb.co/LDtVGwpP/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Harvest White Ash Top; Harvest White Ash Legs; Black Powder Coat Mild Steel Fixture",
-        "sz": "Outer: 31.5\" x 30.5\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1lEfIPfmhmE09oVxRRY55nL-n4h_ummO1",
-        "des": "Parth Gada",
-        "dl": "06-Jul-2022",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
         "op": "082524",
         "prod": "Clonliff",
         "var": "Avore",
@@ -12579,6 +12474,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-03T05:11:26.880Z"
+    "timestamp": "2025-10-03T05:50:57.035Z"
   }
 }
