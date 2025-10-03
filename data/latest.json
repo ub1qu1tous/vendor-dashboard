@@ -3231,6 +3231,27 @@
         "vendorDisplayName": "Aarti Steel"
       },
       {
+        "op": "092516",
+        "prod": "Brixton",
+        "var": "Willis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_162214_804893_pasted_image_1758538336310.jpeg",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 18\" x 18\" x 19.5\"",
+        "fld": "https://drive.google.com/drive/folders/1uQXSqP6RRx2xg1uJdOfkykRzrRqx8oKT",
+        "des": "Dilip Jangir",
+        "dl": "",
+        "q": 2,
+        "pm": "Milankumar Mahida",
+        "cr": "One Base is Ready",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "1 base of cone"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
         "op": "102412",
         "prod": "Astromira",
         "var": "Endear",
@@ -5718,7 +5739,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "2 marble tops; 1 base at store"
+          "rm": " 1 base at store"
         },
         "vendorDisplayName": "AWS"
       },
@@ -9844,7 +9865,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "2 marble tops;"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
@@ -11138,27 +11159,6 @@
           "c": "20-Aug-2025",
           "a": "",
           "rm": "8mm ms"
-        },
-        "vendorDisplayName": "The Art Room"
-      },
-      {
-        "op": "092516",
-        "prod": "Brixton",
-        "var": "Willis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_162214_804893_pasted_image_1758538336310.jpeg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Banswada White Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 18\" x 18\" x 19.5\"",
-        "fld": "https://drive.google.com/drive/folders/1uQXSqP6RRx2xg1uJdOfkykRzrRqx8oKT",
-        "des": "Dilip Jangir",
-        "dl": "",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "One Base is Ready",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "1 base of cone"
         },
         "vendorDisplayName": "The Art Room"
       }
@@ -12474,6 +12474,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-03T08:37:28.420Z"
+    "timestamp": "2025-10-03T08:53:38.170Z"
   }
 }
