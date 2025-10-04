@@ -2704,48 +2704,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072516",
-        "prod": "Pastel",
-        "var": "Robin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_160336_900106_pasted_image_1757586821571.png",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Headboard; Black Powder Coat Mild Steel Posters; Black Powder Coat Mild Steel Canopy; Fabric TBC Recron Filling 2 Large Rectangular Kidney Pillows",
-        "sz": "Outer: 79\" x 82.5\" x 82.5\"",
-        "fld": "https://drive.google.com/drive/folders/1gebFU8pnonWiW56iDMgu5BbqmsimnPEW",
-        "des": "Dilip Jangir",
-        "dl": "",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "9 metre fabric from client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072516",
-        "prod": "Petal",
-        "var": "Haydn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250905_164701_900114_pasted_image_1757071025511.png",
-        "cat": "Benches",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 59\" x 17.5\" x 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1kRBcCLLzrerSwDyeoOiwbo5QSeunv18P",
-        "des": "Dilip Jangir",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "1.5 metre fabric from client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "082412",
         "prod": "Arvesso",
         "var": "Numin",
@@ -4999,48 +4957,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082510",
-        "prod": "Rinsun",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_093932_407829_pasted_image_1756786175117.png",
-        "cat": "Chests",
-        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Natural White Oak Knobs",
-        "sz": "Outer: 47\" x 16\" x 35\"",
-        "fld": "https://drive.google.com/drive/folders/1mcqnNZ8k28s1YZBgkkLk7sxc7DK9hGxC",
-        "des": "Tanmay Shah",
-        "dl": "30-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "10-Sept-2025",
-          "a": "18-Sept-2025",
-          "rm": "Carcase, Knobs in Oak"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082510",
-        "prod": "Rosco",
-        "var": "Audus",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_094519_795375_pasted_image_1756786522580.png",
-        "cat": "Nightstands",
-        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Natural White Oak Knobs; Natural White Oak Legs",
-        "sz": "Outer: 20\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/12PE2qkGNPBNeVJ1DCtJbIxBKx12sPmRv",
-        "des": "Tanmay Shah",
-        "dl": "31-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "10-Sept-2025",
-          "a": "",
-          "rm": "Carcase, Knobs, Legs in Oak"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -12516,6 +12432,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-04T12:37:28.077Z"
+    "timestamp": "2025-10-04T12:52:25.987Z"
   }
 }
