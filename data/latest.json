@@ -8014,6 +8014,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092527",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092529",
         "prod": "Butterfly",
         "var": "Erik",
@@ -8281,27 +8302,6 @@
         "cr": "Formal Seating Accent Chair",
         "v": {
           "c": "29-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092527",
-        "prod": "Decker",
-        "var": "Yoku",
-        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
-        "des": "Maulik Parmar",
-        "dl": "04-Dec-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9469,6 +9469,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "092527",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "102411",
         "prod": "Mythara",
         "var": "Thunder",
@@ -9545,27 +9566,6 @@
         "q": 2,
         "pm": "Dilip Jangir",
         "cr": "Formal Seating Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "092527",
-        "prod": "Decker",
-        "var": "Yoku",
-        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
-        "des": "Maulik Parmar",
-        "dl": "04-Dec-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -12411,6 +12411,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-06T10:22:32.294Z"
+    "timestamp": "2025-10-06T10:40:42.101Z"
   }
 }
