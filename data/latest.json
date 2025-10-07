@@ -5430,27 +5430,6 @@
       },
       {
         "op": "092513",
-        "prod": "Olhaven",
-        "var": "Erik",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_105824_245645_pasted_image_1758000510789.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Walnut Laminate 16mm Plywood Skirting; Finish TBC Sheesham Legs",
-        "sz": "Outer: 115\" x 47\" x 32.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1l5C7wdjral_oi-QJjO2kwV9yn91oqUP8",
-        "des": "Maulik Parmar",
-        "dl": "16-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Laminate and Wood Legs"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092513",
         "prod": "Skydew",
         "var": "Numin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250916_122303_307971_pasted_image_1758005588156.png",
@@ -6229,90 +6208,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "062510",
-        "prod": "Jurell",
-        "var": "Ginette",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
-        "cat": "Sofas",
-        "mat": "CASAMIA Zuri Hampton LN 002 CO 001 Ply & Foam Upholstery Structure; Wood Brown (M2149-HB) Mild Steel Frame",
-        "sz": "Outer: 84\" x 30.5\" x 34\"",
-        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
-        "des": "Tanmay Shah",
-        "dl": "27-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "12 Mtr Structure\n3 Mtr for Piping"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062520",
-        "prod": "Lorikeet",
-        "var": "Crystal",
-        "url": "https://i.ibb.co/cCCr8mW/0000.jpg",
-        "cat": "Ottomans",
-        "mat": "Arezzo Logan Fluff Beige Ply & Foam Upholstery Structure",
-        "sz": "Outer: 19.5\" x 18.5\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/161F0A93srkPcakunNwYgIqRGtj2fTajE",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072313",
-        "prod": "Andre",
-        "var": "Xany",
-        "url": "https://i.ibb.co/G40j3JPy/Screenshot-2025-07-02-165442.png",
-        "cat": "Outdoor Chairs",
-        "mat": "Black Powder Coat Aluminium Frame; Silk Grey FR 4mm Rope Weaving; Natural Recycled Teak Base; D'Decor Aura Blue Ocean Sr No 34 Foam Upholstery Seat; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 1 Centre Cushion",
-        "sz": "Outer: 30\" x 32\" x 27.75\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1LAJypX31Js56VLiZQY_9ruPETAhrL6f9",
-        "des": "Hetvi Shah",
-        "dl": "22-Apr-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Outdoor Chair ; Fabric Qty Each 2.0 mtr",
-        "v": {
-          "c": "28-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072313",
-        "prod": "Aurven",
-        "var": "Toska",
-        "url": "https://i.ibb.co/5hypNsN8/image.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Legs; Black Powder Coat Mild Steel Fixture; Italian Herringbone SKU 8112 Ply & Foam Upholstery Seat; Dyed Leather Leather Strap Mounting",
-        "sz": "Outer: 56\" x 36\" x 17\";\nPouffe: 19\" x 19\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/117h9i6VwnZiGOQ1W73sA6yg76-v5AL88",
-        "des": "Hetvi Shah",
-        "dl": "30-Apr-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Centre Table with Pouffe ; Fabric Qty Each 3.0 mtr",
-        "v": {
-          "c": "27-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "072313",
         "prod": "Kristie",
         "var": "Ziglar",
@@ -6347,48 +6242,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom FF Accent Chair ; Fabric Qty Each 6.0 mtr",
-        "v": {
-          "c": "25-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072313",
-        "prod": "Rainveil",
-        "var": "Voila",
-        "url": "https://i.ibb.co/7JdcPPwF/Screenshot-2025-07-03-151208.png",
-        "cat": "Sofas",
-        "mat": "Natural Recycled Teak Frame; Maverick Versace Sr No 5812 Ply & Foam Upholstery Seat; Maverick Versace Sr No 5812 Recron Filling 1 Centre Cushion",
-        "sz": "Outer: 72\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/13sC_11D8200cUV2UOR3irMjLVeXzsN9y",
-        "des": "Hetvi Shah",
-        "dl": "03-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Sofa ; Fabric Qty Each 6.0 mtr",
-        "v": {
-          "c": "25-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072313",
-        "prod": "Rainveil",
-        "var": "Xander",
-        "url": "https://i.ibb.co/VpQwwBkG/Screenshot-2025-07-03-151029.png",
-        "cat": "Sofas",
-        "mat": "Natural Recycled Teak Frame; Maverick Versace Sr No 5812 Ply & Foam Upholstery Seat; Maverick Versace Sr No 5812 Recron Filling 2 Cushions",
-        "sz": "Outer: 92\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1Khkeg4g2y4mFPz9AB0-cPXRLAVCBRx_x",
-        "des": "Hetvi Shah",
-        "dl": "02-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Sofa ; Fabric Qty Each 8.0 mtr",
         "v": {
           "c": "25-Aug-2025",
           "a": "",
@@ -6727,48 +6580,6 @@
         "cr": "Master Bedroom Bed",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072527",
-        "prod": "Fermot",
-        "var": "Sigma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193616_280735_WhatsApp_Image_2025-09-12_at_19_32_22__1_.jpeg",
-        "cat": "Sofas",
-        "mat": "V&J Falcon Leather 303 Ply & Foam Upholstery Structure; WP 199 Auerbach Oak 16mm Plywood Base",
-        "sz": "Outer: 96\" x 24\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1JxyLMqkNsUA3B50awUDx470pWPlVAxim",
-        "des": "Dipen Gada",
-        "dl": "09-Sept-2025",
-        "q": 4,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "21-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072527",
-        "prod": "Fermot",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_193616_280191_WhatsApp_Image_2025-09-12_at_19_32_22.jpeg",
-        "cat": "Sofas",
-        "mat": "V&J Falcon Leather 303 Ply & Foam Upholstery Structure; WP 199 Auerbach Oak 16mm Plywood Base",
-        "sz": "Outer: 84\" x 24\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1BR5ZPJ1yTNu8Yj6n2d23zFGkjHJOSLjM",
-        "des": "Dipen Gada",
-        "dl": "09-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "21-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7154,27 +6965,6 @@
       },
       {
         "op": "092416",
-        "prod": "Calibre",
-        "var": "Okrug",
-        "url": "https://i.ibb.co/zZBxfTY/0001-1.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Nilaya Margao Linen MAR005 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 25\" x 24\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ELW4uVDuDflCFIwbP6W_eTN2Q98KxL1f",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
         "prod": "Coringa",
         "var": "Jaguar",
         "url": "https://i.ibb.co/qr4GVXj/0001.jpg",
@@ -7504,153 +7294,6 @@
         "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri\n",
         "v": {
           "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092513",
-        "prod": "Calicut",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_125207_819447_WhatsApp_Image_2025-09-15_at_21_35_39_b022b527.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Leatherette Outside Back; Black Matt Indian Teak Frame",
-        "sz": "Outer: 32.75\" x 30.75\" x 28.75\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1ryo4jtlI2ZXTcIr0eLN9R_PKeFaMXPN6",
-        "des": "Readymade",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092513",
-        "prod": "Olhaven",
-        "var": "Erik",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_105824_245645_pasted_image_1758000510789.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Walnut Laminate 16mm Plywood Skirting; Finish TBC Sheesham Legs",
-        "sz": "Outer: 115\" x 47\" x 32.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1l5C7wdjral_oi-QJjO2kwV9yn91oqUP8",
-        "des": "Maulik Parmar",
-        "dl": "16-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "25-Sept-2025",
-          "a": "",
-          "rm": "Sofa and Laminate Skirting"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092513",
-        "prod": "Raheni",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250915_172716_892345_pasted_image_1757937439138.png",
-        "cat": "Beds",
-        "mat": "Sugar Shade 901 Ply & Foam Upholstery Headboard; Sugar Shade 901 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 62\" x 81\" x 42\", Seat Height: 22\";\nMattress: 60\" x 76\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1Dhx9UrlejFxM08MYxd0yvmMY6z362doz",
-        "des": "Maulik Parmar",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "25-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092513",
-        "prod": "Skydew",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_122303_307971_pasted_image_1758005588156.png",
-        "cat": "Storage Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Headboard; Fabric TBC Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 75\" x 81.5\" x 48\", Seat Height: 22\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1LwTxG9muIrg6SQ67srWZLDJIktYBAHWO",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Bed with Hydraulic Storage"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092513",
-        "prod": "Spinny",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_125244_759974_pasted_image_1758007369446.png",
-        "cat": "Beds",
-        "mat": "Sugar Shade 913 Ply & Foam Upholstery Headboard; Sugar Shade 913 Ply & Foam Upholstery Platform; Finish TBC Sheesham Legs; Oak Laminate 12mm Plywood Bed Slat Support; Natural White Oak Frame; Natural White Oak Legs",
-        "sz": "Outer: 48\" x 78\" x 81\", Seat Height: 22\";\nMattress: 45\" x 74\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1oK53z-pT-KGr-tRA1IcamFfRBuLlsYjB",
-        "des": "Maulik Parmar",
-        "dl": "16-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "platform, headboard, curtain"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092513",
-        "prod": "Tambia",
-        "var": "Reid",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250915_180110_928611_pasted_image_1757939475371.png",
-        "cat": "Benches",
-        "mat": "Oasis SRN 63 Ply & Foam Upholstery Structure",
-        "sz": "Outer: 60\" x 21\" x 18\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1YFd0EwjIEs_z2C4Atca4-nxDCWqNHzb6",
-        "des": "Maulik Parmar",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092516",
-        "prod": "Calix",
-        "var": "Turkey",
-        "url": "https://i.ibb.co/jzdjCqj/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Pure Essentials Forty Vani Smoke  115220 Ply & Foam Upholstery Structure; HOF Grey M2140-HB Mild Steel Frame",
-        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1HDYEWlcn_Fk5kHY59dPnL6mkrXDkGsWI",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 4,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8014,48 +7657,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "102411",
-        "prod": "Omniverse",
-        "var": "Rayis",
-        "url": "https://i.ibb.co/B28xbrqJ/Screenshot-2025-04-08-104857.png",
-        "cat": "Beds",
-        "mat": "Natural Recycled Teak Frame; Natural Recycled Teak Legs; Natural Recycled Teak Mounting; SCS 9672 16mm Plywood Bed Slat Support; Fabric TBC Ply & Foam Upholstery Headboard; White Blow Glass Lamp Fixture; Warm White LED Bulb Lamp Fitting",
-        "sz": "Outer: 109\" x 87.19\" x 45\";\nBed : 81\" x 74\" x 12\", Seat Height: 16.5\";\nNightstand: 28.63\" x 17.13\" x 12\";\nHeadboard: 108.13\" x 4.5\" x 45\";\nMattress: \"",
-        "fld": "https://drive.google.com/drive/folders/1aEZOrOMSBMb_4Jri658L2JNPIHO6XawU",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Daughter's Room Bed ; King-size bed with attached platform for nightstands on both sides",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112411",
-        "prod": "Creoda",
-        "var": "Oren",
-        "url": "https://i.ibb.co/pvL7cw4q/0002.jpg",
-        "cat": "Beds",
-        "mat": "Natural White Oak Structure; Beverly Hill 722 Ply & Foam Upholstery Headboard; Oak Laminate 12mm Plywood Bed Slat Support; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 80.25\" x 87\" x 65\", Seat Height: 23.5\";\nMattress: 76\" x 80\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/15Rvxi4uLsdXJX0MFCL90l1xnVO-SmQPd",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "GF Bedroom Bed",
-        "v": {
-          "c": "23-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "112411",
         "prod": "Dewmist",
         "var": "Irina",
@@ -8073,48 +7674,6 @@
           "c": "23-Jun-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112411",
-        "prod": "Emperor",
-        "var": "Adams",
-        "url": "https://i.ibb.co/Qt0FXSm/0002.jpg",
-        "cat": "Outdoor Sofas",
-        "mat": "B.C.B. (M2382-HB) Aluminium Frame; Patterned Brown Beige Rope 10mm Rope Weaving; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 3 Cushions",
-        "sz": "Outer: 80\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/13_YtrVNJJaaToE6WK6_RcYTfIXlmSXOW",
-        "des": "Hetvi Shah",
-        "dl": "21-Mar-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Outdoor Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "seat back"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112411",
-        "prod": "Emperor",
-        "var": "Nicobar",
-        "url": "https://i.ibb.co/LdGwnpyR/0002.jpg",
-        "cat": "Outdoor Chairs",
-        "mat": "B.C.B. (M2382-HB) Aluminium Frame; Patterned Brown Beige Rope 10mm Rope Weaving; Fabric TBC Foam Upholstery Seat; Fabric TBC Foam Upholstery 1 Centre Cushion",
-        "sz": "Outer: 34\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1YKWJBbxzBno_g0R-LTkotlGFmKs7GD7l",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2025",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Outdoor Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "seat back"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -9208,27 +8767,6 @@
         "dl": "22-Mar-2023",
         "q": 2,
         "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "092516",
-        "prod": "Calix",
-        "var": "Turkey",
-        "url": "https://i.ibb.co/jzdjCqj/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Pure Essentials Forty Vani Smoke  115220 Ply & Foam Upholstery Structure; HOF Grey M2140-HB Mild Steel Frame",
-        "sz": "Outer: 20\" x 22.5\" x 33.5\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1HDYEWlcn_Fk5kHY59dPnL6mkrXDkGsWI",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 4,
-        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "c": "",
@@ -10779,50 +10317,6 @@
         "vendorDisplayName": "Chhoturam"
       }
     ],
-    "anil_engineers": [
-      {
-        "op": "072313",
-        "prod": "Andre",
-        "var": "Xany",
-        "url": "https://i.ibb.co/G40j3JPy/Screenshot-2025-07-02-165442.png",
-        "cat": "Outdoor Chairs",
-        "mat": "Black Powder Coat Aluminium Frame; Silk Grey FR 4mm Rope Weaving; Natural Recycled Teak Base; D'Decor Aura Blue Ocean Sr No 34 Foam Upholstery Seat; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 1 Centre Cushion",
-        "sz": "Outer: 30\" x 32\" x 27.75\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1LAJypX31Js56VLiZQY_9ruPETAhrL6f9",
-        "des": "Hetvi Shah",
-        "dl": "22-Apr-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Outdoor Chair ; Fabric Qty Each 2.0 mtr",
-        "v": {
-          "c": "25-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Anil Engineers"
-      },
-      {
-        "op": "072313",
-        "prod": "Kristie",
-        "var": "Ziglar",
-        "url": "https://i.ibb.co/ks6Y9gHS/Screenshot-2025-07-07-113532.png",
-        "cat": "Outdoor Swings",
-        "mat": "White Powder Coat Aluminium Structure; Silk Grey FR 8mm Rope Weaving; Clear SS Wire Rope Swing Rope; D'Decor Aura Blue Ocean Sr No 34 Foam Upholstery Seat; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 2 Medium Square Kidney Pillows; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 2 Small Square Kidney Pillows",
-        "sz": "Outer: 60\" x 27\" x 19\", Seat Height: 16.5\";\n2 Medium Square Kidney Pillows: 18\" x 4\" x 18\";\n2 Small Square Kidney Pillows: 16\" x 4\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1ti9AwEwsTK8e4i6KBC0FFTJk9uELZQcT",
-        "des": "Ramesh Panchal",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Swing ; Fabric Qty Each 2.0 mtr",
-        "v": {
-          "c": "20-Aug-2025",
-          "a": "",
-          "rm": "Make as per Kada Distance given by Rohan"
-        },
-        "vendorDisplayName": "Anil Engineers"
-      }
-    ],
     "siddhi_vinayak_marble": [
       {
         "op": "072313",
@@ -10865,6 +10359,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Siddhi Vinayak Marble"
+      }
+    ],
+    "anil_engineers": [
+      {
+        "op": "072313",
+        "prod": "Kristie",
+        "var": "Ziglar",
+        "url": "https://i.ibb.co/ks6Y9gHS/Screenshot-2025-07-07-113532.png",
+        "cat": "Outdoor Swings",
+        "mat": "White Powder Coat Aluminium Structure; Silk Grey FR 8mm Rope Weaving; Clear SS Wire Rope Swing Rope; D'Decor Aura Blue Ocean Sr No 34 Foam Upholstery Seat; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 2 Medium Square Kidney Pillows; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 60\" x 27\" x 19\", Seat Height: 16.5\";\n2 Medium Square Kidney Pillows: 18\" x 4\" x 18\";\n2 Small Square Kidney Pillows: 16\" x 4\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/1ti9AwEwsTK8e4i6KBC0FFTJk9uELZQcT",
+        "des": "Ramesh Panchal",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Deck Front GF Swing ; Fabric Qty Each 2.0 mtr",
+        "v": {
+          "c": "20-Aug-2025",
+          "a": "",
+          "rm": "Make as per Kada Distance given by Rohan"
+        },
+        "vendorDisplayName": "Anil Engineers"
       }
     ],
     "the_art_room": [
@@ -11646,48 +11163,6 @@
       },
       {
         "op": "092416",
-        "prod": "Butterfly",
-        "var": "Fables",
-        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Peca Sheesham Frame; Arezzo Sherwood Sr No 06 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1FykqIgj7E_6pR_pFS17EZjo9gm4P2Jx1",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Family & Study Room",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092416",
-        "prod": "Calibre",
-        "var": "Okrug",
-        "url": "https://i.ibb.co/zZBxfTY/0001-1.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Nilaya Margao Linen MAR005 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 25\" x 24\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ELW4uVDuDflCFIwbP6W_eTN2Q98KxL1f",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092416",
         "prod": "Coringa",
         "var": "Jaguar",
         "url": "https://i.ibb.co/qr4GVXj/0001.jpg",
@@ -12159,6 +11634,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-07T06:22:25.475Z"
+    "timestamp": "2025-10-07T06:40:44.534Z"
   }
 }
