@@ -6838,6 +6838,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "082527",
+        "prod": "Impala",
+        "var": "Ginger",
+        "url": "https://i.ibb.co/0ZGYWcN/0001.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Jacobean Sheesham Frame; AZCO EDEN 40 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 28\" x 26\" x 25\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1n8ExxlaOjXuKXLFQyxJeSRqs_onE-qsW",
+        "des": "Atharva Kelkar",
+        "dl": "19-Aug-2020",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092416",
         "prod": "Argos",
         "var": "Nairobi",
@@ -11487,6 +11508,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-07T12:37:30.265Z"
+    "timestamp": "2025-10-07T12:52:34.238Z"
   }
 }
