@@ -6692,27 +6692,6 @@
       },
       {
         "op": "092522",
-        "prod": "Poseidon",
-        "var": "Malana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250730_104823_415246_0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Natural Burma Border Teak Frame; Beyond Black SRN 134 Ply & Foam Upholstery Backrest; Beyond Black SRN 130 Ply & Foam Upholstery Backrest; Beyond Black SRN 134 Ply & Foam Upholstery Seat; Beyond Black SRN 130 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 30\" x 36\" x 32\"",
-        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
-        "des": "Hetvi Shah",
-        "dl": "16-Aug-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
         "prod": "Solara",
         "var": "Ziva",
         "url": "https://i.ibb.co/hR0vJqGZ/ibb.jpg",
@@ -8012,27 +7991,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "102411",
-        "prod": "Mythara",
-        "var": "Thunder",
-        "url": "https://i.ibb.co/HXp38Zr/Screenshot-2024-11-14-173251.png",
-        "cat": "Benches",
-        "mat": "Natural Teak Veneer Structure; Fabric TBC Ply & Foam Upholstery Seat; SCS 9672 16mm Plywood Internal Carcass",
-        "sz": "Outer: 108\" x 21\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/1EnAu5aZl_d2CYc5BOe8VmPueH2X-dXLv",
-        "des": "Hetvi Shah",
-        "dl": "19-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Bench ; Seating bench with backrest attached to the wall",
         "v": {
           "c": "",
           "a": "",
@@ -10731,6 +10689,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-08T07:41:37.806Z"
+    "timestamp": "2025-10-08T07:54:48.141Z"
   }
 }
