@@ -5894,48 +5894,6 @@
       },
       {
         "op": "072409",
-        "prod": "Chako",
-        "var": "Typex",
-        "url": "https://i.ibb.co/84dX1HgR/0002.jpg",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Aelin 03 Flamingo Ply & Foam Upholstery Headboard; Black Powder Coat Mild Steel Posters; Black Powder Coat Mild Steel Canopy",
-        "sz": "Outer: 69\" x 84\" x 89\", Seat Height: 21\";\nMattress: 66\" x 78\" x 8\";\nFootboard: 69\" x 1.25\" x 24\";\nHeadboard: 69\" x 1.25\" x 56\"",
-        "fld": "https://drive.google.com/drive/folders/1okLe9WRv4rT2E5Kp2Eoe6jE3yzhLDxvg",
-        "des": "Dilip Jangir",
-        "dl": "13-Oct-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom 03",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072409",
-        "prod": "Cucumber",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/yn0NtS9S/0002.jpg",
-        "cat": "Benches",
-        "mat": "Aelin 03 Flamingo Ply & Foam Upholstery Seat; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 55\" x 19\" x 17\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1z42uTqael9WVy946abSI8v4G-XPDofOM",
-        "des": "Parth Gada",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Need To Take In Diferent Colour - Possible\nMaster Bedroom 03",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072409",
         "prod": "Harlequin",
         "var": "Xavier",
         "url": "https://i.ibb.co/jh5JWK1/HARLEYQUINN-1-of-8-1.jpg",
@@ -6432,7 +6390,7 @@
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
         "v": {
-          "c": "30-Jun-2025",
+          "c": "10-Nov-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6472,27 +6430,6 @@
         "dl": "25-Dec-2024",
         "q": 1,
         "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082527",
-        "prod": "Impala",
-        "var": "Ginger",
-        "url": "https://i.ibb.co/0ZGYWcN/0001.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Jacobean Sheesham Frame; AZCO EDEN 40 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 28\" x 26\" x 25\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1n8ExxlaOjXuKXLFQyxJeSRqs_onE-qsW",
-        "des": "Atharva Kelkar",
-        "dl": "19-Aug-2020",
-        "q": 1,
-        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "c": "",
@@ -6902,174 +6839,6 @@
       },
       {
         "op": "092522",
-        "prod": "Anaya",
-        "var": "Tyler",
-        "url": "https://i.ibb.co/5X5WQBfV/Tyler1-2.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Orange Powder Coat Stainless Steel 304 Matt Structure; Fabric TBC Foam Upholstery Seat; Agora Tandem Flame Marino 1208 Recron Filling 1 Centre Cushion",
-        "sz": "Outer: 24.5\" x 38.5\" x 33\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/1l0zGfUf6Ptea2_DymtkO8NgCWKRTx3RS",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Butterfly",
-        "var": "Fables",
-        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Peca Sheesham Frame; Arezzo Sherwood Sr No 06 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1FykqIgj7E_6pR_pFS17EZjo9gm4P2Jx1",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Eowyn",
-        "var": "Trickle",
-        "url": "https://i.ibb.co/jwGYh3r/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Distressed/Charcoal Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Accessories; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 22.5\" x 30\" x 31.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1hPBHmIFdqSWG71Soto4gLAskjOPJL_Cj",
-        "des": "Saniya Deshpande",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Impala",
-        "var": "Pique",
-        "url": "https://i.ibb.co/CwKtmkH/sq-2-2.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Frame; B Home Lona 03 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 28\" x 26\" x 25\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1POULia4eLsrYM87dAORJmujTeU59ikO3",
-        "des": "Atharva Kelkar",
-        "dl": "19-Aug-2020",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Jawhead",
-        "var": "Esquire",
-        "url": "https://i.ibb.co/3ccJ7Lf/gallotti-and-radice-stami-day-bed.jpg",
-        "cat": "Benches",
-        "mat": "Finish TBC Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Finish TBC Stainless Steel 304 Matt Fixture; Fabric TBC Foam Upholstery Bolster",
-        "sz": "Outer: 72\" x 18\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ir7WKjlc1VNfri2htVFZcxm5AdZXgpPO",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Nigma",
-        "var": "Basque",
-        "url": "https://i.ibb.co/Dw8sqbX/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "D'Decor Black and Bold II 202 Ply & Foam Upholstery Seat; Grey Powder Coat Mild Steel Base",
-        "sz": "Outer: 25\" x 25\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1TZ7vXt71fRltt_UuSOMhIv1vQibiAUgP",
-        "des": "Parth Gada",
-        "dl": "08-Nov-2022",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Osaka",
-        "var": "Ambis",
-        "url": "https://i.ibb.co/HHWBG7J/Screenshot-from-2024-05-20-14-42-10.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 32\" x 36\" x 30\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jRzHzNt-rhPe5V6pVb9Yf5HQMY3wHhOq",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
-        "prod": "Poseidon",
-        "var": "Lacie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250812_175752_357882_Screenshot_2025-08-12_175729.png",
-        "cat": "Sofas",
-        "mat": "Natural Burma Border Teak Frame; Fabric TBC Ply & Foam Upholstery Structure",
-        "sz": "Outer: 50\" x 26\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1h8WAJQhSg_Bza784s1CijNnkat30BmYz",
-        "des": "Readymade",
-        "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092522",
         "prod": "Poseidon",
         "var": "Malana",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250730_104823_415246_0002.jpg",
@@ -7164,27 +6933,6 @@
         "des": "",
         "dl": "",
         "q": 2,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092534",
-        "prod": "Gregory",
-        "var": "Elin",
-        "url": "https://i.ibb.co/kS5DQpq/0002-10.jpg",
-        "cat": "Sofas",
-        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 2 Cushions",
-        "sz": "Outer: 72\" x 30\" x 31\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1FPcSptw_TOC3750N5WnAq6TgjwJQZ-D7",
-        "des": "",
-        "dl": "",
-        "q": 1,
         "pm": "Smruti Saraiya",
         "cr": "",
         "v": {
@@ -11109,6 +10857,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-08T06:37:32.030Z"
+    "timestamp": "2025-10-08T06:52:29.181Z"
   }
 }
