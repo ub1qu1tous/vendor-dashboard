@@ -4595,7 +4595,7 @@
         "dl": "30-Sept-2025",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "",
+        "cr": "Studio Room Panel",
         "v": {
           "c": "05-Oct-2025",
           "a": "",
@@ -4616,7 +4616,7 @@
         "dl": "",
         "q": 2,
         "pm": "Dilip Jangir",
-        "cr": "",
+        "cr": "Studio Room Nightstand",
         "v": {
           "c": "05-Oct-2025",
           "a": "",
@@ -4637,7 +4637,7 @@
         "dl": "01-Jan-2010",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "",
+        "cr": "Studio Room Bed Platform",
         "v": {
           "c": "05-Oct-2025",
           "a": "",
@@ -5887,6 +5887,48 @@
         "cr": "Master Bedroom Bed",
         "v": {
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072516",
+        "prod": "Pastel",
+        "var": "Robin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_160336_900106_pasted_image_1757586821571.png",
+        "cat": "Beds",
+        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Headboard; Black Powder Coat Mild Steel Posters; Black Powder Coat Mild Steel Canopy; Fabric TBC Recron Filling 2 Large Rectangular Kidney Pillows",
+        "sz": "Outer: 79\" x 82.5\" x 82.5\"",
+        "fld": "https://drive.google.com/drive/folders/1gebFU8pnonWiW56iDMgu5BbqmsimnPEW",
+        "des": "Dilip Jangir",
+        "dl": "13-Sept-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "9 metre fabric from client",
+        "v": {
+          "c": "24-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072516",
+        "prod": "Petal",
+        "var": "Haydn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250905_164701_900114_pasted_image_1757071025511.png",
+        "cat": "Benches",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 59\" x 17.5\" x 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1kRBcCLLzrerSwDyeoOiwbo5QSeunv18P",
+        "des": "Dilip Jangir",
+        "dl": "13-Sept-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "1.5 metre fabric from client",
+        "v": {
+          "c": "24-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7759,7 +7801,7 @@
         "dl": "30-Sept-2025",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "",
+        "cr": "Studio Room Panel",
         "v": {
           "c": "",
           "a": "",
@@ -10479,6 +10521,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-08T09:22:27.755Z"
+    "timestamp": "2025-10-08T09:41:33.426Z"
   }
 }
