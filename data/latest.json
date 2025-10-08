@@ -5116,12 +5116,12 @@
       {
         "op": "092522",
         "prod": "Avocado",
-        "var": "Tau",
-        "url": "https://i.ibb.co/FxTQY74/TAU-0007.jpg",
+        "var": "Yaris",
+        "url": "",
         "cat": "Accent Tables",
-        "mat": "Black Distressed/Charcoal Sheesham Top; Black Distressed/Charcoal Sheesham Base; Black Powder Coat Mild Steel Mounting",
+        "mat": "Peca Sheesham Top; Black Powder Coat Mild Steel Mounting; Black Matt Sheesham Base",
         "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1QD6wM1IUKaLtRlMjzzNAlCYawzmgbPXT",
+        "fld": "https://drive.google.com/drive/folders/1KcnXTCVa_MxRxtxbNuzdtrrVFc1npJYa",
         "des": "Tarishi Rathore",
         "dl": "02-Jan-2010",
         "q": 1,
@@ -5241,27 +5241,6 @@
       },
       {
         "op": "092522",
-        "prod": "Eowyn",
-        "var": "Trickle",
-        "url": "https://i.ibb.co/jwGYh3r/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Distressed/Charcoal Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Accessories; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 22.5\" x 30\" x 31.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1hPBHmIFdqSWG71Soto4gLAskjOPJL_Cj",
-        "des": "Saniya Deshpande",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092522",
         "prod": "Ernest",
         "var": "Lumia",
         "url": "https://i.ibb.co/wMyqn9S/b0002.jpg",
@@ -5326,14 +5305,14 @@
       {
         "op": "092522",
         "prod": "Osaka",
-        "var": "Ambis",
-        "url": "https://i.ibb.co/HHWBG7J/Screenshot-from-2024-05-20-14-42-10.jpg",
+        "var": "Nicole",
+        "url": "https://i.ibb.co/yFhXg2gQ/Whats-App-Image-2025-06-17-at-7-33-42-PM.jpg",
         "cat": "Accent Chairs",
-        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
         "sz": "Outer: 32\" x 36\" x 30\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jRzHzNt-rhPe5V6pVb9Yf5HQMY3wHhOq",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
+        "fld": "https://drive.google.com/drive/folders/1HfWWF692kA9KENgd6HCz0NkzCTqzbEA6",
+        "des": "Tanmay Shah",
+        "dl": "21-Feb-2025",
         "q": 1,
         "pm": "Smruti Saraiya",
         "cr": "",
@@ -10500,6 +10479,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-08T08:53:06.697Z"
+    "timestamp": "2025-10-08T09:13:33.688Z"
   }
 }
