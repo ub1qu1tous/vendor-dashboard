@@ -4688,27 +4688,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "092534",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "122415",
         "prod": "Skyridge",
         "var": "Fynn",
@@ -6649,27 +6628,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "092534",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "15-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "102411",
         "prod": "Mythara",
         "var": "Thunder",
@@ -8433,27 +8391,6 @@
         "fld": "https://drive.google.com/drive/folders/1FPcSptw_TOC3750N5WnAq6TgjwJQZ-D7",
         "des": "",
         "dl": "",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Peca Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "092534",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
         "q": 1,
         "pm": "Smruti Saraiya",
         "cr": "",
@@ -10488,27 +10425,6 @@
           "rm": "2.5m + 2.5m Seat and Cushion Seperate"
         },
         "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092534",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "2.5m + 2.5m Seat and Cushion Seperate"
-        },
-        "vendorDisplayName": "Client/Fabric"
       }
     ],
     "faheeem": [
@@ -10555,6 +10471,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Lalji Handicrafts"
+      }
+    ],
+    "ansar_enterprises": [
+      {
+        "op": "092530",
+        "prod": "Aguil",
+        "var": "Drake",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251007_145142_032242_Screenshot_2025-10-07_145106.png",
+        "cat": "Rugs",
+        "mat": "Hand-Tufted Blended Wool Carpet",
+        "sz": "Outer: 180\" x 132\" x 0.75\"",
+        "fld": "https://drive.google.com/drive/folders/10ZgPbaPGcmF8FBxD-Ss9OTU67Lx5LEhX",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ansar Enterprises"
       }
     ],
     "smit_enterprise": [
@@ -10605,6 +10544,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-10T10:22:30.771Z"
+    "timestamp": "2025-10-10T10:37:48.598Z"
   }
 }
