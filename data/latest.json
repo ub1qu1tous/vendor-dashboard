@@ -4013,27 +4013,6 @@
       },
       {
         "op": "082520",
-        "prod": "Coolock",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_141228_932885_pasted_image_1758012153420.png",
-        "cat": "Dining Chairs",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 25\" x 24\" x 31\"",
-        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
-        "des": "Tanmay Shah",
-        "dl": "05-Sept-2025",
-        "q": 6,
-        "pm": "Amish Parmar",
-        "cr": "AWS will provide ply and foam structure Lining work will be done by client himself as it is Leather;\r\nMetal base with powder coating will be provided by AWS",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "082520",
         "prod": "Honeysuckle",
         "var": "Evan",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250913_131611_566083_pasted_image_1757749575926.png",
@@ -9940,29 +9919,6 @@
         "vendorDisplayName": "Ramnivas Polish"
       }
     ],
-    "vishwas_steel_surat": [
-      {
-        "op": "082520",
-        "prod": "Coolock",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_141228_932885_pasted_image_1758012153420.png",
-        "cat": "Dining Chairs",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 25\" x 24\" x 31\"",
-        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
-        "des": "Tanmay Shah",
-        "dl": "05-Sept-2025",
-        "q": 6,
-        "pm": "Amish Parmar",
-        "cr": "AWS will provide ply and foam structure Lining work will be done by client himself as it is Leather;\r\nMetal base with powder coating will be provided by AWS",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "6 pcs ms raw "
-        },
-        "vendorDisplayName": "Vishwas Steel Surat"
-      }
-    ],
     "clientfabric": [
       {
         "op": "082520",
@@ -10544,6 +10500,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-11T07:22:23.470Z"
+    "timestamp": "2025-10-11T07:37:20.001Z"
   }
 }
