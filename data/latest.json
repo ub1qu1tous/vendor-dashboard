@@ -6947,27 +6947,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "092416",
-        "prod": "Matias",
-        "var": "Isidora",
-        "url": "https://i.ibb.co/4H3VwFk/0002.jpg",
-        "cat": "Dressers",
-        "mat": "Suncity White Oak Carcass; Suncity White Oak Drawer; Mirror Buffing Statuario Top; Suncity White Oak Support; Suncity White Oak Legs; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 48\" x 18\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/19AIkxBsk1RTZmTwlu1j91ofGVZTqeXDz",
-        "des": "Parth Gada",
-        "dl": "19-May-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM;\nWooden finish same as chair and tv unit",
-        "v": {
-          "c": "29-Sept-2025",
-          "a": "",
-          "rm": "Banswara Marble Top (Woode Parts already receive)"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "092507",
         "prod": "Abyss",
         "var": "Elyss",
@@ -7344,27 +7323,6 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "Marble Leg and 96x48 Inches Sandwich Top with Grove in Center."
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "092416",
-        "prod": "Matias",
-        "var": "Isidora",
-        "url": "https://i.ibb.co/4H3VwFk/0002.jpg",
-        "cat": "Dressers",
-        "mat": "Suncity White Oak Carcass; Suncity White Oak Drawer; Mirror Buffing Statuario Top; Suncity White Oak Support; Suncity White Oak Legs; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 48\" x 18\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/19AIkxBsk1RTZmTwlu1j91ofGVZTqeXDz",
-        "des": "Parth Gada",
-        "dl": "19-May-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM;\nWooden finish same as chair and tv unit",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "Statuario Marble"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
@@ -9868,6 +9826,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-12T08:22:21.979Z"
+    "timestamp": "2025-10-12T08:37:23.096Z"
   }
 }
