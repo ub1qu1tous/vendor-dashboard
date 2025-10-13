@@ -5028,6 +5028,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "102502",
+        "prod": "Capsicum",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_155222_660142_pasted_image_1759486948706.png",
+        "cat": "Dining Chairs",
+        "mat": "Peca Sheesham Frame; Urban Home Textures SRN 29 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 19\" x 19\" x 33\", Seat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1gh2Q5WqkTcA9JhTCpCScToTIZvJZsiw2",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 8,
+        "pm": "Milankumar Mahida",
+        "cr": "3 meter fabric required",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "112411",
         "prod": "Dewmist",
         "var": "Irina",
@@ -6187,6 +6208,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "102502",
+        "prod": "Capsicum",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_155222_660142_pasted_image_1759486948706.png",
+        "cat": "Dining Chairs",
+        "mat": "Peca Sheesham Frame; Urban Home Textures SRN 29 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 19\" x 19\" x 33\", Seat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1gh2Q5WqkTcA9JhTCpCScToTIZvJZsiw2",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 8,
+        "pm": "Milankumar Mahida",
+        "cr": "3 meter fabric required",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
       }
     ],
     "krishna_furnitech": [
@@ -6794,6 +6836,27 @@
         "cr": "",
         "v": {
           "c": "11-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102502",
+        "prod": "Capsicum",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_155222_660142_pasted_image_1759486948706.png",
+        "cat": "Dining Chairs",
+        "mat": "Peca Sheesham Frame; Urban Home Textures SRN 29 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 19\" x 19\" x 33\", Seat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1gh2Q5WqkTcA9JhTCpCScToTIZvJZsiw2",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 8,
+        "pm": "Milankumar Mahida",
+        "cr": "3 meter fabric required",
+        "v": {
+          "c": "28-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9152,6 +9215,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-13T13:15:19.480Z"
+    "timestamp": "2025-10-13T13:23:21.092Z"
   }
 }
