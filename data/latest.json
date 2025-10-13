@@ -3850,27 +3850,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "072528",
-        "prod": "Obelix",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_123720_165343_pasted_image_1758092845537.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Banswada White Top; Gold PVD Stainless Steel 304 Matt Legs; Peca Indian Teak Fixture; White Matt Duco 18mm MDF Support",
-        "sz": "Outer: 22\" x 22\" x 22\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1_Y9L_6pbRC69PKtGq6DEr8ms2JiLHS72",
-        "des": "Parth Gada",
-        "dl": "05-Apr-2022",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Leg in stock, and Top from damaged marble"
-        },
-        "vendorDisplayName": "aws"
-      },
-      {
         "op": "082413",
         "prod": "Phantom",
         "var": "Jaguar",
@@ -7329,69 +7308,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "072313",
-        "prod": "Andre",
-        "var": "Xany",
-        "url": "https://i.ibb.co/G40j3JPy/Screenshot-2025-07-02-165442.png",
-        "cat": "Outdoor Chairs",
-        "mat": "Black Powder Coat Aluminium Frame; Silk Grey FR 4mm Rope Weaving; Natural Recycled Teak Base; D'Decor Aura Blue Ocean Sr No 34 Foam Upholstery Seat; D'Decor Aura Blue Ocean Sr No 34 Recron Filling 1 Centre Cushion",
-        "sz": "Outer: 30\" x 32\" x 27.75\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1LAJypX31Js56VLiZQY_9ruPETAhrL6f9",
-        "des": "Hetvi Shah",
-        "dl": "22-Apr-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Outdoor Chair ; Fabric Qty Each 2.0 mtr",
-        "v": {
-          "c": "05-Aug-2025",
-          "a": "",
-          "rm": "natural polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "072505",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Natural White Oak Top; Black Matt Sheesham Base",
-        "sz": "Outer: 48\" x 30\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Natural Polish on top and Legs Black"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "072528",
-        "prod": "Obelix",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_123720_165343_pasted_image_1758092845537.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Banswada White Top; Gold PVD Stainless Steel 304 Matt Legs; Peca Indian Teak Fixture; White Matt Duco 18mm MDF Support",
-        "sz": "Outer: 22\" x 22\" x 22\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1_Y9L_6pbRC69PKtGq6DEr8ms2JiLHS72",
-        "des": "Parth Gada",
-        "dl": "05-Apr-2022",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
         "op": "082524",
         "prod": "Clonliff",
         "var": "Avore",
@@ -7514,27 +7430,6 @@
           "c": "",
           "a": "",
           "rm": "Peca Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "112411",
-        "prod": "Shadowcrest",
-        "var": "Montana",
-        "url": "https://i.ibb.co/mVN3Thss/Whats-App-Image-2025-04-01-at-12-48-50-PM.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Suncity Recycled Teak Frame; Canvas Rust 115818 Ply & Foam Upholstery Inside Back; Artisan Sr No GL 332 Ply & Foam Upholstery Outside Back; Canvas Rust 115818 Foam Upholstery Seat; Artisan Sr No GL 332 Foam Upholstery Handle",
-        "sz": "Outer: 29\" x 32\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1xY6VlkICy5z0ek3MvGW6oWWyQC6h5KfB",
-        "des": "Maan Singh Rathore",
-        "dl": "",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Formal Seating Accent Chair",
-        "v": {
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": " suncity teak polish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
@@ -9721,6 +9616,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-13T06:47:26.532Z"
+    "timestamp": "2025-10-13T06:54:19.619Z"
   }
 }
