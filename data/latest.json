@@ -1415,27 +1415,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "112411",
-        "prod": "Geneva",
-        "var": "Banksy",
-        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
-        "sz": "Outer: 120\" x 20\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Media Console",
-        "v": {
-          "c": "05-Sept-2025",
-          "a": "",
-          "rm": "shutter frame making as per size given by chhotubhai"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "122415",
         "prod": "Skyridge",
         "var": "Fynn",
@@ -8215,27 +8194,6 @@
           "rm": "14-6-2025 - chhotubhai has to install carcass\n21-6-2025- Chhotubhai has to  install Shutter"
         },
         "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "112411",
-        "prod": "Geneva",
-        "var": "Banksy",
-        "url": "https://i.ibb.co/jFYZ2bk/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Suncity Recycled Teak Structure; Brown Tinted 5mm Fluted/Reeded/Ribbed Glass Shutter; Black Powder Coat Mild Steel Base; Suncity Recycled Teak Drawer Fascia",
-        "sz": "Outer: 120\" x 20\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1JgrNtdjJWPI5Tpex4j2pO58moW3_3lhe",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Media Console",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "shutter,sliding work"
-        },
-        "vendorDisplayName": "Chhoturam"
       }
     ],
     "siddhi_vinayak_marble": [
@@ -9194,6 +9152,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-14T11:37:29.470Z"
+    "timestamp": "2025-10-14T11:52:32.809Z"
   }
 }
