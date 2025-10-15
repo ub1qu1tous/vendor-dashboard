@@ -2116,27 +2116,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "052510",
-        "prod": "Pomfret",
-        "var": "Muvil",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_130618_435411_Screenshot_2025-07-19_130600.png",
-        "cat": "Nightstands",
-        "mat": "Mirror Buffing Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; Finish TBC HDHMR Drawer Fascia",
-        "sz": "Outer: 21\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
-        "des": "Hetvi Shah",
-        "dl": "28-Aug-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "02-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "072515",
         "prod": "Canoe",
         "var": "Ryson",
@@ -2507,6 +2486,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092530",
+        "prod": "Carnaroli",
+        "var": "Omnibus",
+        "url": "https://i.ibb.co/5h4wmYf/Whats-App-Image-2022-03-08-at-8-08-10-PM.jpg",
+        "cat": "Media Consoles",
+        "mat": "Natural White Oak Structure; Black Powder Coat Mild Steel Base; Clear Lacquered Pre-woven Rattan Shutter Panel; Black Powder Coat Mild Steel Knobs",
+        "sz": "Outer: 72\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1zNWWxxPzCCRSE8uKRcxZ99gG5-bylkKH",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Finish as same as Bough bench",
         "v": {
           "c": "",
           "a": "",
@@ -3204,6 +3204,48 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092530",
+        "prod": "Carnaroli",
+        "var": "Omnibus",
+        "url": "https://i.ibb.co/5h4wmYf/Whats-App-Image-2022-03-08-at-8-08-10-PM.jpg",
+        "cat": "Media Consoles",
+        "mat": "Natural White Oak Structure; Black Powder Coat Mild Steel Base; Clear Lacquered Pre-woven Rattan Shutter Panel; Black Powder Coat Mild Steel Knobs",
+        "sz": "Outer: 72\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1zNWWxxPzCCRSE8uKRcxZ99gG5-bylkKH",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Finish as same as Bough bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "August",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -4903,6 +4945,27 @@
       },
       {
         "op": "092530",
+        "prod": "Cajun",
+        "var": "Sandrift",
+        "url": "https://i.ibb.co/p4wGNkx/Love-Sofa-Licio-1.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Legs; Fabric TBC Recron Filling 1 Medium Square Kidney Pillow; Fabric TBC Recron Filling 1 Small Square Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
+        "sz": "Outer: 46\" x 37\" x 40\", Seat Height: 16.1\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1u8iv59IsiXCp6wxoIqLN2gz9p0oZB3zc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092530",
         "prod": "Gregory",
         "var": "Hulu",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
@@ -6190,6 +6253,27 @@
       },
       {
         "op": "092530",
+        "prod": "Cajun",
+        "var": "Sandrift",
+        "url": "https://i.ibb.co/p4wGNkx/Love-Sofa-Licio-1.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Legs; Fabric TBC Recron Filling 1 Medium Square Kidney Pillow; Fabric TBC Recron Filling 1 Small Square Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
+        "sz": "Outer: 46\" x 37\" x 40\", Seat Height: 16.1\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1u8iv59IsiXCp6wxoIqLN2gz9p0oZB3zc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092530",
         "prod": "Gregory",
         "var": "Hulu",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
@@ -6922,6 +7006,111 @@
           "c": "11-Oct-2025",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092530",
+        "prod": "Bough",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/6wWn5cC/0001.jpg",
+        "cat": "Benches",
+        "mat": "Natural Recycled Teak Structure",
+        "sz": "Outer: 96\" x 17\" x 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/12Mv-6_m2h3U6uKUsOdZXhAMfZm0unEdI",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "In this structure if Center Support/legs needed, then please suggest suitable design with the same"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092530",
+        "prod": "Cajun",
+        "var": "Sandrift",
+        "url": "https://i.ibb.co/p4wGNkx/Love-Sofa-Licio-1.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Legs; Fabric TBC Recron Filling 1 Medium Square Kidney Pillow; Fabric TBC Recron Filling 1 Small Square Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
+        "sz": "Outer: 46\" x 37\" x 40\", Seat Height: 16.1\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1u8iv59IsiXCp6wxoIqLN2gz9p0oZB3zc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4 Legs\nSheesham Peca"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092530",
+        "prod": "Carnaroli",
+        "var": "Omnibus",
+        "url": "https://i.ibb.co/5h4wmYf/Whats-App-Image-2022-03-08-at-8-08-10-PM.jpg",
+        "cat": "Media Consoles",
+        "mat": "Natural White Oak Structure; Black Powder Coat Mild Steel Base; Clear Lacquered Pre-woven Rattan Shutter Panel; Black Powder Coat Mild Steel Knobs",
+        "sz": "Outer: 72\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1zNWWxxPzCCRSE8uKRcxZ99gG5-bylkKH",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Finish as same as Bough bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092530",
+        "prod": "Hailey",
+        "var": "Kashmir",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251008_120907_286130_Screenshot_2025-10-08_120836.png",
+        "cat": "Lamps",
+        "mat": "Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Lamp Fitting; Natural White Ash Shelf; Fabric TBC  Accessories;  LED Bulb Bulb",
+        "sz": "Outer: 15\" x 12\" x 65\"",
+        "fld": "https://drive.google.com/drive/folders/1GJ5iftpbKweZDhIHFIR-sZ4l4Q-A0uX2",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092530",
+        "prod": "Ida",
+        "var": "Erik",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155617_942167_pasted_image_1759227981773.png",
+        "cat": "Coffee Tables",
+        "mat": "Mirror Buffing Banswada White Top; Peca Sheesham Legs; White Matt Duco 18mm MDF Support",
+        "sz": "Outer: 36\" x 36\" x 16\"",
+        "fld": "https://drive.google.com/drive/folders/1v5vqnL99gQVMxMZky4Zxlx4mQpoykHXA",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "including marble"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -8414,6 +8603,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092530",
+        "prod": "Hailey",
+        "var": "Kashmir",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251008_120907_286130_Screenshot_2025-10-08_120836.png",
+        "cat": "Lamps",
+        "mat": "Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Lamp Fitting; Natural White Ash Shelf; Fabric TBC  Accessories;  LED Bulb Bulb",
+        "sz": "Outer: 15\" x 12\" x 65\"",
+        "fld": "https://drive.google.com/drive/folders/1GJ5iftpbKweZDhIHFIR-sZ4l4Q-A0uX2",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
       }
     ],
     "ashok_polish": [
@@ -9066,6 +9276,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-15T12:55:30.896Z"
+    "timestamp": "2025-10-15T13:08:00.732Z"
   }
 }
