@@ -1434,27 +1434,6 @@
           "rm": "Drawer box and PU work"
         },
         "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122423",
-        "prod": "Liont",
-        "var": "Harper",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_162105_737947_Screenshot_2025-08-01_161923.png",
-        "cat": "Vanity Counters",
-        "mat": "Mirror Buffing Bidasar Green Top; Burgundy Brown-N 9985 HDHMR Carcass; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 47.24\" x 23.62\" x 31.1\"",
-        "fld": "https://drive.google.com/drive/folders/1F0Vohe2NSsyevbgl0vfxQJoAH6ZeLoKt",
-        "des": "Hetvi Shah",
-        "dl": "28-Feb-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "make as per metal frame, Internal laminate similar to Outer PU, Handle and Normal channels will be used to open drawers"
-        },
-        "vendorDisplayName": "Vipra"
       }
     ],
     "jain_marble": [
@@ -9152,6 +9131,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-15T08:52:34.281Z"
+    "timestamp": "2025-10-15T09:08:33.851Z"
   }
 }
