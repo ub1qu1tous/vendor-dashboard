@@ -2515,6 +2515,69 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "092527",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "August",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "Serin",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 96\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1kbD0fiCLHh6wDMpmbUCBcTZx873pTkKV",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -3504,6 +3567,27 @@
         "cr": "Studio Room Bed Platform",
         "v": {
           "c": "05-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092530",
+        "prod": "Gregory",
+        "var": "Hulu",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/11iilE07VSdwD4ur5YzWdvrBEadsJ_n_f",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4902,6 +4986,90 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092530",
+        "prod": "Gregory",
+        "var": "Hulu",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/11iilE07VSdwD4ur5YzWdvrBEadsJ_n_f",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "August",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "Serin",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 96\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1kbD0fiCLHh6wDMpmbUCBcTZx873pTkKV",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092530",
+        "prod": "Waltz",
+        "var": "June",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155515_515286_pasted_image_1759227919515.png",
+        "cat": "Ottomans",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Polished Paper Veneer 6mm Plywood Skirting",
+        "sz": "Outer: 36\" x 36\" x 17.5\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Nbts9sBPVFVCmE12Yxhmopi0ASVcL7c2",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092534",
         "prod": "Gregory",
         "var": "Drake",
@@ -6095,6 +6263,90 @@
         "des": "Maulik Parmar",
         "dl": "04-Dec-2022",
         "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092530",
+        "prod": "Gregory",
+        "var": "Hulu",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/11iilE07VSdwD4ur5YzWdvrBEadsJ_n_f",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "August",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092530",
+        "prod": "Mathilde",
+        "var": "Serin",
+        "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Fabric TBC Recron Filling 2 Medium Square Kidney Pillows; Fabric TBC Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 96\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1kbD0fiCLHh6wDMpmbUCBcTZx873pTkKV",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092530",
+        "prod": "Waltz",
+        "var": "June",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155515_515286_pasted_image_1759227919515.png",
+        "cat": "Ottomans",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Polished Paper Veneer 6mm Plywood Skirting",
+        "sz": "Outer: 36\" x 36\" x 17.5\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Nbts9sBPVFVCmE12Yxhmopi0ASVcL7c2",
+        "des": "",
+        "dl": "",
+        "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -9131,6 +9383,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-15T12:07:25.876Z"
+    "timestamp": "2025-10-15T12:22:35.121Z"
   }
 }
