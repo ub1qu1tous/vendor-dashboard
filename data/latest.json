@@ -2516,6 +2516,27 @@
       },
       {
         "op": "092530",
+        "prod": "Hailey",
+        "var": "Kashmir",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251008_120907_286130_Screenshot_2025-10-08_120836.png",
+        "cat": "Lamps",
+        "mat": "Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Lamp Fitting; Natural White Ash Shelf; Fabric TBC  Accessories;  LED Bulb Bulb",
+        "sz": "Outer: 15\" x 12\" x 65\"",
+        "fld": "https://drive.google.com/drive/folders/1GJ5iftpbKweZDhIHFIR-sZ4l4Q-A0uX2",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092530",
         "prod": "Mathilde",
         "var": "August",
         "url": "https://i.ibb.co/FwX06DR/0001-8.jpg",
@@ -9045,6 +9066,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-15T12:40:39.238Z"
+    "timestamp": "2025-10-15T12:55:30.896Z"
   }
 }
