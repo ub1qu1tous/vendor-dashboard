@@ -3531,6 +3531,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "082533",
+        "prod": "Albatross",
+        "var": "Oscar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_120351_696794_pasted_image_1760596436503.png",
+        "cat": "Accent Chairs",
+        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
+        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Oct-2025",
+          "a": "",
+          "rm": "Frame of Albatross Chair"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092520",
         "prod": "Kaveri",
         "var": "Numin",
@@ -4520,6 +4541,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082533",
+        "prod": "Albatross",
+        "var": "Oscar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_120351_696794_pasted_image_1760596436503.png",
+        "cat": "Accent Chairs",
+        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
+        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "05-Nov-2025",
+          "a": "",
+          "rm": "Only foam structure;\nclient will do upholstery process."
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -7476,6 +7518,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "082533",
+        "prod": "Albatross",
+        "var": "Oscar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_120351_696794_pasted_image_1760596436503.png",
+        "cat": "Accent Chairs",
+        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
+        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "30-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "092416",
         "prod": "Coringa",
         "var": "Jaguar",
@@ -9161,6 +9224,29 @@
         "vendorDisplayName": "Client/Fabric"
       }
     ],
+    "demodes": [
+      {
+        "op": "082533",
+        "prod": "Albatross",
+        "var": "Oscar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_120351_696794_pasted_image_1760596436503.png",
+        "cat": "Accent Chairs",
+        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
+        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "15-Nov-2025",
+          "a": "",
+          "rm": "Leather will provide by De-modes; Upholstery will be done by De Modes"
+        },
+        "vendorDisplayName": "Demodes"
+      }
+    ],
     "faheeem": [
       {
         "op": "092521",
@@ -9255,6 +9341,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-16T06:27:25.634Z"
+    "timestamp": "2025-10-16T07:23:16.214Z"
   }
 }
