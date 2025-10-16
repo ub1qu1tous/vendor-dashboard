@@ -1058,6 +1058,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092518",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 18\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Flap Shutter"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "102411",
         "prod": "Hinterland",
         "var": "Neptune",
@@ -4713,6 +4734,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092518",
+        "prod": "Stingray",
+        "var": "Lux",
+        "url": "https://i.ibb.co/qMTGDpyy/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Mounting; Black PVD Stainless Steel 304 Matt Legs; Fabric TBC Recron Filling 4 Cushions",
+        "sz": "Outer: 78\" x 34.5\" x 28\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1fkZj8vZckxQuVlFAmTYDqyhfDtmppsei",
+        "des": "Tanmay Shah",
+        "dl": "29-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "9 Mtr Seat Handle Back\n4 Mtr Cushion"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092527",
         "prod": "Decker",
         "var": "Yoku",
@@ -7925,6 +7967,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "092518",
+        "prod": "Stingray",
+        "var": "Lux",
+        "url": "https://i.ibb.co/qMTGDpyy/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Mounting; Black PVD Stainless Steel 304 Matt Legs; Fabric TBC Recron Filling 4 Cushions",
+        "sz": "Outer: 78\" x 34.5\" x 28\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1fkZj8vZckxQuVlFAmTYDqyhfDtmppsei",
+        "des": "Tanmay Shah",
+        "dl": "29-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "092520",
         "prod": "Kaveri",
         "var": "Numin",
@@ -8984,6 +9047,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-16T12:22:33.919Z"
+    "timestamp": "2025-10-16T12:37:30.343Z"
   }
 }
