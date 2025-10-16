@@ -128,48 +128,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Darshan Hardware"
-      },
-      {
-        "op": "092416",
-        "prod": "Kinchin",
-        "var": "Marina",
-        "url": "https://i.ibb.co/W3TS0VF/1.jpg",
-        "cat": "Nightstands",
-        "mat": "White Distressed Indian Teak Structure; White Distressed Indian Teak Drawer Fascia; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 22\" x 17\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/1CX9BtVZ-RP3mtdmTq29OTUWOnb7ZcuV8",
-        "des": "Hetvi Shah",
-        "dl": "12-Feb-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Darshan Hardware"
-      },
-      {
-        "op": "092416",
-        "prod": "Matias",
-        "var": "Isidora",
-        "url": "https://i.ibb.co/4H3VwFk/0002.jpg",
-        "cat": "Dressers",
-        "mat": "Suncity White Oak Carcass; Suncity White Oak Drawer; Mirror Buffing Statuario Top; Suncity White Oak Support; Suncity White Oak Legs; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 48\" x 18\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/19AIkxBsk1RTZmTwlu1j91ofGVZTqeXDz",
-        "des": "Parth Gada",
-        "dl": "19-May-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM;\nWooden finish same as chair and tv unit",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Darshan Hardware"
       }
     ],
     "krisha_lights": [
@@ -1075,6 +1033,27 @@
           "c": "07-Oct-2025",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "092416",
+        "prod": "Harlequin",
+        "var": "Zany",
+        "url": "https://i.ibb.co/jh5JWK1/HARLEYQUINN-1-of-8-1.jpg",
+        "cat": "Nightstands",
+        "mat": "Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Carcass; White Matt Duco 18mm MDF Drawer Fascia; Matt Buffing Leather Strap Handle; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 20\" x 16.5\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1GT01wBDUDzxvZAlEF0RyUe94NEqWV8GQ",
+        "des": "Tarishi Rathore",
+        "dl": "11-Dec-2021",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "PU Application same as Drawer: Carcass Internal, Outer Back and Outer Bottom"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -2719,6 +2698,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "092530",
+        "prod": "Bearmont",
+        "var": "Hoover",
+        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 18\" x 18\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
+        "des": "Parth Gada",
+        "dl": "03-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -4630,27 +4630,6 @@
       },
       {
         "op": "092416",
-        "prod": "Janine",
-        "var": "Ureta",
-        "url": "https://i.ibb.co/p2Ff5D1/Terell-2.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Natural Recycled Teak Structure; Clear Pre-woven Rattan Weaving; Harmel Home H1620 236-3 Ply & Foam Upholstery Seat; Harmel Home H1620 236-3 Foam Upholstery 1 Centre Cushion",
-        "sz": "Outer: 31\" x 30\" x 48\", Seat Height: 19.5\"",
-        "fld": "https://drive.google.com/drive/folders/125CRDRJdP4dlNudZSqVv0IxWkZw9bEty",
-        "des": "Kapil Grover",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "FAMILY AND STUDY",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
         "prod": "Jared",
         "var": "Grover",
         "url": "https://i.ibb.co/pb0Dq3X/0002.jpg",
@@ -4663,90 +4642,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "MOTHER’S BEDROOM",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Magas",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250927_150234_210186_pasted_image_1758965559648.png",
-        "cat": "Beds",
-        "mat": "White Distressed White Oak Structure; Vaya Blake Pastel Spring Ply & Foam Upholstery Headboard; Oak Laminate 12mm Plywood Bed Slat Support; White Distressed White Oak Posters",
-        "sz": "Outer: 73\" x 81\" x 85.5\", Seat Height: 21\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/15-ctOa4tDZD31WdvG7w8Sk8Gl1q2lywZ",
-        "des": "Parthsarthi Suthar",
-        "dl": "13-Mar-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM; \nSize to be customized as per site wall dimension\n",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Nigma",
-        "var": "Marc",
-        "url": "https://i.ibb.co/Kx4K9cwz/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Harmel Home H2337 236-2 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Base;  Foam Upholstery 1 Medium Rectangular Kidney Pillow",
-        "sz": "Outer: 31\" x 36.5\" x 36.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1qcqnsEDljR_Y2HWSGxG0Fj6-QtvOC63o",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "MASTER BEDROOM; \nTHE METAL FINISH NEEDS TO BE MATTE BRASS\n",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Ronin",
-        "var": "Cyril",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250919_135410_927046_Screenshot_2025-09-19_134829.png",
-        "cat": "Sofas",
-        "mat": "NS70038-2 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; NS70038-2 Recron Filling 2 Medium Rectangular Kidney Pillows",
-        "sz": "Outer: 84\" x 34\" x 28.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1hb-ldjNl-iPGEqheIkm6C9o1xV8Fs_Hc",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "LIVING ROOM",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Ronin",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250919_135356_282953_Screenshot_2025-09-19_135249.png",
-        "cat": "Sofas",
-        "mat": "NS70102-12 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; NS70038-2 Recron Filling 2 Medium Rectangular Kidney Pillows",
-        "sz": "Outer: 84\" x 34\" x 28.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1rOSegI4OwsAjpPNOSw4WX48dshR9bpys",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "LIVING ROOM",
         "v": {
           "c": "10-Jul-2025",
           "a": "",
@@ -5421,6 +5316,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Jaybhai's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "092530",
+        "prod": "Bearmont",
+        "var": "Hoover",
+        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 18\" x 18\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
+        "des": "Parth Gada",
+        "dl": "03-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -6506,21 +6422,21 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "092416",
-        "prod": "Temenos",
-        "var": "Stallion",
-        "url": "https://i.ibb.co/zJGcN1F/v02.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Mirror Buffing Statuario Top; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Mounting; White Matt Duco 18mm MDF Support",
-        "sz": "Outer: 66\" x 36.5\" x 15\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/14J_qHPz2iIWVaiEY94bgTQdcgdvxIw1h",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
+        "op": "092530",
+        "prod": "Bearmont",
+        "var": "Hoover",
+        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 18\" x 18\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
+        "des": "Parth Gada",
+        "dl": "03-Aug-2022",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "LIVING ROOM",
+        "cr": "",
         "v": {
-          "c": "25-Jun-2025",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8824,27 +8740,6 @@
       },
       {
         "op": "092416",
-        "prod": "Janine",
-        "var": "Ureta",
-        "url": "https://i.ibb.co/p2Ff5D1/Terell-2.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Natural Recycled Teak Structure; Clear Pre-woven Rattan Weaving; Harmel Home H1620 236-3 Ply & Foam Upholstery Seat; Harmel Home H1620 236-3 Foam Upholstery 1 Centre Cushion",
-        "sz": "Outer: 31\" x 30\" x 48\", Seat Height: 19.5\"",
-        "fld": "https://drive.google.com/drive/folders/125CRDRJdP4dlNudZSqVv0IxWkZw9bEty",
-        "des": "Kapil Grover",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "FAMILY AND STUDY",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092416",
         "prod": "Jared",
         "var": "Grover",
         "url": "https://i.ibb.co/pb0Dq3X/0002.jpg",
@@ -9089,6 +8984,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-16T12:07:29.496Z"
+    "timestamp": "2025-10-16T12:22:33.919Z"
   }
 }
