@@ -151,6 +151,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krisha Lights"
+      },
+      {
+        "op": "102508",
+        "prod": "Sterling",
+        "var": "Cinnabar",
+        "url": "https://i.ibb.co/BqMD7N1/Whats-App-Image-2023-06-22-at-10-15-29-AM.jpg",
+        "cat": "Lamps",
+        "mat": "Natural Recycled Teak Frame; Clear Pre-woven Rattan Weaving; Black Mild Steel Lamp Fixture; Warm White LED Bulb Light; Natural Recycled Teak Mounting",
+        "sz": "Outer: 39.5\" x 13.5\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1uHkyeJqFw78dIc8H569ofdBsGHIb5OXG?usp=drive_open",
+        "des": "Ravi Malladi",
+        "dl": "15-Aug-2023",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krisha Lights"
       }
     ],
     "vipra": [
@@ -4688,6 +4709,27 @@
           "c": "05-Nov-2025",
           "a": "",
           "rm": "Only foam structure;\nclient will do upholstery process."
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092416",
+        "prod": "Aramayo",
+        "var": "Serin",
+        "url": "https://i.ibb.co/fvh89ZP/Whats-App-Image-2023-03-05-at-7-12-18-PM-1.jpg",
+        "cat": "Benches",
+        "mat": "Bharat Furnishings CJ0167 SRN 556 Ply & Foam Upholstery Seat; Bharat Furnishings CJ0167 SRN 556 Foam Upholstery Bolster; Black Matt Sheesham Base; Harvest White Ash Mounting",
+        "sz": "Outer: 66\" x 21\" x 20\", Seat Height: 14.5\"",
+        "fld": "https://drive.google.com/drive/folders/1_y3xBv1L2hmwD0QZA4TBh6UEm3xDNP9l",
+        "des": "Hetvi Shah",
+        "dl": "12-Feb-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -9362,6 +9404,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-23T06:22:29.611Z"
+    "timestamp": "2025-10-23T06:37:30.305Z"
   }
 }
