@@ -8538,6 +8538,27 @@
         "vendorDisplayName": "Umang Glass Elements"
       },
       {
+        "op": "082412",
+        "prod": "Quantara",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_144236_198414_Screenshot_2025-09-22_144046.png",
+        "cat": "Nightstands",
+        "mat": "Black Powder Coat Mild Steel Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 20\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1-nxWGAmgd0Yh7duN61_id4D9u_5azMQG",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Umang Glass Elements"
+      },
+      {
         "op": "082520",
         "prod": "Pianica",
         "var": "Quill",
@@ -9341,6 +9362,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-23T05:44:56.480Z"
+    "timestamp": "2025-10-23T05:55:15.548Z"
   }
 }
