@@ -3184,9 +3184,9 @@
         "pm": "Rohan Parmar",
         "cr": "",
         "v": {
-          "c": "18-Sept-2025",
+          "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "HOF GREY(M2140-HB)"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -8814,7 +8814,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": ""
         },
         "vendorDisplayName": "Ramnivas Polish"
       },
@@ -9362,6 +9362,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-23T06:09:47.555Z"
+    "timestamp": "2025-10-23T06:22:29.611Z"
   }
 }
