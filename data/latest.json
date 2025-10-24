@@ -7206,27 +7206,6 @@
       },
       {
         "op": "102411",
-        "prod": "Berserker",
-        "var": "Kenzie",
-        "url": "https://i.ibb.co/SDtyx43y/0001.jpg",
-        "cat": "Benches",
-        "mat": "Natural Recycled Teak Top; Natural Recycled Teak Base; Black Powder Coat Mild Steel Fixture",
-        "sz": "Outer: 53\" x 32\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1D55ijr0KdE8mgiIWCSEWn2tIBOZb4Pgs",
-        "des": "Parthsarthi Suthar",
-        "dl": "14-Mar-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Exterior Foyer Bench",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
         "prod": "Borough",
         "var": "Harvir",
         "url": "https://i.ibb.co/VWKfXMbJ/Screenshot-2025-04-05-171301.png",
@@ -9530,6 +9509,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-24T10:52:28.680Z"
+    "timestamp": "2025-10-24T11:07:24.376Z"
   }
 }
