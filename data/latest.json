@@ -1121,6 +1121,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092520",
+        "prod": "Kaveri",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
+        "cat": "Headboards",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
+        "sz": "Outer: 120\" x 1.5\" x 45\"",
+        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Panel",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "polish work as per previous pankaj bhai headboard "
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "102411",
         "prod": "Hinterland",
         "var": "Neptune",
@@ -3653,197 +3674,6 @@
           "rm": "Knob fitting, marble, buffer fitting"
         },
         "vendorDisplayName": "Kamlesh Jangid"
-      }
-    ],
-    "vittal_wood_tech": [
-      {
-        "op": "032507",
-        "prod": "Wrasse",
-        "var": "Nelson",
-        "url": "https://i.ibb.co/whgmDhgN/0002.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Mirror Buffing Nano White Quartz Top; RAL 7044 Silk Grey HDHMR Carcass; SCS 0155 Laminate Internal Carcass; RAL 7044 Silk Grey HDHMR Shutter; RAL 7044 Silk Grey HDHMR Drawer; Gold PVD Stainless Steel 304 Matt Knobs",
-        "sz": "Outer: 75\" x 36\" x 42\"",
-        "fld": "https://drive.google.com/drive/folders/1yXvVM2a2tN2d8gxefI02agE1wSGIFGZl",
-        "des": "Hetvi Shah",
-        "dl": "17-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bar Area Bar Counter",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "outer carcass in HDHMR, under ka storage vipra me bnega us hisab se outer carcass bnaye taki un dono ko bad me joda ja ske, upper ak nanowhite ka stone lgega as per whitebackground image "
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082533",
-        "prod": "Albatross",
-        "var": "Oscar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_130759_150727_pasted_image_1760600285262.png",
-        "cat": "Accent Chairs",
-        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
-        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "25-Oct-2025",
-          "a": "",
-          "rm": "Frame of Albatross Chair"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092520",
-        "prod": "Kaveri",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
-        "cat": "Headboards",
-        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
-        "sz": "Outer: 120\" x 1.5\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Panel",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092520",
-        "prod": "Rosenfeld",
-        "var": "Finch",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
-        "cat": "Nightstands",
-        "mat": "Natural Burma Border Teak Carcass; Natural Burma Border Teak Legs",
-        "sz": "Outer: 24\" x 16.14\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
-        "des": "Hetvi Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Nightstand",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092520",
-        "prod": "Uluru",
-        "var": "Quanta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_180907_480690_pasted_image_1758544752461.png",
-        "cat": "Beds",
-        "mat": "Natural Burma Border Teak Structure",
-        "sz": "Outer: 60\" x 78\" x 13\", Seat Height: 19\";\nMattress: 58\" x 76\" x 6\"",
-        "fld": "https://drive.google.com/drive/folders/12nJ84cyuXNK3hR0kKF8PSXmcUFu1CJ-9",
-        "des": "Dipen Gada",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Bed Platform",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092530",
-        "prod": "Gregory",
-        "var": "Hulu",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
-        "cat": "Accent Chairs",
-        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
-        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/11iilE07VSdwD4ur5YzWdvrBEadsJ_n_f",
-        "des": "",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "102508",
-        "prod": "Sterling",
-        "var": "Cinnabar",
-        "url": "https://i.ibb.co/BqMD7N1/Whats-App-Image-2023-06-22-at-10-15-29-AM.jpg",
-        "cat": "Lamps",
-        "mat": "Natural Recycled Teak Frame; Clear Pre-woven Rattan Weaving; Black Mild Steel Lamp Fixture; Warm White LED Bulb Light; Natural Recycled Teak Mounting",
-        "sz": "Outer: 39.5\" x 13.5\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1uHkyeJqFw78dIc8H569ofdBsGHIb5OXG?usp=drive_open",
-        "des": "Ravi Malladi",
-        "dl": "15-Aug-2023",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "28-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "102505",
-        "prod": "Westend",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251010_143503_619471_pasted_image_1760087107183.png",
-        "cat": "Sectional Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Oak Frame",
-        "sz": "Outer: 132\" x 39\" x 34\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1PFK_1u5Y_Nsf_yIS4uzpLKkL8xtBzjy5",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "102505",
-        "prod": "Tomatin",
-        "var": "Java",
-        "url": "https://www.moderndesignfurnitures.store/cdn/shop/products/S3c7f3d4a26e14251a1eda5e384495e10a.jpg?v=1706628877&width=823",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Natural Sheesham Backrest; Natural Sheesham Base",
-        "sz": "Outer: 23.62\" x 20.08\" x 24.02\"",
-        "fld": "https://drive.google.com/drive/folders/18ucgqMf_17ZRgYTDr4f9-kN8rM-bhAev",
-        "des": "",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "vishwakarma_glass": [
@@ -9369,6 +9199,155 @@
         "vendorDisplayName": "Client/Fabric"
       }
     ],
+    "vittal_wood_tech": [
+      {
+        "op": "082533",
+        "prod": "Albatross",
+        "var": "Oscar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_130759_150727_pasted_image_1760600285262.png",
+        "cat": "Accent Chairs",
+        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
+        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Oct-2025",
+          "a": "",
+          "rm": "Frame of Albatross Chair"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092520",
+        "prod": "Rosenfeld",
+        "var": "Finch",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
+        "cat": "Nightstands",
+        "mat": "Natural Burma Border Teak Carcass; Natural Burma Border Teak Legs",
+        "sz": "Outer: 24\" x 16.14\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Nightstand",
+        "v": {
+          "c": "05-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092520",
+        "prod": "Uluru",
+        "var": "Quanta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_180907_480690_pasted_image_1758544752461.png",
+        "cat": "Beds",
+        "mat": "Natural Burma Border Teak Structure",
+        "sz": "Outer: 60\" x 78\" x 13\", Seat Height: 19\";\nMattress: 58\" x 76\" x 6\"",
+        "fld": "https://drive.google.com/drive/folders/12nJ84cyuXNK3hR0kKF8PSXmcUFu1CJ-9",
+        "des": "Dipen Gada",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Bed Platform",
+        "v": {
+          "c": "05-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092530",
+        "prod": "Gregory",
+        "var": "Hulu",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/11iilE07VSdwD4ur5YzWdvrBEadsJ_n_f",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "102508",
+        "prod": "Sterling",
+        "var": "Cinnabar",
+        "url": "https://i.ibb.co/BqMD7N1/Whats-App-Image-2023-06-22-at-10-15-29-AM.jpg",
+        "cat": "Lamps",
+        "mat": "Natural Recycled Teak Frame; Clear Pre-woven Rattan Weaving; Black Mild Steel Lamp Fixture; Warm White LED Bulb Light; Natural Recycled Teak Mounting",
+        "sz": "Outer: 39.5\" x 13.5\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1uHkyeJqFw78dIc8H569ofdBsGHIb5OXG?usp=drive_open",
+        "des": "Ravi Malladi",
+        "dl": "15-Aug-2023",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "28-Oct-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "102505",
+        "prod": "Westend",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251010_143503_619471_pasted_image_1760087107183.png",
+        "cat": "Sectional Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Oak Frame",
+        "sz": "Outer: 132\" x 39\" x 34\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1PFK_1u5Y_Nsf_yIS4uzpLKkL8xtBzjy5",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "102505",
+        "prod": "Tomatin",
+        "var": "Java",
+        "url": "https://www.moderndesignfurnitures.store/cdn/shop/products/S3c7f3d4a26e14251a1eda5e384495e10a.jpg?v=1706628877&width=823",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Natural Sheesham Backrest; Natural Sheesham Base",
+        "sz": "Outer: 23.62\" x 20.08\" x 24.02\"",
+        "fld": "https://drive.google.com/drive/folders/18ucgqMf_17ZRgYTDr4f9-kN8rM-bhAev",
+        "des": "",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      }
+    ],
     "demodes": [
       {
         "op": "082533",
@@ -9509,6 +9488,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-25T04:09:57.183Z"
+    "timestamp": "2025-10-25T04:22:40.773Z"
   }
 }
