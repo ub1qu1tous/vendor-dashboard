@@ -190,49 +190,7 @@
         "pm": "Dilip Jangir",
         "cr": "Master Bedroom Wardrobe",
         "v": {
-          "c": "28-Aug-2025",
-          "a": "",
-          "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Cloudspire",
-        "var": "Gypster",
-        "url": "https://i.ibb.co/rRhJ7jBb/image.png",
-        "cat": "Wardrobes",
-        "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass",
-        "sz": "Outer: 64.21\" x 24\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/1H1JNEYND3oDgWYtU35TMtUwJFcwlbhj7",
-        "des": "Hetvi Shah",
-        "dl": "14-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Wardrobe",
-        "v": {
-          "c": "28-Aug-2025",
-          "a": "",
-          "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Cloudspire",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/3mNB8ZPr/image.png",
-        "cat": "Storage Cabinets",
-        "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass",
-        "sz": "Outer: 57.4\" x 34\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/1tuBbQF4BJfWX72ILMGfLy4Pcw1pYp7V7",
-        "des": "Hetvi Shah",
-        "dl": "14-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Wardrobe",
-        "v": {
-          "c": "28-Aug-2025",
+          "c": "",
           "a": "",
           "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
         },
@@ -253,7 +211,7 @@
         "pm": "Dilip Jangir",
         "cr": "Master Bedroom Wardrobe",
         "v": {
-          "c": "28-Aug-2025",
+          "c": "",
           "a": "",
           "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
         },
@@ -274,7 +232,7 @@
         "pm": "Dilip Jangir",
         "cr": "Master Bedroom Wardrobe",
         "v": {
-          "c": "28-Aug-2025",
+          "c": "",
           "a": "",
           "rm": "Shutter: 15-Sep-2025"
         },
@@ -9488,6 +9446,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-25T06:07:31.296Z"
+    "timestamp": "2025-10-25T06:22:26.776Z"
   }
 }
