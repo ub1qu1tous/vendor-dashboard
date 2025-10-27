@@ -326,7 +326,7 @@
         "op": "032507",
         "prod": "Oare",
         "var": "Livia",
-        "url": "https://i.ibb.co/PGWqSYBJ/image.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251027_131844_629340_pasted_image_1761551332281.png",
         "cat": "Wardrobes",
         "mat": "RAL 9010 Pure White 16mm Plywood Carcass; SCS 9482 Laminate Internal Carcass; RAL 9010 Pure White 16mm Plywood Shutter; RAL 9010 Pure White 16mm Plywood Niche; Warm White LED Light Light",
         "sz": "Outer: 104.3\" x 24\" x 118.1\"",
@@ -758,6 +758,27 @@
         "cr": "Aarushi's Bedroom - TV Unit",
         "v": {
           "c": "25-Nov-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042517",
+        "prod": "Azmira",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/vWKLxRB/Whats-App-Image-2025-05-06-at-15-22-27-dec9178d.jpg",
+        "cat": "Dressers",
+        "mat": "Finish TBC Oak Veneer Carcass",
+        "sz": "Outer: 97\" x 25.5\" x 148\"",
+        "fld": "https://drive.google.com/drive/folders/1RR5-ARejQLYzlqasd99AevGfKhelVGcT",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9194,6 +9215,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-27T07:37:33.455Z"
+    "timestamp": "2025-10-27T08:09:13.466Z"
   }
 }
