@@ -3403,27 +3403,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "072528",
-        "prod": "Grouse",
-        "var": "Justo",
-        "url": "https://i.ibb.co/wrKvX9d/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Senses (Boucle) SRN 1406 Ply & Foam Upholstery Structure; Suncity White Ash Frame",
-        "sz": "Outer: 24\" x 30\" x 32.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1yj8LslTP4adm9gFQyvpxv8UwekhpntNW",
-        "des": "Parth Gada",
-        "dl": "30-Sept-2022",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "Drawing hai, fir bhi banane k time aadmi gire nahi aesi design bne ye dhyan me rakhiyega"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "082412",
         "prod": "Aethero",
         "var": "Latten",
@@ -3628,27 +3607,6 @@
         "cr": "",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082531",
-        "prod": "Elkwood",
-        "var": "Trickle",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_164233_170056_pasted_image_1758107557974.png",
-        "cat": "Study Tables",
-        "mat": "Natural Recycled Teak Structure; Natural Recycled Teak Drawer; Natural Recycled Teak Leg-Rest",
-        "sz": "Outer: 48\" x 24\" x 32\";\nLeg-Rest: 43\" x 12\" x 2\"",
-        "fld": "https://drive.google.com/drive/folders/1vvdrT_qlexFVgfeTgwOo_xDTDTjqIRlg",
-        "des": "Hetvi Shah",
-        "dl": "04-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "04-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3903,27 +3861,6 @@
           "c": "19-Sept-2025",
           "a": "",
           "rm": "Suncity white oak "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122415",
-        "prod": "Tortoise",
-        "var": "Duran",
-        "url": "https://i.ibb.co/jZqTVB97/0002.jpg",
-        "cat": "Study Tables",
-        "mat": "White Wash Sheesham Structure; White Wash Sheesham Drawer; Mirror Buffing Nano White Quartz Top; Antique Brass Brass Knobs",
-        "sz": "Outer: 61.61\" x 24\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1PlVIyDU3dn_bINPJq7eaJBd8n3vDGwpS",
-        "des": "Hetvi Shah",
-        "dl": "20-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Study Table",
-        "v": {
-          "c": "19-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -9049,7 +8986,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Once we make structure we'll share sizes, make frmaes based on that only "
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -9215,6 +9152,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-27T08:37:30.843Z"
+    "timestamp": "2025-10-27T08:56:15.603Z"
   }
 }
