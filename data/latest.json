@@ -1017,6 +1017,69 @@
       },
       {
         "op": "092518",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "09-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "092518",
+        "prod": "Calithea",
+        "var": "Koan",
+        "url": "https://i.ibb.co/9mC79yTd/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
+        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
+        "des": "Hetvi Shah",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Drawers"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "092518",
+        "prod": "Myqora",
+        "var": "Eulogy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
+        "cat": "Console Tables",
+        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
+        "sz": "Outer: 72\" x 19.5\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
+        "des": "Tanmay Shah",
+        "dl": "24-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "092518",
         "prod": "Seaweed",
         "var": "Ivy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
@@ -3078,6 +3141,27 @@
         "q": 2,
         "pm": "Parth Gada",
         "cr": "26m Fabric will provide by client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092518",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -5784,6 +5868,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "092518",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "092530",
         "prod": "Bearmont",
         "var": "Hoover",
@@ -6227,6 +6332,27 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "Marble Leg and 96x48 Inches Sandwich Top with Grove in Center."
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "092518",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
@@ -8203,6 +8329,48 @@
       },
       {
         "op": "092518",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "09-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
+        "prod": "Brionyx",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
+        "cat": "Room Dividers",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
+        "sz": "Outer: 43\" x 8\" x 102\"",
+        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
+        "des": "Hetvi Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
         "prod": "Virelle",
         "var": "Brume",
         "url": "https://i.ibb.co/VptzDTRs/image.png",
@@ -8886,6 +9054,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "092518",
+        "prod": "Myqora",
+        "var": "Eulogy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
+        "cat": "Console Tables",
+        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
+        "sz": "Outer: 72\" x 19.5\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
+        "des": "Tanmay Shah",
+        "dl": "24-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Recrangle Wooden Pcs (Count will be given by Vipra)\nand Legs 4 PC"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092520",
         "prod": "Rosenfeld",
         "var": "Finch",
@@ -9152,6 +9341,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-28T06:07:22.249Z"
+    "timestamp": "2025-10-28T06:22:23.415Z"
   }
 }
