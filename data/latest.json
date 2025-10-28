@@ -3380,6 +3380,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "092518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "092527",
         "prod": "Decker",
         "var": "Yoku",
@@ -4411,6 +4432,27 @@
           "c": "04-Sept-2025",
           "a": "",
           "rm": "virenbhai vendor fabrication work"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "072515",
+        "prod": "Epidote",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/1mG2HjR/killian-double-bed-by-porada-1-1.jpg",
+        "cat": "Beds",
+        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Headboard; Gold PVD Stainless Steel 304 Matt Legs; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Frame (Side Table); Brown Tinted 8mm Glass Top",
+        "sz": "Outer: 108\" x 83\" x 45\", Seat Height: 22\";\nMattress: 72\" x 75\" x 8\";\nHeadboard: 108\" x 3.25\" x 45\"",
+        "fld": "https://drive.google.com/drive/folders/1eYc-cZ16HT00ZRQWXrb0u9Va5Vzbks1C",
+        "des": "Hetvi Shah",
+        "dl": "09-Jan-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
       },
@@ -9835,6 +9877,29 @@
         "vendorDisplayName": "Demodes"
       }
     ],
+    "jai_digital": [
+      {
+        "op": "092518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jai Digital"
+      }
+    ],
     "faheeem": [
       {
         "op": "092521",
@@ -9952,6 +10017,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-28T10:37:29.059Z"
+    "timestamp": "2025-10-28T10:52:27.121Z"
   }
 }
