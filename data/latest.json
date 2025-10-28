@@ -1101,6 +1101,27 @@
       },
       {
         "op": "102412",
+        "prod": "Astromira",
+        "var": "Endear",
+        "url": "https://i.ibb.co/jvSWynGh/0002.jpg",
+        "cat": "Shoe Cabinets",
+        "mat": "Dark Shade-03 (102413) 16mm Plywood Carcass; Dark Shade-03 (102413) 16mm Plywood Shutter; SCS Internal Laminate 9552 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Handle; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 24\" x 13.22\" x 92.32\"",
+        "fld": "https://drive.google.com/drive/folders/1_d8FgV4MKklr-MxJxUa35E5XVG5ugRE-",
+        "des": "Amish Parmar",
+        "dl": "02-May-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Internal Foyer Shoe Cabinets ; left-hand side of the entrance door",
+        "v": {
+          "c": "15-Sept-2025",
+          "a": "",
+          "rm": "12/6/2025 - Dispatch carcass\n30/6/2025 - Dispatch Shutter"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "102412",
         "prod": "Mosaic",
         "var": "Apex",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250715_141237_222079_0002.jpg",
@@ -6647,27 +6668,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "102412",
-        "prod": "Astromira",
-        "var": "Endear",
-        "url": "https://i.ibb.co/jvSWynGh/0002.jpg",
-        "cat": "Shoe Cabinets",
-        "mat": "Dark Shade-03 (102413) 16mm Plywood Carcass; Dark Shade-03 (102413) 16mm Plywood Shutter; SCS Internal Laminate 9552 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Handle; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 24\" x 13.22\" x 92.32\"",
-        "fld": "https://drive.google.com/drive/folders/1_d8FgV4MKklr-MxJxUa35E5XVG5ugRE-",
-        "des": "Amish Parmar",
-        "dl": "02-May-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "Internal Foyer Shoe Cabinets ; left-hand side of the entrance door",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "12/6/2025 - Dispatch carcass\n30/6/2025 - Dispatch Shutter"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "manish_marble_jaipur": [
@@ -10017,6 +10017,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-28T11:07:31.259Z"
+    "timestamp": "2025-10-28T11:22:28.885Z"
   }
 }
