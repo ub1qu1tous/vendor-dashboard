@@ -3375,7 +3375,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Stand and Knobs"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4133,7 +4133,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Need Match Polish with Bough Fynn (Bnech)"
+          "rm": "Need Match Polish with Bough Fynn (BeNch)"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4154,7 +4154,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Top 2 Pc"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -5358,27 +5358,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092528",
-        "prod": "Duomo",
-        "var": "Lucia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_122012_289453_pasted_image_1759215017616.png",
-        "cat": "Archived",
-        "mat": "  ",
-        "sz": "Outer: \" x \" x \"",
-        "fld": "https://drive.google.com/drive/folders/1dPOGPSSvTZQJHtMx4K_QPqavzKr4AUbx",
-        "des": "Readymade",
-        "dl": "",
-        "q": 4,
-        "pm": "Parth Gada",
-        "cr": "Drawing Room Accent Chair 36\" x 36\"",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Fabric Change"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -6922,6 +6901,27 @@
           "c": "",
           "a": "",
           "rm": "Black Polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "092530",
+        "prod": "Gregory",
+        "var": "Hulu",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_155550_059222_pasted_image_1759227954647.png",
+        "cat": "Accent Chairs",
+        "mat": "Peca Sheesham Structure; Fabric TBC Foam Upholstery Seat; Fabric TBC Recron Filling 1 Centre Cushion",
+        "sz": "Outer: 28.5\" x 30.5\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/11iilE07VSdwD4ur5YzWdvrBEadsJ_n_f",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Peca Finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -8902,69 +8902,6 @@
     "casa_creations": [
       {
         "op": "082508",
-        "prod": "Aztec",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_145409_420418_pasted_image_1758014653908.png",
-        "cat": "Coffee Tables",
-        "mat": "Clear Travertine Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 64\" x 19\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1MzqnEBs4kc0MnaHWnylm44jl_gMO1qiP",
-        "des": "Akhilesh Yadav",
-        "dl": "12-Sept-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Client Required Delivery before 11-10-25",
-        "v": {
-          "c": "08-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "082508",
-        "prod": "Aztec",
-        "var": "Roxie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_150001_869590_pasted_image_1758015006485.png",
-        "cat": "Coffee Tables",
-        "mat": "Black White Oak Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 66\" x 16\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1j2AjpQIj1QIKXfLe3h-MD67j9G_fngrX",
-        "des": "Akhilesh Yadav",
-        "dl": "12-Sept-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Client Required Delivery before 11-10-25",
-        "v": {
-          "c": "08-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "082508",
-        "prod": "Brasco",
-        "var": "Ozone",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_151129_630573_pasted_image_1758015693950.png",
-        "cat": "Coffee Tables",
-        "mat": "Clear Travertine Top; Antique Brass Stainless Steel 304 Matt Base",
-        "sz": "Outer: 42\" x 42\" x 16.42\"",
-        "fld": "https://drive.google.com/drive/folders/1G66EKAZvpPGudNZbDleddfFZ1_VnL6-Z",
-        "des": "Akhilesh Yadav",
-        "dl": "12-Sept-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Client Required Delivery before 11-10-25",
-        "v": {
-          "c": "08-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "082508",
         "prod": "Lusk",
         "var": "Hunter",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_121800_040510_pasted_image_1757573283704.png",
@@ -9116,48 +9053,6 @@
       },
       {
         "op": "082520",
-        "prod": "Dorset",
-        "var": "Nova",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_115411_773773_pasted_image_1757571855780.png",
-        "cat": "Accent Tables",
-        "mat": "Black White Oak Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 24\" x 16\" x 21\"",
-        "fld": "https://drive.google.com/drive/folders/1COGZZ_jKbJeh2iBSvYHQUZVLGYkmaOFk",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Top only"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082520",
-        "prod": "Liffy",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250915_110315_781436_pasted_image_1757914405294.png",
-        "cat": "Accent Tables",
-        "mat": "Black White Oak Top; Black White Oak Base",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1Kx70cdTOfw9j-WkGOkplf5ff_g5vbYFK",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082520",
         "prod": "Liffy",
         "var": "June",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250916_120516_775031_pasted_image_1758004521772.png",
@@ -9190,6 +9085,27 @@
         "dl": "03-Sept-2025",
         "q": 1,
         "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "092533",
+        "prod": "Cecilia",
+        "var": "Iris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_123558_866678_pasted_image_1759215966965.png",
+        "cat": "Accent Tables",
+        "mat": "Smoke Grey White Oak Structure",
+        "sz": "Outer: 16\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1uvt2rc8RCCX6h5ruJ8AUvAvWsCvsgS8J",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Rohan Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -9807,6 +9723,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-29T05:40:33.629Z"
+    "timestamp": "2025-10-29T06:03:42.974Z"
   }
 }
