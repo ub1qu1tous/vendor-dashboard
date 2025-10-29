@@ -2035,7 +2035,7 @@
         "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250908_152417_559743_pasted_image_1757325259805.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
         "cat": "Room Dividers",
         "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
         "sz": "Outer: 78\" x 18\" x 93\"",
@@ -2192,6 +2192,27 @@
         "q": 1,
         "pm": "Amish Parmar",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092416",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM\r",
         "v": {
           "c": "",
           "a": "",
@@ -2795,7 +2816,7 @@
         "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250908_152417_559743_pasted_image_1757325259805.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
         "cat": "Room Dividers",
         "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
         "sz": "Outer: 78\" x 18\" x 93\"",
@@ -3213,6 +3234,27 @@
       },
       {
         "op": "092416",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "MS frame ; QTy= 2pc"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092416",
         "prod": "Sloane",
         "var": "Rawlins",
         "url": "https://i.ibb.co/m87xBvs/0002.jpg",
@@ -3616,7 +3658,7 @@
         "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250908_152417_559743_pasted_image_1757325259805.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
         "cat": "Room Dividers",
         "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
         "sz": "Outer: 78\" x 18\" x 93\"",
@@ -5195,6 +5237,27 @@
       },
       {
         "op": "092416",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092416",
         "prod": "Espera",
         "var": "Evan",
         "url": "https://i.ibb.co/6Pzcc2Z/v02-3.jpg",
@@ -5237,27 +5300,6 @@
       },
       {
         "op": "092416",
-        "prod": "Jared",
-        "var": "Grover",
-        "url": "https://i.ibb.co/pb0Dq3X/0002.jpg",
-        "cat": "Benches",
-        "mat": "Norwest Amad040 Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 66\" x 19\" x 15\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/18IQ8EVnn3eDGQ039iQf0-mCxltwLENoW",
-        "des": "Maulik Parmar",
-        "dl": "05-Oct-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
         "prod": "Shirola",
         "var": "Beaumont",
         "url": "https://i.ibb.co/n0YxWZ5/0002.jpg",
@@ -5270,27 +5312,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "MASTER BEDROOM; \nTHE METAL FINISH NEEDS TO BE MATTE BRASS",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Sloane",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
-        "cat": "Beds",
-        "mat": "NS70151A - 12 Ply & Foam Upholstery Structure; NS70151A - 12 Ply & Foam Upholstery Headboard; Fabric TBC Foam Upholstery 2 Cushions; Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Back Panel; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 92\" x 86\" x 32\", Seat Height: 17\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 79\" x 3\" x 32\";\nCushion: 31.5\" x 3\" x 21.5\"",
-        "fld": "https://drive.google.com/drive/folders/1hA_BVsd_uAdsIyGZdOc_3La888pPjIbG",
-        "des": "Maulik Parmar",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri\n",
         "v": {
           "c": "10-Jul-2025",
           "a": "",
@@ -5808,7 +5829,7 @@
         "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250908_152417_559743_pasted_image_1757325259805.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
         "cat": "Room Dividers",
         "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
         "sz": "Outer: 78\" x 18\" x 93\"",
@@ -6337,7 +6358,7 @@
         "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250908_152417_559743_pasted_image_1757325259805.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
         "cat": "Room Dividers",
         "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
         "sz": "Outer: 78\" x 18\" x 93\"",
@@ -9181,27 +9202,6 @@
       },
       {
         "op": "092416",
-        "prod": "Jared",
-        "var": "Grover",
-        "url": "https://i.ibb.co/pb0Dq3X/0002.jpg",
-        "cat": "Benches",
-        "mat": "Norwest Amad040 Ply & Foam Upholstery Structure; Black PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 66\" x 19\" x 15\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/18IQ8EVnn3eDGQ039iQf0-mCxltwLENoW",
-        "des": "Maulik Parmar",
-        "dl": "05-Oct-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MOTHER’S BEDROOM",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092416",
         "prod": "Shirola",
         "var": "Beaumont",
         "url": "https://i.ibb.co/n0YxWZ5/0002.jpg",
@@ -9214,27 +9214,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "MASTER BEDROOM; \nTHE METAL FINISH NEEDS TO BE MATTE BRASS",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092416",
-        "prod": "Sloane",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
-        "cat": "Beds",
-        "mat": "NS70151A - 12 Ply & Foam Upholstery Structure; NS70151A - 12 Ply & Foam Upholstery Headboard; Fabric TBC Foam Upholstery 2 Cushions; Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Back Panel; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 92\" x 86\" x 32\", Seat Height: 17\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 79\" x 3\" x 32\";\nCushion: 31.5\" x 3\" x 21.5\"",
-        "fld": "https://drive.google.com/drive/folders/1hA_BVsd_uAdsIyGZdOc_3La888pPjIbG",
-        "des": "Maulik Parmar",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri\n",
         "v": {
           "c": "10-Jul-2025",
           "a": "",
@@ -9723,6 +9702,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-29T12:07:38.865Z"
+    "timestamp": "2025-10-29T12:38:21.983Z"
   }
 }
