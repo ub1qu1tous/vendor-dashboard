@@ -4478,27 +4478,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "092416",
-        "prod": "Falcon",
-        "var": "Gia",
-        "url": "https://i.ibb.co/Kzh71h3/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Tapesserie VI Rind FF-0128322 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Tapesserie VI Rind FF-0128322 Canvas Upholstery Armrest",
-        "sz": "Outer: 32\" x 32\" x 30\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1lSNoxBR617Gl57t3ajbURJKL99hHkhri",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "GAME ROOM",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "092513",
         "prod": "Skydew",
         "var": "Numin",
@@ -5249,27 +5228,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "NEEL’S BEDROOM\r",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Espera",
-        "var": "Evan",
-        "url": "https://i.ibb.co/6Pzcc2Z/v02-3.jpg",
-        "cat": "Sofas",
-        "mat": "D Decor Aura Urbane Plain Sr No 216 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 59.06\" x 23.62\" x 29.75\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jkzcUn3zhiQUaKn1JOyubxFsvVnhvkjr",
-        "des": "Dilip Jangir",
-        "dl": "17-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Enterance Lobby;\nNEED SIZE 1500 X 600MM",
         "v": {
           "c": "10-Jul-2025",
           "a": "",
@@ -6626,27 +6584,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "092416",
-        "prod": "Endsville",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/GWcLNmQ/0008.jpg",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Banswada White Top; Natural Recycled Teak Legs; Natural Recycled Teak Beading; White Matt Duco 8mm MDF Support; Mirror Buffing Banswada White Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 96\" x 48\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1mMWELgA4oGxMiVDt1zPI5Av3TGn5YF43",
-        "des": "Tarishi Rathore",
-        "dl": "19-Apr-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "Marble Leg and 96x48 Inches Sandwich Top with Grove in Center."
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
@@ -9181,27 +9118,6 @@
       },
       {
         "op": "092416",
-        "prod": "Espera",
-        "var": "Evan",
-        "url": "https://i.ibb.co/6Pzcc2Z/v02-3.jpg",
-        "cat": "Sofas",
-        "mat": "D Decor Aura Urbane Plain Sr No 216 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 59.06\" x 23.62\" x 29.75\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jkzcUn3zhiQUaKn1JOyubxFsvVnhvkjr",
-        "des": "Dilip Jangir",
-        "dl": "17-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Enterance Lobby;\nNEED SIZE 1500 X 600MM",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "092416",
         "prod": "Shirola",
         "var": "Beaumont",
         "url": "https://i.ibb.co/n0YxWZ5/0002.jpg",
@@ -9702,6 +9618,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-30T11:22:35.538Z"
+    "timestamp": "2025-10-30T11:37:31.874Z"
   }
 }
