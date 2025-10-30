@@ -3417,7 +3417,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Stand and Knobs"
+          "rm": "Stand and Knobs Dia: 16MM Length: 25MM"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4175,7 +4175,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Need Match Polish with Bough Fynn (BeNch)"
+          "rm": "Need to Match Polish with Bough Fynn (Bench), It is a shoe rack so Internal shelves must be made in slope as shown in 2D."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -9702,6 +9702,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-30T07:22:31.117Z"
+    "timestamp": "2025-10-30T07:37:29.524Z"
   }
 }
