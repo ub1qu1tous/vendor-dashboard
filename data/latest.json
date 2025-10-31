@@ -1021,7 +1021,7 @@
         "var": "Ethel",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250902_093932_407829_pasted_image_1756786175117.png",
         "cat": "Chests",
-        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Natural White Oak Knobs",
+        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Suncity White Oak Knobs",
         "sz": "Outer: 47\" x 16\" x 35\"",
         "fld": "https://drive.google.com/drive/folders/1mcqnNZ8k28s1YZBgkkLk7sxc7DK9hGxC",
         "des": "Tanmay Shah",
@@ -1042,7 +1042,7 @@
         "var": "Audus",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250902_094519_795375_pasted_image_1756786522580.png",
         "cat": "Nightstands",
-        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Natural White Oak Knobs; Natural White Oak Legs",
+        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Suncity White Oak Knobs; Natural White Oak Legs",
         "sz": "Outer: 20\" x 16\" x 18\"",
         "fld": "https://drive.google.com/drive/folders/12PE2qkGNPBNeVJ1DCtJbIxBKx12sPmRv",
         "des": "Tanmay Shah",
@@ -2121,7 +2121,7 @@
         "var": "Quizzy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250902_112723_660407_pasted_image_1756792646711.png",
         "cat": "Accent Tables",
-        "mat": "Finish TBC White Oak Top; Grey Powder Coat Mild Steel Base",
+        "mat": "Suncity White Oak Top; Grey Powder Coat Mild Steel Base",
         "sz": "Outer: 16\" x 15\" x 23\"",
         "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
         "des": "Tanmay Shah",
@@ -8887,7 +8887,7 @@
         "var": "Ethel",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250902_093932_407829_pasted_image_1756786175117.png",
         "cat": "Chests",
-        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Natural White Oak Knobs",
+        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Suncity White Oak Knobs",
         "sz": "Outer: 47\" x 16\" x 35\"",
         "fld": "https://drive.google.com/drive/folders/1mcqnNZ8k28s1YZBgkkLk7sxc7DK9hGxC",
         "des": "Tanmay Shah",
@@ -8908,7 +8908,7 @@
         "var": "Audus",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250902_094519_795375_pasted_image_1756786522580.png",
         "cat": "Nightstands",
-        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Natural White Oak Knobs; Natural White Oak Legs",
+        "mat": "Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Suncity White Oak Knobs; Natural White Oak Legs",
         "sz": "Outer: 20\" x 16\" x 18\"",
         "fld": "https://drive.google.com/drive/folders/12PE2qkGNPBNeVJ1DCtJbIxBKx12sPmRv",
         "des": "Tanmay Shah",
@@ -8973,7 +8973,7 @@
         "var": "Muvil",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250902_121144_204200_pasted_image_1756795307256.png",
         "cat": "Accent Tables",
-        "mat": "Finish TBC White Oak Top; Finish TBC White Oak Base",
+        "mat": "Harvest White Oak Top; Harvest White Oak Base",
         "sz": "Outer: 16\" x 16\" x 16\"",
         "fld": "https://drive.google.com/drive/folders/1C4_j8-LtuMy-gYdiX7j8XmP04eSTIRiT",
         "des": "Tanmay Shah",
@@ -9618,6 +9618,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-31T08:07:30.453Z"
+    "timestamp": "2025-10-31T08:22:30.114Z"
   }
 }
