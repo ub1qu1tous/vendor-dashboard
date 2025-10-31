@@ -4304,6 +4304,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102511",
+        "prod": "Jakarta",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/XW0Sm8x/0002-3.jpg",
+        "cat": "Dining Tables",
+        "mat": "Smoke Grey White Oak Top; Grey Distressed White Oak Legs",
+        "sz": "Outer: 132\" x 54\" x 30\"",
+        "fld": "",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102511",
+        "prod": "Mediterra",
+        "var": "Tau",
+        "url": "https://i.ibb.co/VDHPHjV/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Grey Distressed White Oak Frame; Sarom Aluva_T-2126_Lepakshi 105 Ply & Foam Upholstery Seat; Sarom Aluva_T-2126_Lenka 722 Foam Upholstery 1 Centre Cushion",
+        "sz": "Outer: 23\" x 23\" x 27\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ra7kxqpSYkSYlCjIQWHthDfsCTnA_93Z",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 12,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "vishwakarma_glass": [
@@ -9618,6 +9660,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-10-31T11:52:24.165Z"
+    "timestamp": "2025-10-31T12:07:23.287Z"
   }
 }
