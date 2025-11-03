@@ -785,27 +785,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "052504",
-        "prod": "Crucis",
-        "var": "Theta",
-        "url": "https://i.ibb.co/YT7W4fvT/Whats-App-Image-2025-05-09-at-5-34-09-PM.jpg",
-        "cat": "Dressers",
-        "mat": "Olive White Oak Carcass; Olive White Oak Drawer; Olive White Oak Base; Gold PVD Stainless Steel 304 Matt Handle",
-        "sz": "Outer: 48\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/17PySo8IjVjd-qXaFAGjqzLhN-GJaTGHq",
-        "des": "Parthsarthi Suthar",
-        "dl": "09-Jul-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Master Bedroom Chest",
-        "v": {
-          "c": "06-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "052510",
         "prod": "Pomfret",
         "var": "Muvil",
@@ -4410,7 +4389,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Jewelley unit"
         },
         "vendorDisplayName": "AWS"
       },
@@ -9639,6 +9618,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-03T08:37:32.817Z"
+    "timestamp": "2025-11-03T08:52:29.745Z"
   }
 }
