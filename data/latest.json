@@ -6099,27 +6099,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "092530",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -6395,27 +6374,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "092530",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "manish_marble_jaipur": [
@@ -6601,27 +6559,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "092530",
-        "prod": "Bearmont",
-        "var": "Hoover",
-        "url": "https://i.ibb.co/SJ0ghFW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Black Marquina Top; Antique Brass Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 18\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1agCkWb8iMUIUTQYiaypK28Hbjzpdf4lI",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -9618,6 +9555,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-03T08:52:29.745Z"
+    "timestamp": "2025-11-03T09:07:29.015Z"
   }
 }
