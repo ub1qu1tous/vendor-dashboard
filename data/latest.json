@@ -4243,48 +4243,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "112411",
-        "prod": "Minsitthar",
-        "var": "Oren",
-        "url": "https://i.ibb.co/N2ktgms2/0002.jpg",
-        "cat": "Office Desks",
-        "mat": "Black Powder Coat Hammered Wrought Iron Frame; Suncity White Oak Carcass; Suncity White Oak Top; Suncity White Oak Panel; Black Powder Coat Hammered Wrought Iron Knobs",
-        "sz": "Outer: 72\" x 36\" x 36\"",
-        "fld": "https://drive.google.com/drive/folders/1mcwt99avioQE69pb-pJ-4Laby4Tmbf2-",
-        "des": "Hetvi Shah",
-        "dl": "20-Feb-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Office Office Table",
-        "v": {
-          "c": "19-Sept-2025",
-          "a": "",
-          "rm": "Suncity white oak "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122415",
-        "prod": "Valeriya",
-        "var": "Ethan",
-        "url": "https://i.ibb.co/jZZ7NPTT/0002.jpg",
-        "cat": "Chests",
-        "mat": "Mirror Buffing Nano White Quartz Top; White Wash Sheesham Carcass; White Wash Sheesham Drawer; Clear Lacquered Pre-woven Rattan Drawer Fascia; Antique Brass Brass Knobs",
-        "sz": "Outer: 54\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1_RCC3yGw_jKg5qBv0SzJy9_hamIRiRO_",
-        "des": "Hetvi Shah",
-        "dl": "20-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Console Cum Study Table",
-        "v": {
-          "c": "19-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "102511",
         "prod": "Jakarta",
         "var": "Fynn",
@@ -4321,6 +4279,48 @@
         "cr": "",
         "v": {
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112411",
+        "prod": "Minsitthar",
+        "var": "Oren",
+        "url": "https://i.ibb.co/N2ktgms2/0002.jpg",
+        "cat": "Office Desks",
+        "mat": "Black Powder Coat Hammered Wrought Iron Frame; Suncity White Oak Carcass; Suncity White Oak Top; Suncity White Oak Panel; Black Powder Coat Hammered Wrought Iron Knobs",
+        "sz": "Outer: 72\" x 36\" x 36\"",
+        "fld": "https://drive.google.com/drive/folders/1mcwt99avioQE69pb-pJ-4Laby4Tmbf2-",
+        "des": "Hetvi Shah",
+        "dl": "20-Feb-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Office Office Table",
+        "v": {
+          "c": "19-Sept-2025",
+          "a": "",
+          "rm": "Suncity white oak "
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122415",
+        "prod": "Valeriya",
+        "var": "Ethan",
+        "url": "https://i.ibb.co/jZZ7NPTT/0002.jpg",
+        "cat": "Chests",
+        "mat": "Mirror Buffing Nano White Quartz Top; White Wash Sheesham Carcass; White Wash Sheesham Drawer; Clear Lacquered Pre-woven Rattan Drawer Fascia; Antique Brass Brass Knobs",
+        "sz": "Outer: 54\" x 21\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1_RCC3yGw_jKg5qBv0SzJy9_hamIRiRO_",
+        "des": "Hetvi Shah",
+        "dl": "20-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Daughter Bedroom Console Cum Study Table",
+        "v": {
+          "c": "19-Sept-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -9639,6 +9639,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-03T05:37:32.246Z"
+    "timestamp": "2025-11-03T05:52:37.030Z"
   }
 }
