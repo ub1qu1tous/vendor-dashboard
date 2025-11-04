@@ -4159,12 +4159,12 @@
       {
         "op": "102511",
         "prod": "Jakarta",
-        "var": "Fynn",
+        "var": "Finch",
         "url": "https://i.ibb.co/XW0Sm8x/0002-3.jpg",
         "cat": "Dining Tables",
         "mat": "Smoke Grey White Oak Top; Grey Distressed White Oak Legs",
         "sz": "Outer: 132\" x 54\" x 30\"",
-        "fld": "",
+        "fld": "https://drive.google.com/drive/folders/1nWE7cUtWk0RNFM0bA44rV-Ip1ESK4lzb",
         "des": "",
         "dl": "",
         "q": 1,
@@ -9450,6 +9450,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-04T06:52:29.646Z"
+    "timestamp": "2025-11-04T07:07:46.137Z"
   }
 }
