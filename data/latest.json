@@ -853,7 +853,7 @@
         "var": "Eunio",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
         "cat": "Media Consoles",
-        "mat": "21066 BR Black VNR Laminate 16mm Plywood Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Grey Powder Coat Mild Steel Frame",
+        "mat": "21066 BR Black VNR Laminate 16mm Plywood Carcass; Clear Perforated Sheet Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Frame",
         "sz": "Outer: 60\" x 18\" x 28.5\"",
         "fld": "https://drive.google.com/drive/folders/1JjcI0mWq6wExXIWg2uXBc3wnyeJuoGiK",
         "des": "Hetvi Shah",
@@ -2984,7 +2984,7 @@
         "var": "Eunio",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
         "cat": "Media Consoles",
-        "mat": "21066 BR Black VNR Laminate 16mm Plywood Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Grey Powder Coat Mild Steel Frame",
+        "mat": "21066 BR Black VNR Laminate 16mm Plywood Carcass; Clear Perforated Sheet Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Frame",
         "sz": "Outer: 60\" x 18\" x 28.5\"",
         "fld": "https://drive.google.com/drive/folders/1JjcI0mWq6wExXIWg2uXBc3wnyeJuoGiK",
         "des": "Hetvi Shah",
@@ -2995,7 +2995,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Shutter and Frame"
+          "rm": "Perforated Sheet metal Shutter and Frame"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4472,6 +4472,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "102411",
+        "prod": "Desert",
+        "var": "Resol",
+        "url": "https://i.ibb.co/B3yPzHm/Screenshot-2024-11-14-182535.png",
+        "cat": "Media Consoles",
+        "mat": "Mirror Buffing Marble TBC Top; Natural Teak Veneer Carcass; SCS 9672 16mm Plywood Internal Carcass",
+        "sz": "Outer: 108\" x 24\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1r-___d7sSVzu4RZLx6eD6nD-qqhm4dcf",
+        "des": "Hetvi Shah",
+        "dl": "30-Mar-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Media Console",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "marble corner repair work will be carried out by Kailashbhai"
         },
         "vendorDisplayName": "AWS"
       },
@@ -9429,6 +9450,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-04T05:57:15.037Z"
+    "timestamp": "2025-11-04T06:07:27.552Z"
   }
 }
