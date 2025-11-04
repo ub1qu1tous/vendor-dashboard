@@ -1370,7 +1370,7 @@
         "v": {
           "c": "25-Jun-2025",
           "a": "",
-          "rm": "nano white"
+          "rm": "nano white work by kailash"
         },
         "vendorDisplayName": "Jain Marble"
       },
@@ -1625,50 +1625,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Jain Marble"
-      }
-    ],
-    "malay_leather_artwork": [
-      {
-        "op": "032507",
-        "prod": "Granora",
-        "var": "Macy",
-        "url": "https://i.ibb.co/PGxD7ydt/0002.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Mirror Buffing Nano White Quartz Top; Rich Tobacco Sheesham Structure; Black Matt Laminate Carcass; Dyed Leather 16mm Plywood Panel; Antique Black Brass Hardware; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; Deluxe-71 Tan Fabric 16mm Plywood Drawer Fascia",
-        "sz": "Outer: 72\" x 30\" x 42\"",
-        "fld": "https://drive.google.com/drive/folders/11j5FHqrkz8aFAshEk6Qh5cOpgwuDwf9W",
-        "des": "Hetvi Shah",
-        "dl": "08-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Bar Counter",
-        "v": {
-          "c": "20-Jun-2025",
-          "a": "",
-          "rm": "antique brass to be provided by us, leather work on wooden panel as per image"
-        },
-        "vendorDisplayName": "Malay Leather Artwork"
-      },
-      {
-        "op": "082413",
-        "prod": "Horizon",
-        "var": "Woodstock",
-        "url": "https://i.ibb.co/CbhxKwD/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Frame; AZCO Carbon Velvets SRN VT 313 Ply & Foam Upholstery Seat; Finish TBC Leatherette Backrest",
-        "sz": "Outer: 26.5\" x 30\" x 33\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1w6vTi0IgW9OtopP4mlsqcKuX-y_xIw3t",
-        "des": "Parthsarthi Suthar",
-        "dl": "11-Jan-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyanbhai's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Malay Leather Artwork"
       }
     ],
     "tunes_hardware": [
@@ -6526,27 +6482,6 @@
       },
       {
         "op": "102411",
-        "prod": "Desert",
-        "var": "Resol",
-        "url": "https://i.ibb.co/B3yPzHm/Screenshot-2024-11-14-182535.png",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Marble TBC Top; Natural Teak Veneer Carcass; SCS 9672 16mm Plywood Internal Carcass",
-        "sz": "Outer: 108\" x 24\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1r-___d7sSVzu4RZLx6eD6nD-qqhm4dcf",
-        "des": "Hetvi Shah",
-        "dl": "30-Mar-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Media Console",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "102411",
         "prod": "Drakonis",
         "var": "Kiera",
         "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
@@ -7155,27 +7090,6 @@
         "q": 1,
         "pm": "Rohan Parmar",
         "cr": "Living Room Swing",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
-        "prod": "Desert",
-        "var": "Resol",
-        "url": "https://i.ibb.co/B3yPzHm/Screenshot-2024-11-14-182535.png",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Marble TBC Top; Natural Teak Veneer Carcass; SCS 9672 16mm Plywood Internal Carcass",
-        "sz": "Outer: 108\" x 24\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1r-___d7sSVzu4RZLx6eD6nD-qqhm4dcf",
-        "des": "Hetvi Shah",
-        "dl": "30-Mar-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Media Console",
         "v": {
           "c": "",
           "a": "",
@@ -8731,6 +8645,29 @@
         "vendorDisplayName": "Ashok Polish"
       }
     ],
+    "malay_leather_artwork": [
+      {
+        "op": "082413",
+        "prod": "Horizon",
+        "var": "Woodstock",
+        "url": "https://i.ibb.co/CbhxKwD/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Frame; AZCO Carbon Velvets SRN VT 313 Ply & Foam Upholstery Seat; Finish TBC Leatherette Backrest",
+        "sz": "Outer: 26.5\" x 30\" x 33\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1w6vTi0IgW9OtopP4mlsqcKuX-y_xIw3t",
+        "des": "Parthsarthi Suthar",
+        "dl": "11-Jan-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyanbhai's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Malay Leather Artwork"
+      }
+    ],
     "casa_creations": [
       {
         "op": "082508",
@@ -9492,6 +9429,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-04T05:22:53.972Z"
+    "timestamp": "2025-11-04T05:42:32.573Z"
   }
 }
