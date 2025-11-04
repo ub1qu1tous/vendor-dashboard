@@ -3390,7 +3390,7 @@
         "dl": "25-Dec-2024",
         "q": 1,
         "pm": "Rohan Parmar",
-        "cr": "Living Room Swing",
+        "cr": "Living Room Swing; Reversible Back-rest",
         "v": {
           "c": "15-Jun-2025",
           "a": "",
@@ -4111,6 +4111,27 @@
           "c": "",
           "a": "",
           "rm": "including marble"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102411",
+        "prod": "Desert",
+        "var": "Resol",
+        "url": "https://i.ibb.co/B3yPzHm/Screenshot-2024-11-14-182535.png",
+        "cat": "Media Consoles",
+        "mat": "Mirror Buffing Marble TBC Top; Natural Teak Veneer Carcass; SCS 9672 16mm Plywood Internal Carcass",
+        "sz": "Outer: 108\" x 24\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1r-___d7sSVzu4RZLx6eD6nD-qqhm4dcf",
+        "des": "Hetvi Shah",
+        "dl": "30-Mar-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Media Console",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -6046,7 +6067,7 @@
         "dl": "25-Dec-2024",
         "q": 1,
         "pm": "Rohan Parmar",
-        "cr": "Living Room Swing",
+        "cr": "Living Room Swing; Reversible Back-rest",
         "v": {
           "c": "",
           "a": "",
@@ -7110,7 +7131,7 @@
         "dl": "25-Dec-2024",
         "q": 1,
         "pm": "Rohan Parmar",
-        "cr": "Living Room Swing",
+        "cr": "Living Room Swing; Reversible Back-rest",
         "v": {
           "c": "",
           "a": "",
@@ -9450,6 +9471,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-04T08:37:28.259Z"
+    "timestamp": "2025-11-04T08:53:03.220Z"
   }
 }
