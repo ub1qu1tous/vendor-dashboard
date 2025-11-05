@@ -801,7 +801,7 @@
         "v": {
           "c": "05-Nov-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Push to open Drawer"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -844,6 +844,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082412",
+        "prod": "Quantara",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_144236_198414_Screenshot_2025-09-22_144046.png",
+        "cat": "Nightstands",
+        "mat": "Black Powder Coat Mild Steel Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 20\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1-nxWGAmgd0Yh7duN61_id4D9u_5azMQG",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black Laminate Shelf, Once the unit is ready, Arbuda will provide sizes."
         },
         "vendorDisplayName": "Vipra"
       },
@@ -2975,6 +2996,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082412",
+        "prod": "Quantara",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_144236_198414_Screenshot_2025-09-22_144046.png",
+        "cat": "Nightstands",
+        "mat": "Black Powder Coat Mild Steel Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 20\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1-nxWGAmgd0Yh7duN61_id4D9u_5azMQG",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Aluminium Profile and Flutted Glass with Laminate or veneer Shelf.\nNeed to give wooden leg fitting provision. If wooden leg not possible in this design please wp on group share other possibilities."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -8452,27 +8494,6 @@
         "vendorDisplayName": "Umang Glass Elements"
       },
       {
-        "op": "082412",
-        "prod": "Quantara",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_144236_198414_Screenshot_2025-09-22_144046.png",
-        "cat": "Nightstands",
-        "mat": "Black Powder Coat Mild Steel Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 20\" x 16\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1-nxWGAmgd0Yh7duN61_id4D9u_5azMQG",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Umang Glass Elements"
-      },
-      {
         "op": "082520",
         "prod": "Pianica",
         "var": "Quill",
@@ -8661,7 +8682,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Before starting production, please discuss how it will be made, as this item will have PU on it."
+          "rm": "Headboard (Oak wood is also there) and Footboard HDMR, Platform and Leg/Frame Sheesham. Mattress depth 78\" cosndered, So please make accordingly."
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -9492,6 +9513,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-05T09:10:52.345Z"
+    "timestamp": "2025-11-05T09:22:36.522Z"
   }
 }
