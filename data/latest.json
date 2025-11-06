@@ -2959,27 +2959,6 @@
       },
       {
         "op": "092416",
-        "prod": "Decker",
-        "var": "Yoku",
-        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Pure Adali Pebble 110920 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 37\" x 33\" x 31\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
-        "des": "Maulik Parmar",
-        "dl": "04-Dec-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM\r",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "MS frame ; QTy= 2pc"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092416",
         "prod": "Sloane",
         "var": "Rawlins",
         "url": "https://i.ibb.co/m87xBvs/0002.jpg",
@@ -4841,7 +4820,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20250916_141228_932885_pasted_image_1758012153420.png",
         "cat": "Dining Chairs",
         "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 25\" x 24\" x 31\"",
+        "sz": "Outer: 25\" x 24\" x 31\", Seat Height: 19\"",
         "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
         "des": "Tanmay Shah",
         "dl": "05-Sept-2025",
@@ -9156,6 +9135,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-06T06:25:29.814Z"
+    "timestamp": "2025-11-06T06:37:30.697Z"
   }
 }
