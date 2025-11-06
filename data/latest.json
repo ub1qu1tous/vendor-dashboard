@@ -1821,48 +1821,6 @@
       },
       {
         "op": "052510",
-        "prod": "Avarion",
-        "var": "Avore",
-        "url": "https://i.ibb.co/svj8gWy1/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Tinted 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 54\" x 30\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
-        "des": "Hetvi Shah",
-        "dl": "20-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052510",
-        "prod": "Avarion",
-        "var": "Bullion",
-        "url": "https://i.ibb.co/3m17vmDr/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Tinted 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 30\" x 30\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1AQmEtbtKAPZDJT3mILbchfjbUV8ahVZV",
-        "des": "Hetvi Shah",
-        "dl": "31-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052510",
         "prod": "Kwacha",
         "var": "Myntra",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250911_182238_896912_pasted_image_1757595163311.png",
@@ -2602,48 +2560,6 @@
       },
       {
         "op": "052510",
-        "prod": "Avarion",
-        "var": "Avore",
-        "url": "https://i.ibb.co/svj8gWy1/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Tinted 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 54\" x 30\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
-        "des": "Hetvi Shah",
-        "dl": "20-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "03-Oct-2025",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052510",
-        "prod": "Avarion",
-        "var": "Bullion",
-        "url": "https://i.ibb.co/3m17vmDr/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Tinted 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 30\" x 30\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1AQmEtbtKAPZDJT3mILbchfjbUV8ahVZV",
-        "des": "Hetvi Shah",
-        "dl": "31-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "03-Oct-2025",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052510",
         "prod": "Digbet",
         "var": "Mustang",
         "url": "https://i.ibb.co/XZM0G3R1/image.png",
@@ -2929,27 +2845,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082412",
-        "prod": "Arvesso",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_175537_688477_pasted_image_1758630342856.png",
-        "cat": "Daybeds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -5654,7 +5549,7 @@
         "vendorDisplayName": "Aidan Dudy"
       }
     ],
-    "surat_pvd": [
+    "shital_glass": [
       {
         "op": "052510",
         "prod": "Avarion",
@@ -5674,7 +5569,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Shital Glass"
       },
       {
         "op": "052510",
@@ -5695,8 +5590,73 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Surat PVD"
+        "vendorDisplayName": "Shital Glass"
       },
+      {
+        "op": "072313",
+        "prod": "Lazvero",
+        "var": "Stella",
+        "url": "https://i.ibb.co/ZRKcnkny/0002.jpg",
+        "cat": "Media Consoles",
+        "mat": "Natural Recycled Teak Structure; Natural Recycled Teak Shutter Frame; Black Tinted 6mm Glass Shutter Panel; Natural Recycled Teak Drawer",
+        "sz": "Outer: 76\" x 21\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1J8JghL_0H4sCl_jaqaoAtIJv2KaUBBkZ",
+        "des": "Tanmay Shah",
+        "dl": "01-May-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room GF Media Console",
+        "v": {
+          "c": "15-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "092518",
+        "prod": "Seaweed",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 60\" x 18\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "102411",
+        "prod": "Infinara",
+        "var": "Rayis",
+        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
+        "sz": "Outer: 28\" x 2\" x 66\"",
+        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
+        "des": "Hetvi Shah",
+        "dl": "29-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
+        "v": {
+          "c": "28-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Shital Glass"
+      }
+    ],
+    "surat_pvd": [
       {
         "op": "052510",
         "prod": "Digbet",
@@ -6158,113 +6118,6 @@
           "rm": "black pvd"
         },
         "vendorDisplayName": "Surat PVD"
-      }
-    ],
-    "shital_glass": [
-      {
-        "op": "052510",
-        "prod": "Avarion",
-        "var": "Avore",
-        "url": "https://i.ibb.co/svj8gWy1/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Tinted 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 54\" x 30\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1VOoSS3F4hIOkAzZjQVxk6YPMiBe-N7W4",
-        "des": "Hetvi Shah",
-        "dl": "20-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Shital Glass"
-      },
-      {
-        "op": "052510",
-        "prod": "Avarion",
-        "var": "Bullion",
-        "url": "https://i.ibb.co/3m17vmDr/image.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Tinted 8mm Glass Top; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 30\" x 30\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1AQmEtbtKAPZDJT3mILbchfjbUV8ahVZV",
-        "des": "Hetvi Shah",
-        "dl": "31-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Shital Glass"
-      },
-      {
-        "op": "072313",
-        "prod": "Lazvero",
-        "var": "Stella",
-        "url": "https://i.ibb.co/ZRKcnkny/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Natural Recycled Teak Structure; Natural Recycled Teak Shutter Frame; Black Tinted 6mm Glass Shutter Panel; Natural Recycled Teak Drawer",
-        "sz": "Outer: 76\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1J8JghL_0H4sCl_jaqaoAtIJv2KaUBBkZ",
-        "des": "Tanmay Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Media Console",
-        "v": {
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Shital Glass"
-      },
-      {
-        "op": "092518",
-        "prod": "Seaweed",
-        "var": "Ivy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 60\" x 18\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Shital Glass"
-      },
-      {
-        "op": "102411",
-        "prod": "Infinara",
-        "var": "Rayis",
-        "url": "https://i.ibb.co/Ld1mtk6B/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Natural Recycled Teak Frame; Clear Lacquered Pre-woven Rattan Weaving; Extra Clear 4mm Glass Mirror",
-        "sz": "Outer: 28\" x 2\" x 66\"",
-        "fld": "https://drive.google.com/drive/folders/1yS0NUa5_QvnoQ_dPlUjtEC-NG1qf9OIk",
-        "des": "Hetvi Shah",
-        "dl": "29-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Grandparent's Mirror ; Mirror (on one of the nightstands)",
-        "v": {
-          "c": "28-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Shital Glass"
       }
     ],
     "aarti_steel": [
@@ -9492,6 +9345,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-06T05:52:26.422Z"
+    "timestamp": "2025-11-06T06:07:30.454Z"
   }
 }
