@@ -2554,7 +2554,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Handle and Frame"
+          "rm": "Handle and Frame, Before starting please ask for Wooden Structure dimensions."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -9114,6 +9114,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-06T07:22:38.266Z"
+    "timestamp": "2025-11-06T07:37:28.713Z"
   }
 }
