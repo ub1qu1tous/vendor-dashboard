@@ -2623,27 +2623,6 @@
       },
       {
         "op": "072515",
-        "prod": "Glint",
-        "var": "Cello",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
-        "cat": "Dining Chairs",
-        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Finish TBC Stainless Steel 304 Matt Accessories",
-        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072515",
         "prod": "Nireva",
         "var": "Stringer",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250922_142641_384396_Screenshot_2025-09-22_140550.png",
@@ -2744,27 +2723,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082412",
-        "prod": "Calviro",
-        "var": "Jean",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_121808_480699_pasted_image_1758610094346.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Powder Coat Mild Steel Frame; Matt Buffing Stainless Steel 304 Matt Legs; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
-        "sz": "Outer: 54\" x 30\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1u-WsbrLVjoiQ36J2o36E3BVNGeysoEny",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room\nMS black powdercoat excluding ss visible in leg",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "SS and MS both materials are there, CNC work will be done on those parts."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -7816,6 +7774,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Art Room"
+      },
+      {
+        "op": "072515",
+        "prod": "Glint",
+        "var": "Cello",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Finish TBC Stainless Steel 304 Matt Accessories",
+        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Art Room"
       }
     ],
     "umang_glass_elements": [
@@ -7846,7 +7825,7 @@
         "var": "Jean",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250923_121808_480699_pasted_image_1758610094346.png",
         "cat": "Coffee Tables",
-        "mat": "Black Powder Coat Mild Steel Frame; Matt Buffing Stainless Steel 304 Matt Legs; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
+        "mat": "Black Matt Sheesham Structure; Matt Buffing Sheesham Mounting; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
         "sz": "Outer: 54\" x 30\" x 17\"",
         "fld": "https://drive.google.com/drive/folders/1u-WsbrLVjoiQ36J2o36E3BVNGeysoEny",
         "des": "Tanmay Shah",
@@ -7883,156 +7862,28 @@
         "vendorDisplayName": "Umang Glass Elements"
       }
     ],
-    "the_lighting_studio": [
+    "vittal_wood_tech": [
       {
         "op": "082412",
-        "prod": "Malvina",
-        "var": "Myntra",
-        "url": "https://i.ibb.co/6F5NKW1/PHOTO-2024-08-17-12-04-49.jpg",
-        "cat": "Lamps",
-        "mat": "Fabric TBC Canvas Upholstery Structure; Black Powder Coat Aluminium Frame",
-        "sz": "Outer: 30\" x 30\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/18vJPEb1fC1vuXMqSNScAUhdRL6PFubLA",
-        "des": "Readymade",
+        "prod": "Calviro",
+        "var": "Jean",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_121808_480699_pasted_image_1758610094346.png",
+        "cat": "Coffee Tables",
+        "mat": "Black Matt Sheesham Structure; Matt Buffing Sheesham Mounting; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
+        "sz": "Outer: 54\" x 30\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1u-WsbrLVjoiQ36J2o36E3BVNGeysoEny",
+        "des": "Tanmay Shah",
         "dl": "",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Dining Area",
+        "cr": "Living Room\nMS black powdercoat excluding ss visible in leg",
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "WOODEN FRAME WITH GLASS FARMA "
         },
-        "vendorDisplayName": "The Lighting Studio"
+        "vendorDisplayName": "Vittal Wood-tech"
       },
-      {
-        "op": "092518",
-        "prod": "Breeze",
-        "var": "Nova",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
-        "cat": "Bar Cabinets",
-        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
-        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
-        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
-        "des": "Hetvi Shah",
-        "dl": "09-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "092518",
-        "prod": "Brionyx",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
-        "cat": "Room Dividers",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
-        "sz": "Outer: 43\" x 8\" x 102\"",
-        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
-        "des": "Hetvi Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "092518",
-        "prod": "Virelle",
-        "var": "Brume",
-        "url": "https://i.ibb.co/VptzDTRs/image.png",
-        "cat": "Lamps",
-        "mat": "Black Powder Coat Mild Steel Frame; Clear Crystal Glass Mounting; Warm White LED Bulb Light",
-        "sz": "Outer: 42\" x 7.2\" x 27.5\"",
-        "fld": "https://drive.google.com/drive/folders/1NEv09LmSClbDx-19VrWZFj6jeMdTe35L",
-        "des": "Hetvi Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Center ma point chhodelo hse"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "092518",
-        "prod": "Zarela",
-        "var": "Cory",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_145817_409563_Screenshot_2025-07-19_145747.png",
-        "cat": "Lamps",
-        "mat": "Black Powder Coat Mild Steel Frame; Clear Crystal Glass Mounting; Warm White LED Bulb Light",
-        "sz": "Outer: 12.5\" x 16\" x 54.5\"",
-        "fld": "https://drive.google.com/drive/folders/1_pHkvX2zRUFHCoQcXBF3sKjI89woCAfs",
-        "des": "Tanmay Shah",
-        "dl": "26-Jul-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Niche valo part j upholstery ma jy che tya point aapelo hse"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "092518",
-        "prod": "Zeyora",
-        "var": "Balk",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_151520_158390_Screenshot_2025-07-19_151355.png",
-        "cat": "Lamps",
-        "mat": "White Powder Coat Mild Steel Frame; Clear Acrylic Solid Surface Mounting; Warm White LED Bulb Light; Fabric TBC Canvas Upholstery Canopy",
-        "sz": "Outer: 8.5\" x 11.5\" x 25\"",
-        "fld": "https://drive.google.com/drive/folders/1_qtHgj2VG2BtYg1C9x4-udEIiPo80RvN",
-        "des": "Hetvi Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Passage",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "092530",
-        "prod": "Hailey",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_154524_553220_Screenshot_2025-11-04_154241.png",
-        "cat": "Lamps",
-        "mat": "Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Lamp Fitting; Peca Sheesham Shelf; Fabric TBC Polyester Lamp Fitting;  LED Bulb Bulb",
-        "sz": "Outer: 15\" x 12\" x 65\"",
-        "fld": "https://drive.google.com/drive/folders/1NjwOrCJXrcOwAX14OA7JAHJst9ys5y09",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      }
-    ],
-    "vittal_wood_tech": [
       {
         "op": "082412",
         "prod": "Peacock",
@@ -8263,6 +8114,155 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      }
+    ],
+    "the_lighting_studio": [
+      {
+        "op": "082412",
+        "prod": "Malvina",
+        "var": "Myntra",
+        "url": "https://i.ibb.co/6F5NKW1/PHOTO-2024-08-17-12-04-49.jpg",
+        "cat": "Lamps",
+        "mat": "Fabric TBC Canvas Upholstery Structure; Black Powder Coat Aluminium Frame",
+        "sz": "Outer: 30\" x 30\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/18vJPEb1fC1vuXMqSNScAUhdRL6PFubLA",
+        "des": "Readymade",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "09-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
+        "prod": "Brionyx",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
+        "cat": "Room Dividers",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
+        "sz": "Outer: 43\" x 8\" x 102\"",
+        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
+        "des": "Hetvi Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Please follow Video Instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
+        "prod": "Virelle",
+        "var": "Brume",
+        "url": "https://i.ibb.co/VptzDTRs/image.png",
+        "cat": "Lamps",
+        "mat": "Black Powder Coat Mild Steel Frame; Clear Crystal Glass Mounting; Warm White LED Bulb Light",
+        "sz": "Outer: 42\" x 7.2\" x 27.5\"",
+        "fld": "https://drive.google.com/drive/folders/1NEv09LmSClbDx-19VrWZFj6jeMdTe35L",
+        "des": "Hetvi Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Center ma point chhodelo hse"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
+        "prod": "Zarela",
+        "var": "Cory",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_145817_409563_Screenshot_2025-07-19_145747.png",
+        "cat": "Lamps",
+        "mat": "Black Powder Coat Mild Steel Frame; Clear Crystal Glass Mounting; Warm White LED Bulb Light",
+        "sz": "Outer: 12.5\" x 16\" x 54.5\"",
+        "fld": "https://drive.google.com/drive/folders/1_pHkvX2zRUFHCoQcXBF3sKjI89woCAfs",
+        "des": "Tanmay Shah",
+        "dl": "26-Jul-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Niche valo part j upholstery ma jy che tya point aapelo hse"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092518",
+        "prod": "Zeyora",
+        "var": "Balk",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250719_151520_158390_Screenshot_2025-07-19_151355.png",
+        "cat": "Lamps",
+        "mat": "White Powder Coat Mild Steel Frame; Clear Acrylic Solid Surface Mounting; Warm White LED Bulb Light; Fabric TBC Canvas Upholstery Canopy",
+        "sz": "Outer: 8.5\" x 11.5\" x 25\"",
+        "fld": "https://drive.google.com/drive/folders/1_qtHgj2VG2BtYg1C9x4-udEIiPo80RvN",
+        "des": "Hetvi Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Passage",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "092530",
+        "prod": "Hailey",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_154524_553220_Screenshot_2025-11-04_154241.png",
+        "cat": "Lamps",
+        "mat": "Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Lamp Fitting; Peca Sheesham Shelf; Fabric TBC Polyester Lamp Fitting;  LED Bulb Bulb",
+        "sz": "Outer: 15\" x 12\" x 65\"",
+        "fld": "https://drive.google.com/drive/folders/1NjwOrCJXrcOwAX14OA7JAHJst9ys5y09",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
       }
     ],
     "ashok_polish": [
@@ -9114,6 +9114,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-06T09:08:24.989Z"
+    "timestamp": "2025-11-06T09:22:30.054Z"
   }
 }
