@@ -1100,6 +1100,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092520",
+        "prod": "Uluru",
+        "var": "Quanta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_180907_480690_pasted_image_1758544752461.png",
+        "cat": "Beds",
+        "mat": "Natural Burma Border Teak Structure",
+        "sz": "Outer: 60\" x 78\" x 13\", Seat Height: 19\";\nMattress: 58\" x 76\" x 6\"",
+        "fld": "https://drive.google.com/drive/folders/12nJ84cyuXNK3hR0kKF8PSXmcUFu1CJ-9",
+        "des": "Dipen Gada",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Bed Platform",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "102412",
         "prod": "Astromira",
         "var": "Endear",
@@ -3185,27 +3206,6 @@
           "c": "15-Jun-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122415",
-        "prod": "Skyridge",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/35gtNTQj/Whats-App-Image-2025-04-02-at-15-35-02-5923e4dc.jpg",
-        "cat": "Study Tables",
-        "mat": "RAL 7004 Signal Grey HDHMR Top; RAL 7004 Signal Grey HDHMR Drawer Box; RAL 7004 Signal Grey HDHMR Drawer; RAL 7004 Signal Grey HDHMR Legs",
-        "sz": "Outer: 72\" x 24\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1GEl3JGep4i1i0Nidp_hxAbSUrhFiXzK5",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Son Bedroom Study Table",
-        "v": {
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": "Ring for net hanging"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -8181,27 +8181,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "092520",
-        "prod": "Uluru",
-        "var": "Quanta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_180907_480690_pasted_image_1758544752461.png",
-        "cat": "Beds",
-        "mat": "Natural Burma Border Teak Structure",
-        "sz": "Outer: 60\" x 78\" x 13\", Seat Height: 19\";\nMattress: 58\" x 76\" x 6\"",
-        "fld": "https://drive.google.com/drive/folders/12nJ84cyuXNK3hR0kKF8PSXmcUFu1CJ-9",
-        "des": "Dipen Gada",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Bed Platform",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "092530",
         "prod": "Gregory",
         "var": "Hulu",
@@ -9135,6 +9114,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-06T06:37:30.697Z"
+    "timestamp": "2025-11-06T06:52:26.906Z"
   }
 }
