@@ -5513,27 +5513,6 @@
       {
         "op": "072515",
         "prod": "Esmira",
-        "var": "Brenton",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072515",
-        "prod": "Esmira",
         "var": "Idris",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
         "cat": "Room Dividers",
@@ -6013,27 +5992,6 @@
         "cr": "Dining Area",
         "v": {
           "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "072515",
-        "prod": "Esmira",
-        "var": "Brenton",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Table",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7758,27 +7716,6 @@
     "the_art_room": [
       {
         "op": "072515",
-        "prod": "Esmira",
-        "var": "Brenton",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      },
-      {
-        "op": "072515",
         "prod": "Glint",
         "var": "Cello",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
@@ -9116,6 +9053,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-07T06:07:30.992Z"
+    "timestamp": "2025-11-07T06:22:31.883Z"
   }
 }
