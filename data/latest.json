@@ -2009,27 +2009,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "082510",
-        "prod": "Walkins",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_112723_660407_pasted_image_1756792646711.png",
-        "cat": "Accent Tables",
-        "mat": "Suncity White Oak Top; HOF Grey M2140-HB Mild Steel Base",
-        "sz": "Outer: 16\" x 15\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
-        "des": "Tanmay Shah",
-        "dl": "29-Aug-2025",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "HOF GREY(M2140-HB)"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "082520",
         "prod": "Honeysuckle",
         "var": "Evan",
@@ -9074,6 +9053,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-08T11:22:51.614Z"
+    "timestamp": "2025-11-08T11:37:25.327Z"
   }
 }
