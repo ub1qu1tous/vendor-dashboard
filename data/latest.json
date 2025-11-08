@@ -3444,27 +3444,6 @@
       },
       {
         "op": "082412",
-        "prod": "Limca",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_190410_613459_pasted_image_1758634456207.png",
-        "cat": "Dining Chairs",
-        "mat": "Jacobean Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19\" x 22.5\" x 37.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1WIK9P5VKAJpTDZfKGjqSvlBg6rqXjgtZ",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Handle Vali Dining Chair Bnani hai"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
@@ -4680,27 +4659,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082412",
-        "prod": "Limca",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_190410_613459_pasted_image_1758634456207.png",
-        "cat": "Dining Chairs",
-        "mat": "Jacobean Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19\" x 22.5\" x 37.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1WIK9P5VKAJpTDZfKGjqSvlBg6rqXjgtZ",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
         "v": {
           "c": "",
           "a": "",
@@ -7399,27 +7357,6 @@
       },
       {
         "op": "082412",
-        "prod": "Limca",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_190410_613459_pasted_image_1758634456207.png",
-        "cat": "Dining Chairs",
-        "mat": "Jacobean Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19\" x 22.5\" x 37.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1WIK9P5VKAJpTDZfKGjqSvlBg6rqXjgtZ",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
         "prod": "Richie",
         "var": "Junior",
         "url": "https://i.ibb.co/KcKLHPy6/image.png",
@@ -9116,6 +9053,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-08T13:07:36.862Z"
+    "timestamp": "2025-11-08T13:22:27.596Z"
   }
 }
