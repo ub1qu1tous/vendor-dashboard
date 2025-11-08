@@ -2093,27 +2093,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "092508",
-        "prod": "Guzel",
-        "var": "Pearl",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250924_135242_379127_Screenshot_2025-09-24_124219.png",
-        "cat": "Sofas",
-        "mat": "D'Decor Fabricare Comfort II SRN 225 Ply & Foam Upholstery Structure; HOF Grey M2140-HB Mild Steel Base",
-        "sz": "Outer: 84\" x 32\" x 27\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1gq_XIRJybbdvrwfKnZnZIck0ASkODf_J",
-        "des": "Tanmay Shah",
-        "dl": "27-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "26m Fabric will provide by client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "092518",
         "prod": "Calithea",
         "var": "Koan",
@@ -2931,27 +2910,6 @@
         "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri\n",
         "v": {
           "c": "08-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092508",
-        "prod": "Guzel",
-        "var": "Pearl",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250924_135242_379127_Screenshot_2025-09-24_124219.png",
-        "cat": "Sofas",
-        "mat": "D'Decor Fabricare Comfort II SRN 225 Ply & Foam Upholstery Structure; HOF Grey M2140-HB Mild Steel Base",
-        "sz": "Outer: 84\" x 32\" x 27\", Seat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1gq_XIRJybbdvrwfKnZnZIck0ASkODf_J",
-        "des": "Tanmay Shah",
-        "dl": "27-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "26m Fabric will provide by client",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -8990,6 +8948,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-08T15:07:24.073Z"
+    "timestamp": "2025-11-08T15:22:35.928Z"
   }
 }
