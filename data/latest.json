@@ -1800,27 +1800,6 @@
       },
       {
         "op": "052510",
-        "prod": "Kwacha",
-        "var": "Myntra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_182238_896912_pasted_image_1757595163311.png",
-        "cat": "Dining Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Finish TBC White Ash Base; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 23\" x 26.5\" x 35\", Seat Height: 18.75\"",
-        "fld": "https://drive.google.com/drive/folders/175ljwmom7Ryh2gVMn2MqiwAgeOVc-LRm",
-        "des": "Tanmay Shah",
-        "dl": "18-Jul-2025",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052510",
         "prod": "Pomfret",
         "var": "Muvil",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251106_165114_739870_pasted_image_1762428084378.png",
@@ -5847,346 +5826,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "aarti_steel": [
-      {
-        "op": "052510",
-        "prod": "Evarin",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/jPbjcrSy/image.png",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Opal White Top; Black Matt Duco 16mm MDF Support; Black Matt Sheesham Legs; Gold PVD Stainless Steel 304 Matt Fixture;  Mild Steel Mounting",
-        "sz": "Outer: 90\" x 42\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1Pz9swNMaEihRNe4z0f3lndQydUV6dGxu",
-        "des": "Hetvi Shah",
-        "dl": "02-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "02-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "072515",
-        "prod": "Canoe",
-        "var": "Ryson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "072515",
-        "prod": "Esmira",
-        "var": "Idris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
-        "cat": "Room Dividers",
-        "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
-        "sz": "Outer: 78\" x 18\" x 93\"",
-        "fld": "https://drive.google.com/drive/folders/1T4NhZNOVCAZB3A7MC_bmt5vU1JYge0t6",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area Storage Unit",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "072521",
-        "prod": "Belcamp",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 14\" x 25\"",
-        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "082412",
-        "prod": "Earthhaven",
-        "var": "Mobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
-        "sz": "Outer: 22\" x 22\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "082412",
-        "prod": "Tilburg",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
-        "cat": "Nightstands",
-        "mat": "ICA MATT 15 (Black) HDHMR Carcass;  HDHMR Drawer Fascia;  12mm Plywood Drawer Box;   Mounting;   Legs",
-        "sz": "Outer: 22\" x 16\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
-        "des": "Hetvi Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      }
-    ],
-    "manish_marble_jaipur": [
-      {
-        "op": "052510",
-        "prod": "Evarin",
-        "var": "Quizzy",
-        "url": "https://i.ibb.co/jPbjcrSy/image.png",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Opal White Top; Black Matt Duco 16mm MDF Support; Black Matt Sheesham Legs; Gold PVD Stainless Steel 304 Matt Fixture;  Mild Steel Mounting",
-        "sz": "Outer: 90\" x 42\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1Pz9swNMaEihRNe4z0f3lndQydUV6dGxu",
-        "des": "Hetvi Shah",
-        "dl": "02-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "072515",
-        "prod": "Nolvera",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_182148_852072_Screenshot_2025-08-01_182137.png",
-        "cat": "Console Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Gold PVD Stainless Steel 202 Matt Frame; Finish TBC Black Veneer Legs; Finish TBC Black Veneer Accessories",
-        "sz": "Outer: 48\" x 16\" x 33\"",
-        "fld": "https://drive.google.com/drive/folders/1la9jiyj_sgMnjeFhPFHFH7V05CvdEjGb",
-        "des": "Tanmay Shah",
-        "dl": "26-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082412",
-        "prod": "Earthhaven",
-        "var": "Mobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
-        "sz": "Outer: 22\" x 22\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082412",
-        "prod": "Luxient",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
-        "cat": "Credenzas",
-        "mat": "Jacobean Sheesham Top; Jacobean Sheesham Carcass; Jacobean Sheesham Shutter Frame; Clear Pre-woven Rattan Shutter Panel; Jacobean Sheesham Legs",
-        "sz": "Outer: 72\" x 16\" x 32\"",
-        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082520",
-        "prod": "Naas",
-        "var": "Nycia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110926_548867_Screenshot_2025-09-16_110744.png",
-        "cat": "Accent Tables",
-        "mat": "Finish TBC Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Alaska Gold Legs",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1dgkbHQqKcNym4R24Est-rLsgMl9DpPVu",
-        "des": "Tanmay Shah",
-        "dl": "12-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082520",
-        "prod": "Pianica",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
-        "cat": "Coffee Tables",
-        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Bidasar Brown Legs",
-        "sz": "Outer: 43\" x 43\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
-        "des": "Tanmay Shah",
-        "dl": "06-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "092518",
-        "prod": "Quartzia",
-        "var": "Ethel",
-        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 18\" x 18\" x 22\"",
-        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "102411",
-        "prod": "Drakonis",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Mirror Buffing Lassa White Top; Natural Recycled Teak Base",
-        "sz": "Outer: 39\" x 39\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
-        "des": "Hetvi Shah",
-        "dl": "14-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Coffee Table",
-        "v": {
-          "c": "10-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "102505",
-        "prod": "Venezia",
-        "var": "Ashley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_150734_902636_Screenshot_2025-10-29_145418.png",
-        "cat": "Coffee Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Natural White Oak Base",
-        "sz": "Outer: 54\" x 32\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1MvpU6crPaz-AZ44i_ycFsD898a7_gI3D",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "102505",
-        "prod": "Venezia",
-        "var": "Brume",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_150619_285221_Screenshot_2025-10-29_150021.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Natural White Oak Base",
-        "sz": "Outer: 22\" x 18\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1G2usRMzzrhhOdD8C_f_NoT8ru2p6RjJj",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      }
-    ],
     "srk_readymade_legs": [
       {
         "op": "052510",
@@ -7713,6 +7352,113 @@
         "vendorDisplayName": "Aavaran"
       }
     ],
+    "aarti_steel": [
+      {
+        "op": "072515",
+        "prod": "Canoe",
+        "var": "Ryson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
+        "cat": "Accent Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "072515",
+        "prod": "Esmira",
+        "var": "Idris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
+        "cat": "Room Dividers",
+        "mat": "Black Matt Black Veneer Carcass; SCS 9672 Laminate Internal Carcass; Jacobean Sheesham Shutter; SCS 9672 Laminate Drawer; Jacobean Sheesham Drawer Fascia; Jacobean Sheesham Legs; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Frame; Black Matt PU HDHMR Shelf",
+        "sz": "Outer: 78\" x 18\" x 93\"",
+        "fld": "https://drive.google.com/drive/folders/1T4NhZNOVCAZB3A7MC_bmt5vU1JYge0t6",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area Storage Unit",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "072521",
+        "prod": "Belcamp",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
+        "cat": "Accent Tables",
+        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 20\" x 14\" x 25\"",
+        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
+        "des": "Tanmay Shah",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "082412",
+        "prod": "Tilburg",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
+        "cat": "Nightstands",
+        "mat": "ICA MATT 15 (Black) HDHMR Carcass;  HDHMR Drawer Fascia;  12mm Plywood Drawer Box;   Mounting;   Legs",
+        "sz": "Outer: 22\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
+        "des": "Hetvi Shah",
+        "dl": "",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      }
+    ],
     "the_art_room": [
       {
         "op": "072515",
@@ -7734,6 +7480,197 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Art Room"
+      }
+    ],
+    "manish_marble_jaipur": [
+      {
+        "op": "072515",
+        "prod": "Nolvera",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250801_182148_852072_Screenshot_2025-08-01_182137.png",
+        "cat": "Console Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Gold PVD Stainless Steel 202 Matt Frame; Finish TBC Black Veneer Legs; Finish TBC Black Veneer Accessories",
+        "sz": "Outer: 48\" x 16\" x 33\"",
+        "fld": "https://drive.google.com/drive/folders/1la9jiyj_sgMnjeFhPFHFH7V05CvdEjGb",
+        "des": "Tanmay Shah",
+        "dl": "26-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082412",
+        "prod": "Luxient",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
+        "cat": "Credenzas",
+        "mat": "Jacobean Sheesham Top; Jacobean Sheesham Carcass; Jacobean Sheesham Shutter Frame; Clear Pre-woven Rattan Shutter Panel; Jacobean Sheesham Legs",
+        "sz": "Outer: 72\" x 16\" x 32\"",
+        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
+        "des": "Parthsarthi Suthar",
+        "dl": "04-Oct-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082520",
+        "prod": "Naas",
+        "var": "Nycia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110926_548867_Screenshot_2025-09-16_110744.png",
+        "cat": "Accent Tables",
+        "mat": "Finish TBC Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Alaska Gold Legs",
+        "sz": "Outer: 16\" x 16\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1dgkbHQqKcNym4R24Est-rLsgMl9DpPVu",
+        "des": "Tanmay Shah",
+        "dl": "12-Sept-2025",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082520",
+        "prod": "Pianica",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
+        "cat": "Coffee Tables",
+        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Bidasar Brown Legs",
+        "sz": "Outer: 43\" x 43\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
+        "des": "Tanmay Shah",
+        "dl": "06-Sept-2025",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "092518",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "102411",
+        "prod": "Drakonis",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Mirror Buffing Lassa White Top; Natural Recycled Teak Base",
+        "sz": "Outer: 39\" x 39\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
+        "des": "Hetvi Shah",
+        "dl": "14-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Coffee Table",
+        "v": {
+          "c": "10-Jun-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "102505",
+        "prod": "Venezia",
+        "var": "Ashley",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_150734_902636_Screenshot_2025-10-29_145418.png",
+        "cat": "Coffee Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Natural White Oak Base",
+        "sz": "Outer: 54\" x 32\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1MvpU6crPaz-AZ44i_ycFsD898a7_gI3D",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "102505",
+        "prod": "Venezia",
+        "var": "Brume",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_150619_285221_Screenshot_2025-10-29_150021.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Natural White Oak Base",
+        "sz": "Outer: 22\" x 18\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1G2usRMzzrhhOdD8C_f_NoT8ru2p6RjJj",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
     "umang_glass_elements": [
@@ -9053,6 +8990,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-08T14:07:32.931Z"
+    "timestamp": "2025-11-08T14:22:29.482Z"
   }
 }
