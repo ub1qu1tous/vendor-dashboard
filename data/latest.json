@@ -3339,6 +3339,27 @@
       },
       {
         "op": "072515",
+        "prod": "Glint",
+        "var": "Cello",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Finish TBC Stainless Steel 304 Matt Accessories",
+        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072515",
         "prod": "Nolvera",
         "var": "Tyler",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250801_182148_852072_Screenshot_2025-08-01_182137.png",
@@ -5266,6 +5287,27 @@
         "des": "Tanmay Shah",
         "dl": "",
         "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "102511",
+        "prod": "Mediterra",
+        "var": "Tau",
+        "url": "https://i.ibb.co/VDHPHjV/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Grey Distressed White Oak Frame; Sarom Aluva_T-2126_Lepakshi 105 Ply & Foam Upholstery Seat; Sarom Aluva_T-2126_Lenka 722 Foam Upholstery 1 Centre Cushion",
+        "sz": "Outer: 23\" x 23\" x 27\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ra7kxqpSYkSYlCjIQWHthDfsCTnA_93Z",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 12,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -7711,6 +7753,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "102511",
+        "prod": "Mediterra",
+        "var": "Tau",
+        "url": "https://i.ibb.co/VDHPHjV/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Grey Distressed White Oak Frame; Sarom Aluva_T-2126_Lepakshi 105 Ply & Foam Upholstery Seat; Sarom Aluva_T-2126_Lenka 722 Foam Upholstery 1 Centre Cushion",
+        "sz": "Outer: 23\" x 23\" x 27\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ra7kxqpSYkSYlCjIQWHthDfsCTnA_93Z",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 12,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
       }
     ],
     "the_art_room": [
@@ -9053,6 +9116,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-08T12:37:27.407Z"
+    "timestamp": "2025-11-08T12:52:32.138Z"
   }
 }
