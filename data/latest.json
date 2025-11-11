@@ -3924,6 +3924,111 @@
           "rm": "Suncity white oak "
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112511",
+        "prod": "Aztec",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_145409_420418_pasted_image_1758014653908.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear Travertine Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 64\" x 19\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1MzqnEBs4kc0MnaHWnylm44jl_gMO1qiP",
+        "des": "Akhilesh Yadav",
+        "dl": "12-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112511",
+        "prod": "Aztec",
+        "var": "Roxie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_150001_869590_pasted_image_1758015006485.png",
+        "cat": "Coffee Tables",
+        "mat": "Black White Oak Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 66\" x 16\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1j2AjpQIj1QIKXfLe3h-MD67j9G_fngrX",
+        "des": "Akhilesh Yadav",
+        "dl": "12-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112511",
+        "prod": "Delfit",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250918_152333_520425_Screenshot_2025-09-18_152108.png",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt White Oak Top; Natural White Oak Legs; Black Matt White Oak Legs",
+        "sz": "Outer: 72\" x 36\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Waev8c76JdW_e-c3hbSpdpsir-C7Ot2m",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112511",
+        "prod": "",
+        "var": "",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112511",
+        "prod": "",
+        "var": "",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "vishwakarma_glass": [
@@ -5228,6 +5333,111 @@
         "cr": "Master Bedroom Accent Chair",
         "v": {
           "c": "23-Jun-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112511",
+        "prod": "Aztec",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_145409_420418_pasted_image_1758014653908.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear Travertine Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 64\" x 19\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1MzqnEBs4kc0MnaHWnylm44jl_gMO1qiP",
+        "des": "Akhilesh Yadav",
+        "dl": "12-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112511",
+        "prod": "Aztec",
+        "var": "Roxie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_150001_869590_pasted_image_1758015006485.png",
+        "cat": "Coffee Tables",
+        "mat": "Black White Oak Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 66\" x 16\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1j2AjpQIj1QIKXfLe3h-MD67j9G_fngrX",
+        "des": "Akhilesh Yadav",
+        "dl": "12-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112511",
+        "prod": "Delfit",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250918_152333_520425_Screenshot_2025-09-18_152108.png",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt White Oak Top; Natural White Oak Legs; Black Matt White Oak Legs",
+        "sz": "Outer: 72\" x 36\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Waev8c76JdW_e-c3hbSpdpsir-C7Ot2m",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112511",
+        "prod": "",
+        "var": "",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112511",
+        "prod": "",
+        "var": "",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7308,6 +7518,111 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112511",
+        "prod": "Aztec",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_145409_420418_pasted_image_1758014653908.png",
+        "cat": "Coffee Tables",
+        "mat": "Clear Travertine Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 64\" x 19\" x 14\"",
+        "fld": "https://drive.google.com/drive/folders/1MzqnEBs4kc0MnaHWnylm44jl_gMO1qiP",
+        "des": "Akhilesh Yadav",
+        "dl": "12-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112511",
+        "prod": "Aztec",
+        "var": "Roxie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_150001_869590_pasted_image_1758015006485.png",
+        "cat": "Coffee Tables",
+        "mat": "Black White Oak Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 66\" x 16\" x 12\"",
+        "fld": "https://drive.google.com/drive/folders/1j2AjpQIj1QIKXfLe3h-MD67j9G_fngrX",
+        "des": "Akhilesh Yadav",
+        "dl": "12-Sept-2025",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112511",
+        "prod": "Delfit",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250918_152333_520425_Screenshot_2025-09-18_152108.png",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt White Oak Top; Natural White Oak Legs; Black Matt White Oak Legs",
+        "sz": "Outer: 72\" x 36\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Waev8c76JdW_e-c3hbSpdpsir-C7Ot2m",
+        "des": "Parthsarthi Suthar",
+        "dl": "",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112511",
+        "prod": "",
+        "var": "",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112511",
+        "prod": "",
+        "var": "",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
       }
     ],
     "aarti_steel": [
@@ -8948,6 +9263,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-11T06:37:28.187Z"
+    "timestamp": "2025-11-11T06:55:33.257Z"
   }
 }
