@@ -3695,6 +3695,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Dia: 80 MM\nHeight: 18.5\" \nSheeham Jacobean Cylinder with Polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "092530",
         "prod": "Bough",
         "var": "Fynn",
@@ -8990,6 +9011,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-11T12:52:33.605Z"
+    "timestamp": "2025-11-11T13:07:29.055Z"
   }
 }
