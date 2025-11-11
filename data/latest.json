@@ -8804,6 +8804,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "052306",
+        "prod": "Dunes",
+        "var": "Ibis",
+        "url": "https://i.ibb.co/tw2mLbyy/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Black Distressed/Charcoal Reclaimed Hardwood Top; Black Matt White Ash Legs",
+        "sz": "Outer: 19\" x 19\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Dl4P0j4cdooAT6NhWkgTF7yjH8j3QZcC",
+        "des": "Dilip Jangir",
+        "dl": "22-Apr-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
     "demodes": [
@@ -8969,6 +8990,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-11T08:07:44.466Z"
+    "timestamp": "2025-11-11T08:24:30.112Z"
   }
 }
