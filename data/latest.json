@@ -3381,6 +3381,27 @@
       },
       {
         "op": "082412",
+        "prod": "Simpolio",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251112_164557_916074_pasted_image_1762946167455.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Black Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 20\" x 22\" x 40\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1-8Y9tIA1mJDUSF1V82c47MqdDO9Sp0Bz",
+        "des": "Parthsarthi Suthar",
+        "dl": "30-Apr-2023",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "082412",
         "prod": "Snipe",
         "var": "Victor",
         "url": "https://i.ibb.co/60wjbPZn/image.png",
@@ -8906,6 +8927,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-12T11:07:37.838Z"
+    "timestamp": "2025-11-12T11:22:37.354Z"
   }
 }
