@@ -1967,6 +1967,27 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
+        "op": "082412",
+        "prod": "Reganza",
+        "var": "Eunio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
+        "cat": "Media Consoles",
+        "mat": "SCS 0015 16mm Plywood Carcass; Clear Perforated Sheet Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 60\" x 18\" x 28.5\"",
+        "fld": "https://drive.google.com/drive/folders/1JjcI0mWq6wExXIWg2uXBc3wnyeJuoGiK",
+        "des": "Hetvi Shah",
+        "dl": "05-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
         "op": "082520",
         "prod": "Honeysuckle",
         "var": "Evan",
@@ -3402,27 +3423,6 @@
       },
       {
         "op": "082412",
-        "prod": "Snipe",
-        "var": "Victor",
-        "url": "https://i.ibb.co/60wjbPZn/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 27.6\" x 29.5\" x 23.6\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1IetNVgi4KRvnp8rtBNCCu868hy51a50S",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082412",
         "prod": "Ticknock",
         "var": "Wren",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251024_115823_225989_Screenshot_2025-10-24_115725.png",
@@ -4502,7 +4502,7 @@
         "op": "072521",
         "prod": "Stockholm",
         "var": "Roxie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125045_888688_pasted_image_1763018455629.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_133311_945020_pasted_image_1763021002083.png",
         "cat": "Benches",
         "mat": "Fabric TBC Ply & Foam Upholstery Structure; Grey Powder Coat Mild Steel Base",
         "sz": "Outer: 80\" x 33\" x 21\", Seat Height: 16\"",
@@ -4615,27 +4615,6 @@
         "des": "Tanmay Shah",
         "dl": "02-Jan-2010",
         "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082412",
-        "prod": "Snipe",
-        "var": "Victor",
-        "url": "https://i.ibb.co/60wjbPZn/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 27.6\" x 29.5\" x 23.6\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1IetNVgi4KRvnp8rtBNCCu868hy51a50S",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
         "v": {
@@ -5784,92 +5763,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "srk_readymade_legs": [
-      {
-        "op": "052510",
-        "prod": "Ornelle",
-        "var": "Myntra",
-        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "072515",
-        "prod": "Glacierhorn",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_152307_838386_pasted_image_1760521995180.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 90\" x 83\" x 43\", Seat Height: 20\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyani Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "2 Pc\n7\" vala"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "072515",
-        "prod": "Meander",
-        "var": "Endear",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_153057_626976_pasted_image_1760522464278.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Foam Upholstery Headboard; Black Powder Coat Mild Steel Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 79.5\" x 91\" x 43.5\", Seat Height: 18.5\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1bYxZLmBD-NgSctfR3pHbgbptvkcetrrU",
-        "des": "Tanmay Shah",
-        "dl": "16-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "072521",
-        "prod": "Stockholm",
-        "var": "Roxie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125045_888688_pasted_image_1763018455629.png",
-        "cat": "Benches",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Grey Powder Coat Mild Steel Base",
-        "sz": "Outer: 80\" x 33\" x 21\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/10rkhePfIXqbc3qgfrEcv8gDovas9ckw3",
-        "des": "",
-        "dl": "",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      }
-    ],
     "baba_marble": [
       {
         "op": "052510",
@@ -6872,7 +6765,7 @@
         "op": "072521",
         "prod": "Stockholm",
         "var": "Roxie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125045_888688_pasted_image_1763018455629.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_133311_945020_pasted_image_1763021002083.png",
         "cat": "Benches",
         "mat": "Fabric TBC Ply & Foam Upholstery Structure; Grey Powder Coat Mild Steel Base",
         "sz": "Outer: 80\" x 33\" x 21\", Seat Height: 16\"",
@@ -6985,27 +6878,6 @@
         "des": "Tanmay Shah",
         "dl": "02-Jan-2010",
         "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
-        "prod": "Snipe",
-        "var": "Victor",
-        "url": "https://i.ibb.co/60wjbPZn/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 27.6\" x 29.5\" x 23.6\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1IetNVgi4KRvnp8rtBNCCu868hy51a50S",
-        "des": "Tanmay Shah",
-        "dl": "",
-        "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
         "v": {
@@ -7415,6 +7287,71 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
+      }
+    ],
+    "srk_readymade_legs": [
+      {
+        "op": "072515",
+        "prod": "Glacierhorn",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_152307_838386_pasted_image_1760521995180.png",
+        "cat": "Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 90\" x 83\" x 43\", Seat Height: 20\";\nMattress: 66\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyani Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "2 Pc\n7\" vala"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "072515",
+        "prod": "Meander",
+        "var": "Endear",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_153057_626976_pasted_image_1760522464278.png",
+        "cat": "Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Foam Upholstery Headboard; Black Powder Coat Mild Steel Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 79.5\" x 91\" x 43.5\", Seat Height: 18.5\";\nMattress: 66\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1bYxZLmBD-NgSctfR3pHbgbptvkcetrrU",
+        "des": "Tanmay Shah",
+        "dl": "16-Oct-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "072521",
+        "prod": "Stockholm",
+        "var": "Roxie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_133311_945020_pasted_image_1763021002083.png",
+        "cat": "Benches",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Grey Powder Coat Mild Steel Base",
+        "sz": "Outer: 80\" x 33\" x 21\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/10rkhePfIXqbc3qgfrEcv8gDovas9ckw3",
+        "des": "",
+        "dl": "",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
     "the_art_room": [
@@ -8927,6 +8864,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-13T07:43:13.707Z"
+    "timestamp": "2025-11-13T08:11:29.140Z"
   }
 }
