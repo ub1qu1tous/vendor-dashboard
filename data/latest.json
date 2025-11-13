@@ -1310,27 +1310,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "112411",
-        "prod": "Fragran",
-        "var": "Zibek",
-        "url": "https://i.ibb.co/BK4fLRDj/0002.jpg",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Mounting; V&J Salute 624 Ply & Foam Upholstery Headboard; Neeya-4001 Leather Strap Support; V&J Salute 624 Ply & Foam Upholstery Platform; Oak Laminate 12mm Plywood Bed Slat Support;  8mm Toughened Glass Top (Side Table);  Teak Veneer Frame (Side Table)",
-        "sz": "Outer: 120\" x 90\" x 42\", Seat Height: 22\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1UqSnhrHc4Sd2rg8H_f6j0eBx-0rnu66Z",
-        "des": "Hetvi Shah",
-        "dl": "18-Nov-2021",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Son Bedroom Bed",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "Teak veneer Nightstand need to wall mount at site so need 18mm thick back\nDrawer size 36\" x 18\" x 6\""
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "122415",
         "prod": "Skyridge",
         "var": "Fynn",
@@ -3966,27 +3945,6 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "Black back painted glass, Edge polished"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "112411",
-        "prod": "Fragran",
-        "var": "Zibek",
-        "url": "https://i.ibb.co/BK4fLRDj/0002.jpg",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Mounting; V&J Salute 624 Ply & Foam Upholstery Headboard; Neeya-4001 Leather Strap Support; V&J Salute 624 Ply & Foam Upholstery Platform; Oak Laminate 12mm Plywood Bed Slat Support;  8mm Toughened Glass Top (Side Table);  Teak Veneer Frame (Side Table)",
-        "sz": "Outer: 120\" x 90\" x 42\", Seat Height: 22\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1UqSnhrHc4Sd2rg8H_f6j0eBx-0rnu66Z",
-        "des": "Hetvi Shah",
-        "dl": "18-Nov-2021",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Son Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "8mm brown tinted glass with MEP on nightstand top 36\" x 18\" , 2 pc"
         },
         "vendorDisplayName": "Vishwakarma Glass"
       }
@@ -8990,6 +8948,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-13T12:07:33.495Z"
+    "timestamp": "2025-11-13T12:22:26.363Z"
   }
 }
