@@ -1926,27 +1926,6 @@
       },
       {
         "op": "082412",
-        "prod": "Arvesso",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_175537_688477_pasted_image_1758630342856.png",
-        "cat": "Daybeds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "082412",
         "prod": "Reganza",
         "var": "Eunio",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
@@ -3890,7 +3869,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20251113_124556_610002_pasted_image_1763018166688.png",
         "cat": "Dining Tables",
         "mat": "Smoke Grey White Oak Top; Grey Distressed White Oak Legs",
-        "sz": "Outer: 132\" x 54\" x 30\"",
+        "sz": "Outer: 144\" x 54\" x 30\"",
         "fld": "https://drive.google.com/drive/folders/1nWE7cUtWk0RNFM0bA44rV-Ip1ESK4lzb",
         "des": "",
         "dl": "",
@@ -9011,6 +8990,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-13T09:37:42.237Z"
+    "timestamp": "2025-11-13T09:52:27.478Z"
   }
 }
