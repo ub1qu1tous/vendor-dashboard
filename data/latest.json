@@ -2010,18 +2010,18 @@
       },
       {
         "op": "092530",
-        "prod": "Carnaroli",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251030_121745_452151_pasted_image_1761806873762.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Harvest Sheesham Structure; Black Powder Coat Mild Steel Base; Harvest Sheesham Shutter Panel; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 72\" x 16\" x 32\"",
-        "fld": "https://drive.google.com/drive/folders/1JMcsaYRJZjLZbl6nZLlMQxANF3e3nBHA",
+        "prod": "Mathilde",
+        "var": "August",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_124049_573061_Screenshot_2025-11-04_124002.png",
+        "cat": "Sofas",
+        "mat": "Sarom Brittany 912 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Sarom Brittany 912 Recron Filling 2 Medium Square Kidney Pillows; Sarom Brittany 912 Recron Filling 2 Small Square Kidney Pillows",
+        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
         "des": "Tanmay Shah",
         "dl": "05-Nov-2025",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Foyer\nFinish as same as Bough bench",
+        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -2032,12 +2032,12 @@
       {
         "op": "092530",
         "prod": "Mathilde",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_124049_573061_Screenshot_2025-11-04_124002.png",
+        "var": "Serin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_124744_053309_pasted_image_1762240673189.png",
         "cat": "Sofas",
         "mat": "Sarom Brittany 912 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Sarom Brittany 912 Recron Filling 2 Medium Square Kidney Pillows; Sarom Brittany 912 Recron Filling 2 Small Square Kidney Pillows",
-        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
+        "sz": "Outer: 96\" x 37.5\" x 30.7\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1kbD0fiCLHh6wDMpmbUCBcTZx873pTkKV",
         "des": "Tanmay Shah",
         "dl": "05-Nov-2025",
         "q": 1,
@@ -2328,48 +2328,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Mustang",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 84\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1ifh-4V6VaYub2pSNjYxxPX6HtfzhxSXp",
-        "des": "Tanmay Shah",
-        "dl": "13-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "03-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "03-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "072515",
         "prod": "Amaranth",
         "var": "Ewan",
@@ -2488,48 +2446,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072515",
-        "prod": "Strand",
-        "var": "Rawlins",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
-        "cat": "Nightstands",
-        "mat": "Finish TBC HDHMR Carcass; Mirror Buffing Marble TBC Top; Black Distressed/Charcoal Sheesham Drawer Fascia; Finish TBC Oak Veneer Drawer Box; Finish TBC 16mm Plywood Drawer Internal; Mirror Buffing Stainless Steel 304 Gloss Skirting",
-        "sz": "Outer: 24\" x 18\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
-        "des": "Tanmay Shah",
-        "dl": "01-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Gloss Buffing and Tapping for fitting"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072521",
-        "prod": "Belcamp",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 14\" x 25\"",
-        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -2875,27 +2791,6 @@
       },
       {
         "op": "092530",
-        "prod": "Carnaroli",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251030_121745_452151_pasted_image_1761806873762.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Harvest Sheesham Structure; Black Powder Coat Mild Steel Base; Harvest Sheesham Shutter Panel; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 72\" x 16\" x 32\"",
-        "fld": "https://drive.google.com/drive/folders/1JMcsaYRJZjLZbl6nZLlMQxANF3e3nBHA",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Foyer\nFinish as same as Bough bench",
-        "v": {
-          "c": "13-Nov-2025",
-          "a": "",
-          "rm": "Stand and Knobs Dia: 16MM Length: 25MM"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092530",
         "prod": "Hailey",
         "var": "Lumia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251104_154524_553220_Screenshot_2025-11-04_154241.png",
@@ -2905,48 +2800,6 @@
         "fld": "https://drive.google.com/drive/folders/1NjwOrCJXrcOwAX14OA7JAHJst9ys5y09",
         "des": "Atharva Kelkar",
         "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092530",
-        "prod": "Mathilde",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_124049_573061_Screenshot_2025-11-04_124002.png",
-        "cat": "Sofas",
-        "mat": "Sarom Brittany 912 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Sarom Brittany 912 Recron Filling 2 Medium Square Kidney Pillows; Sarom Brittany 912 Recron Filling 2 Small Square Kidney Pillows",
-        "sz": "Outer: 144\" x 37.5\" x 30.7\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1bCfgpSY74fHEjwcKTBCL5Ilk5NPIi3yc",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092530",
-        "prod": "Mathilde",
-        "var": "Serin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_124744_053309_pasted_image_1762240673189.png",
-        "cat": "Sofas",
-        "mat": "Sarom Brittany 912 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Legs; Sarom Brittany 912 Recron Filling 2 Medium Square Kidney Pillows; Sarom Brittany 912 Recron Filling 2 Small Square Kidney Pillows",
-        "sz": "Outer: 96\" x 37.5\" x 30.7\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1kbD0fiCLHh6wDMpmbUCBcTZx873pTkKV",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
@@ -5239,48 +5092,6 @@
     "surat_pvd": [
       {
         "op": "052510",
-        "prod": "Digbet",
-        "var": "Mustang",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 84\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1ifh-4V6VaYub2pSNjYxxPX6HtfzhxSXp",
-        "des": "Tanmay Shah",
-        "dl": "13-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052510",
         "prod": "Eleska",
         "var": "Philia",
         "url": "https://i.ibb.co/cXtRrgmy/image.png",
@@ -5423,27 +5234,6 @@
           "c": "",
           "a": "",
           "rm": "gold pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072521",
-        "prod": "Belcamp",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 14\" x 25\"",
-        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -6966,27 +6756,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area Storage Unit",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "072521",
-        "prod": "Belcamp",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 14\" x 25\"",
-        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -8673,6 +8442,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-16T07:54:34.683Z"
+    "timestamp": "2025-11-16T08:07:27.052Z"
   }
 }
