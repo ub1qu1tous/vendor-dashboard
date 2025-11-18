@@ -6088,6 +6088,27 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
+        "op": "092522",
+        "prod": "Avocado",
+        "var": "Iris",
+        "url": "https://i.ibb.co/K0D2v0p/v13-square.jpg",
+        "cat": "Accent Tables",
+        "mat": "Jacobean Sheesham Top; Rose Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Base",
+        "sz": "Outer: 11.5\" x 11.5\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/folders/1w5E6r52U90mL51i6RsKOmLJi1wF7ToSN",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Avocado - Base, Rod and top assembly."
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
         "op": "102411",
         "prod": "Borough",
         "var": "Harvir",
@@ -8316,6 +8337,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-18T10:52:26.641Z"
+    "timestamp": "2025-11-18T11:07:23.288Z"
   }
 }
