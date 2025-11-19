@@ -2285,6 +2285,48 @@
       },
       {
         "op": "092518",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "09-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092518",
+        "prod": "Brionyx",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
+        "cat": "Room Dividers",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
+        "sz": "Outer: 43\" x 8\" x 102\"",
+        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
+        "des": "Hetvi Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092518",
         "prod": "Calithea",
         "var": "Koan",
         "url": "https://i.ibb.co/9mC79yTd/image.png",
@@ -2322,27 +2364,6 @@
           "c": "14-Nov-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092518",
-        "prod": "Seaweed",
-        "var": "Ivy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250903_102508_111294_Screenshot_2025-09-03_102401.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC HDHMR Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Finish TBC HDHMR Shutter Frame; Finish TBC 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 60\" x 18\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1WTzLQEn0KRSUhLfp7x5KA9MSdXoeLZu8",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Center legs Loose hone chahiye, Aur hollow hone chahiye, Niche se wire upar unit tk pahoch sake aese"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -6135,6 +6156,48 @@
       },
       {
         "op": "092518",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "09-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "092518",
+        "prod": "Brionyx",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
+        "cat": "Room Dividers",
+        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
+        "sz": "Outer: 43\" x 8\" x 102\"",
+        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
+        "des": "Hetvi Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "092518",
         "prod": "Quartzia",
         "var": "Ethel",
         "url": "https://i.ibb.co/PZ0CXbdK/image.png",
@@ -7044,6 +7107,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-19T15:10:24.331Z"
+    "timestamp": "2025-11-19T15:22:30.575Z"
   }
 }
