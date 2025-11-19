@@ -151,27 +151,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krisha Lights"
-      },
-      {
-        "op": "102508",
-        "prod": "Sterling",
-        "var": "Cinnabar",
-        "url": "https://i.ibb.co/BqMD7N1/Whats-App-Image-2023-06-22-at-10-15-29-AM.jpg",
-        "cat": "Lamps",
-        "mat": "Natural Recycled Teak Frame; Clear Pre-woven Rattan Weaving; Black Mild Steel Lamp Fixture; Warm White LED Bulb Light; Natural Recycled Teak Mounting",
-        "sz": "Outer: 39.5\" x 13.5\" x 12\"",
-        "fld": "https://drive.google.com/drive/folders/1uHkyeJqFw78dIc8H569ofdBsGHIb5OXG?usp=drive_open",
-        "des": "Ravi Malladi",
-        "dl": "15-Aug-2023",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krisha Lights"
       }
     ],
     "vipra": [
@@ -8337,6 +8316,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-19T05:54:27.243Z"
+    "timestamp": "2025-11-19T06:07:30.198Z"
   }
 }
