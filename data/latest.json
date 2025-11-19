@@ -2707,6 +2707,27 @@
       },
       {
         "op": "082520",
+        "prod": "Dolphins",
+        "var": "Vor",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250918_175729_032653_Screenshot_2025-09-17_150242.png",
+        "cat": "Dining Tables",
+        "mat": "Black Matt White Ash Top; Black Matt White Ash Base",
+        "sz": "Outer: 72\" x 47\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1w4uvYmKmiQ_41JnopaRVNJtiPLDb2Wsx",
+        "des": "Parthsarthi Suthar",
+        "dl": "29-Oct-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "082520",
         "prod": "Honeysuckle",
         "var": "Evan",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250913_131611_566083_pasted_image_1757749575926.png",
@@ -6939,6 +6960,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-19T09:22:22.729Z"
+    "timestamp": "2025-11-19T09:37:28.640Z"
   }
 }
