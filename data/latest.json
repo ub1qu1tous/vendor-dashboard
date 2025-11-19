@@ -3315,6 +3315,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112520",
+        "prod": "Vespera",
+        "var": "Aera",
+        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 18\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "krishna_furnitech_polish_only": [
@@ -3581,6 +3602,27 @@
         "fld": "https://drive.google.com/drive/folders/1ENSyDyuhlNTmgqwoFYb3vHof15HOFMkf",
         "des": "Tanmay Shah",
         "dl": "14-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "112520",
+        "prod": "Vespera",
+        "var": "Aera",
+        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 18\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
@@ -4638,6 +4680,27 @@
         "des": "Maulik Parmar",
         "dl": "02-Jan-2010",
         "q": 5,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112520",
+        "prod": "Vespera",
+        "var": "Aera",
+        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 18\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -5834,6 +5897,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112520",
+        "prod": "Vespera",
+        "var": "Aera",
+        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 18\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
       }
     ],
     "aarti_steel": [
@@ -6960,6 +7044,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-19T10:22:25.236Z"
+    "timestamp": "2025-11-19T10:39:13.676Z"
   }
 }
