@@ -2195,7 +2195,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Perforated Sheet metal Shutter and Frame"
+          "rm": "Perforated Sheet metal Shutter must be made based on structure made by Vipra and metal Frame can be made first"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -7084,6 +7084,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-20T08:37:42.507Z"
+    "timestamp": "2025-11-20T08:52:29.271Z"
   }
 }
