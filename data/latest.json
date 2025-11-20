@@ -6606,29 +6606,6 @@
         "vendorDisplayName": "Malay Leather Artwork"
       }
     ],
-    "casa_creations": [
-      {
-        "op": "082508",
-        "prod": "Lusk",
-        "var": "Hunter",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_121800_040510_pasted_image_1757573283704.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Black Indian Teak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Armrest; Gold PVD Stainless Steel 304 Matt Leg-Rest; Gold PVD Stainless Steel 304 Matt Accessories",
-        "sz": "Outer: 25\" x 22\" x 43\"",
-        "fld": "https://drive.google.com/drive/folders/1Bsj3ty05bniJ4jm3f88YSQbVFoKl4lcj",
-        "des": "Hetvi Shah",
-        "dl": "14-Sept-2025",
-        "q": 3,
-        "pm": "Smruti Saraiya",
-        "cr": "5.5m Fabric by client\nClient Required Delivery before 11-10-25",
-        "v": {
-          "c": "08-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      }
-    ],
     "mandap": [
       {
         "op": "082510",
@@ -7107,6 +7084,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-20T08:22:30.053Z"
+    "timestamp": "2025-11-20T08:37:42.507Z"
   }
 }
