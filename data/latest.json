@@ -1012,27 +1012,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122415",
-        "prod": "Skyridge",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/35gtNTQj/Whats-App-Image-2025-04-02-at-15-35-02-5923e4dc.jpg",
-        "cat": "Study Tables",
-        "mat": "RAL 7004 Signal Grey HDHMR Top; RAL 7004 Signal Grey HDHMR Drawer Box; RAL 7004 Signal Grey HDHMR Drawer; RAL 7004 Signal Grey HDHMR Legs",
-        "sz": "Outer: 72\" x 24\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1GEl3JGep4i1i0Nidp_hxAbSUrhFiXzK5",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Son Bedroom Study Table",
-        "v": {
-          "c": "20-Sept-2025",
-          "a": "",
-          "rm": "Drawer box and PU work"
-        },
-        "vendorDisplayName": "Vipra"
       }
     ],
     "jain_marble": [
@@ -1243,27 +1222,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "122415",
-        "prod": "Tortoise",
-        "var": "Duran",
-        "url": "https://i.ibb.co/jZqTVB97/0002.jpg",
-        "cat": "Study Tables",
-        "mat": "White Wash Sheesham Structure; White Wash Sheesham Drawer; Mirror Buffing Nano White Quartz Top; Antique Brass Brass Knobs",
-        "sz": "Outer: 61.61\" x 24\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1PlVIyDU3dn_bINPJq7eaJBd8n3vDGwpS",
-        "des": "Hetvi Shah",
-        "dl": "20-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Study Table",
-        "v": {
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": "kailash gurjar"
         },
         "vendorDisplayName": "Jain Marble"
       },
@@ -1772,27 +1730,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122415",
-        "prod": "Skyridge",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/35gtNTQj/Whats-App-Image-2025-04-02-at-15-35-02-5923e4dc.jpg",
-        "cat": "Study Tables",
-        "mat": "RAL 7004 Signal Grey HDHMR Top; RAL 7004 Signal Grey HDHMR Drawer Box; RAL 7004 Signal Grey HDHMR Drawer; RAL 7004 Signal Grey HDHMR Legs",
-        "sz": "Outer: 72\" x 24\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1GEl3JGep4i1i0Nidp_hxAbSUrhFiXzK5",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Son Bedroom Study Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "munshell grey  on round ring"
         },
         "vendorDisplayName": "Royal Powder Coat"
       }
@@ -6916,6 +6853,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-22T09:22:23.345Z"
+    "timestamp": "2025-11-22T09:37:27.166Z"
   }
 }
