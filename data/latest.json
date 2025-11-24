@@ -4950,6 +4950,27 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
+        "op": "082531",
+        "prod": "Elkwood",
+        "var": "Trickle",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250917_164233_170056_pasted_image_1758107557974.png",
+        "cat": "Study Tables",
+        "mat": "Natural Recycled Teak Structure; Natural Recycled Teak Drawer; Natural Recycled Teak Leg-Rest",
+        "sz": "Outer: 48\" x 24\" x 32\";\nLeg-Rest: 43\" x 12\" x 2\"",
+        "fld": "https://drive.google.com/drive/folders/1vvdrT_qlexFVgfeTgwOo_xDTDTjqIRlg",
+        "des": "Hetvi Shah",
+        "dl": "04-Aug-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
         "op": "092522",
         "prod": "Avocado",
         "var": "Iris",
@@ -6853,6 +6874,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-24T05:52:21.882Z"
+    "timestamp": "2025-11-24T06:07:28.704Z"
   }
 }
