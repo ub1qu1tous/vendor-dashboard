@@ -3783,6 +3783,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "112524",
+        "prod": "Butterfly",
+        "var": "Fables",
+        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Peca Sheesham Frame; Arezzo Sherwood Sr No 06 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1FykqIgj7E_6pR_pFS17EZjo9gm4P2Jx1",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
       }
     ],
     "aidan_dudy": [
@@ -4660,6 +4681,27 @@
         "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112524",
+        "prod": "Butterfly",
+        "var": "Fables",
+        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Peca Sheesham Frame; Arezzo Sherwood Sr No 06 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1FykqIgj7E_6pR_pFS17EZjo9gm4P2Jx1",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "c": "",
@@ -6874,6 +6916,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-25T08:37:29.247Z"
+    "timestamp": "2025-11-25T08:58:54.935Z"
   }
 }
