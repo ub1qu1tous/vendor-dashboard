@@ -3191,6 +3191,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "092518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Cylinder\nLength: 470 MM\nDia: 80 MM"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "102505",
         "prod": "Tomatin",
         "var": "Java",
@@ -6916,6 +6937,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-26T07:52:27.848Z"
+    "timestamp": "2025-11-26T08:07:27.307Z"
   }
 }
