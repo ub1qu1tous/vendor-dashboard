@@ -3082,6 +3082,48 @@
           "rm": "Suncity white oak "
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112524",
+        "prod": "Butterfly",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251126_183614_625519_pasted_image_1764162383089.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1d0WNXeZK9aGUAbl5vV8ZQ1utKDJEsFhO",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Frame sample will Provide by us."
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112524",
+        "prod": "Butterfly",
+        "var": "Ewan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251126_183614_625519_pasted_image_1764162383089.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1IgVN_x4LgdsSbDJpf2S9IPKaMJDGRx3a",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Frame sample will Provide by us."
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "vittal_wood_tech": [
@@ -3798,27 +3840,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Parent's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "112524",
-        "prod": "Butterfly",
-        "var": "Fables",
-        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Peca Sheesham Frame; Arezzo Sherwood Sr No 06 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1FykqIgj7E_6pR_pFS17EZjo9gm4P2Jx1",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -4702,27 +4723,6 @@
         "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112524",
-        "prod": "Butterfly",
-        "var": "Fables",
-        "url": "https://i.ibb.co/wwFGmXZ/a0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Peca Sheesham Frame; Arezzo Sherwood Sr No 06 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1FykqIgj7E_6pR_pFS17EZjo9gm4P2Jx1",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Milankumar Mahida",
         "cr": "",
         "v": {
           "c": "",
@@ -6937,6 +6937,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-26T12:55:23.694Z"
+    "timestamp": "2025-11-26T13:22:26.294Z"
   }
 }
