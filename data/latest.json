@@ -2048,7 +2048,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Sirf piche k ball wale leg bnane hai.\n1.5\" dia of ball.\n2 Pcs"
+          "rm": "Aage k Leg 7\" height me bnane he."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -6113,50 +6113,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "srk_readymade_legs": [
-      {
-        "op": "072515",
-        "prod": "Glacierhorn",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_152307_838386_pasted_image_1760521995180.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Champagne SM-402 Stainless Steel 304 Matt Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 90\" x 83\" x 43\", Seat Height: 20\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyani Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "2 Pc\n7\" vala"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "072515",
-        "prod": "Meander",
-        "var": "Endear",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_153057_626976_pasted_image_1760522464278.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Foam Upholstery Headboard; Black Powder Coat Mild Steel Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 79.5\" x 91\" x 43.5\", Seat Height: 18.5\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1bYxZLmBD-NgSctfR3pHbgbptvkcetrrU",
-        "des": "Tanmay Shah",
-        "dl": "16-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      }
-    ],
     "the_art_room": [
       {
         "op": "072515",
@@ -6178,6 +6134,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Art Room"
+      }
+    ],
+    "srk_readymade_legs": [
+      {
+        "op": "072515",
+        "prod": "Meander",
+        "var": "Endear",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_153057_626976_pasted_image_1760522464278.png",
+        "cat": "Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Foam Upholstery Headboard; Black Powder Coat Mild Steel Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 79.5\" x 91\" x 43.5\", Seat Height: 18.5\";\nMattress: 66\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1bYxZLmBD-NgSctfR3pHbgbptvkcetrrU",
+        "des": "Tanmay Shah",
+        "dl": "16-Oct-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
     "manish_marble_jaipur": [
@@ -6937,6 +6916,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-26T13:52:27.333Z"
+    "timestamp": "2025-11-26T14:07:30.899Z"
   }
 }
