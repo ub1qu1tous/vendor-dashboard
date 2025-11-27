@@ -113,48 +113,6 @@
       {
         "op": "032507",
         "prod": "Cloudspire",
-        "var": "Grover",
-        "url": "https://i.ibb.co/SXm1XRFj/v05.jpg",
-        "cat": "Wardrobes",
-        "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass; RAL 1013 Oyster White HDHMR Shutter; Extra Clear 5mm Glass Mirror",
-        "sz": "Outer: 118.7\" x 24\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/1JcVcxhlmom3-zUehAfJfr_kzLIzg29uD",
-        "des": "Hetvi Shah",
-        "dl": "18-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Wardrobe",
-        "v": {
-          "c": "05-Nov-2025",
-          "a": "",
-          "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Cloudspire",
-        "var": "Insignia",
-        "url": "https://i.ibb.co/HprHMM1F/v02.jpg",
-        "cat": "Wardrobes",
-        "mat": "SCS Internal Laminate 9682 16mm Plywood Carcass; SCS Internal Laminate 9682 16mm Plywood Internal Carcass; RAL 1013 Oyster White HDHMR Shutter; Clear 5mm Glass Drawer; Natural Day Light (NDL) LED Light Niche",
-        "sz": "Outer: 116.45\" x 24\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/17N-Q32jz9uvN61hXNq-rd2gT_ojOKwbF",
-        "des": "Hetvi Shah",
-        "dl": "15-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Wardrobe",
-        "v": {
-          "c": "05-Nov-2025",
-          "a": "",
-          "rm": "Carcass: 28-Aug-2025;\nShutter: 15-Sep-2025"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Cloudspire",
         "var": "Roxie",
         "url": "https://i.ibb.co/Z9mpr7z/Whats-App-Image-2025-05-17-at-10-51-04-8b6ee196.jpg",
         "cat": "Wardrobes",
@@ -737,27 +695,6 @@
           "c": "07-Oct-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "092520",
-        "prod": "Rosenfeld",
-        "var": "Finch",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
-        "cat": "Nightstands",
-        "mat": "Natural Burma Border Teak Carcass; Natural Burma Border Teak Legs",
-        "sz": "Outer: 24\" x 16.14\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "polish work, and drawer making"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6685,6 +6622,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-27T11:23:03.203Z"
+    "timestamp": "2025-11-27T11:37:31.123Z"
   }
 }
