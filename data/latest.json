@@ -175,48 +175,6 @@
       },
       {
         "op": "032507",
-        "prod": "Granora",
-        "var": "Macy",
-        "url": "https://i.ibb.co/PGxD7ydt/0002.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Mirror Buffing Nano White Quartz Top; Rich Tobacco Sheesham Structure; Black Matt Laminate Carcass; Dyed Leather 16mm Plywood Panel; Antique Black Brass Hardware; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; Deluxe-71 Tan Fabric 16mm Plywood Drawer Fascia",
-        "sz": "Outer: 72\" x 30\" x 42\"",
-        "fld": "https://drive.google.com/drive/folders/11j5FHqrkz8aFAshEk6Qh5cOpgwuDwf9W",
-        "des": "Hetvi Shah",
-        "dl": "08-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Bar Counter",
-        "v": {
-          "c": "10-Nov-2025",
-          "a": "",
-          "rm": "internal carcass with shutters and drawer\nblack matt laminate, V groove handle for opening, Internal laminate gothic grey"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Morpho",
-        "var": "Evan",
-        "url": "https://i.ibb.co/XxpWKt1r/image.png",
-        "cat": "Dressers",
-        "mat": "White Wash Sheesham Veneer Carcass; SCS 9482 Laminate Internal Carcass; Finish TBC 17mm MDF Drawer",
-        "sz": "Outer: 36\" x 24\" x 22\"",
-        "fld": "https://drive.google.com/drive/folders/1h3GN5QeKtubyyo_xzAM6yErf5Enqipx3",
-        "des": "Dilip Jangir",
-        "dl": "15-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Dresser Unit",
-        "v": {
-          "c": "20-Nov-2025",
-          "a": "",
-          "rm": "PU on shutters, "
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
         "prod": "Morpho",
         "var": "Klingon",
         "url": "https://i.ibb.co/7xGvck4F/img66.jpg",
@@ -239,27 +197,6 @@
       {
         "op": "032507",
         "prod": "Oare",
-        "var": "Bullion",
-        "url": "https://i.ibb.co/1Ys1xZm5/img103.jpg",
-        "cat": "Mirrors",
-        "mat": "RAL 9010 Pure White Sheesham Frame; Extra Clear 5mm Glass Mirror",
-        "sz": "Outer: 36\" x 2\" x 48\"",
-        "fld": "https://drive.google.com/drive/folders/1bM-SlX3WP4Ep5iu6zrVFTG3Y1Gj6tR43",
-        "des": "Dilip Jangir",
-        "dl": "28-Apr-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter's Dressing Mirror",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Oare",
         "var": "Livia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251027_131844_629340_pasted_image_1761551332281.png",
         "cat": "Wardrobes",
@@ -271,27 +208,6 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Daughter's Dressing Wardrobe",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Oare",
-        "var": "Mist",
-        "url": "https://i.ibb.co/qYW1DVY3/img94.jpg",
-        "cat": "Dressers",
-        "mat": "RAL 9010 Pure White HDHMR Carcass; SCS 9482 Laminate Internal Carcass; SCS 9482 Laminate Drawer Internal",
-        "sz": "Outer: 36\" x 13.75\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1wnodk1w5giByo1EEsqCHikoMRhzD-rWU",
-        "des": "Dilip Jangir",
-        "dl": "28-Apr-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter's Dressing Dresser Unit",
         "v": {
           "c": "15-Nov-2025",
           "a": "",
@@ -930,49 +846,72 @@
         "vendorDisplayName": "Vipra"
       }
     ],
-    "jain_marble": [
+    "tunes_hardware": [
       {
         "op": "032507",
-        "prod": "Granora",
-        "var": "Macy",
-        "url": "https://i.ibb.co/PGxD7ydt/0002.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Mirror Buffing Nano White Quartz Top; Rich Tobacco Sheesham Structure; Black Matt Laminate Carcass; Dyed Leather 16mm Plywood Panel; Antique Black Brass Hardware; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; Deluxe-71 Tan Fabric 16mm Plywood Drawer Fascia",
-        "sz": "Outer: 72\" x 30\" x 42\"",
-        "fld": "https://drive.google.com/drive/folders/11j5FHqrkz8aFAshEk6Qh5cOpgwuDwf9W",
-        "des": "Hetvi Shah",
-        "dl": "08-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Home Theater Bar Counter",
-        "v": {
-          "c": "25-Jun-2025",
-          "a": "",
-          "rm": "nano white work by kailash"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "032507",
-        "prod": "Oare",
-        "var": "Mist",
-        "url": "https://i.ibb.co/qYW1DVY3/img94.jpg",
-        "cat": "Dressers",
-        "mat": "RAL 9010 Pure White HDHMR Carcass; SCS 9482 Laminate Internal Carcass; SCS 9482 Laminate Drawer Internal",
-        "sz": "Outer: 36\" x 13.75\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1wnodk1w5giByo1EEsqCHikoMRhzD-rWU",
+        "prod": "Morpho",
+        "var": "Klingon",
+        "url": "https://i.ibb.co/7xGvck4F/img66.jpg",
+        "cat": "Wardrobes",
+        "mat": "White Wash Sheesham Veneer Carcass; SCS 9482 Laminate Internal Carcass; Finish TBC HDHMR Shutter; SCS 9482 Laminate Niche; Warm White LED Light Light",
+        "sz": "Outer: 96\" x 24\" x 118.1\"",
+        "fld": "https://drive.google.com/drive/folders/1nJs1oVlp9OaSj9zw4wTh0nz_lOUPcPjQ",
         "des": "Dilip Jangir",
-        "dl": "28-Apr-2025",
+        "dl": "17-May-2025",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "Daughter's Dressing Dresser Unit",
+        "cr": "Daughter Bedroom Wardrobe",
         "v": {
-          "c": "25-Jun-2025",
+          "c": "",
           "a": "",
-          "rm": "nano white"
+          "rm": "antique  Brass handles"
         },
-        "vendorDisplayName": "Jain Marble"
+        "vendorDisplayName": "Tunes Hardware"
       },
+      {
+        "op": "092507",
+        "prod": "Ayana",
+        "var": "Faani",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_111341_916335_Screenshot_2025-09-30_111112.png",
+        "cat": "Nightstands",
+        "mat": "Jacobean Sheesham Carcass; Jacobean Sheesham Drawer; Black Powder Coat Aluminium Profile Handle",
+        "sz": "Outer: 20\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 4,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Tunes Hardware"
+      },
+      {
+        "op": "092507",
+        "prod": "Valencia",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_112347_656303_Screenshot_2025-09-30_112238.png",
+        "cat": "Wardrobes",
+        "mat": "Jacobean Sheesham Veneer Carcass; Jacobean Sheesham Base; Black Powder Coat Mild Steel Handle; Jacobean Sheesham Veneer Shutter; Jacobean Sheesham Veneer Drawer Fascia; Finish TBC Laminate Internal Carcass",
+        "sz": "Outer: 48\" x 24\" x 96\";\nBase: 42\" x 18\" x 7\"",
+        "fld": "https://drive.google.com/drive/folders/1QINQzBGuKKbNC8VCIFN9U6uAiY5Ty3qW",
+        "des": "Parthsarthi Suthar",
+        "dl": "04-Oct-2025",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Tunes Hardware"
+      }
+    ],
+    "jain_marble": [
       {
         "op": "032507",
         "prod": "Squid",
@@ -1161,92 +1100,6 @@
           "rm": "kailash gurjar"
         },
         "vendorDisplayName": "Jain Marble"
-      }
-    ],
-    "tunes_hardware": [
-      {
-        "op": "032507",
-        "prod": "Morpho",
-        "var": "Klingon",
-        "url": "https://i.ibb.co/7xGvck4F/img66.jpg",
-        "cat": "Wardrobes",
-        "mat": "White Wash Sheesham Veneer Carcass; SCS 9482 Laminate Internal Carcass; Finish TBC HDHMR Shutter; SCS 9482 Laminate Niche; Warm White LED Light Light",
-        "sz": "Outer: 96\" x 24\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/1nJs1oVlp9OaSj9zw4wTh0nz_lOUPcPjQ",
-        "des": "Dilip Jangir",
-        "dl": "17-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Wardrobe",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "antique  Brass handles"
-        },
-        "vendorDisplayName": "Tunes Hardware"
-      },
-      {
-        "op": "032507",
-        "prod": "Oare",
-        "var": "Mist",
-        "url": "https://i.ibb.co/qYW1DVY3/img94.jpg",
-        "cat": "Dressers",
-        "mat": "RAL 9010 Pure White HDHMR Carcass; SCS 9482 Laminate Internal Carcass; SCS 9482 Laminate Drawer Internal",
-        "sz": "Outer: 36\" x 13.75\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1wnodk1w5giByo1EEsqCHikoMRhzD-rWU",
-        "des": "Dilip Jangir",
-        "dl": "28-Apr-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter's Dressing Dresser Unit",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Tunes Hardware"
-      },
-      {
-        "op": "092507",
-        "prod": "Ayana",
-        "var": "Faani",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_111341_916335_Screenshot_2025-09-30_111112.png",
-        "cat": "Nightstands",
-        "mat": "Jacobean Sheesham Carcass; Jacobean Sheesham Drawer; Black Powder Coat Aluminium Profile Handle",
-        "sz": "Outer: 20\" x 16\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 4,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Tunes Hardware"
-      },
-      {
-        "op": "092507",
-        "prod": "Valencia",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250930_112347_656303_Screenshot_2025-09-30_112238.png",
-        "cat": "Wardrobes",
-        "mat": "Jacobean Sheesham Veneer Carcass; Jacobean Sheesham Base; Black Powder Coat Mild Steel Handle; Jacobean Sheesham Veneer Shutter; Jacobean Sheesham Veneer Drawer Fascia; Finish TBC Laminate Internal Carcass",
-        "sz": "Outer: 48\" x 24\" x 96\";\nBase: 42\" x 18\" x 7\"",
-        "fld": "https://drive.google.com/drive/folders/1QINQzBGuKKbNC8VCIFN9U6uAiY5Ty3qW",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 2,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Tunes Hardware"
       }
     ],
     "royal_powder_coat": [
@@ -6832,6 +6685,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-27T11:07:24.280Z"
+    "timestamp": "2025-11-27T11:23:03.203Z"
   }
 }
