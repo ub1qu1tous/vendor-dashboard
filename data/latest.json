@@ -720,6 +720,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092518",
+        "prod": "Calithea",
+        "var": "Koan",
+        "url": "https://i.ibb.co/9mC79yTd/image.png",
+        "cat": "Media Consoles",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
+        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
+        "des": "Hetvi Shah",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Laminate box with Push to open Drawer"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "102412",
         "prod": "Mosaic",
         "var": "Beatrix",
@@ -2955,7 +2976,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Drawers"
+          "rm": "Please follow Video Instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -5757,6 +5778,27 @@
       },
       {
         "op": "092518",
+        "prod": "Breeze",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
+        "cat": "Bar Cabinets",
+        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
+        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
+        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
+        "des": "Hetvi Shah",
+        "dl": "09-Sept-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "092518",
         "prod": "Brionyx",
         "var": "Hyde",
         "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
@@ -6158,7 +6200,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Make light part that is connected with leather strap"
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Ashok Polish"
       }
@@ -6643,6 +6685,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-28T13:37:22.308Z"
+    "timestamp": "2025-11-28T13:53:22.793Z"
   }
 }
