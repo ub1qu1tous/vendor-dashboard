@@ -2009,27 +2009,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "112513",
-        "prod": "Hayley",
-        "var": "Erik",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125752_302813_pasted_image_1763018882245.png",
-        "cat": "Benches",
-        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 54\" x 20\" x 18\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ENSyDyuhlNTmgqwoFYb3vHof15HOFMkf",
-        "des": "Tanmay Shah",
-        "dl": "14-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "krishna_furnitech": [
@@ -5775,27 +5754,6 @@
           "rm": "black pvd"
         },
         "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "112513",
-        "prod": "Hayley",
-        "var": "Erik",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125752_302813_pasted_image_1763018882245.png",
-        "cat": "Benches",
-        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 54\" x 20\" x 18\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ENSyDyuhlNTmgqwoFYb3vHof15HOFMkf",
-        "des": "Tanmay Shah",
-        "dl": "14-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
       }
     ],
     "the_art_room": [
@@ -6538,6 +6496,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-29T09:07:24.442Z"
+    "timestamp": "2025-11-29T09:22:24.373Z"
   }
 }
