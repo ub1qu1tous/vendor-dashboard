@@ -742,6 +742,27 @@
       },
       {
         "op": "102412",
+        "prod": "Expanse",
+        "var": "Faani",
+        "url": "https://i.ibb.co/7JX7q9LW/0002.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "SCS Internal Laminate 9552 16mm Plywood Carcass; Dark Shade-03 (102413) Teak Veneer Shutter Frame; Extra Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Powder Coat Mild Steel Handle; SCS Internal Laminate 9552 16mm Plywood Internal Carcass",
+        "sz": "Outer: 74.8\" x 24.21\" x 103.54\"",
+        "fld": "https://drive.google.com/drive/folders/1YmOYpaXTiiO0yUBb6ckpI1YdShPRzjdK",
+        "des": "Amish Parmar",
+        "dl": "28-Mar-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Dining Room Crockery Unit Full Height Shutter ; Wooden shutters till 7.5 feet\nPU finish shutters from 7.5 feet till the ceiling",
+        "v": {
+          "c": "15-Sept-2025",
+          "a": "",
+          "rm": "12/6/2025 - Dispatch carcass\n30/6/2025 - Dispatch Shutter"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "102412",
         "prod": "Mosaic",
         "var": "Beatrix",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250717_132432_535726_0002.jpg",
@@ -6496,6 +6517,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-11-29T10:22:28.491Z"
+    "timestamp": "2025-11-29T10:37:26.015Z"
   }
 }
