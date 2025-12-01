@@ -1822,6 +1822,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072521",
+        "prod": "Kabra",
+        "var": "Queck",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250725_174122_918788_WhatsApp_Image_2023-11-28_at_1_03_00_PM__1_.jpeg",
+        "cat": "Accessories",
+        "mat": "Gold PVD Stainless Steel 304 Matt Structure",
+        "sz": "Outer: 1\" x 1\" x 66\"",
+        "fld": "https://drive.google.com/drive/folders/1xN0YvzxOtLGwyxCD3RzvnwDyUVLI9w0C",
+        "des": "Rohan Parmar",
+        "dl": "27-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082412",
         "prod": "Earthhaven",
         "var": "Mobi",
@@ -5525,6 +5546,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "072521",
+        "prod": "Kabra",
+        "var": "Queck",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250725_174122_918788_WhatsApp_Image_2023-11-28_at_1_03_00_PM__1_.jpeg",
+        "cat": "Accessories",
+        "mat": "Gold PVD Stainless Steel 304 Matt Structure",
+        "sz": "Outer: 1\" x 1\" x 66\"",
+        "fld": "https://drive.google.com/drive/folders/1xN0YvzxOtLGwyxCD3RzvnwDyUVLI9w0C",
+        "des": "Rohan Parmar",
+        "dl": "27-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "072528",
         "prod": "Arcadia",
         "var": "Fynn",
@@ -6475,6 +6517,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-01T12:54:13.598Z"
+    "timestamp": "2025-12-01T13:07:30.725Z"
   }
 }
