@@ -1754,7 +1754,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "\"SVJ Gold Matt PVD\""
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -1796,7 +1796,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Aage k Leg 7\" height me bnane he."
+          "rm": "\"SVJ Gold Matt PVD\"\nAage k Leg 7\" height me bnane he."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -5484,27 +5484,6 @@
     "surat_pvd": [
       {
         "op": "072515",
-        "prod": "Canoe",
-        "var": "Ryson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; Champagne SM-402 Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
@@ -5517,27 +5496,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area Storage Unit",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072515",
-        "prod": "Glint",
-        "var": "Cello",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
-        "cat": "Dining Chairs",
-        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Finish TBC Stainless Steel 304 Matt Accessories",
-        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
         "v": {
           "c": "",
           "a": "",
@@ -5795,7 +5753,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "\"SVJ Gold Matt PVD\""
         },
         "vendorDisplayName": "The Art Room"
       }
@@ -6517,6 +6475,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-01T10:07:32.098Z"
+    "timestamp": "2025-12-01T10:22:23.890Z"
   }
 }
