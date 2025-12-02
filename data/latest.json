@@ -2516,27 +2516,6 @@
       },
       {
         "op": "092530",
-        "prod": "Carnaroli",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251030_121745_452151_pasted_image_1761806873762.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Harvest Sheesham Structure; Black Powder Coat Mild Steel Base; Harvest Sheesham Shutter Panel; Black Powder Coat Mild Steel Knobs",
-        "sz": "Outer: 72\" x 16\" x 32\"",
-        "fld": "https://drive.google.com/drive/folders/1JMcsaYRJZjLZbl6nZLlMQxANF3e3nBHA",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Foyer\nFinish as same as Bough bench",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Need to Match Polish with Bough Fynn (Bench), It is a shoe rack so Internal shelves must be made in slope as shown in 2D."
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092530",
         "prod": "Hailey",
         "var": "Lumia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251104_154524_553220_Screenshot_2025-11-04_154241.png",
@@ -2674,7 +2653,7 @@
         "dl": "20-Feb-2025",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "Office Office Table",
+        "cr": "Office Table",
         "v": {
           "c": "19-Sept-2025",
           "a": "",
@@ -5670,27 +5649,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "092518",
-        "prod": "Steapa",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
-        "sz": "Outer: 18\" x 18\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
-        "des": "Parth Gada",
-        "dl": "20-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "30-Nov-2025",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -6517,6 +6475,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-02T11:37:30.363Z"
+    "timestamp": "2025-12-02T11:52:26.664Z"
   }
 }
