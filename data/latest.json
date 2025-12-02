@@ -2138,6 +2138,27 @@
       },
       {
         "op": "082412",
+        "prod": "Efron",
+        "var": "Stafford",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251119_122001_896126_pasted_image_1763535010273.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Foam Upholstery 1 Centre Cushion; Fabric TBC Leatherette Mounting",
+        "sz": "Outer: 33\" x 28\" x 33\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WdB7FHrie0G0IziRNkvYad6LNQebB9M4",
+        "des": "Tanmay Shah",
+        "dl": "02-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "082412",
         "prod": "Eminiq",
         "var": "Vitara",
         "url": "https://i.ibb.co/jkpwgZB7/image.png",
@@ -2174,7 +2195,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "2 Simpolio rakhni hai, each side"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -2216,7 +2237,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "With Platform"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3744,6 +3765,27 @@
       },
       {
         "op": "082412",
+        "prod": "Efron",
+        "var": "Stafford",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251119_122001_896126_pasted_image_1763535010273.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Foam Upholstery 1 Centre Cushion; Fabric TBC Leatherette Mounting",
+        "sz": "Outer: 33\" x 28\" x 33\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WdB7FHrie0G0IziRNkvYad6LNQebB9M4",
+        "des": "Tanmay Shah",
+        "dl": "02-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082412",
         "prod": "Eminiq",
         "var": "Vitara",
         "url": "https://i.ibb.co/jkpwgZB7/image.png",
@@ -3780,7 +3822,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Lining only"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -5028,6 +5070,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "082412",
+        "prod": "Efron",
+        "var": "Stafford",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251119_122001_896126_pasted_image_1763535010273.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Foam Upholstery 1 Centre Cushion; Fabric TBC Leatherette Mounting",
+        "sz": "Outer: 33\" x 28\" x 33\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WdB7FHrie0G0IziRNkvYad6LNQebB9M4",
+        "des": "Tanmay Shah",
+        "dl": "02-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -6454,6 +6517,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-02T09:07:27.325Z"
+    "timestamp": "2025-12-02T09:22:29.220Z"
   }
 }
