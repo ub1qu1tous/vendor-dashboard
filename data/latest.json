@@ -2347,27 +2347,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "082525",
-        "prod": "Citadel",
-        "var": "Drake",
-        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
-        "cat": "Swings",
-        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
-        "sz": "Outer: 60\" x 24\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
-        "des": "Hetvi Shah",
-        "dl": "25-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "092507",
         "prod": "Abyss",
         "var": "Elyss",
@@ -6039,6 +6018,27 @@
         "vendorDisplayName": "Mandap"
       },
       {
+        "op": "082510",
+        "prod": "Walkins",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_112723_660407_pasted_image_1756792646711.png",
+        "cat": "Accent Tables",
+        "mat": "Suncity White Oak Top; HOF Grey M2140-HB Mild Steel Base",
+        "sz": "Outer: 16\" x 15\" x 23\"",
+        "fld": "https://drive.google.com/drive/folders/114iEQ6ylN48h_K61EjyRbg47_iH8QiFl",
+        "des": "Tanmay Shah",
+        "dl": "29-Aug-2025",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
         "op": "082520",
         "prod": "Boyle",
         "var": "Nycia",
@@ -6433,6 +6433,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-03T07:52:50.996Z"
+    "timestamp": "2025-12-03T08:07:28.986Z"
   }
 }
