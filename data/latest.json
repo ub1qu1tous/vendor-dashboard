@@ -3279,27 +3279,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "102411",
-        "prod": "Desert",
-        "var": "Resol",
-        "url": "https://i.ibb.co/B3yPzHm/Screenshot-2024-11-14-182535.png",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Marble TBC Top; Natural Teak Veneer Carcass; SCS 9672 16mm Plywood Internal Carcass",
-        "sz": "Outer: 108\" x 24\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1r-___d7sSVzu4RZLx6eD6nD-qqhm4dcf",
-        "des": "Hetvi Shah",
-        "dl": "30-Mar-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Media Console",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "marble corner repair work will be carried out by Kailashbhai"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "102416",
         "prod": "Goliath",
         "var": "Esquire",
@@ -6433,6 +6412,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-03T10:37:31.645Z"
+    "timestamp": "2025-12-03T10:52:26.081Z"
   }
 }
