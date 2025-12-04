@@ -133,27 +133,6 @@
     "vipra": [
       {
         "op": "032507",
-        "prod": "Cloudspire",
-        "var": "Roxie",
-        "url": "https://i.ibb.co/Z9mpr7z/Whats-App-Image-2025-05-17-at-10-51-04-8b6ee196.jpg",
-        "cat": "Wardrobes",
-        "mat": " Aluminium Profile Shutter; RAL 1013 Oyster White HDHMR Niche",
-        "sz": "Outer: \" x \" x \"",
-        "fld": "https://drive.google.com/drive/folders/11UYsCaVa2wOwx7TF5R3FlSZAB6C7u3il",
-        "des": "Hetvi Shah",
-        "dl": "14-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Wardrobe",
-        "v": {
-          "c": "05-Nov-2025",
-          "a": "",
-          "rm": "Shutter: 15-Sep-2025"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
         "prod": "Rosef",
         "var": "Nycia",
         "url": "https://i.ibb.co/xqFdQL56/Screenshot-2025-04-03-182150.png",
@@ -6244,6 +6223,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-04T14:22:31.492Z"
+    "timestamp": "2025-12-04T14:44:17.607Z"
   }
 }
