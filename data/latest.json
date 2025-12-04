@@ -2578,6 +2578,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "112504",
+        "prod": "Belcamp",
+        "var": "Hunter",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_181709_749901_pasted_image_1763988440699.png",
+        "cat": "Coffee Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Finish TBC White Oak Base",
+        "sz": "Outer: 37\" x 22.5\" x 13.5\"",
+        "fld": "https://drive.google.com/drive/folders/1aGvnGX0xAVpNaaEBvVMyblo-AOxTNybP",
+        "des": "Tanmay Shah",
+        "dl": "01-Dec-2001",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "112524",
         "prod": "Butterfly",
         "var": "Ethel",
@@ -6286,6 +6307,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-04T06:52:27.734Z"
+    "timestamp": "2025-12-04T07:07:26.962Z"
   }
 }
