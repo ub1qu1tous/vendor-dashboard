@@ -641,7 +641,7 @@
         "var": "Koan",
         "url": "https://i.ibb.co/9mC79yTd/image.png",
         "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
         "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
         "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
         "des": "Hetvi Shah",
@@ -1084,7 +1084,7 @@
         "var": "Koan",
         "url": "https://i.ibb.co/9mC79yTd/image.png",
         "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
         "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
         "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
         "des": "Hetvi Shah",
@@ -1825,7 +1825,7 @@
         "var": "Koan",
         "url": "https://i.ibb.co/9mC79yTd/image.png",
         "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
         "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
         "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
         "des": "Hetvi Shah",
@@ -1836,7 +1836,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Black powdercoat"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -2648,7 +2648,7 @@
         "var": "Koan",
         "url": "https://i.ibb.co/9mC79yTd/image.png",
         "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Grey Powder Coat Mild Steel Base",
+        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
         "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
         "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
         "des": "Hetvi Shah",
@@ -4276,27 +4276,6 @@
         "vendorDisplayName": "Nishant CNC"
       },
       {
-        "op": "072521",
-        "prod": "Belcamp",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 14\" x 25\"",
-        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
         "op": "102411",
         "prod": "Driftbloom",
         "var": "Livia",
@@ -4358,6 +4337,27 @@
           "c": "",
           "a": "",
           "rm": "Fitting of Knob and Buffer"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "072521",
+        "prod": "Belcamp",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251029_140650_134491_pasted_image_1761727018187.png",
+        "cat": "Accent Tables",
+        "mat": "Black Matt PU HDHMR Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 20\" x 14\" x 25\"",
+        "fld": "https://drive.google.com/drive/folders/1Ohhxth9mFBHAByTOv5yu47M9YDX-Soxu",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Chhoturam"
       },
@@ -6244,6 +6244,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-05T05:27:16.418Z"
+    "timestamp": "2025-12-05T05:37:30.774Z"
   }
 }
