@@ -2545,14 +2545,56 @@
         "sz": "Outer: 37\" x 22.5\" x 13.5\"",
         "fld": "https://drive.google.com/drive/folders/1aGvnGX0xAVpNaaEBvVMyblo-AOxTNybP",
         "des": "Tanmay Shah",
-        "dl": "01-Dec-2001",
+        "dl": "03-Dec-2025",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "09-Dec-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Marble and base"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112504",
+        "prod": "Belcamp",
+        "var": "Irina",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_181820_865885_pasted_image_1763988512081.png",
+        "cat": "Coffee Tables",
+        "mat": "Mirror Buffing Carrara Statuario Top; Finish TBC White Oak Base",
+        "sz": "Outer: 31.5\" x 19\" x 10\"",
+        "fld": "https://drive.google.com/drive/folders/1TntZqmfxsenE2ZKiGd5dzM2B--Op_S1H",
+        "des": "Tanmay Shah",
+        "dl": "03-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "09-Dec-2025",
+          "a": "",
+          "rm": "Marble and base"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112504",
+        "prod": "Deakins",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_182406_398998_pasted_image_1762433654552.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Matt Sheesham Base",
+        "sz": "Outer: 54\" x 54\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1AIH8eZI1x6AQwHEleQIP1fsulRFI4Gx6",
+        "des": "Tanmay Shah",
+        "dl": "03-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "09-Dec-2025",
+          "a": "",
+          "rm": "baswada white top mirror buffing, 50mm skirting in bottom, 34mm top thickness"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -2679,6 +2721,27 @@
         "cr": "Dining Area;\n6 Drawers",
         "v": {
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112504",
+        "prod": "Deakins",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_182406_398998_pasted_image_1762433654552.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Matt Sheesham Base",
+        "sz": "Outer: 54\" x 54\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1AIH8eZI1x6AQwHEleQIP1fsulRFI4Gx6",
+        "des": "Tanmay Shah",
+        "dl": "03-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "08-Dec-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2935,6 +2998,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "112504",
+        "prod": "Deakins",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_182406_398998_pasted_image_1762433654552.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Matt Sheesham Base",
+        "sz": "Outer: 54\" x 54\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1AIH8eZI1x6AQwHEleQIP1fsulRFI4Gx6",
+        "des": "Tanmay Shah",
+        "dl": "03-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "09-Dec-2025",
+          "a": "",
+          "rm": "black matt base finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -6244,6 +6328,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-05T09:22:30.915Z"
+    "timestamp": "2025-12-05T09:43:28.934Z"
   }
 }
