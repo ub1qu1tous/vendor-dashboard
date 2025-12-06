@@ -953,27 +953,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "072515",
-        "prod": "Nireva",
-        "var": "Stringer",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_142641_384396_Screenshot_2025-09-22_140550.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Leather Strap Accessories; Black Powder Coat Mild Steel Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 79\" x 89\" x 40\", Seat Height: 19\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1kTDH_GHgc8bqmEA2EAYyCrzYyWsiShjE",
-        "des": "Hetvi Shah",
-        "dl": "16-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "082412",
         "prod": "Reganza",
         "var": "Eunio",
@@ -1606,27 +1585,6 @@
           "c": "",
           "a": "",
           "rm": "\"SVJ Gold Matt PVD\"\nAage k Leg 7\" height me bnane he."
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072515",
-        "prod": "Nireva",
-        "var": "Stringer",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_142641_384396_Screenshot_2025-09-22_140550.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Fabric TBC Leather Strap Accessories; Black Powder Coat Mild Steel Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 79\" x 89\" x 40\", Seat Height: 19\";\nMattress: 72\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1kTDH_GHgc8bqmEA2EAYyCrzYyWsiShjE",
-        "des": "Hetvi Shah",
-        "dl": "16-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -6349,6 +6307,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-06T13:07:25.819Z"
+    "timestamp": "2025-12-06T13:22:28.943Z"
   }
 }
