@@ -153,21 +153,21 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "032507",
+        "op": "122506",
         "prod": "Silva",
-        "var": "Yurick",
+        "var": "Ziva",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251127_104157_842298_pasted_image_1764220329236.png",
         "cat": "Storage Cabinets",
         "mat": "RAL 7004 Signal Grey HDHMR Shelf; RAL 8004 Copper Brown HDHMR Shutter",
-        "sz": "Outer: 35.98\" x 18\" x 40.98\"",
-        "fld": "https://drive.google.com/drive/folders/1eRpwRtRQ4x0V4XrOluXFiqIgupS1XyEr",
+        "sz": "Outer: 42\" x 18\" x 67.51\"",
+        "fld": "https://drive.google.com/drive/folders/1_KLVkvS31ez_p5rHtkLN8iA3wHhOLBfK",
         "des": "Tanmay Shah",
-        "dl": "15-May-2025",
+        "dl": "28-Dec-2025",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Son Bedroom Storage Unit",
         "v": {
-          "c": "15-Feb-2025",
+          "c": "20-Dec-2025",
           "a": "",
           "rm": "Product is  wall hanging , keep this thing in your mind while making "
         },
@@ -2660,6 +2660,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "1 piece pending"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -6328,6 +6349,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-06T05:54:43.754Z"
+    "timestamp": "2025-12-06T06:42:23.422Z"
   }
 }
