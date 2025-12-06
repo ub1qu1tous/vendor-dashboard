@@ -1737,27 +1737,6 @@
       },
       {
         "op": "092518",
-        "prod": "Breeze",
-        "var": "Nova",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
-        "cat": "Bar Cabinets",
-        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
-        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
-        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
-        "des": "Hetvi Shah",
-        "dl": "09-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092518",
         "prod": "Brionyx",
         "var": "Hyde",
         "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
@@ -5421,27 +5400,6 @@
       },
       {
         "op": "092518",
-        "prod": "Breeze",
-        "var": "Nova",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250912_164128_818094_Screenshot_2025-09-12_163901.png",
-        "cat": "Bar Cabinets",
-        "mat": "Satin Metallic PU HDHMR Structure; Extra Clear 10mm Glass Shelf; Gold PVD Stainless Steel 304 Matt Frame; Dyed Leather Leather Strap Mounting; White Acrylic Solid Surface Light; Warm White Flexible LED Lamp Fitting; Finish TBC 16mm Plywood Skirting",
-        "sz": "Outer: 60\" x 18\" x 57\";\nCarcass: 60\" x 18\" x 26\"",
-        "fld": "https://drive.google.com/drive/folders/1yriNuIxvFZHyeAUWQVqicUDKuDOZBMNc",
-        "des": "Hetvi Shah",
-        "dl": "09-Sept-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "092518",
         "prod": "Brionyx",
         "var": "Hyde",
         "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
@@ -6307,6 +6265,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-06T13:22:28.943Z"
+    "timestamp": "2025-12-06T13:37:27.233Z"
   }
 }
