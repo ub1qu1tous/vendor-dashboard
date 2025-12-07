@@ -995,48 +995,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "082520",
-        "prod": "Naas",
-        "var": "Nycia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110926_548867_Screenshot_2025-09-16_110744.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1dgkbHQqKcNym4R24Est-rLsgMl9DpPVu",
-        "des": "Tanmay Shah",
-        "dl": "12-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "082520",
-        "prod": "Naas",
-        "var": "Yukon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110941_640064_Screenshot_2025-09-16_110507.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 27.5\" x 27.5\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1O5Ad1Kf6EbOu0tdjEs8mKuDW1WJ8vs6M",
-        "des": "Tanmay Shah",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "092416",
         "prod": "Decker",
         "var": "Yoku",
@@ -1605,7 +1563,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "2 pipe delivered and 2 pending"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -1653,27 +1611,6 @@
       },
       {
         "op": "082412",
-        "prod": "Reganza",
-        "var": "Eunio",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
-        "cat": "Media Consoles",
-        "mat": "SCS 0015 16mm Plywood Carcass; Clear Perforated Sheet Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 60\" x 18\" x 28.5\"",
-        "fld": "https://drive.google.com/drive/folders/1JjcI0mWq6wExXIWg2uXBc3wnyeJuoGiK",
-        "des": "Hetvi Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Perforated Sheet metal Shutter must be made based on structure made by Vipra and metal Frame can be made first"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082412",
         "prod": "Richie",
         "var": "Junior",
         "url": "https://i.ibb.co/KcKLHPy6/image.png",
@@ -1715,27 +1652,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "082520",
-        "prod": "Naas",
-        "var": "Yukon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110941_640064_Screenshot_2025-09-16_110507.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 27.5\" x 27.5\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1O5Ad1Kf6EbOu0tdjEs8mKuDW1WJ8vs6M",
-        "des": "Tanmay Shah",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "092518",
         "prod": "Brionyx",
         "var": "Hyde",
@@ -1753,27 +1669,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092518",
-        "prod": "Calithea",
-        "var": "Koan",
-        "url": "https://i.ibb.co/9mC79yTd/image.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
-        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
-        "des": "Hetvi Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black powdercoat"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -6265,6 +6160,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-07T09:22:32.291Z"
+    "timestamp": "2025-12-07T09:37:27.993Z"
   }
 }
