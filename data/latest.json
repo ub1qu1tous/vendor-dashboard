@@ -3997,27 +3997,6 @@
         "vendorDisplayName": "Shital Glass"
       },
       {
-        "op": "072313",
-        "prod": "Lazvero",
-        "var": "Stella",
-        "url": "https://i.ibb.co/ZRKcnkny/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Natural Recycled Teak Structure; Natural Recycled Teak Shutter Frame; Black Tinted 6mm Glass Shutter Panel; Natural Recycled Teak Drawer",
-        "sz": "Outer: 76\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1J8JghL_0H4sCl_jaqaoAtIJv2KaUBBkZ",
-        "des": "Tanmay Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Media Console",
-        "v": {
-          "c": "15-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Shital Glass"
-      },
-      {
         "op": "092518",
         "prod": "Seaweed",
         "var": "Ivy",
@@ -6160,6 +6139,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-08T09:22:26.612Z"
+    "timestamp": "2025-12-08T09:37:34.226Z"
   }
 }
