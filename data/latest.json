@@ -954,48 +954,6 @@
       },
       {
         "op": "072515",
-        "prod": "Cassi",
-        "var": "Bullion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_154304_528372_Screenshot_2025-08-22_154132.png",
-        "cat": "Benches",
-        "mat": "Black Powder Coat Mild Steel Structure; Fabric TBC Ply & Foam Upholstery Seat; Natural White Oak Inlay; Finish TBC Foam Upholstery Bolster; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 57\" x 29.5\" x 23\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1MsSANNbF8beKCnX6DCIT7ZczfrPWn-SY",
-        "des": "Hetvi Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "072515",
-        "prod": "Cassi",
-        "var": "Bullion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_154304_528372_Screenshot_2025-08-22_154132.png",
-        "cat": "Benches",
-        "mat": "Black Powder Coat Mild Steel Structure; Fabric TBC Ply & Foam Upholstery Seat; Natural White Oak Inlay; Finish TBC Foam Upholstery Bolster; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 57\" x 29.5\" x 23\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1MsSANNbF8beKCnX6DCIT7ZczfrPWn-SY",
-        "des": "Hetvi Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "072515",
         "prod": "Esmira",
         "var": "Idris",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251029_175829_563853_Screenshot_2025-10-29_175800.png",
@@ -5340,6 +5298,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "072515",
+        "prod": "Glacierhorn",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_152307_838386_pasted_image_1760521995180.png",
+        "cat": "Beds",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; SVJ Champagne Gold 102 Stainless Steel 304 Matt Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 90\" x 83\" x 43\", Seat Height: 20\";\nMattress: 66\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyani Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Champigon pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "072518",
         "prod": "Olyra",
         "var": "Dion",
@@ -6330,6 +6309,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-09T13:52:46.287Z"
+    "timestamp": "2025-12-09T14:10:27.097Z"
   }
 }
