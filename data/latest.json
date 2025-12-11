@@ -615,27 +615,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "052510",
-        "prod": "Pomfret",
-        "var": "Muvil",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_165114_739870_pasted_image_1762428084378.png",
-        "cat": "Nightstands",
-        "mat": "Mirror Buffing Opal White Top; ICA MATT 15 (Black) HDHMR Carcass; SCS RZ 5129 RS 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; ICA MATT 15 (Black) HDHMR Drawer Fascia",
-        "sz": "Outer: 21\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
-        "des": "Hetvi Shah",
-        "dl": "28-Aug-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "21-Nov-2025",
-          "a": "",
-          "rm": "drawer making only"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "072512",
         "prod": "Aetheris",
         "var": "Dyson",
@@ -1012,27 +991,6 @@
           "c": "",
           "a": "",
           "rm": "black powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052510",
-        "prod": "Pomfret",
-        "var": "Muvil",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_165114_739870_pasted_image_1762428084378.png",
-        "cat": "Nightstands",
-        "mat": "Mirror Buffing Opal White Top; ICA MATT 15 (Black) HDHMR Carcass; SCS RZ 5129 RS 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; ICA MATT 15 (Black) HDHMR Drawer Fascia",
-        "sz": "Outer: 21\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
-        "des": "Hetvi Shah",
-        "dl": "28-Aug-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "04-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -4255,29 +4213,6 @@
         "vendorDisplayName": "Ashok Polish"
       }
     ],
-    "baba_marble": [
-      {
-        "op": "052510",
-        "prod": "Pomfret",
-        "var": "Muvil",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_165114_739870_pasted_image_1762428084378.png",
-        "cat": "Nightstands",
-        "mat": "Mirror Buffing Opal White Top; ICA MATT 15 (Black) HDHMR Carcass; SCS RZ 5129 RS 16mm Plywood Internal Carcass; Black Powder Coat Mild Steel Base; ICA MATT 15 (Black) HDHMR Drawer Fascia",
-        "sz": "Outer: 21\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1--gXiaPMLqcMmSUsw0Xi13JH7L0bXAm6",
-        "des": "Hetvi Shah",
-        "dl": "28-Aug-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "11-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Baba Marble"
-      }
-    ],
     "nishant_cnc": [
       {
         "op": "062505",
@@ -6309,6 +6244,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-11T09:37:25.040Z"
+    "timestamp": "2025-12-11T09:55:33.281Z"
   }
 }
