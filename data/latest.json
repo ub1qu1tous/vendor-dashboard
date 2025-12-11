@@ -3006,27 +3006,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "112513",
-        "prod": "Hayley",
-        "var": "Erik",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125752_302813_pasted_image_1763018882245.png",
-        "cat": "Benches",
-        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 54\" x 20\" x 18\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ENSyDyuhlNTmgqwoFYb3vHof15HOFMkf",
-        "des": "Tanmay Shah",
-        "dl": "14-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "112520",
         "prod": "Vespera",
         "var": "Aera",
@@ -3256,27 +3235,6 @@
           "c": "09-Dec-2025",
           "a": "",
           "rm": "black matt base finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "112513",
-        "prod": "Hayley",
-        "var": "Erik",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125752_302813_pasted_image_1763018882245.png",
-        "cat": "Benches",
-        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 54\" x 20\" x 18\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ENSyDyuhlNTmgqwoFYb3vHof15HOFMkf",
-        "des": "Tanmay Shah",
-        "dl": "14-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -4178,6 +4136,27 @@
         "des": "Maulik Parmar",
         "dl": "02-Jan-2010",
         "q": 5,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112513",
+        "prod": "Hayley",
+        "var": "Erik",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251113_125752_302813_pasted_image_1763018882245.png",
+        "cat": "Benches",
+        "mat": "Natural White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 54\" x 20\" x 18\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ENSyDyuhlNTmgqwoFYb3vHof15HOFMkf",
+        "des": "Tanmay Shah",
+        "dl": "14-Nov-2025",
+        "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -6435,6 +6414,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-11T06:07:30.753Z"
+    "timestamp": "2025-12-11T06:22:31.751Z"
   }
 }
