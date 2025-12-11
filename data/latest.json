@@ -2332,6 +2332,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "082413",
+        "prod": "Thunderbolt",
+        "var": "Mili",
+        "url": "https://i.ibb.co/Sw34WdHF/0002.jpg",
+        "cat": "Media Consoles",
+        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Oak Veneer Shutter; Mirror Buffing Albester White Marble Top; Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 60\" x 16\" x 25.5\"",
+        "fld": "https://drive.google.com/drive/folders/1y3jc6OlA5cOW5WZPCbphk2TOXblZTJ7I",
+        "des": "Tanmay Shah",
+        "dl": "30-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082520",
         "prod": "Dolphins",
         "var": "Vor",
@@ -6034,6 +6055,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-11T11:52:49.613Z"
+    "timestamp": "2025-12-11T12:07:45.178Z"
   }
 }
