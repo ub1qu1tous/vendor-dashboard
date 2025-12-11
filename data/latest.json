@@ -2943,48 +2943,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "092518",
-        "prod": "Calithea",
-        "var": "Koan",
-        "url": "https://i.ibb.co/9mC79yTd/image.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
-        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
-        "des": "Hetvi Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092518",
-        "prod": "Myqora",
-        "var": "Eulogy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
-        "cat": "Console Tables",
-        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
-        "sz": "Outer: 72\" x 19.5\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
-        "des": "Tanmay Shah",
-        "dl": "24-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area;\n6 Drawers",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "112504",
         "prod": "Deakins",
         "var": "Brittany",
@@ -3172,27 +3130,6 @@
           "c": "",
           "a": "",
           "rm": "Peca Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "102505",
-        "prod": "Tomatin",
-        "var": "Java",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251112_184908_571968_pasted_image_1762953558218.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Natural White Oak Backrest; Natural White Oak Base",
-        "sz": "Outer: 23.62\" x 20.08\" x 24.02\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/18ucgqMf_17ZRgYTDr4f9-kN8rM-bhAev",
-        "des": "Tanmay Shah",
-        "dl": "12-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -4033,27 +3970,6 @@
         "q": 1,
         "pm": "Rohan Parmar",
         "cr": "Vandan Patelʼs Bedroom Bench ; Seating bench with backrest attached to the wall",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "102505",
-        "prod": "Tomatin",
-        "var": "Java",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251112_184908_571968_pasted_image_1762953558218.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Natural White Oak Backrest; Natural White Oak Base",
-        "sz": "Outer: 23.62\" x 20.08\" x 24.02\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/18ucgqMf_17ZRgYTDr4f9-kN8rM-bhAev",
-        "des": "Tanmay Shah",
-        "dl": "12-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -6236,27 +6152,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "102505",
-        "prod": "Tomatin",
-        "var": "Java",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251112_184908_571968_pasted_image_1762953558218.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Natural White Oak Backrest; Natural White Oak Base",
-        "sz": "Outer: 23.62\" x 20.08\" x 24.02\", Seat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/18ucgqMf_17ZRgYTDr4f9-kN8rM-bhAev",
-        "des": "Tanmay Shah",
-        "dl": "12-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "112502",
         "prod": "Hylos",
         "var": "Oliver",
@@ -6414,6 +6309,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-11T09:07:31.818Z"
+    "timestamp": "2025-12-11T09:22:30.208Z"
   }
 }
