@@ -4060,6 +4060,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112524",
+        "prod": "Butterfly",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251126_183614_625519_pasted_image_1764162383089.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1d0WNXeZK9aGUAbl5vV8ZQ1utKDJEsFhO",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Seat"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112524",
+        "prod": "Butterfly",
+        "var": "Ewan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251126_183614_625519_pasted_image_1764162383089.png",
+        "cat": "Dining Chairs",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 21.5\" x 22\" x 31.5\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1IgVN_x4LgdsSbDJpf2S9IPKaMJDGRx3a",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Seat"
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "shital_glass": [
@@ -6055,6 +6097,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-12T10:52:25.265Z"
+    "timestamp": "2025-12-12T11:07:36.885Z"
   }
 }
