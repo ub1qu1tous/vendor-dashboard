@@ -1593,27 +1593,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "072515",
-        "prod": "Epidote",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/1mG2HjR/killian-double-bed-by-porada-1-1.jpg",
-        "cat": "Beds",
-        "mat": "Finish TBC White Ash Structure; Musri Usiku 526 Ply & Foam Upholstery Headboard; SVJ Champagne Gold 102 Stainless Steel 304 Matt Legs; Gold PVD Stainless Steel 304 Matt Mounting; SVJ Champagne Gold 102 Stainless Steel 304 Matt Frame (Side Table); Brown Tinted 8mm Glass Top",
-        "sz": "Outer: 108\" x 83\" x 45\", Seat Height: 22\";\nMattress: 72\" x 75\" x 8\";\nHeadboard: 108\" x 3.25\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1eYc-cZ16HT00ZRQWXrb0u9Va5Vzbks1C",
-        "des": "Hetvi Shah",
-        "dl": "09-Jan-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "082413",
         "prod": "Phantom",
         "var": "Jaguar",
@@ -5992,6 +5971,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-12T12:58:42.135Z"
+    "timestamp": "2025-12-12T13:11:31.315Z"
   }
 }
