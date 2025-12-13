@@ -1077,27 +1077,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "092518",
-        "prod": "Calithea",
-        "var": "Koan",
-        "url": "https://i.ibb.co/9mC79yTd/image.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
-        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
-        "des": "Hetvi Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "kamlesh_jangid": [
@@ -2412,27 +2391,6 @@
           "c": "",
           "a": "",
           "rm": "will send fabric for the seat."
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092518",
-        "prod": "Calithea",
-        "var": "Koan",
-        "url": "https://i.ibb.co/9mC79yTd/image.png",
-        "cat": "Media Consoles",
-        "mat": "Finish TBC 16mm Plywood Carcass; Finish TBC 16mm Plywood Drawer Fascia; Black Matt Oak Veneer Back Panel; Black Matt Oak Veneer Panel; Black Matt White Oak Mounting; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 86.61\" x 19.69\" x 19.09\"",
-        "fld": "https://drive.google.com/drive/folders/1t_HEbf8isWx29Lo8FyhTDxL2U45OcAs_",
-        "des": "Hetvi Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Sheesham Drawer Box"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -5908,6 +5866,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-13T12:07:26.560Z"
+    "timestamp": "2025-12-13T12:22:26.768Z"
   }
 }
