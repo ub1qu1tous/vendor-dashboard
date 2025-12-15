@@ -1035,6 +1035,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "112516",
+        "prod": "Dorothy",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Jacobean Sheesham Top; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 16\" x 16\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1bfzM1oaC7cdqsi7nON7sVDXkpSTBKTGm",
+        "des": "Tarishi Rathore",
+        "dl": "28-Dec-2021",
+        "q": 3,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "kamlesh_jangid": [
@@ -1612,6 +1633,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "112516",
+        "prod": "Dorothy",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Jacobean Sheesham Top; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 16\" x 16\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1bfzM1oaC7cdqsi7nON7sVDXkpSTBKTGm",
+        "des": "Tarishi Rathore",
+        "dl": "28-Dec-2021",
+        "q": 3,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "3 tops and 1 frames ready, make one"
+        },
+        "vendorDisplayName": "AWS"
       }
     ],
     "arbuda_metal": [
@@ -1839,6 +1881,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112516",
+        "prod": "Dorothy",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Jacobean Sheesham Top; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 16\" x 16\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1bfzM1oaC7cdqsi7nON7sVDXkpSTBKTGm",
+        "des": "Tarishi Rathore",
+        "dl": "28-Dec-2021",
+        "q": 3,
+        "pm": "Amish Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -5549,6 +5612,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-15T09:07:48.988Z"
+    "timestamp": "2025-12-15T09:22:35.483Z"
   }
 }
