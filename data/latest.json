@@ -111,27 +111,6 @@
     ],
     "vipra": [
       {
-        "op": "032507",
-        "prod": "Rosef",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/xqFdQL56/Screenshot-2025-04-03-182150.png",
-        "cat": "Wardrobes",
-        "mat": "Pale Green RAL 6021 16mm Plywood Carcass; SCS 9482 Laminate Internal Carcass; Pale Green RAL 6021 16mm Plywood Shutter; Pale Green RAL 6021 16mm Plywood Drawer Box",
-        "sz": "Outer: 96\" x 24\" x 118.1\"",
-        "fld": "https://drive.google.com/drive/folders/1OaY9FPjQTjAd2Mad8d44-7BxX3uH5IbC",
-        "des": "Hetvi Shah",
-        "dl": "23-Apr-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Parents Bedroom Wardrobe",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "122506",
         "prod": "Silva",
         "var": "Ziva",
@@ -5570,6 +5549,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-15T07:52:27.050Z"
+    "timestamp": "2025-12-15T08:07:30.562Z"
   }
 }
