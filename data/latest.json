@@ -258,7 +258,7 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "112516",
+        "op": "122519",
         "prod": "Dorothy",
         "var": "Ivy",
         "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
@@ -269,7 +269,7 @@
         "des": "Tarishi Rathore",
         "dl": "28-Dec-2021",
         "q": 3,
-        "pm": "Amish Parmar",
+        "pm": "",
         "cr": "",
         "v": {
           "c": "",
@@ -1635,7 +1635,7 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "112516",
+        "op": "122519",
         "prod": "Dorothy",
         "var": "Ivy",
         "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
@@ -1646,7 +1646,7 @@
         "des": "Tarishi Rathore",
         "dl": "28-Dec-2021",
         "q": 3,
-        "pm": "Amish Parmar",
+        "pm": "",
         "cr": "",
         "v": {
           "c": "",
@@ -1889,7 +1889,7 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "112516",
+        "op": "122519",
         "prod": "Dorothy",
         "var": "Ivy",
         "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
@@ -1900,7 +1900,7 @@
         "des": "Tarishi Rathore",
         "dl": "28-Dec-2021",
         "q": 3,
-        "pm": "Amish Parmar",
+        "pm": "",
         "cr": "",
         "v": {
           "c": "",
@@ -5612,6 +5612,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-15T13:07:35.372Z"
+    "timestamp": "2025-12-15T13:28:07.529Z"
   }
 }
