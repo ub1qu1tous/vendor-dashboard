@@ -195,27 +195,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "082412",
-        "prod": "Reganza",
-        "var": "Eunio",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
-        "cat": "Media Consoles",
-        "mat": "SCS 0015 16mm Plywood Carcass; Clear Perforated Sheet Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 60\" x 18\" x 28.5\"",
-        "fld": "https://drive.google.com/drive/folders/1JjcI0mWq6wExXIWg2uXBc3wnyeJuoGiK",
-        "des": "Hetvi Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "082520",
         "prod": "Honeysuckle",
         "var": "Evan",
@@ -1489,27 +1468,6 @@
       },
       {
         "op": "082412",
-        "prod": "Earthhaven",
-        "var": "Mobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
-        "sz": "Outer: 22\" x 22\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
@@ -1606,48 +1564,6 @@
         "q": 1,
         "pm": "Amish Parmar",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092518",
-        "prod": "Brionyx",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
-        "cat": "Room Dividers",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
-        "sz": "Outer: 43\" x 8\" x 102\"",
-        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
-        "des": "Hetvi Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092518",
-        "prod": "Quartzia",
-        "var": "Ethel",
-        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 18\" x 18\" x 22\"",
-        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -4620,27 +4536,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "082412",
-        "prod": "Earthhaven",
-        "var": "Mobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
-        "sz": "Outer: 22\" x 22\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "surat_pvd": [
@@ -4763,48 +4658,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "092518",
-        "prod": "Brionyx",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
-        "cat": "Room Dividers",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
-        "sz": "Outer: 43\" x 8\" x 102\"",
-        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
-        "des": "Hetvi Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "092518",
-        "prod": "Quartzia",
-        "var": "Ethel",
-        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 18\" x 18\" x 22\"",
-        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -5021,27 +4874,6 @@
         "q": 2,
         "pm": "Amish Parmar",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "092518",
-        "prod": "Quartzia",
-        "var": "Ethel",
-        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 18\" x 18\" x 22\"",
-        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -5462,27 +5294,6 @@
     "the_lighting_studio": [
       {
         "op": "092518",
-        "prod": "Brionyx",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/k2X8t7bF/image.jpg",
-        "cat": "Room Dividers",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; White Blow Glass Lamp Fixture; Black Tinted Blow Glass Accessories; Clear Blow Glass Accessories; Natural Day Light (NDL) LED Bulb Light",
-        "sz": "Outer: 43\" x 8\" x 102\"",
-        "fld": "https://drive.google.com/drive/folders/1eA-QgZNtUs2NWIY4KJyZaRt-oCnmYYMT",
-        "des": "Hetvi Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Please follow Video Instructions"
-        },
-        "vendorDisplayName": "The Lighting Studio"
-      },
-      {
-        "op": "092518",
         "prod": "Zeyora",
         "var": "Balk",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250719_151520_158390_Screenshot_2025-07-19_151355.png",
@@ -5528,6 +5339,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-17T09:09:58.210Z"
+    "timestamp": "2025-12-17T09:24:36.412Z"
   }
 }
