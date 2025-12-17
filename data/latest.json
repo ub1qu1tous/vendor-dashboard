@@ -1594,6 +1594,27 @@
       },
       {
         "op": "112504",
+        "prod": "Deakins",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_182406_398998_pasted_image_1762433654552.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Banswada White Top; Black Matt Sheesham Base",
+        "sz": "Outer: 54\" x 54\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1AIH8eZI1x6AQwHEleQIP1fsulRFI4Gx6",
+        "des": "Tanmay Shah",
+        "dl": "03-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "08-Dec-2025",
+          "a": "",
+          "rm": "LASER-CUT PLATE WITH COUNTER 4MM MS"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112504",
         "prod": "Shaw",
         "var": "Ansel",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251125_124521_544315_pasted_image_1764054933191.png",
@@ -1607,9 +1628,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "08-Dec-2025",
           "a": "",
-          "rm": "MS black powdercoated frame 25mm x 100mm"
+          "rm": "MS black powdercoated frame 25mm x 75mm"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -2645,27 +2666,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "112504",
-        "prod": "Deakins",
-        "var": "Brittany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_182406_398998_pasted_image_1762433654552.png",
-        "cat": "Dining Tables",
-        "mat": "Mirror Buffing Banswada White Top; Black Matt Sheesham Base",
-        "sz": "Outer: 54\" x 54\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1AIH8eZI1x6AQwHEleQIP1fsulRFI4Gx6",
-        "des": "Tanmay Shah",
-        "dl": "03-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Dec-2025",
-          "a": "",
-          "rm": "black matt base finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -5507,6 +5507,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-17T14:09:29.253Z"
+    "timestamp": "2025-12-17T14:22:31.477Z"
   }
 }
