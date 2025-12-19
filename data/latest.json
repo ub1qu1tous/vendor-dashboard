@@ -1124,7 +1124,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "1. Black Laminated Shelf\n2. Qty: 3 Pcs\n3. Edge Bend all sides"
+          "rm": "1. Black Laminated Shelf\n2. Qty: 6 Pcs for 2 Nightstands\n3. Edge Bend all sides"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -1145,7 +1145,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "carcass with Shelves"
+          "rm": "Carcass with Shelves\n(Shutters are in the scope of Arbuda)"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -1166,7 +1166,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU Only"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -1441,7 +1441,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "HOLD"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -5507,6 +5507,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-19T08:52:27.981Z"
+    "timestamp": "2025-12-19T09:07:21.545Z"
   }
 }
