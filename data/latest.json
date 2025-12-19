@@ -3136,27 +3136,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "082520",
-        "prod": "Coolock",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251106_152508_862056_pasted_image_1762422916987.png",
-        "cat": "Dining Chairs",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 25\" x 24\" x 31\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1KEyCzAu63GZyTF_Y2ehD6wMd5CqfA6CG",
-        "des": "Tanmay Shah",
-        "dl": "05-Sept-2025",
-        "q": 6,
-        "pm": "Amish Parmar",
-        "cr": "AWS will provide ply and foam structure Lining work will be done by client himself as it is Leather;\r\nMetal base with powder coating will be provided by AWS",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "082525",
         "prod": "Citadel",
         "var": "Drake",
@@ -5507,6 +5486,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-19T09:22:33.877Z"
+    "timestamp": "2025-12-19T09:37:21.194Z"
   }
 }
