@@ -112,6 +112,27 @@
     "krishna_furnitech": [
       {
         "op": "022503",
+        "prod": "Chelsea",
+        "var": "Avelli",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140903_961056_pasted_image_1763973554316.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Natural American Walnut Structure; Fabric TBC Ply & Foam Upholstery Seat; Black Powder Coat Mild Steel Leg-Rest",
+        "sz": "Outer: 16.5\" x 19.7\" x 40.1\", Seat Height: 31.1\"",
+        "fld": "https://drive.google.com/drive/folders/12whYbasYkxQ5fKIs9H3O88-BzhJuynwS",
+        "des": "Tanmay Shah",
+        "dl": "20-Dec-2025",
+        "q": 3,
+        "pm": "Rohan Parmar",
+        "cr": "Fabric Will Provide By Client.\nBar Area",
+        "v": {
+          "c": "15-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022503",
         "prod": "Stedika",
         "var": "Quill",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251128_160447_389555_pasted_image_1764326100210.png",
@@ -889,6 +910,27 @@
       }
     ],
     "aidan_dudy": [
+      {
+        "op": "022503",
+        "prod": "Chelsea",
+        "var": "Avelli",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140903_961056_pasted_image_1763973554316.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Natural American Walnut Structure; Fabric TBC Ply & Foam Upholstery Seat; Black Powder Coat Mild Steel Leg-Rest",
+        "sz": "Outer: 16.5\" x 19.7\" x 40.1\", Seat Height: 31.1\"",
+        "fld": "https://drive.google.com/drive/folders/12whYbasYkxQ5fKIs9H3O88-BzhJuynwS",
+        "des": "Tanmay Shah",
+        "dl": "20-Dec-2025",
+        "q": 3,
+        "pm": "Rohan Parmar",
+        "cr": "Fabric Will Provide By Client.\nBar Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
       {
         "op": "022503",
         "prod": "Stedika",
@@ -5654,6 +5696,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-20T11:52:25.343Z"
+    "timestamp": "2025-12-20T12:07:24.336Z"
   }
 }
