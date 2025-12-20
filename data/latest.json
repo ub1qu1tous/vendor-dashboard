@@ -1381,6 +1381,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "122503",
+        "prod": "Bayts",
+        "var": "Baltic",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251209_111712_854219_pasted_image_1765259246267.png",
+        "cat": "Console Tables",
+        "mat": "Merino 40214 Sky Marble 16mm Plywood Carcass; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; Smoke Grey White Oak Legs; Smoke Grey White Oak Knobs",
+        "sz": "Outer: 78\" x 15\" x 39\"",
+        "fld": "https://drive.google.com/drive/folders/1sFrcT-rLod1x26lMp6uNV_iIeaszJgsJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Without Marble Top",
+        "v": {
+          "c": "02-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122506",
         "prod": "Silva",
         "var": "Ziva",
@@ -1421,27 +1442,6 @@
           "c": "25-Sept-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052510",
-        "prod": "Ornelle",
-        "var": "Myntra",
-        "url": "https://i.ibb.co/RkpXnmHP/Screenshot-2025-05-29-155006.png",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Foam Upholstery Accessories; Oak Laminate 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 75\" x 80\" x 8\", Seat Height: 18\";\nMattress: 72\" x 78\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/1KqkYvb2-Z8jBaeOLpvrUwGQXX8ETnm3Y",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "HOLD"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -2347,6 +2347,27 @@
           "c": "",
           "a": "",
           "rm": "Frame sample will Provide by us."
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122503",
+        "prod": "Bayts",
+        "var": "Baltic",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251209_111712_854219_pasted_image_1765259246267.png",
+        "cat": "Console Tables",
+        "mat": "Merino 40214 Sky Marble 16mm Plywood Carcass; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; Smoke Grey White Oak Legs; Smoke Grey White Oak Knobs",
+        "sz": "Outer: 78\" x 15\" x 39\"",
+        "fld": "https://drive.google.com/drive/folders/1sFrcT-rLod1x26lMp6uNV_iIeaszJgsJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "Without Marble Top",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Oak wood Knobs and Leg"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -5486,6 +5507,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-20T06:52:23.896Z"
+    "timestamp": "2025-12-20T07:07:56.253Z"
   }
 }
