@@ -3083,7 +3083,7 @@
         "v": {
           "c": "21-Dec-2025",
           "a": "",
-          "rm": "handle cap dia from parth bhai jodhpur, 2 pcs in matt ss champagne pvd"
+          "rm": "handle cap dia 41mmjodhpur, 2 pcs in brass matt with loose 8mm stud"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3209,7 +3209,7 @@
         "v": {
           "c": "08-Dec-2025",
           "a": "",
-          "rm": "LASER-CUT PLATE WITH COUNTER 4MM MS"
+          "rm": "LASER-CUT PLATE counter  work for center holes "
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4725,176 +4725,6 @@
         "vendorDisplayName": "Aavaran"
       }
     ],
-    "surat_pvd": [
-      {
-        "op": "072515",
-        "prod": "Glacierhorn",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_152307_838386_pasted_image_1760521995180.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; SVJ Champagne Gold 102 Stainless Steel 304 Matt Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 90\" x 83\" x 43\", Seat Height: 20\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyani Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "SVJ Champigon pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072518",
-        "prod": "Olyra",
-        "var": "Dion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110510_886630_pasted_image_1758000917231.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
-        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
-        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
-        "des": "Parthsarthi Suthar",
-        "dl": "26-Jul-2025",
-        "q": 4,
-        "pm": "Maulik Parmar",
-        "cr": "3.5 metre fabric from client (4 Chairs)",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "gold pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072528",
-        "prod": "Arcadia",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/rvv7fYv/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Sarrom (Milano) Amber SRN 111 Ply & Foam Upholstery Structure; Sarrom (Milano)- Rambo SRN 111  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 37\" x 31\" x 31.5\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1wTe_-6su-GfRebtmkbdSk-2r7d9eu79I",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "072528",
-        "prod": "Arcadia",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/3vJK6dm/0002-10.jpg",
-        "cat": "Sofas",
-        "mat": "Sarrom (Luke) SRN 119  Ply & Foam Upholstery Structure; Sarrom (Luke) SRN 119  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
-        "sz": "Outer: 78\" x 32\" x 31\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1KrydcS2qX7UYTN65nNRw10unMhGLtdIK",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082412",
-        "prod": "Richie",
-        "var": "Junior",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_104512_096642_0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Legs; Azco Glamour 738 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
-        "des": "Hetvi Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082412",
-        "prod": "Verve",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_160723_756674_pasted_image_1759574250488.png",
-        "cat": "Nightstands",
-        "mat": "Finish TBC Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia Frame; Clear 5mm Fluted/Reeded/Ribbed Glass Drawer Fascia Panel; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 22\" x 16\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jSHSe8W3lnTbMlOL_z4nzYXOPmc_zIZz",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "102411",
-        "prod": "Citadel",
-        "var": "Drake",
-        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
-        "cat": "Swings",
-        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
-        "sz": "Outer: 60\" x 24\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
-        "des": "Hetvi Shah",
-        "dl": "25-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Swing; Reversible Back-rest",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "102416",
-        "prod": "Fluke",
-        "var": "Trickle",
-        "url": "https://i.ibb.co/Wv42rJ5k/0001.jpg",
-        "cat": "Nightstands",
-        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Black PVD Stainless Steel 304 Matt Frame; Finish TBC HDHMR Drawer Fascia; Black PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 18\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1O1p33V3FA7V_MfRjoXMc7PTh190CH4ws",
-        "des": "Hetvi Shah",
-        "dl": "12-Jan-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "black pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      }
-    ],
     "srk_readymade_legs": [
       {
         "op": "072515",
@@ -5216,6 +5046,155 @@
         "vendorDisplayName": "Client/Fabric"
       }
     ],
+    "surat_pvd": [
+      {
+        "op": "072518",
+        "prod": "Olyra",
+        "var": "Dion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110510_886630_pasted_image_1758000917231.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Gold PVD Stainless Steel 304 Matt Leg-Rest",
+        "sz": "Outer: 20\" x 21\" x 40.5\", Seat Height: 30.5\"",
+        "fld": "https://drive.google.com/drive/folders/17enSgSGbepbRkCbLoyTzqbmHKUdgh-bu",
+        "des": "Parthsarthi Suthar",
+        "dl": "26-Jul-2025",
+        "q": 4,
+        "pm": "Maulik Parmar",
+        "cr": "3.5 metre fabric from client (4 Chairs)",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "gold pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072528",
+        "prod": "Arcadia",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/rvv7fYv/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Sarrom (Milano) Amber SRN 111 Ply & Foam Upholstery Structure; Sarrom (Milano)- Rambo SRN 111  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 37\" x 31\" x 31.5\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1wTe_-6su-GfRebtmkbdSk-2r7d9eu79I",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072528",
+        "prod": "Arcadia",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/3vJK6dm/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Sarrom (Luke) SRN 119  Ply & Foam Upholstery Structure; Sarrom (Luke) SRN 119  Foam Upholstery Outside Back; Gold PVD Stainless Steel 304 Matt Frame; Gold PVD Stainless Steel 304 Matt Fixture; Black Powder Coat Mild Steel Legs; Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 78\" x 32\" x 31\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1KrydcS2qX7UYTN65nNRw10unMhGLtdIK",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "082412",
+        "prod": "Richie",
+        "var": "Junior",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_104512_096642_0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Legs; Azco Glamour 738 Ply & Foam Upholstery Structure; Gold PVD Stainless Steel 304 Matt Mounting",
+        "sz": "Outer: 28.5\" x 24\" x 28.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Ld9dDwb7xNFjc72ZAyObrPcMBF-e-hXH",
+        "des": "Hetvi Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "082412",
+        "prod": "Verve",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_160723_756674_pasted_image_1759574250488.png",
+        "cat": "Nightstands",
+        "mat": "Finish TBC Marble TBC Top; Finish TBC HDHMR Carcass; Finish TBC HDHMR Drawer Fascia Frame; Clear 5mm Fluted/Reeded/Ribbed Glass Drawer Fascia Panel; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 22\" x 16\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1jSHSe8W3lnTbMlOL_z4nzYXOPmc_zIZz",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "102411",
+        "prod": "Citadel",
+        "var": "Drake",
+        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
+        "cat": "Swings",
+        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
+        "sz": "Outer: 60\" x 24\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
+        "des": "Hetvi Shah",
+        "dl": "25-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Swing; Reversible Back-rest",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "102416",
+        "prod": "Fluke",
+        "var": "Trickle",
+        "url": "https://i.ibb.co/Wv42rJ5k/0001.jpg",
+        "cat": "Nightstands",
+        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Black PVD Stainless Steel 304 Matt Frame; Finish TBC HDHMR Drawer Fascia; Black PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 20\" x 18\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1O1p33V3FA7V_MfRjoXMc7PTh190CH4ws",
+        "des": "Hetvi Shah",
+        "dl": "12-Jan-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "black pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      }
+    ],
     "umang_glass_elements": [
       {
         "op": "082412",
@@ -5503,6 +5482,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-21T08:42:29.641Z"
+    "timestamp": "2025-12-21T08:57:59.016Z"
   }
 }
