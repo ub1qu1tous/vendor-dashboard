@@ -238,48 +238,6 @@
       },
       {
         "op": "072515",
-        "prod": "Amaranth",
-        "var": "Ewan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_183831_314376_pasted_image_1760360918575.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Black Matt Sheesham Carcass; SVJ Champagne Gold 102 Stainless Steel 304 Matt Base; Black Matt Sheesham Shutter; Black Matt Sheesham Drawer Fascia; SVJ Champagne Gold 102 Stainless Steel 304 Matt Handle",
-        "sz": "Outer: 48\" x 15\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1ZANiPc-sEt1rtTY-Djm4Oon1GtRNwskt",
-        "des": "Tanmay Shah",
-        "dl": "31-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072515",
-        "prod": "Canoe",
-        "var": "Ryson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; SVJ Champagne Gold 102 Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Before diwali needed"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072515",
         "prod": "Cassi",
         "var": "Bullion",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250822_154304_528372_Screenshot_2025-08-22_154132.png",
@@ -338,27 +296,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "072515",
-        "prod": "Silvera",
-        "var": "Hue",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
-        "cat": "Sofas",
-        "mat": "Black Matt Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Finish TBC Foam Upholstery Backrest; Fabric TBC Recron Filling 5 Cushions",
-        "sz": "Outer: 96\" x 36\" x 31\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/16rai4tbKEGhQCFOpUo6o_KLYeiY303yA",
-        "des": "Tanmay Shah",
-        "dl": "16-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1136,48 +1073,6 @@
         "cr": "Living Room",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072516",
-        "prod": "Pastel",
-        "var": "Robin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_160336_900106_pasted_image_1757586821571.png",
-        "cat": "Beds",
-        "mat": "Black Powder Coat Mild Steel Frame; Fabric TBC Ply & Foam Upholstery Headboard; Black Powder Coat Mild Steel Posters; Black Powder Coat Mild Steel Canopy; Fabric TBC Recron Filling 2 Large Rectangular Kidney Pillows",
-        "sz": "Outer: 79\" x 82.5\" x 82.5\"",
-        "fld": "https://drive.google.com/drive/folders/1gebFU8pnonWiW56iDMgu5BbqmsimnPEW",
-        "des": "Dilip Jangir",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "9 metre fabric from client",
-        "v": {
-          "c": "24-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072516",
-        "prod": "Petal",
-        "var": "Haydn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250905_164701_900114_pasted_image_1757071025511.png",
-        "cat": "Benches",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 59\" x 17.5\" x 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1kRBcCLLzrerSwDyeoOiwbo5QSeunv18P",
-        "des": "Dilip Jangir",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "1.5 metre fabric from client",
-        "v": {
-          "c": "24-Oct-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1977,7 +1872,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "23-Dec-2025",
           "a": "",
           "rm": "BLACK MATT "
         },
@@ -3142,7 +3037,7 @@
         "pm": "Dilip Jangir",
         "cr": "Son Bedroom Storage Unit",
         "v": {
-          "c": "20-Dec-2025",
+          "c": "24-Dec-2025",
           "a": "",
           "rm": "Product is  wall hanging , keep this thing in your mind while making "
         },
@@ -3168,48 +3063,6 @@
           "c": "25-Sept-2025",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072515",
-        "prod": "Canoe",
-        "var": "Ryson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; SVJ Champagne Gold 102 Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "\"SVJ Gold Matt PVD\""
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "072515",
-        "prod": "Glacierhorn",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251015_152307_838386_pasted_image_1760521995180.png",
-        "cat": "Beds",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; SVJ Champagne Gold 102 Stainless Steel 304 Matt Legs; SCS RZ 5129 RS 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 90\" x 83\" x 43\", Seat Height: 20\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1YiehaHRe2iKIuGQ6IOYIq2eE85P2xZPi",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyani Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "\"SVJ Gold Matt PVD\"\nAage k Leg 7\" height me bnane he."
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3396,7 +3249,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "21-Dec-2025",
+          "c": "23-Dec-2025",
           "a": "",
           "rm": "METAL PLATE BUSH WORK"
         },
@@ -3566,7 +3419,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "23-Dec-2025",
           "a": "",
           "rm": "Sheesham/Teak - No cracks"
         },
@@ -3778,7 +3631,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "24-Dec-2025",
           "a": "",
           "rm": "black matt"
         },
@@ -4872,29 +4725,6 @@
         "vendorDisplayName": "Aavaran"
       }
     ],
-    "aarti_steel": [
-      {
-        "op": "072515",
-        "prod": "Canoe",
-        "var": "Ryson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250808_162228_836941_Screenshot_2025-08-08_162029.png",
-        "cat": "Accent Chairs",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; SVJ Champagne Gold 102 Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 27.5\" x 33.5\" x 31\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i4tqD6mKlP7iS7cxDTzrYJvUBnU-xL24",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      }
-    ],
     "surat_pvd": [
       {
         "op": "072515",
@@ -4913,7 +4743,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Champigon pvd"
+          "rm": "SVJ Champigon pvd"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -5063,29 +4893,6 @@
           "rm": "black pvd"
         },
         "vendorDisplayName": "Surat PVD"
-      }
-    ],
-    "the_art_room": [
-      {
-        "op": "072515",
-        "prod": "Glint",
-        "var": "Cello",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
-        "cat": "Dining Chairs",
-        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; SVJ Champagne Gold 102 Stainless Steel 304 Matt Accessories",
-        "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "\"SVJ Gold Matt PVD\""
-        },
-        "vendorDisplayName": "The Art Room"
       }
     ],
     "srk_readymade_legs": [
@@ -5696,6 +5503,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-21T08:23:50.555Z"
+    "timestamp": "2025-12-21T08:42:29.641Z"
   }
 }
