@@ -844,6 +844,27 @@
           "rm": "Oak wood Knobs and Leg"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "aidan_dudy": [
@@ -3256,6 +3277,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "122518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "122519",
         "prod": "Dorothy",
         "var": "Ivy",
@@ -4937,6 +4979,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "122518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
     "clientfabric": [
@@ -5191,6 +5254,27 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "black pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "122518",
+        "prod": "Steapa",
+        "var": "Rawlins",
+        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
+        "des": "Parth Gada",
+        "dl": "20-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Surat PVD"
       }
@@ -5482,6 +5566,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-22T06:37:28.748Z"
+    "timestamp": "2025-12-22T06:52:36.377Z"
   }
 }
