@@ -615,6 +615,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092533",
+        "prod": "Cecilia",
+        "var": "Iris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251030_112346_053713_pasted_image_1761803634351.png",
+        "cat": "Accent Tables",
+        "mat": "Smoke Grey White Oak Structure",
+        "sz": "Outer: 16\" x 16\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1uvt2rc8RCCX6h5ruJ8AUvAvWsCvsgS8J",
+        "des": "Tanmay Shah",
+        "dl": "01-Nov-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "15-Dec-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "102505",
         "prod": "Venezia",
         "var": "Ashley",
@@ -5472,27 +5493,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "092533",
-        "prod": "Cecilia",
-        "var": "Iris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251030_112346_053713_pasted_image_1761803634351.png",
-        "cat": "Accent Tables",
-        "mat": "Smoke Grey White Oak Structure",
-        "sz": "Outer: 16\" x 16\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1uvt2rc8RCCX6h5ruJ8AUvAvWsCvsgS8J",
-        "des": "Tanmay Shah",
-        "dl": "01-Nov-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "15-Dec-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
       }
     ],
     "demodes": [
@@ -5566,6 +5566,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-22T06:52:36.377Z"
+    "timestamp": "2025-12-22T07:10:16.073Z"
   }
 }
