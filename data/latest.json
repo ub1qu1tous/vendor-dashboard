@@ -2939,6 +2939,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092518",
+        "prod": "Myqora",
+        "var": "Eulogy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
+        "cat": "Console Tables",
+        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
+        "sz": "Outer: 72\" x 19.5\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
+        "des": "Tanmay Shah",
+        "dl": "24-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area;\n6 Drawers",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "3 Drawers needs to be made"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "102412",
         "prod": "Expanse",
         "var": "Faani",
@@ -5566,6 +5587,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-22T08:37:33.389Z"
+    "timestamp": "2025-12-22T08:52:29.860Z"
   }
 }
