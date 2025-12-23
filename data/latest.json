@@ -263,7 +263,7 @@
         "var": "Cello",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
         "cat": "Dining Chairs",
-        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; SVJ Champagne Gold 102 Stainless Steel 304 Matt Accessories",
+        "mat": "Finish TBC Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; SVJ Champagne Gold 102 Stainless Steel 304 Matt Accessories",
         "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
         "des": "Parthsarthi Suthar",
@@ -389,7 +389,7 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250925_153625_606262_Screenshot_2025-09-25_153400.png",
         "cat": "Dining Tables",
-        "mat": "Jacobean Sheesham Top; Jacobean Sheesham Legs",
+        "mat": "Black Matt Sheesham Top; Black Matt Sheesham Legs",
         "sz": "Outer: 87\" x 36\" x 30\"",
         "fld": "https://drive.google.com/drive/folders/1gzabQ743Cm2626jDUYfA8aPvJG6LL7sp",
         "des": "Parthsarthi Suthar",
@@ -1042,7 +1042,7 @@
         "var": "Cello",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
         "cat": "Dining Chairs",
-        "mat": "Finish TBC White Ash Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; SVJ Champagne Gold 102 Stainless Steel 304 Matt Accessories",
+        "mat": "Finish TBC Sheesham Structure; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; SVJ Champagne Gold 102 Stainless Steel 304 Matt Accessories",
         "sz": "Outer: 19\" x 18\" x 32\", Seat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
         "des": "Parthsarthi Suthar",
@@ -5694,6 +5694,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-23T06:53:05.139Z"
+    "timestamp": "2025-12-23T07:12:05.133Z"
   }
 }
