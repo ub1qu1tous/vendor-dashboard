@@ -2751,6 +2751,27 @@
       },
       {
         "op": "082412",
+        "prod": "Peacock",
+        "var": "Crystal",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_155109_965553_pasted_image_1762251679326.png",
+        "cat": "Beds",
+        "mat": "Finish TBC HDHMR Headboard; Finish TBC HDHMR Footboard; Black Matt Sheesham Mounting; Natural White Oak Mounting; SCS 0015 12mm Plywood Bed Slat Support",
+        "sz": "Outer: 103\" x 81\" x 37\", Seat Height: 16\";\nMattress: 72\" x 78\" x 10\"",
+        "fld": "https://drive.google.com/drive/folders/1eVry2i92H7CLK83eAUsoJ9JTSzynA2Is",
+        "des": "Tanmay Shah",
+        "dl": "04-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "05-Dec-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082412",
         "prod": "Quantara",
         "var": "Tyler",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250922_144236_198414_Screenshot_2025-09-22_144046.png",
@@ -5736,6 +5757,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-24T07:37:42.936Z"
+    "timestamp": "2025-12-24T07:52:25.910Z"
   }
 }
