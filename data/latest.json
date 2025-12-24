@@ -4194,27 +4194,6 @@
         "vendorDisplayName": "Nishant CNC"
       },
       {
-        "op": "072515",
-        "prod": "Amaranth",
-        "var": "Ewan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_183831_314376_pasted_image_1760360918575.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Black Matt Sheesham Carcass; SVJ Champagne Gold 102 Stainless Steel 304 Matt Base; Black Matt Sheesham Shutter; Black Matt Sheesham Drawer Fascia; SVJ Champagne Gold 102 Stainless Steel 304 Matt Handle",
-        "sz": "Outer: 48\" x 15\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1ZANiPc-sEt1rtTY-Djm4Oon1GtRNwskt",
-        "des": "Tanmay Shah",
-        "dl": "31-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Drawer Fascia CNC"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
         "op": "102411",
         "prod": "Driftbloom",
         "var": "Livia",
@@ -5862,6 +5841,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-24T05:22:23.366Z"
+    "timestamp": "2025-12-24T05:42:48.434Z"
   }
 }
