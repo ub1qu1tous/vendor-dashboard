@@ -3105,6 +3105,48 @@
           "rm": "Product is  wall hanging , keep this thing in your mind while making "
         },
         "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122527",
+        "prod": "Denali",
+        "var": "Hulu",
+        "url": "https://i.ibb.co/PTf54qK/Screenshot-2024-07-02-at-6-47-43-PM.png",
+        "cat": "Openable Shutters",
+        "mat": "Merino Luvih Fossil Grey 27209 HDHMR Shutter",
+        "sz": "Outer: 23.43\" x 0.71\" x 16.14\"",
+        "fld": "https://drive.google.com/drive/folders/1PFCvWLOvmex661YX9_bMbp603e_OD7Id",
+        "des": "PDC Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122527",
+        "prod": "Denali",
+        "var": "Lucia",
+        "url": "https://i.ibb.co/PTf54qK/Screenshot-2024-07-02-at-6-47-43-PM.png",
+        "cat": "Wardrobe Fillers",
+        "mat": "  ",
+        "sz": "Outer: 22.24\" x 0.71\" x 1.18\"",
+        "fld": "https://drive.google.com/drive/folders/1PFCvWLOvmex661YX9_bMbp603e_OD7Id",
+        "des": "PDC Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
       }
     ],
     "fs_sofa_legs": [
@@ -5757,6 +5799,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-24T10:11:16.078Z"
+    "timestamp": "2025-12-24T10:26:13.892Z"
   }
 }
