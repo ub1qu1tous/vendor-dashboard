@@ -2939,6 +2939,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092416",
+        "prod": "Harlequin",
+        "var": "Zany",
+        "url": "https://i.ibb.co/jh5JWK1/HARLEYQUINN-1-of-8-1.jpg",
+        "cat": "Nightstands",
+        "mat": "Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Carcass; White Matt Duco 18mm MDF Drawer Fascia; Matt Buffing Leather Strap Handle; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 20\" x 16.5\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1GT01wBDUDzxvZAlEF0RyUe94NEqWV8GQ",
+        "des": "Tarishi Rathore",
+        "dl": "11-Dec-2021",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM;\nSAME LEATHER Sloane Quartz and Harlequin Zuri",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "Drawers need to be made"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "092518",
         "prod": "Myqora",
         "var": "Eulogy",
@@ -5799,6 +5820,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-24T10:26:13.892Z"
+    "timestamp": "2025-12-24T10:45:10.775Z"
   }
 }
