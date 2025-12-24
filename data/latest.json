@@ -2814,6 +2814,27 @@
       },
       {
         "op": "082412",
+        "prod": "Tilburg",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
+        "cat": "Nightstands",
+        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 22\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
+        "des": "Hetvi Shah",
+        "dl": "24-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Carcass and Drawer fascia of HDHMR (Black PU on Carcass and Fascia PU Shade Not Decided Yet)"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082412",
         "prod": "Verve",
         "var": "Hyde",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_160723_756674_pasted_image_1759574250488.png",
@@ -3401,6 +3422,27 @@
           "c": "",
           "a": "",
           "rm": "Please follow video instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082412",
+        "prod": "Tilburg",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
+        "cat": "Nightstands",
+        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 22\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
+        "des": "Hetvi Shah",
+        "dl": "24-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -5471,6 +5513,27 @@
       },
       {
         "op": "082412",
+        "prod": "Tilburg",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
+        "cat": "Nightstands",
+        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 22\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
+        "des": "Hetvi Shah",
+        "dl": "24-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "082412",
         "prod": "Verve",
         "var": "Hyde",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_160723_756674_pasted_image_1759574250488.png",
@@ -5596,6 +5659,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Umang Glass Elements"
+      }
+    ],
+    "aarti_steel": [
+      {
+        "op": "082412",
+        "prod": "Tilburg",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
+        "cat": "Nightstands",
+        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
+        "sz": "Outer: 22\" x 16\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
+        "des": "Hetvi Shah",
+        "dl": "24-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "malay_leather_artwork": [
@@ -5820,6 +5906,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-24T10:45:10.775Z"
+    "timestamp": "2025-12-24T10:55:08.938Z"
   }
 }
