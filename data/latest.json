@@ -694,7 +694,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Chairs table ne daalne k time pr handle ade nhi aesa krna hai. Uske liye aap chair k leg thode kaat skte he. Last time humne yaha cut kiya tha"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3187,6 +3187,27 @@
           "c": "24-Dec-2025",
           "a": "",
           "rm": "Product is  wall hanging , keep this thing in your mind while making "
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122527",
+        "prod": "Denali",
+        "var": "Horizon",
+        "url": "https://i.ibb.co/PTf54qK/Screenshot-2024-07-02-at-6-47-43-PM.png",
+        "cat": "Kitchen Counters",
+        "mat": "Merino Luvih Fossil Grey 27209 HDHMR Carcass; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass",
+        "sz": "Outer: 86.5\" x 24\" x 35.5\"",
+        "fld": "https://drive.google.com/drive/folders/1PFCvWLOvmex661YX9_bMbp603e_OD7Id",
+        "des": "PDC Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -5841,6 +5862,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-24T05:52:21.107Z"
+    "timestamp": "2025-12-24T06:07:27.808Z"
   }
 }
