@@ -300,27 +300,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "122526",
-        "prod": "Strand",
-        "var": "Rawlins",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
-        "cat": "Nightstands",
-        "mat": "Finish TBC HDHMR Carcass; Mirror Buffing Marble TBC Top; Black Distressed/Charcoal Sheesham Drawer Fascia; Finish TBC Oak Veneer Drawer Box; Finish TBC 16mm Plywood Drawer Internal; Mirror Buffing Stainless Steel 304 Gloss Skirting",
-        "sz": "Outer: 24\" x 18\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
-        "des": "Tanmay Shah",
-        "dl": "01-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Sheesham Distress Drawer Fascia, Outer Carcass HDHMR Black Matt. Push to open Drawers"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "082412",
         "prod": "Aethero",
         "var": "Latten",
@@ -884,6 +863,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122526",
+        "prod": "Strand",
+        "var": "Rawlins",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
+        "cat": "Nightstands",
+        "mat": "Finish TBC HDHMR Carcass; Mirror Buffing Marble TBC Top; Black Distressed/Charcoal Sheesham Drawer Fascia; Finish TBC Oak Veneer Drawer Box; Finish TBC 16mm Plywood Drawer Internal; Mirror Buffing Stainless Steel 304 Gloss Skirting",
+        "sz": "Outer: 24\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
+        "des": "Tanmay Shah",
+        "dl": "01-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Sheesham Distress Drawer Fascia, Outer Carcass HDHMR Black Matt. Push to open Drawers"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -5927,6 +5927,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-26T08:22:24.447Z"
+    "timestamp": "2025-12-26T08:37:24.191Z"
   }
 }
