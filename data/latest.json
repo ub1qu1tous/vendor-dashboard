@@ -2751,27 +2751,6 @@
       },
       {
         "op": "082412",
-        "prod": "Quantara",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_144236_198414_Screenshot_2025-09-22_144046.png",
-        "cat": "Nightstands",
-        "mat": "Black Powder Coat Mild Steel Carcass; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Legs",
-        "sz": "Outer: 20\" x 16\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1-nxWGAmgd0Yh7duN61_id4D9u_5azMQG",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "1. Black Laminated Shelf\n2. Qty: 6 Pcs for 2 Nightstands\n3. Edge Bend all sides"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082412",
         "prod": "Reganza",
         "var": "Eunio",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
@@ -2956,27 +2935,6 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "Drawers need to be made"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "092518",
-        "prod": "Myqora",
-        "var": "Eulogy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250712_180345_490967_Screenshot_2025-07-12_180328.jpg",
-        "cat": "Console Tables",
-        "mat": "Natural Oak Veneer Carcass; Oak Laminate 16mm Plywood Internal Carcass; Black Matt Sheesham Mounting; Natural Oak Veneer Drawer Fascia",
-        "sz": "Outer: 72\" x 19.5\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/1cXJkfRTBkx7LSCUBzC9QPTu9UpKHFz7T",
-        "des": "Tanmay Shah",
-        "dl": "24-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area;\n6 Drawers",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "3 Drawers needs to be made"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5759,6 +5717,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-27T07:22:22.531Z"
+    "timestamp": "2025-12-27T07:37:22.634Z"
   }
 }
