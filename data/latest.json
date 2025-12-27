@@ -2745,7 +2745,7 @@
         "v": {
           "c": "05-Dec-2025",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Asian Paint Code 8760\n(Color is in Orange Shade)\nShare Color photo on group before application"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -2808,7 +2808,28 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "PU Only"
+          "rm": "PU Only\nPU Code is yet to be finalised"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082413",
+        "prod": "Dragonheart",
+        "var": "Neymar",
+        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
+        "des": "Hetvi Shah",
+        "dl": "24-Nov-2024",
+        "q": 8,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "30-Dec-2025",
+          "a": "",
+          "rm": "ICA Gold PU, Application as shown in image"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -3934,27 +3955,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "082413",
-        "prod": "Dragonheart",
-        "var": "Neymar",
-        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
-        "des": "Hetvi Shah",
-        "dl": "24-Nov-2024",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Gold Part Colour"
         },
         "vendorDisplayName": "Ashok Polish"
       }
@@ -5717,6 +5717,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-27T09:22:22.440Z"
+    "timestamp": "2025-12-27T09:37:21.859Z"
   }
 }
