@@ -1898,27 +1898,6 @@
           "rm": "BLACK MATT "
         },
         "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122519",
-        "prod": "Dorothy",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Jacobean Sheesham Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1bfzM1oaC7cdqsi7nON7sVDXkpSTBKTGm",
-        "des": "Tarishi Rathore",
-        "dl": "28-Dec-2021",
-        "q": 3,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "kamlesh_jangid": [
@@ -5906,6 +5885,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-27T06:07:24.335Z"
+    "timestamp": "2025-12-27T06:22:22.257Z"
   }
 }
