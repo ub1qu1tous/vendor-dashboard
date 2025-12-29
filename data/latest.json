@@ -2955,7 +2955,7 @@
         "v": {
           "c": "30-Jun-2025",
           "a": "",
-          "rm": "Drawers need to be made"
+          "rm": "Drawers with Fascia need to be made, \nFascia White PU, and Drawers box in White Liner"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5591,6 +5591,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-29T06:22:35.583Z"
+    "timestamp": "2025-12-29T06:37:25.270Z"
   }
 }
