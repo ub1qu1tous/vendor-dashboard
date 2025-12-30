@@ -5392,48 +5392,6 @@
     ],
     "mandap": [
       {
-        "op": "082510",
-        "prod": "Rinsun",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_093932_407829_pasted_image_1756786175117.png",
-        "cat": "Chests",
-        "mat": "Asian Paints Blush L139 HDHMR Carcass; Asian Paints Blush L139 HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Suncity White Oak Knobs",
-        "sz": "Outer: 47\" x 16\" x 35\"",
-        "fld": "https://drive.google.com/drive/folders/1mcqnNZ8k28s1YZBgkkLk7sxc7DK9hGxC",
-        "des": "Tanmay Shah",
-        "dl": "30-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "knob polish work"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082510",
-        "prod": "Rosco",
-        "var": "Audus",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250902_094519_795375_pasted_image_1756786522580.png",
-        "cat": "Nightstands",
-        "mat": "Asian Paints Blush L139 HDHMR Carcass; Asian Paints Blush L139 HDHMR Drawer Fascia; Deluxe-02 Frosty White HDHMR Internal Carcass; Suncity White Oak Knobs; Suncity White Oak Legs",
-        "sz": "Outer: 20\" x 16\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/12PE2qkGNPBNeVJ1DCtJbIxBKx12sPmRv",
-        "des": "Tanmay Shah",
-        "dl": "31-Aug-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "knob & leg polish work"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
         "op": "082520",
         "prod": "Marrion",
         "var": "Kylar",
@@ -5591,6 +5549,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-30T07:37:25.057Z"
+    "timestamp": "2025-12-30T07:52:29.487Z"
   }
 }
