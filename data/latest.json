@@ -3699,6 +3699,27 @@
           "rm": "black matt"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "122532",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt Sheesham Base",
+        "sz": "Outer: 48\" x 30\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
     "vishwakarma_glass": [
@@ -5545,10 +5566,31 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122532",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt Sheesham Base",
+        "sz": "Outer: 48\" x 30\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-30T11:07:25.786Z"
+    "timestamp": "2025-12-30T11:23:10.357Z"
   }
 }
