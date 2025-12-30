@@ -5435,48 +5435,6 @@
       },
       {
         "op": "082520",
-        "prod": "Boyle",
-        "var": "Nycia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_125507_235532_pasted_image_1757575511162.png",
-        "cat": "Accent Tables",
-        "mat": "Harvest Indian Teak Structure",
-        "sz": "Outer: 18\" x 18\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1MzAc6smSA_MXZrYt_lq3yiprcAMRMexN",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082520",
-        "prod": "Liffy",
-        "var": "June",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_120516_775031_pasted_image_1758004521772.png",
-        "cat": "Accent Tables",
-        "mat": "Natural White Oak Top; Natural White Oak Base",
-        "sz": "Outer: 30\" x 30\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/10m16jWs43SABiGZiB_LT73SBenHDQDTO",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082520",
         "prod": "Marrion",
         "var": "Kylar",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
@@ -5633,6 +5591,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-30T07:22:25.072Z"
+    "timestamp": "2025-12-30T07:37:25.057Z"
   }
 }
