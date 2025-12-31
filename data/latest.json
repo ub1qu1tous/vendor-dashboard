@@ -3300,27 +3300,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "052306",
-        "prod": "Dunes",
-        "var": "Ibis",
-        "url": "https://i.ibb.co/tw2mLbyy/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Distressed/Charcoal Reclaimed Hardwood Top; Black Matt White Ash Legs",
-        "sz": "Outer: 19\" x 19\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1Dl4P0j4cdooAT6NhWkgTF7yjH8j3QZcC",
-        "des": "Dilip Jangir",
-        "dl": "22-Apr-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Brass ring"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -5591,6 +5570,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2025-12-31T10:52:27.754Z"
+    "timestamp": "2025-12-31T11:07:27.311Z"
   }
 }
