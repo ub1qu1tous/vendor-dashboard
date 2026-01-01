@@ -762,6 +762,48 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "112511",
+        "prod": "Delfit",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251119_160637_480415_pasted_image_1763548607902.png",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt White Oak Top; Natural White Oak Legs; Black Matt White Oak Legs",
+        "sz": "Outer: 63\" x 28\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1wgSVWD5wyd2XOeTIo2LzA5aQu1F9MrcC",
+        "des": "Tanmay Shah",
+        "dl": "08-Dec-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "12-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112511",
+        "prod": "Pinson",
+        "var": "Lexia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_171452_043226_pasted_image_1766058306045.png",
+        "cat": "Media Consoles",
+        "mat": "Mirror Buffing Black Marquina Top; Black Distressed/Charcoal White Oak Carcass; Black Distressed/Charcoal White Oak Shutter; Black Distressed/Charcoal White Oak Shelf; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 72\" x 15\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1D8EDr2ijM5-9EjZHstwgg3gK56ekdpB7",
+        "des": "Tanmay Shah",
+        "dl": "12-Dec-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "12-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "112524",
         "prod": "Butterfly",
         "var": "Ethel",
@@ -3426,6 +3468,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "112511",
+        "prod": "Pinson",
+        "var": "Lexia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_171452_043226_pasted_image_1766058306045.png",
+        "cat": "Media Consoles",
+        "mat": "Mirror Buffing Black Marquina Top; Black Distressed/Charcoal White Oak Carcass; Black Distressed/Charcoal White Oak Shutter; Black Distressed/Charcoal White Oak Shelf; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 72\" x 15\" x 19\"",
+        "fld": "https://drive.google.com/drive/folders/1D8EDr2ijM5-9EjZHstwgg3gK56ekdpB7",
+        "des": "Tanmay Shah",
+        "dl": "12-Dec-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "122528",
         "prod": "Dorothy",
         "var": "Bagel",
@@ -5591,6 +5654,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-01T06:22:24.247Z"
+    "timestamp": "2026-01-01T06:38:45.520Z"
   }
 }
