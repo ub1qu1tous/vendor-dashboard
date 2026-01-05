@@ -3102,7 +3102,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "internal drawer only"
+          "rm": "internal drawer only\ninternal box size : 585mm x 400mm x 170mm\npush open channel"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -3123,7 +3123,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "internal drawer only"
+          "rm": "internal drawer only\ninternal box size : 478mm x 400mm x 140mm\npush open channel"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5633,6 +5633,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-05T10:37:57.848Z"
+    "timestamp": "2026-01-05T10:52:26.002Z"
   }
 }
