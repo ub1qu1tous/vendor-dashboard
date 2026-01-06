@@ -2981,27 +2981,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "082520",
-        "prod": "Eucalyps",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_152506_624882_Screenshot_2025-09-16_152441.png",
-        "cat": "Nightstands",
-        "mat": "Black Matt HDHMR Carcass; RAL 9001 Cream 12mm Plywood Drawer Fascia; Black Matt 12mm Plywood Internal Carcass; SCS 0555 12mm Plywood Internal Carcass",
-        "sz": "Outer: 31\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1LpdtgzhfI0CfaI4BNXc3EtUNBAuAolKX",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "12mm HDHMR",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "092416",
         "prod": "Harlequin",
         "var": "Zany",
@@ -5484,6 +5463,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-06T06:37:30.588Z"
+    "timestamp": "2026-01-06T06:52:29.531Z"
   }
 }
