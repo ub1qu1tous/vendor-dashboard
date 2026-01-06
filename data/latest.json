@@ -3405,6 +3405,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "122518",
+        "prod": "Zakef",
+        "var": "Accuris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_172811_584038_pasted_image_1765799908373.png",
+        "cat": "Accent Tables",
+        "mat": "Black Matt Sheesham Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 14\" x 12.5\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1TPlcQ2p_hY6ea-x8FVMvZKpc5vH_hpZF",
+        "des": "Dilip Jangir",
+        "dl": "06-Jan-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "10-Jan-2026",
+          "a": "",
+          "rm": "counter , and connecting work"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "122528",
         "prod": "Dorothy",
         "var": "Bagel",
@@ -5438,6 +5459,29 @@
         "vendorDisplayName": "Lalji Handicrafts"
       }
     ],
+    "aarti_steel": [
+      {
+        "op": "122518",
+        "prod": "Zakef",
+        "var": "Accuris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_172811_584038_pasted_image_1765799908373.png",
+        "cat": "Accent Tables",
+        "mat": "Black Matt Sheesham Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 14\" x 12.5\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1TPlcQ2p_hY6ea-x8FVMvZKpc5vH_hpZF",
+        "des": "Dilip Jangir",
+        "dl": "06-Jan-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "06-Jan-2026",
+          "a": "",
+          "rm": "laser cutting bending buffing"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      }
+    ],
     "vittal_wood_tech": [
       {
         "op": "122532",
@@ -5463,6 +5507,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-06T08:07:25.938Z"
+    "timestamp": "2026-01-06T08:23:52.126Z"
   }
 }
