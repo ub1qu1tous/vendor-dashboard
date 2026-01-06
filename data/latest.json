@@ -609,7 +609,7 @@
         "cr": "",
         "v": {
           "c": "29-Dec-2025",
-          "a": "",
+          "a": "05-Jan-2026",
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
@@ -905,6 +905,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122518",
+        "prod": "Zakef",
+        "var": "Accuris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_172811_584038_pasted_image_1765799908373.png",
+        "cat": "Accent Tables",
+        "mat": "Black Matt Sheesham Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 14\" x 12.5\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1TPlcQ2p_hY6ea-x8FVMvZKpc5vH_hpZF",
+        "des": "Dilip Jangir",
+        "dl": "06-Jan-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "top, bottom in sheesham black matt as per drawing"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -5211,7 +5232,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "gold pvd 8 pcs"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -5280,22 +5301,22 @@
       },
       {
         "op": "122518",
-        "prod": "Steapa",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
+        "prod": "Zakef",
+        "var": "Accuris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_172811_584038_pasted_image_1765799908373.png",
         "cat": "Accent Tables",
-        "mat": "Brown Tinted 10mm Glass Top; Jacobean Sheesham Mounting; Gold PVD Stainless Steel 304 Matt Accessories; Mirror Buffing Green Lavante Base",
-        "sz": "Outer: 18\" x 18\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
-        "des": "Parth Gada",
-        "dl": "20-Aug-2022",
+        "mat": "Black Matt Sheesham Top; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 14\" x 12.5\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1TPlcQ2p_hY6ea-x8FVMvZKpc5vH_hpZF",
+        "des": "Dilip Jangir",
+        "dl": "06-Jan-2026",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "gold pvd"
         },
         "vendorDisplayName": "Surat PVD"
       }
@@ -5507,6 +5528,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-06T08:23:52.126Z"
+    "timestamp": "2026-01-06T08:38:32.119Z"
   }
 }
