@@ -2877,27 +2877,6 @@
       },
       {
         "op": "082413",
-        "prod": "Dragonheart",
-        "var": "Neymar",
-        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
-        "des": "Hetvi Shah",
-        "dl": "24-Nov-2024",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "30-Dec-2025",
-          "a": "",
-          "rm": "ICA Gold PU, Application as shown in image"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082413",
         "prod": "Grandeur",
         "var": "Istanbul",
         "url": "https://i.ibb.co/VcQ720CL/0002.jpg",
@@ -3871,6 +3850,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      },
+      {
+        "op": "082413",
+        "prod": "Dragonheart",
+        "var": "Neymar",
+        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
+        "des": "Hetvi Shah",
+        "dl": "24-Nov-2024",
+        "q": 8,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "30-Dec-2025",
+          "a": "",
+          "rm": "ICA Gold PU, Application as shown in image"
         },
         "vendorDisplayName": "Ashok Polish"
       }
@@ -5507,6 +5507,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-06T10:07:43.211Z"
+    "timestamp": "2026-01-06T10:22:28.003Z"
   }
 }
