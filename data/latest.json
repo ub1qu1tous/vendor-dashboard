@@ -2835,27 +2835,6 @@
       },
       {
         "op": "082412",
-        "prod": "Reganza",
-        "var": "Eunio",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_121919_122345_pasted_image_1759560566183.png",
-        "cat": "Media Consoles",
-        "mat": "SCS 0015 16mm Plywood Carcass; Clear Perforated Sheet Shutter Panel; Black Aluminium Profile Shutter Frame; Black Powder Coat Mild Steel Frame",
-        "sz": "Outer: 60\" x 18\" x 28.5\"",
-        "fld": "https://drive.google.com/drive/folders/1JjcI0mWq6wExXIWg2uXBc3wnyeJuoGiK",
-        "des": "Hetvi Shah",
-        "dl": "05-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Carcass with Shelves\n(Shutters are in the scope of Arbuda)"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082412",
         "prod": "Tilburg",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
@@ -3149,27 +3128,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "122503",
-        "prod": "Bayts",
-        "var": "Baltic",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251209_111712_854219_pasted_image_1765259246267.png",
-        "cat": "Console Tables",
-        "mat": "Merino 40214 Sky Marble 16mm Plywood Carcass; Deluxe-100 Gothic Grey 16mm Plywood Internal Carcass; Smoke Grey White Oak Legs; Smoke Grey White Oak Knobs",
-        "sz": "Outer: 78\" x 15\" x 39\"",
-        "fld": "https://drive.google.com/drive/folders/1sFrcT-rLod1x26lMp6uNV_iIeaszJgsJ",
-        "des": "Tanmay Shah",
-        "dl": "15-Dec-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "Without Marble Top",
-        "v": {
-          "c": "02-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "122506",
         "prod": "Silva",
         "var": "Ziva",
@@ -3187,48 +3145,6 @@
           "c": "24-Dec-2025",
           "a": "",
           "rm": "Product is  wall hanging , keep this thing in your mind while making "
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122527",
-        "prod": "Denali",
-        "var": "Hulu",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251224_194042_105107_WhatsApp_Image_2025-12-20_at_12_06_23.jpeg",
-        "cat": "Openable Shutters",
-        "mat": "Merino Luvih Fossil Grey 27209 16mm Plywood Shutter",
-        "sz": "Outer: 23.43\" x 0.71\" x 16.14\"",
-        "fld": "https://drive.google.com/drive/folders/1PFCvWLOvmex661YX9_bMbp603e_OD7Id",
-        "des": "PDC Architects",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "28-Dec-2025",
-          "a": "",
-          "rm": "Openable shutter with hinges as per Chhoturam"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122527",
-        "prod": "Denali",
-        "var": "Lucia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251224_194042_105107_WhatsApp_Image_2025-12-20_at_12_06_23.jpeg",
-        "cat": "Wardrobe Fillers",
-        "mat": "Merino Luvih Fossil Grey 27209 16mm Plywood Panel",
-        "sz": "Outer: 22.24\" x 0.71\" x 1.18\"",
-        "fld": "https://drive.google.com/drive/folders/1PFCvWLOvmex661YX9_bMbp603e_OD7Id",
-        "des": "PDC Architects",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "28-Dec-2025",
-          "a": "",
-          "rm": "Filler Plank as per Chhoturam"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -5568,6 +5484,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-06T06:07:29.208Z"
+    "timestamp": "2026-01-06T06:22:25.360Z"
   }
 }
