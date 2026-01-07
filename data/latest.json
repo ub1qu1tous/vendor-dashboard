@@ -447,27 +447,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "082412",
-        "prod": "Ticknock",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
-        "cat": "Beds",
-        "mat": "Black Matt Sheesham Structure; Asianpaints Fare Ply & Foam Upholstery Headboard; Asianpaints Fare Ply & Foam Upholstery Platform; Black Matt Sheesham Legs",
-        "sz": "Outer: 72\" x 83.5\" x 56\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "082413",
         "prod": "Thunderbolt",
         "var": "Mili",
@@ -1114,7 +1093,7 @@
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1240,7 +1219,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1261,7 +1240,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1282,7 +1261,7 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1303,7 +1282,7 @@
         "pm": "Maulik Parmar",
         "cr": "Living Room",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1324,9 +1303,30 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "Lining only"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082412",
+        "prod": "Simpolio",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251112_164557_916074_pasted_image_1762946167455.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Black Sheesham Frame; Beni Pebble 116853 Ply & Foam Upholstery Seat; Beni Pebble 116853 Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 20\" x 22\" x 40\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1-8Y9tIA1mJDUSF1V82c47MqdDO9Sp0Bz",
+        "des": "Parthsarthi Suthar",
+        "dl": "30-Apr-2023",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -1345,7 +1345,7 @@
         "pm": "Maulik Parmar",
         "cr": "Parents Bedroom",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1367,6 +1367,27 @@
         "cr": "Dining Area",
         "v": {
           "c": "10-Nov-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082413",
+        "prod": "Horizon",
+        "var": "Woodstock",
+        "url": "https://i.ibb.co/CbhxKwD/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Frame; AZCO Carbon Velvets SRN VT 313 Ply & Foam Upholstery Seat; Finish TBC Leatherette Backrest",
+        "sz": "Outer: 26.5\" x 30\" x 33\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1w6vTi0IgW9OtopP4mlsqcKuX-y_xIw3t",
+        "des": "Parthsarthi Suthar",
+        "dl": "11-Jan-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyanbhai's Bedroom",
+        "v": {
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1491,27 +1512,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "NEEL’S BEDROOM\r",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092416",
-        "prod": "Shirola",
-        "var": "Beaumont",
-        "url": "https://i.ibb.co/n0YxWZ5/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Black Matt Sheesham Mounting",
-        "sz": "Outer: 25.5\" x 25.5\" x 27.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/17tTbEgzmlu-TIuEyQ7q5bGvvxDq_aZdt",
-        "des": "Tanmay Shah",
-        "dl": "23-Dec-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MASTER BEDROOM; \nTHE METAL FINISH NEEDS TO BE MATTE BRASS",
         "v": {
           "c": "10-Jul-2025",
           "a": "",
@@ -3596,27 +3596,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "112520",
-        "prod": "Vespera",
-        "var": "Aera",
-        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
-        "sz": "Outer: 18\" x 18\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
         "op": "122502",
         "prod": "Spangler",
         "var": "Groot",
@@ -4432,90 +4411,6 @@
       },
       {
         "op": "082412",
-        "prod": "Aethero",
-        "var": "Latten",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251219_154829_044610_Screenshot_2025-12-19_154407.png",
-        "cat": "Sofas",
-        "mat": "Marbella Plush Woven Plains SRN 830 Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; Savanna Gurson SRN 111 Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 90\" x 31\" x 32.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/14gTIbHAvytS1y7vEjiO_OrPl0_9QuwqT",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
-        "prod": "Arvesso",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_161352_147095_Screenshot_2025-12-18_161122.png",
-        "cat": "Daybeds",
-        "mat": "Savanna Gurson SRN 111 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Savanna Gurson SRN 111 Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
-        "prod": "Efron",
-        "var": "Stafford",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_162555_600703_Screenshot_2025-12-18_162411.png",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Structure; Best Of Toile SRN GL_75 Ply & Foam Upholstery Backrest; Best Of Toile SRN GL_75 Ply & Foam Upholstery Seat; Best Of Toile SRN GL_75 Foam Upholstery 1 Centre Cushion; Fabric TBC Leatherette Mounting",
-        "sz": "Outer: 33\" x 28\" x 33\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1WdB7FHrie0G0IziRNkvYad6LNQebB9M4",
-        "des": "Tanmay Shah",
-        "dl": "02-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
-        "prod": "Eminiq",
-        "var": "Vitara",
-        "url": "https://i.ibb.co/jkpwgZB7/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Savyasachi Pichwai Linen PCL001 Ply & Foam Upholstery Structure; Black Matt Sheesham Frame",
-        "sz": "Outer: 33\" x 33\" x 39\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/11tsshKyvJfr0PbmS27mmLXbKFD3sQnuc",
-        "des": "Hetvi Shah",
-        "dl": "24-Sept-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
         "prod": "Richie",
         "var": "Junior",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251217_104512_096642_0002.jpg",
@@ -4528,48 +4423,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Kids Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
-        "prod": "Shinori",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_160709_874934_Screenshot_2025-12-18_160635.png",
-        "cat": "Beds",
-        "mat": "Black Matt Sheesham Headboard; Clear Pre-woven Rattan Weaving; Matt Buffing Brass Fixture; Finish TBC Ply & Foam Upholstery Platform; Best Of Toile SRN GL_17 Ply & Foam Upholstery Backrest; SCS 0015 12mm Plywood Bed Slat Support",
-        "sz": "Outer: 95.2\" x 82.5\" x 51.2\", Seat Height: 19\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 95.2\" x 2.75\" x 51.2\"",
-        "fld": "https://drive.google.com/drive/folders/1bpzRwCipVd5WDy69-J9CcLrgds9zw_tA",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082412",
-        "prod": "Ticknock",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
-        "cat": "Beds",
-        "mat": "Black Matt Sheesham Structure; Asianpaints Fare Ply & Foam Upholstery Headboard; Asianpaints Fare Ply & Foam Upholstery Platform; Black Matt Sheesham Legs",
-        "sz": "Outer: 72\" x 83.5\" x 56\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -4696,27 +4549,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "102511",
-        "prod": "Mediterra",
-        "var": "Whitley",
-        "url": "https://i.ibb.co/VDHPHjV/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Finish TBC White Oak Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Foam Upholstery 1 Centre Cushion",
-        "sz": "Outer: 23\" x 23\" x 27\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1zWdzQevh4yRVmIKc1oN_amk8e_QYqwo1",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 10,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -5067,27 +4899,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "092416",
-        "prod": "Shirola",
-        "var": "Beaumont",
-        "url": "https://i.ibb.co/n0YxWZ5/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Gold PVD Stainless Steel 304 Matt Frame; Fabric TBC Ply & Foam Upholstery Seat; Fabric TBC Ply & Foam Upholstery Backrest; Black Matt Sheesham Mounting",
-        "sz": "Outer: 25.5\" x 25.5\" x 27.5\", Seat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/17tTbEgzmlu-TIuEyQ7q5bGvvxDq_aZdt",
-        "des": "Tanmay Shah",
-        "dl": "23-Dec-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MASTER BEDROOM; \nTHE METAL FINISH NEEDS TO BE MATTE BRASS",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "112502",
         "prod": "Hylos",
         "var": "Oliver",
@@ -5344,29 +5155,6 @@
         "vendorDisplayName": "Umang Glass Elements"
       }
     ],
-    "malay_leather_artwork": [
-      {
-        "op": "082413",
-        "prod": "Horizon",
-        "var": "Woodstock",
-        "url": "https://i.ibb.co/CbhxKwD/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Frame; AZCO Carbon Velvets SRN VT 313 Ply & Foam Upholstery Seat; Finish TBC Leatherette Backrest",
-        "sz": "Outer: 26.5\" x 30\" x 33\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1w6vTi0IgW9OtopP4mlsqcKuX-y_xIw3t",
-        "des": "Parthsarthi Suthar",
-        "dl": "11-Jan-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyanbhai's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Malay Leather Artwork"
-      }
-    ],
     "mandap": [
       {
         "op": "082520",
@@ -5388,29 +5176,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
-      }
-    ],
-    "demodes": [
-      {
-        "op": "082533",
-        "prod": "Albatross",
-        "var": "Oscar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_130759_150727_pasted_image_1760600285262.png",
-        "cat": "Accent Chairs",
-        "mat": "Natural Recycled Teak Frame; Marvin Nappa Leather 1321 Jetblack Ply & Foam Upholstery Structure",
-        "sz": "Outer: 32\" x 31\" x 30\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "Leather will provide by De-modes; Upholstery will be done by De Modes"
-        },
-        "vendorDisplayName": "Demodes"
       }
     ],
     "the_lighting_studio": [
@@ -5507,6 +5272,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-07T11:07:32.474Z"
+    "timestamp": "2026-01-07T11:22:45.472Z"
   }
 }
