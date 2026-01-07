@@ -1324,7 +1324,7 @@
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
         "v": {
-          "c": "",
+          "c": "10-Jan-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3449,6 +3449,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "082524",
         "prod": "Clonliff",
         "var": "Avore",
@@ -5272,6 +5293,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-07T11:22:45.472Z"
+    "timestamp": "2026-01-07T11:37:31.726Z"
   }
 }
