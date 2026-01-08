@@ -1227,27 +1227,6 @@
       },
       {
         "op": "082412",
-        "prod": "Arvesso",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_161352_147095_Screenshot_2025-12-18_161122.png",
-        "cat": "Daybeds",
-        "mat": "Savanna Gurson SRN 111 Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame; Savanna Gurson SRN 111 Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 58\" x 30\" x 24\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/10VvPydfeA9t3tHgHTAt4d_TwA888Lt5b",
-        "des": "Hetvi Shah",
-        "dl": "01-May-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082412",
         "prod": "Efron",
         "var": "Stafford",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251218_162555_600703_Screenshot_2025-12-18_162411.png",
@@ -5132,50 +5111,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "umang_glass_elements": [
-      {
-        "op": "082412",
-        "prod": "Calviro",
-        "var": "Jean",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250923_121808_480699_pasted_image_1758610094346.png",
-        "cat": "Coffee Tables",
-        "mat": "Black Matt Sheesham Structure; ICA PM600 Sheesham Mounting; Black Tinted 5mm Glass Top; Black Tinted 5mm Glass Shelf",
-        "sz": "Outer: 54\" x 30\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1u-WsbrLVjoiQ36J2o36E3BVNGeysoEny",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room\nMS black powdercoat excluding ss visible in leg",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Tinted Glass"
-        },
-        "vendorDisplayName": "Umang Glass Elements"
-      },
-      {
-        "op": "082520",
-        "prod": "Pianica",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
-        "cat": "Coffee Tables",
-        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 43\" x 43\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
-        "des": "Tanmay Shah",
-        "dl": "06-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Umang Glass Elements"
-      }
-    ],
     "mandap": [
       {
         "op": "082520",
@@ -5197,6 +5132,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
+      }
+    ],
+    "umang_glass_elements": [
+      {
+        "op": "082520",
+        "prod": "Pianica",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
+        "cat": "Coffee Tables",
+        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Boto Chino Legs",
+        "sz": "Outer: 43\" x 43\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
+        "des": "Tanmay Shah",
+        "dl": "06-Sept-2025",
+        "q": 2,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Umang Glass Elements"
       }
     ],
     "the_lighting_studio": [
@@ -5293,6 +5251,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-08T12:37:30.951Z"
+    "timestamp": "2026-01-08T12:52:30.369Z"
   }
 }
