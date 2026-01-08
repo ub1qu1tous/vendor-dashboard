@@ -2871,7 +2871,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "PU Only\nPU Code is yet to be finalised"
+          "rm": "Black PU Only"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5293,6 +5293,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-08T11:07:31.276Z"
+    "timestamp": "2026-01-08T11:22:29.260Z"
   }
 }
