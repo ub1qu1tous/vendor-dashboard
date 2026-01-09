@@ -2580,6 +2580,48 @@
           "rm": "internal drawer only\ninternal box size : 478mm x 400mm x 140mm\npush open channel"
         },
         "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "012604",
+        "prod": "Solaris",
+        "var": "Shortle",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170159_953531_pasted_image_1767699135503.png",
+        "cat": "Shelvings",
+        "mat": "Deluxe-100 Gothic Grey 16mm Plywood Shelf",
+        "sz": "Shelf A: 22.24\" x 21.65\" x 0.75\"",
+        "fld": "https://drive.google.com/drive/folders/19KlTJuOOf7Tk5A6mczGRZjASrbyQv00t",
+        "des": "Dilip Jangir",
+        "dl": "09-Jan-2026",
+        "q": 2,
+        "pm": "Kamlesh Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "012604",
+        "prod": "Solaris",
+        "var": "Shelby",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170159_953531_pasted_image_1767699135503.png",
+        "cat": "Shelvings",
+        "mat": "Deluxe-100 Gothic Grey 16mm Plywood Shelf",
+        "sz": "Shelf A: 10.71\" x 34.13\" x 0.75\";\nShelf B: 10.71\" x 36.1\" x 0.75\";\nShelf C: 10.71\" x 36.1\" x 0.75\";\nShelf D: 20.47\" x 22.24\" x 0.75\"",
+        "fld": "https://drive.google.com/drive/folders/1QI8UGQGfFCHuDYeppC2V1RuooaxjcKQl",
+        "des": "Dilip Jangir",
+        "dl": "09-Jan-2026",
+        "q": 1,
+        "pm": "Kamlesh Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
       }
     ],
     "fs_sofa_legs": [
@@ -4598,6 +4640,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-09T11:37:22.911Z"
+    "timestamp": "2026-01-09T11:52:31.696Z"
   }
 }
