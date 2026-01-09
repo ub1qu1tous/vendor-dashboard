@@ -799,7 +799,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Frame sample will Provide by us."
+          "rm": "Frame Polish sample will Provide by us."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -820,7 +820,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Frame sample will Provide by us."
+          "rm": "Frame Polish sample will Provide by us."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4577,6 +4577,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-09T09:52:30.250Z"
+    "timestamp": "2026-01-09T10:07:25.039Z"
   }
 }
