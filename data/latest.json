@@ -3004,27 +3004,6 @@
           "rm": "counter , and connecting work"
         },
         "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122528",
-        "prod": "Dorothy",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/yskJF0g/Bagel-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Natural White Oak Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1hZzHp2z6_ewkmD7Twc3aO0wxKErhmIJA",
-        "des": "Tarishi Rathore",
-        "dl": "28-Dec-2021",
-        "q": 3,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "06-Jan-2026",
-          "a": "08-Jan-2026",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "krishna_furnitech_polish_only": [
@@ -4766,6 +4745,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-12T11:07:27.821Z"
+    "timestamp": "2026-01-12T11:22:26.455Z"
   }
 }
