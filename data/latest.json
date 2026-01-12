@@ -2943,6 +2943,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "012606",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "112511",
         "prod": "Pinson",
         "var": "Lexia",
@@ -4202,6 +4223,27 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
+        "op": "012606",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
         "op": "102411",
         "prod": "Drakonis",
         "var": "Kiera",
@@ -4479,6 +4521,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "012606",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Base; Gold PVD Stainless Steel 304 Matt Frame",
+        "sz": "Outer: 18\" x 18\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "102411",
         "prod": "Citadel",
         "var": "Drake",
@@ -4703,6 +4766,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-12T05:56:38.508Z"
+    "timestamp": "2026-01-12T06:12:42.792Z"
   }
 }
