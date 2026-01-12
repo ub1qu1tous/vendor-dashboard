@@ -4139,69 +4139,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "082520",
-        "prod": "Naas",
-        "var": "Nycia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110926_548867_Screenshot_2025-09-16_110744.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1dgkbHQqKcNym4R24Est-rLsgMl9DpPVu",
-        "des": "Tanmay Shah",
-        "dl": "12-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082520",
-        "prod": "Naas",
-        "var": "Yukon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250916_110941_640064_Screenshot_2025-09-16_110507.png",
-        "cat": "Accent Tables",
-        "mat": "Black Matt Sheesham Top; Black Powder Coat Mild Steel Support; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 27.5\" x 27.5\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1O5Ad1Kf6EbOu0tdjEs8mKuDW1WJ8vs6M",
-        "des": "Tanmay Shah",
-        "dl": "13-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082520",
-        "prod": "Pianica",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250911_134334_213931_Screenshot_2025-09-05_150225.png",
-        "cat": "Coffee Tables",
-        "mat": "Extra Clear 12mm Toughened Glass Top; Mirror Buffing Boto Chino Legs",
-        "sz": "Outer: 43\" x 43\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1k6MW8aUc9CLwWvu0kk8ZbELaLZ7w7OeV",
-        "des": "Tanmay Shah",
-        "dl": "06-Sept-2025",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
         "op": "012606",
         "prod": "Quartzia",
         "var": "Ethel",
@@ -4745,6 +4682,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-12T11:22:26.455Z"
+    "timestamp": "2026-01-12T11:37:32.973Z"
   }
 }
