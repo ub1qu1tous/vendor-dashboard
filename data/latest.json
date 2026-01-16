@@ -844,6 +844,27 @@
           "rm": "internal drawer only\ninternal box size : 478mm x 400mm x 140mm\npush open channel"
         },
         "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122526",
+        "prod": "Strand",
+        "var": "Rawlins",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
+        "cat": "Nightstands",
+        "mat": "Finish TBC HDHMR Carcass; Mirror Buffing Marble TBC Top; Black Distressed/Charcoal Sheesham Drawer Fascia; Finish TBC Oak Veneer Drawer Box; Finish TBC 16mm Plywood Drawer Internal; Mirror Buffing Stainless Steel 304 Gloss Skirting",
+        "sz": "Outer: 24\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
+        "des": "Tanmay Shah",
+        "dl": "01-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Carcass Black PU only"
+        },
+        "vendorDisplayName": "Vipra"
       }
     ],
     "arbuda_metal": [
@@ -4682,6 +4703,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-16T10:22:26.095Z"
+    "timestamp": "2026-01-16T10:39:28.360Z"
   }
 }
