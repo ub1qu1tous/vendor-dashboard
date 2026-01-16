@@ -553,6 +553,27 @@
       },
       {
         "op": "082412",
+        "prod": "Ticknock",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
+        "cat": "Beds",
+        "mat": "Black Matt Sheesham Structure; Asianpaints Fare Ply & Foam Upholstery Headboard; Asianpaints Fare Ply & Foam Upholstery Platform; Black Matt Sheesham Legs",
+        "sz": "Outer: 72\" x 83.5\" x 56\";\nMattress: 66\" x 78\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Mattress Ply Size: 1670x1980\nVipra Wooden dark laminate must be used as per discussion."
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082412",
         "prod": "Tilburg",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
@@ -1080,27 +1101,6 @@
       },
       {
         "op": "082412",
-        "prod": "Tilburg",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
-        "cat": "Nightstands",
-        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 22\" x 16\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
-        "des": "Hetvi Shah",
-        "dl": "24-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "31-Dec-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082412",
         "prod": "Verve",
         "var": "Hyde",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251004_160723_756674_pasted_image_1759574250488.png",
@@ -1436,27 +1436,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "082412",
-        "prod": "Tilburg",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
-        "cat": "Nightstands",
-        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 22\" x 16\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
-        "des": "Hetvi Shah",
-        "dl": "24-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "gold pvd 8 pcs"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -2570,27 +2549,6 @@
         "q": 6,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
-        "v": {
-          "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082412",
-        "prod": "Ticknock",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
-        "cat": "Beds",
-        "mat": "Black Matt Sheesham Structure; Asianpaints Fare Ply & Foam Upholstery Headboard; Asianpaints Fare Ply & Foam Upholstery Platform; Black Matt Sheesham Legs",
-        "sz": "Outer: 72\" x 83.5\" x 56\";\nMattress: 66\" x 78\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
         "v": {
           "c": "10-Jan-2026",
           "a": "",
@@ -4703,6 +4661,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-16T10:52:36.977Z"
+    "timestamp": "2026-01-16T11:07:40.446Z"
   }
 }
