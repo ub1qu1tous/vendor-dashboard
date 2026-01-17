@@ -4615,6 +4615,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "122514",
+        "prod": "Soohoo",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251212_183334_033358_pasted_image_1765544625540.png",
+        "cat": "Bar Cabinets",
+        "mat": "Natural White Oak Carcass; Natural White Oak Shutter; Natural White Oak Internal Carcass",
+        "sz": "Outer: 18.75\" x 22\" x 27\";\nCube: 18.75\" x 17\" x 22\"",
+        "fld": "https://drive.google.com/drive/folders/1O3_PRhMoXtjDbCfw8M4mpBnu36ReeAUe",
+        "des": "Arpit Jain",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Small Bar Case",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Available Slot Size for Square cube: \n460 x 415 x 538 MM\n "
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "122532",
         "prod": "Tauris",
         "var": "Cormac",
@@ -4661,6 +4682,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-17T06:37:29.427Z"
+    "timestamp": "2026-01-17T06:52:25.126Z"
   }
 }
