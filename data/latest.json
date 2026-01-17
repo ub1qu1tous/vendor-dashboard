@@ -4973,6 +4973,27 @@
           "rm": "14-6-2025 - chhotubhai has to install carcass\n23-6-2025- Chhotubhai has to  install Shutter"
         },
         "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "122514",
+        "prod": "Peynova",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_162249_522167_pasted_image_1765882383572.png",
+        "cat": "Shoe Cabinets",
+        "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
+        "des": "Arpit Jain",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Foyer Shoe Bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Chhoturam"
       }
     ],
     "siddhi_vinayak_marble": [
@@ -6296,27 +6317,6 @@
     "vittal_wood_tech": [
       {
         "op": "122514",
-        "prod": "Peynova",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_162249_522167_pasted_image_1765882383572.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
-        "des": "Arpit Jain",
-        "dl": "15-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Foyer Shoe Bench",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122514",
         "prod": "Soohoo",
         "var": "Fynn",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251212_183334_033358_pasted_image_1765544625540.png",
@@ -6332,7 +6332,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Available Slot Size for Square cube: \n460 x 415 x 538 MM\n "
+          "rm": "Veneer Hum bhejege\nAvailable Slot Size for Square cube: \n460 x 415 x 538 MM\n Polish vadodara me hogi"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -7246,6 +7246,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-17T10:07:24.601Z"
+    "timestamp": "2026-01-17T10:22:23.015Z"
   }
 }
