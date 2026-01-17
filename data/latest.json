@@ -3558,7 +3558,7 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "122532",
+        "op": "122528",
         "prod": "Tauris",
         "var": "Cormac",
         "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
@@ -3569,7 +3569,7 @@
         "des": "Vikas Jangir",
         "dl": "06-Oct-2024",
         "q": 1,
-        "pm": "#N/A",
+        "pm": "Rohan Parmar",
         "cr": "",
         "v": {
           "c": "06-Jan-2026",
@@ -4594,7 +4594,7 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "122532",
+        "op": "122528",
         "prod": "Tauris",
         "var": "Cormac",
         "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
@@ -4605,7 +4605,7 @@
         "des": "Vikas Jangir",
         "dl": "06-Oct-2024",
         "q": 1,
-        "pm": "#N/A",
+        "pm": "Rohan Parmar",
         "cr": "",
         "v": {
           "c": "05-Jan-2026",
@@ -4640,6 +4640,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-17T12:52:24.203Z"
+    "timestamp": "2026-01-17T13:07:28.904Z"
   }
 }
