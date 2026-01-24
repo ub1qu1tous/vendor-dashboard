@@ -2479,27 +2479,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "102411",
-        "prod": "Mythara",
-        "var": "Thunder",
-        "url": "https://i.ibb.co/HXp38Zr/Screenshot-2024-11-14-173251.png",
-        "cat": "Benches",
-        "mat": "Natural Teak Veneer Structure; Fabric TBC Ply & Foam Upholstery Seat; SCS 9672 16mm Plywood Internal Carcass",
-        "sz": "Outer: 108\" x 21\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/1EnAu5aZl_d2CYc5BOe8VmPueH2X-dXLv",
-        "des": "Hetvi Shah",
-        "dl": "19-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Bench ; Seating bench with backrest attached to the wall",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "102505",
         "prod": "Westend",
         "var": "Lumia",
@@ -2790,27 +2769,6 @@
         "q": 1,
         "pm": "Rohan Parmar",
         "cr": "Vandan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "102411",
-        "prod": "Mythara",
-        "var": "Thunder",
-        "url": "https://i.ibb.co/HXp38Zr/Screenshot-2024-11-14-173251.png",
-        "cat": "Benches",
-        "mat": "Natural Teak Veneer Structure; Fabric TBC Ply & Foam Upholstery Seat; SCS 9672 16mm Plywood Internal Carcass",
-        "sz": "Outer: 108\" x 21\" x 23\"",
-        "fld": "https://drive.google.com/drive/folders/1EnAu5aZl_d2CYc5BOe8VmPueH2X-dXLv",
-        "des": "Hetvi Shah",
-        "dl": "19-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Bench ; Seating bench with backrest attached to the wall",
         "v": {
           "c": "",
           "a": "",
@@ -4094,6 +4052,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-24T13:08:10.279Z"
+    "timestamp": "2026-01-24T13:23:48.265Z"
   }
 }
