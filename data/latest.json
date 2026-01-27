@@ -871,27 +871,6 @@
       {
         "op": "042510",
         "prod": "Majvion",
-        "var": "Graysen",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152313_776643_Arushi_N2.png",
-        "cat": "Nightstands",
-        "mat": "ICA VMA3040 + SFCA HDHMR Carcass; RAL 1015 Light Ivory HDHMR Drawer Fascia; ICA VMA3040 + SFCA Mild Steel Legs; Welmica Laminates Ashwood 2813 SF 16mm Plywood Internal Carcass",
-        "sz": "Outer: 70\" x 20\" x 14\"",
-        "fld": "https://drive.google.com/drive/folders/1Qeper9rsSIJ8nIuJdEbLGFsXmClZKAOS",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Aarushi's Bedroom - Nighstand",
-        "v": {
-          "c": "25-Nov-2025",
-          "a": "",
-          "rm": "4 side and 1 center leg ms 25mm square pipe"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042510",
-        "prod": "Majvion",
         "var": "Heidi",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152334_246967_Arushi_N1.png",
         "cat": "Nightstands",
@@ -905,29 +884,8 @@
         "cr": "Aarushi's Bedroom - Nighstand",
         "v": {
           "c": "25-Nov-2025",
-          "a": "",
+          "a": "02-Jan-2026",
           "rm": "4 side legs ms 25mm square pipe"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042510",
-        "prod": "Pomfret",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152732_566699_Chelsi_s_Tv_unit.png",
-        "cat": "Media Consoles",
-        "mat": "Natural Oak Veneer Structure; ICA VMA3040 + SFCA HDHMR Carcass; RAL 1015 Light Ivory HDHMR Shutter; RAL 1015 Light Ivory HDHMR Drawer Fascia; Welmica Laminates Ashwood 2813 SF 16mm Plywood Internal Carcass; ICA VMA3040 + SFCA Mild Steel Frame",
-        "sz": "Outer: 77\" x 16\" x 28\"",
-        "fld": "https://drive.google.com/drive/folders/1TJbrrx5-wDklqRj829NN_Rn_2VVKAB2p",
-        "des": "Tanmay Shah",
-        "dl": "19-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom - TV Unit",
-        "v": {
-          "c": "25-Nov-2025",
-          "a": "",
-          "rm": "20mm round rod ms frame"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3863,6 +3821,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-27T05:52:30.173Z"
+    "timestamp": "2026-01-27T06:08:11.612Z"
   }
 }
