@@ -657,48 +657,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "082412",
-        "prod": "Tilburg",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_114418_544768_Screenshot_2025-10-04_114218.png",
-        "cat": "Nightstands",
-        "mat": "ICA MATT 15 (Black) HDHMR Carcass; Finish TBC HDHMR Drawer Fascia; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Mounting; Gold PVD Stainless Steel 304 Matt Legs",
-        "sz": "Outer: 22\" x 16\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Wr_YlnMqL8Lo4hXV5wikEB_iGLPrKNyx",
-        "des": "Hetvi Shah",
-        "dl": "24-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Carcass and Drawer fascia of HDHMR (Black PU on Carcass and Fascia PU Shade Not Decided Yet)"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082412",
-        "prod": "Verve",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251004_160723_756674_pasted_image_1759574250488.png",
-        "cat": "Nightstands",
-        "mat": "ICA MATT 15 (Black) Marble TBC Top; ICA MATT 15 (Black) HDHMR Carcass; ICA MATT 15 (Black) HDHMR Drawer Fascia Frame; Clear 5mm Fluted/Reeded/Ribbed Glass Drawer Fascia Panel; SCS 0015 12mm Plywood Drawer Box; Gold PVD Stainless Steel 304 Matt Frame",
-        "sz": "Outer: 22\" x 16\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1jSHSe8W3lnTbMlOL_z4nzYXOPmc_zIZz",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black PU Only"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "082413",
         "prod": "Grandeur",
         "var": "Istanbul",
@@ -1115,6 +1073,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082413",
+        "prod": "Harbor",
+        "var": "Yukon",
+        "url": "https://i.ibb.co/mCpDj00b/image.png",
+        "cat": "Media Consoles",
+        "mat": "Mirror Buffing Albester White Marble Top; Gold PVD Stainless Steel 304 Matt Mounting; Natural Black Veneer Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Black Veneer Shutter; Mirror Buffing Albester White Marble Base; Mirror Buffing Albester White Marble Support; Gold PVD Stainless Steel 304 Matt Accessories",
+        "sz": "Outer: 53\" x 16\" x 27\"",
+        "fld": "https://drive.google.com/drive/folders/1Tl6B7ml7UXL2uQ-GrH53WyVYNznW3X9y",
+        "des": "Tanmay Shah",
+        "dl": "17-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyanbhai's Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3441,7 +3420,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Top"
         },
         "vendorDisplayName": "Jain Marble"
       },
@@ -3821,6 +3800,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-29T13:22:28.003Z"
+    "timestamp": "2026-01-29T13:37:31.441Z"
   }
 }
