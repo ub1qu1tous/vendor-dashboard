@@ -891,6 +891,27 @@
       },
       {
         "op": "082412",
+        "prod": "Efron",
+        "var": "Stafford",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_162555_600703_Screenshot_2025-12-18_162411.png",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Structure; Best Of Toile SRN GL_75 Ply & Foam Upholstery Backrest; Best Of Toile SRN GL_75 Ply & Foam Upholstery Seat; Best Of Toile SRN GL_75 Foam Upholstery 1 Centre Cushion; Fabric TBC Leatherette Mounting",
+        "sz": "Outer: 33\" x 28\" x 33\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WdB7FHrie0G0IziRNkvYad6LNQebB9M4",
+        "des": "Tanmay Shah",
+        "dl": "02-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Brass Cap 8 PC, As per size given to Rohan"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
@@ -2115,7 +2136,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "top, bottom in sheesham black matt as per drawing"
+          "rm": "Make using cnc as per \"Top Zakef Accuris.pdf\" File."
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -3800,6 +3821,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-01-30T05:52:24.937Z"
+    "timestamp": "2026-01-30T06:08:07.029Z"
   }
 }
