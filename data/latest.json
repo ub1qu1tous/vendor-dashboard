@@ -657,111 +657,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "082413",
-        "prod": "Grandeur",
-        "var": "Istanbul",
-        "url": "https://i.ibb.co/VcQ720CL/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Black Matt Black Veneer Carcass; SCS 0015 16mm Plywood Internal Carcass; SCS 0015 16mm Plywood Drawer Box; Black Matt Aluminium Profile Drawer Fascia Frame; Black Tinted 5mm Fluted/Reeded/Ribbed Glass Drawer Fascia Panel; Black Matt Sheesham Legs",
-        "sz": "Outer: 21\" x 16\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1KjzWmXcO4adjrNWnZ6D_kuGq5x6WAgHQ",
-        "des": "Tanmay Shah",
-        "dl": "17-Oct-2024",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyanbhai's Bedroom",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "Front Fascia of Aluminium Section, drawer push to open"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082413",
-        "prod": "Thunderbolt",
-        "var": "Mili",
-        "url": "https://i.ibb.co/Sw34WdHF/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Oak Veneer Shutter; Mirror Buffing Albester White Marble Top; Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Legs; Natural Oak Veneer Drawer",
-        "sz": "Outer: 60\" x 16\" x 25.5\"",
-        "fld": "https://drive.google.com/drive/folders/1y3jc6OlA5cOW5WZPCbphk2TOXblZTJ7I",
-        "des": "Tanmay Shah",
-        "dl": "30-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "Make Fascia/Shutter in Veneer"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082413",
-        "prod": "Vortex",
-        "var": "Nested",
-        "url": "https://i.ibb.co/Q75NS5QL/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Black Matt Laminate 16mm Plywood Carcass; SCS 0015 16mm Plywood Internal Carcass; Black Matt PU HDHMR Shutter Internal; Natural Black Veneer shutter;   Mounting",
-        "sz": "Outer: 60\" x 16\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/14E43Wol5drLaqCiHur2uViVY23c_XUxE",
-        "des": "Tanmay Shah",
-        "dl": "18-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Tirthbhai's Bedroom",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "Please follow instructions given in video. Carcass: Outer Black Laminate and Internal SCS 0015 with Black Edge band; Shutter: HDMR Black PU and Black Veneer above that; Top/Side Plank/ Mountings:  HDMR Black PU and Black Veneer above that\nHinges: Soft Close"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "102416",
-        "prod": "Fluke",
-        "var": "Trickle",
-        "url": "https://i.ibb.co/Wv42rJ5k/0001.jpg",
-        "cat": "Nightstands",
-        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Black PVD Stainless Steel 304 Matt Frame; Finish TBC HDHMR Drawer Fascia; Black PVD Stainless Steel 304 Matt Base",
-        "sz": "Outer: 20\" x 18\" x 19\"",
-        "fld": "https://drive.google.com/drive/folders/1O1p33V3FA7V_MfRjoXMc7PTh190CH4ws",
-        "des": "Hetvi Shah",
-        "dl": "12-Jan-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "102416",
-        "prod": "Goliath",
-        "var": "Esquire",
-        "url": "https://i.ibb.co/0RzQGzFw/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Black Marquina Top; Black Powder Coat Mild Steel Frame; Black Matt PU HDHMR Carcass; Black Powder Coat Aluminium Shutter Frame; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter",
-        "sz": "Outer: 60\" x 16\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/16GTyazbjYXc-qshAdFqeQ4k004RH3Ink",
-        "des": "Hetvi Shah",
-        "dl": "26-Jan-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom",
-        "v": {
-          "c": "15-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "122526",
         "prod": "Strand",
         "var": "Rawlins",
@@ -886,27 +781,6 @@
           "c": "25-Nov-2025",
           "a": "",
           "rm": "2 ms frame as per drawing"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082412",
-        "prod": "Efron",
-        "var": "Stafford",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_162555_600703_Screenshot_2025-12-18_162411.png",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Structure; Best Of Toile SRN GL_75 Ply & Foam Upholstery Backrest; Best Of Toile SRN GL_75 Ply & Foam Upholstery Seat; Best Of Toile SRN GL_75 Foam Upholstery 1 Centre Cushion; Fabric TBC Leatherette Mounting",
-        "sz": "Outer: 33\" x 28\" x 33\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1WdB7FHrie0G0IziRNkvYad6LNQebB9M4",
-        "des": "Tanmay Shah",
-        "dl": "02-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Brass Cap 8 PC, As per size given to Rohan"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -1115,6 +989,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dhyanbhai's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082413",
+        "prod": "Thunderbolt",
+        "var": "Mili",
+        "url": "https://i.ibb.co/Sw34WdHF/0002.jpg",
+        "cat": "Media Consoles",
+        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Oak Veneer Shutter; Mirror Buffing Albester White Marble Top; Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Legs; Natural Oak Veneer Drawer",
+        "sz": "Outer: 60\" x 16\" x 25.5\"",
+        "fld": "https://drive.google.com/drive/folders/1y3jc6OlA5cOW5WZPCbphk2TOXblZTJ7I",
+        "des": "Tanmay Shah",
+        "dl": "30-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -1572,27 +1467,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "082413",
-        "prod": "Phantom",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/ZGXx5hy/0001.jpg",
-        "cat": "Media Consoles",
-        "mat": "Natural Black Veneer Carcass; SCS 0015 16mm Plywood Internal Carcass; SCS 0015 16mm Plywood Shutter; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 60\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1ozkTgBxAZcsq7MpYDz6hy-PEp7yLiH4B",
-        "des": "Hetvi Shah",
-        "dl": "28-Nov-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Jaybhai's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "082519",
         "prod": "Skerries",
         "var": "Campbell",
@@ -1902,27 +1776,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082413",
-        "prod": "Thunderbolt",
-        "var": "Mili",
-        "url": "https://i.ibb.co/Sw34WdHF/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Oak Veneer Shutter; Mirror Buffing Albester White Marble Top; Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Legs; Natural Oak Veneer Drawer",
-        "sz": "Outer: 60\" x 16\" x 25.5\"",
-        "fld": "https://drive.google.com/drive/folders/1y3jc6OlA5cOW5WZPCbphk2TOXblZTJ7I",
-        "des": "Tanmay Shah",
-        "dl": "30-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3488,27 +3341,6 @@
         "vendorDisplayName": "Jain Marble"
       },
       {
-        "op": "082413",
-        "prod": "Thunderbolt",
-        "var": "Mili",
-        "url": "https://i.ibb.co/Sw34WdHF/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Black Matt PU HDHMR Carcass; SCS 0015 16mm Plywood Internal Carcass; Natural Oak Veneer Shutter; Mirror Buffing Albester White Marble Top; Black Powder Coat Mild Steel Frame; Black Powder Coat Mild Steel Legs; Natural Oak Veneer Drawer",
-        "sz": "Outer: 60\" x 16\" x 25.5\"",
-        "fld": "https://drive.google.com/drive/folders/1y3jc6OlA5cOW5WZPCbphk2TOXblZTJ7I",
-        "des": "Tanmay Shah",
-        "dl": "30-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
         "op": "122415",
         "prod": "Valeriya",
         "var": "Ethan",
@@ -3863,6 +3695,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-02T06:52:25.406Z"
+    "timestamp": "2026-02-02T07:10:03.967Z"
   }
 }
