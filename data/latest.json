@@ -1293,27 +1293,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "102416",
-        "prod": "Goliath",
-        "var": "Esquire",
-        "url": "https://i.ibb.co/0RzQGzFw/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Black Marquina Top; Black Powder Coat Mild Steel Frame; Black Matt PU HDHMR Carcass; Black Powder Coat Aluminium Shutter Frame; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter",
-        "sz": "Outer: 60\" x 16\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/16GTyazbjYXc-qshAdFqeQ4k004RH3Ink",
-        "des": "Hetvi Shah",
-        "dl": "26-Jan-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Mdf for marble"
-        },
-        "vendorDisplayName": "Nishant CNC"
       }
     ],
     "ashok_polish": [
@@ -1501,27 +1480,6 @@
         "q": 2,
         "pm": "Smruti Saraiya",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "102416",
-        "prod": "Goliath",
-        "var": "Esquire",
-        "url": "https://i.ibb.co/0RzQGzFw/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Mirror Buffing Black Marquina Top; Black Powder Coat Mild Steel Frame; Black Matt PU HDHMR Carcass; Black Powder Coat Aluminium Shutter Frame; Clear 5mm Fluted/Reeded/Ribbed Glass Shutter",
-        "sz": "Outer: 60\" x 16\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/16GTyazbjYXc-qshAdFqeQ4k004RH3Ink",
-        "des": "Hetvi Shah",
-        "dl": "26-Jan-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -1968,7 +1926,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "470MM\nDnut aek side\nSheesham\nJacobean"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3695,6 +3653,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-02T07:10:03.967Z"
+    "timestamp": "2026-02-02T07:22:31.826Z"
   }
 }
