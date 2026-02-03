@@ -807,6 +807,27 @@
       },
       {
         "op": "052508",
+        "prod": "Dellamon",
+        "var": "Cappuccino",
+        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Mirror PU Lamination Newton Grey Top; Black PVD Stainless Steel 304 Gloss Base; Tan-Fabric Laminate 16mm Plywood Support",
+        "sz": "Outer: 72\" x 36\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
+        "des": "Akhilesh Yadav",
+        "dl": "02-Jul-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining table top and chair structure have the same finish\n",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
         "prod": "Hilton",
         "var": "Baltic",
         "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
@@ -1526,6 +1547,27 @@
           "c": "",
           "a": "",
           "rm": "Jewelley unit"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "052508",
+        "prod": "Avocado",
+        "var": "Mili",
+        "url": "https://i.ibb.co/QF3QKhf/v01-8.jpg",
+        "cat": "Accent Tables",
+        "mat": "Black Distressed/Charcoal White Oak Top; Gold PVD Stainless Steel 304 Gloss Mounting; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 11.5\" x 11.5\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/15O4Lg2j4XAW9AqCB1aHe1u013-5Pqsxf",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
       },
@@ -2393,6 +2435,27 @@
           "c": "",
           "a": "",
           "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052508",
+        "prod": "Dellamon",
+        "var": "Cappuccino",
+        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Mirror PU Lamination Newton Grey Top; Black PVD Stainless Steel 304 Gloss Base; Tan-Fabric Laminate 16mm Plywood Support",
+        "sz": "Outer: 72\" x 36\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
+        "des": "Akhilesh Yadav",
+        "dl": "02-Jul-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining table top and chair structure have the same finish\n",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -3861,6 +3924,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-03T07:52:27.484Z"
+    "timestamp": "2026-02-03T08:07:24.597Z"
   }
 }
