@@ -673,7 +673,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Require Plywood top\nSize: 96\" X 42\"\n12mm Thickness\nSCS 0555 Laminate BSL\nQty: 2 Pcs"
+          "rm": "Require Plywood top; Size: 96\" X 42\"; 12mm Thickness; SCS 0555 Laminate BSL; Qty: 2 Pcs"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -3588,6 +3588,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-03T06:07:32.783Z"
+    "timestamp": "2026-02-03T06:22:27.329Z"
   }
 }
