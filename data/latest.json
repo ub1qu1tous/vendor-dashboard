@@ -807,6 +807,27 @@
       },
       {
         "op": "052508",
+        "prod": "Canetta",
+        "var": "Dyson",
+        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
+        "cat": "Ottomans",
+        "mat": "Limited Edition Hashtag 40023 Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 19\" x 19\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
+        "des": "Ravi Malladi",
+        "dl": "14-Dec-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
         "prod": "Dellamon",
         "var": "Cappuccino",
         "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
@@ -1159,6 +1180,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052508",
+        "prod": "Canetta",
+        "var": "Dyson",
+        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
+        "cat": "Ottomans",
+        "mat": "Limited Edition Hashtag 40023 Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 19\" x 19\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
+        "des": "Ravi Malladi",
+        "dl": "14-Dec-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -1764,6 +1806,27 @@
       },
       {
         "op": "052508",
+        "prod": "Ajax",
+        "var": "Juniper",
+        "url": "https://i.ibb.co/82Q6xBn/Ajax-Juniper-01.jpg",
+        "cat": "Sofa cum Beds",
+        "mat": "Azco Amethyst Cotton Wool Ply & Foam Upholstery Structure; Peca Sheesham Legs",
+        "sz": "Outer: 82\" x 41\" x 34.5\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ElIA49_WHCWAbg5OS4oafhPCUcUnsRsE",
+        "des": "Akarsha Jha",
+        "dl": "29-Mar-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Width: 2100mm",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4x4 Inches\nThickness: 18mm\n4 Pcs\nSheesham\nPeca"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052508",
         "prod": "Hilton",
         "var": "Baltic",
         "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
@@ -2197,6 +2260,48 @@
         "dl": "25-Dec-2022",
         "q": 1,
         "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052508",
+        "prod": "Ajax",
+        "var": "Juniper",
+        "url": "https://i.ibb.co/82Q6xBn/Ajax-Juniper-01.jpg",
+        "cat": "Sofa cum Beds",
+        "mat": "Azco Amethyst Cotton Wool Ply & Foam Upholstery Structure; Peca Sheesham Legs",
+        "sz": "Outer: 82\" x 41\" x 34.5\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ElIA49_WHCWAbg5OS4oafhPCUcUnsRsE",
+        "des": "Akarsha Jha",
+        "dl": "29-Mar-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Width: 2100mm",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052508",
+        "prod": "Canetta",
+        "var": "Dyson",
+        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
+        "cat": "Ottomans",
+        "mat": "Limited Edition Hashtag 40023 Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 19\" x 19\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
+        "des": "Ravi Malladi",
+        "dl": "14-Dec-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -3060,7 +3165,49 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
-    "aavaran": [
+    "clientfabric": [
+      {
+        "op": "052508",
+        "prod": "Ajax",
+        "var": "Juniper",
+        "url": "https://i.ibb.co/82Q6xBn/Ajax-Juniper-01.jpg",
+        "cat": "Sofa cum Beds",
+        "mat": "Azco Amethyst Cotton Wool Ply & Foam Upholstery Structure; Peca Sheesham Legs",
+        "sz": "Outer: 82\" x 41\" x 34.5\", Seat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ElIA49_WHCWAbg5OS4oafhPCUcUnsRsE",
+        "des": "Akarsha Jha",
+        "dl": "29-Mar-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Width: 2100mm",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "052508",
+        "prod": "Canetta",
+        "var": "Dyson",
+        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
+        "cat": "Ottomans",
+        "mat": "Limited Edition Hashtag 40023 Ply & Foam Upholstery Seat; Gold PVD Stainless Steel 304 Matt Base",
+        "sz": "Outer: 19\" x 19\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
+        "des": "Ravi Malladi",
+        "dl": "14-Dec-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
       {
         "op": "052508",
         "prod": "Phaedros",
@@ -3080,8 +3227,52 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Aavaran"
+        "vendorDisplayName": "Client/Fabric"
       },
+      {
+        "op": "072515",
+        "prod": "Silvera",
+        "var": "Hue",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
+        "cat": "Sofas",
+        "mat": "Black Matt Sheesham Structure; Warwick Jefferson Coal Ply & Foam Upholstery Seat; Warwick Jefferson Coal Foam Upholstery Backrest; Fabric TBC Recron Filling 5 Cushions",
+        "sz": "Outer: 96\" x 36\" x 31\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/16rai4tbKEGhQCFOpUo6o_KLYeiY303yA",
+        "des": "Tanmay Shah",
+        "dl": "16-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "082525",
+        "prod": "Citadel",
+        "var": "Drake",
+        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
+        "cat": "Swings",
+        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
+        "sz": "Outer: 60\" x 24\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
+        "des": "Hetvi Shah",
+        "dl": "25-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      }
+    ],
+    "aavaran": [
       {
         "op": "052508",
         "prod": "Sloane",
@@ -3721,50 +3912,6 @@
         "vendorDisplayName": "Jain Marble"
       }
     ],
-    "clientfabric": [
-      {
-        "op": "072515",
-        "prod": "Silvera",
-        "var": "Hue",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
-        "cat": "Sofas",
-        "mat": "Black Matt Sheesham Structure; Warwick Jefferson Coal Ply & Foam Upholstery Seat; Warwick Jefferson Coal Foam Upholstery Backrest; Fabric TBC Recron Filling 5 Cushions",
-        "sz": "Outer: 96\" x 36\" x 31\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/16rai4tbKEGhQCFOpUo6o_KLYeiY303yA",
-        "des": "Tanmay Shah",
-        "dl": "16-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "082525",
-        "prod": "Citadel",
-        "var": "Drake",
-        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
-        "cat": "Swings",
-        "mat": "Natural Recycled Teak Platform; Gold PVD Stainless Steel 304 Matt Mounting; Fabric TBC Ply & Foam Upholstery Seat; Matt Buffing SS Wire Rope Swing Rope; Natural Indian Teak Backrest; Clear Pre-woven Rattan Weaving; Fabric TBC Recron Filling 1 Large Rectangular Kidney Pillow; Fabric TBC Recron Filling 1 Medium Rectangular Kidney Pillow",
-        "sz": "Outer: 60\" x 24\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
-        "des": "Hetvi Shah",
-        "dl": "25-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      }
-    ],
     "mandap": [
       {
         "op": "082520",
@@ -3924,6 +4071,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-03T09:37:32.757Z"
+    "timestamp": "2026-02-03T09:52:26.613Z"
   }
 }
