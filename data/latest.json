@@ -806,6 +806,48 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Smoke Grey White Ash Carcass; Smoke Grey White Ash Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Knobs",
+        "sz": "Outer: 24\" x 18\" x 21\";\n22.5: 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Sloane",
+        "var": "Quartz",
+        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
+        "cat": "Beds",
+        "mat": "Pure Noville Portobello 110205 Ply & Foam Upholstery Structure; SK YANA01-12 Ply & Foam Upholstery Headboard; Pure Noville Portobello 110205 Foam Upholstery 2 Cushions; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 79\" x 86\" x 32\", Seat Height: 17\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 79\" x 3\" x 32\";\nCushion: 31.5\" x 3\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/folders/1IJGT2WRi2xLg6a8V9v5EEhtYQKPpuCQ5",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Customization to - Queen size bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -1096,6 +1138,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Smoke Grey White Ash Carcass; Smoke Grey White Ash Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Knobs",
+        "sz": "Outer: 24\" x 18\" x 21\";\n22.5: 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -1658,6 +1721,90 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Smoke Grey White Ash Carcass; Smoke Grey White Ash Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Knobs",
+        "sz": "Outer: 24\" x 18\" x 21\";\n22.5: 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052508",
+        "prod": "Kapuchino",
+        "var": "Juniper",
+        "url": "https://i.ibb.co/2ZYKzLD/3.jpg",
+        "cat": "Accent Tables",
+        "mat": "Jacobean Sheesham Top; Jacobean Sheesham Base",
+        "sz": "Outer: 18\" x 18\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1csaFMEIm8mEiMbmx_oVgM2vpiz2laPZx",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052508",
+        "prod": "Phaedros",
+        "var": "Sania",
+        "url": "https://i.ibb.co/q5nsLDZ/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Harvest Oak Veneer Base",
+        "sz": "Outer: 17\" x 17\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rRvz-zT065pqZXd3kqVdh6jrc9zzPsFE",
+        "des": "Tanmay Shah",
+        "dl": "08-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052508",
+        "prod": "Valeri",
+        "var": "Bianca",
+        "url": "https://i.ibb.co/Zmm33Fb/VALERI-BIANCA0002-1.jpg",
+        "cat": "Beds",
+        "mat": "D'Decor CISELE 218 GREY Ply & Foam Upholstery Structure; D'Decor Kaleidoscope METEOROID Foam Upholstery 1 Centre Cushion; Natural Recycled Teak Legs; D'Decor MOLESKIN MS 015-122 Brown Leather Strap Support; D'Decor Talisman 06-ANGORA White Recron Filling 2 Large Rectangular Kidney Pillows; D'Decor Talisman 06-ANGORA White Recron Filling 2 Medium Square Kidney Pillows",
+        "sz": "Outer: 78.75\" x 90.5\" x 40.5\", Seat Height: 23\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 78.75\" x 14\" x 33\"",
+        "fld": "https://drive.google.com/drive/folders/1iWsRYgw4q8z6uEShMzcGFEKRVOT4KHdm?usp=sharing",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Customization to - Queen size bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "072515",
         "prod": "Nolvera",
         "var": "Tyler",
@@ -2017,6 +2164,48 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "052508",
+        "prod": "Sloane",
+        "var": "Quartz",
+        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
+        "cat": "Beds",
+        "mat": "Pure Noville Portobello 110205 Ply & Foam Upholstery Structure; SK YANA01-12 Ply & Foam Upholstery Headboard; Pure Noville Portobello 110205 Foam Upholstery 2 Cushions; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 79\" x 86\" x 32\", Seat Height: 17\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 79\" x 3\" x 32\";\nCushion: 31.5\" x 3\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/folders/1IJGT2WRi2xLg6a8V9v5EEhtYQKPpuCQ5",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Customization to - Queen size bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052508",
+        "prod": "Valeri",
+        "var": "Bianca",
+        "url": "https://i.ibb.co/Zmm33Fb/VALERI-BIANCA0002-1.jpg",
+        "cat": "Beds",
+        "mat": "D'Decor CISELE 218 GREY Ply & Foam Upholstery Structure; D'Decor Kaleidoscope METEOROID Foam Upholstery 1 Centre Cushion; Natural Recycled Teak Legs; D'Decor MOLESKIN MS 015-122 Brown Leather Strap Support; D'Decor Talisman 06-ANGORA White Recron Filling 2 Large Rectangular Kidney Pillows; D'Decor Talisman 06-ANGORA White Recron Filling 2 Medium Square Kidney Pillows",
+        "sz": "Outer: 78.75\" x 90.5\" x 40.5\", Seat Height: 23\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 78.75\" x 14\" x 33\"",
+        "fld": "https://drive.google.com/drive/folders/1iWsRYgw4q8z6uEShMzcGFEKRVOT4KHdm?usp=sharing",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Customization to - Queen size bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "072420",
         "prod": "Lumen",
         "var": "Terrano",
@@ -2204,6 +2393,27 @@
           "c": "",
           "a": "",
           "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Smoke Grey White Ash Carcass; Smoke Grey White Ash Drawer Box; Black Powder Coat Mild Steel Frame; Gold PVD Stainless Steel 304 Matt Cap; Gold PVD Stainless Steel 304 Matt Knobs",
+        "sz": "Outer: 24\" x 18\" x 21\";\n22.5: 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -2787,6 +2997,134 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
+    "aavaran": [
+      {
+        "op": "052508",
+        "prod": "Phaedros",
+        "var": "Sania",
+        "url": "https://i.ibb.co/q5nsLDZ/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Harvest Oak Veneer Base",
+        "sz": "Outer: 17\" x 17\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rRvz-zT065pqZXd3kqVdh6jrc9zzPsFE",
+        "des": "Tanmay Shah",
+        "dl": "08-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "052508",
+        "prod": "Sloane",
+        "var": "Quartz",
+        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
+        "cat": "Beds",
+        "mat": "Pure Noville Portobello 110205 Ply & Foam Upholstery Structure; SK YANA01-12 Ply & Foam Upholstery Headboard; Pure Noville Portobello 110205 Foam Upholstery 2 Cushions; Black Powder Coat Mild Steel Legs",
+        "sz": "Outer: 79\" x 86\" x 32\", Seat Height: 17\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 79\" x 3\" x 32\";\nCushion: 31.5\" x 3\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/folders/1IJGT2WRi2xLg6a8V9v5EEhtYQKPpuCQ5",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Customization to - Queen size bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "052508",
+        "prod": "Valeri",
+        "var": "Bianca",
+        "url": "https://i.ibb.co/Zmm33Fb/VALERI-BIANCA0002-1.jpg",
+        "cat": "Beds",
+        "mat": "D'Decor CISELE 218 GREY Ply & Foam Upholstery Structure; D'Decor Kaleidoscope METEOROID Foam Upholstery 1 Centre Cushion; Natural Recycled Teak Legs; D'Decor MOLESKIN MS 015-122 Brown Leather Strap Support; D'Decor Talisman 06-ANGORA White Recron Filling 2 Large Rectangular Kidney Pillows; D'Decor Talisman 06-ANGORA White Recron Filling 2 Medium Square Kidney Pillows",
+        "sz": "Outer: 78.75\" x 90.5\" x 40.5\", Seat Height: 23\";\nMattress: 72\" x 78\" x 8\";\nHeadboard: 78.75\" x 14\" x 33\"",
+        "fld": "https://drive.google.com/drive/folders/1iWsRYgw4q8z6uEShMzcGFEKRVOT4KHdm?usp=sharing",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Customization to - Queen size bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "072420",
+        "prod": "Lumen",
+        "var": "Terrano",
+        "url": "https://i.ibb.co/x8pHPKF/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Structure; White By Azco Ply & Foam Upholstery Seat; Customise Fabric A Ply & Foam Upholstery Backrest; Black Powder Coat Mild Steel Mounting",
+        "sz": "Outer: 30\" x 36\" x 34.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1hU_eQ4BRXZXjEpG7MSE11TIiB2_-8EWC",
+        "des": "Hetvi Shah",
+        "dl": "07-Nov-2024",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092520",
+        "prod": "Kaveri",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
+        "cat": "Headboards",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
+        "sz": "Outer: 120\" x 1.5\" x 45\"",
+        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Panel",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112520",
+        "prod": "Vespera",
+        "var": "Aera",
+        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 18\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      }
+    ],
     "shital_glass": [
       {
         "op": "052510",
@@ -3320,71 +3658,6 @@
         "vendorDisplayName": "Jain Marble"
       }
     ],
-    "aavaran": [
-      {
-        "op": "072420",
-        "prod": "Lumen",
-        "var": "Terrano",
-        "url": "https://i.ibb.co/x8pHPKF/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Structure; White By Azco Ply & Foam Upholstery Seat; Customise Fabric A Ply & Foam Upholstery Backrest; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 30\" x 36\" x 34.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1hU_eQ4BRXZXjEpG7MSE11TIiB2_-8EWC",
-        "des": "Hetvi Shah",
-        "dl": "07-Nov-2024",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "092520",
-        "prod": "Kaveri",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
-        "cat": "Headboards",
-        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
-        "sz": "Outer: 120\" x 1.5\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Panel",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "112520",
-        "prod": "Vespera",
-        "var": "Aera",
-        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
-        "sz": "Outer: 18\" x 18\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      }
-    ],
     "clientfabric": [
       {
         "op": "072515",
@@ -3588,6 +3861,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-03T07:37:26.888Z"
+    "timestamp": "2026-02-03T07:52:27.484Z"
   }
 }
