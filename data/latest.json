@@ -2225,6 +2225,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122514",
+        "prod": "Peynova",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_162249_522167_pasted_image_1765882383572.png",
+        "cat": "Shoe Cabinets",
+        "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
+        "des": "Hetvi Shah",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Foyer Shoe Bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "royal_powder_coat": [
@@ -3553,6 +3574,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "122514",
+        "prod": "Peynova",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_162249_522167_pasted_image_1765882383572.png",
+        "cat": "Shoe Cabinets",
+        "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
+        "des": "Hetvi Shah",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Foyer Shoe Bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
       }
     ],
     "mandap": [
@@ -3634,7 +3676,7 @@
         "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
         "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
         "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
-        "des": "Arpit Jain",
+        "des": "Hetvi Shah",
         "dl": "15-Dec-2025",
         "q": 1,
         "pm": "Maulik Parmar",
@@ -3642,7 +3684,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Clean Oak Wood me bnana hai, Knot-less"
+          "rm": "Clean Oak Wood me bnana hai, Knot-less, Cnc vadodara ma karege"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3714,6 +3756,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-05T11:07:23.365Z"
+    "timestamp": "2026-02-05T11:24:26.951Z"
   }
 }
