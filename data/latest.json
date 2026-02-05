@@ -3014,27 +3014,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "",
-        "prod": "",
-        "var": "",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "#N/A",
-        "cr": "",
-        "v": {
-          "c": "06-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
     "vishwakarma_glass": [
@@ -3897,27 +3876,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "",
-        "prod": "",
-        "var": "",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "#N/A",
-        "cr": "",
-        "v": {
-          "c": "05-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "aarti_steel": [
@@ -3945,6 +3903,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-05T05:37:27.187Z"
+    "timestamp": "2026-02-05T05:52:28.998Z"
   }
 }
