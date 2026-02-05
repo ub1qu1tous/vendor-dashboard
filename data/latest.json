@@ -1890,48 +1890,6 @@
       },
       {
         "op": "082412",
-        "prod": "Aethero",
-        "var": "Latten",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251219_154829_044610_Screenshot_2025-12-19_154407.png",
-        "cat": "Sofas",
-        "mat": "Marbella Plush Woven Plains SRN 830 Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; Savanna Gurson SRN 111 Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 90\" x 31\" x 32.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/14gTIbHAvytS1y7vEjiO_OrPl0_9QuwqT",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082412",
-        "prod": "Eminiq",
-        "var": "Vitara",
-        "url": "https://i.ibb.co/jkpwgZB7/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Savyasachi Pichwai Linen PCL001 Ply & Foam Upholstery Structure; Black Matt Sheesham Frame",
-        "sz": "Outer: 33\" x 33\" x 39\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/11tsshKyvJfr0PbmS27mmLXbKFD3sQnuc",
-        "des": "Hetvi Shah",
-        "dl": "24-Sept-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082412",
         "prod": "Glavion",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250925_153625_606262_Screenshot_2025-09-25_153400.png",
@@ -2305,69 +2263,6 @@
         "cr": "Dining Area",
         "v": {
           "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082412",
-        "prod": "Aethero",
-        "var": "Latten",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251219_154829_044610_Screenshot_2025-12-19_154407.png",
-        "cat": "Sofas",
-        "mat": "Marbella Plush Woven Plains SRN 830 Ply & Foam Upholstery Structure; Black Matt Sheesham Frame; Savanna Gurson SRN 111 Ply & Foam Upholstery Bolster",
-        "sz": "Outer: 90\" x 31\" x 32.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/14gTIbHAvytS1y7vEjiO_OrPl0_9QuwqT",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082412",
-        "prod": "Eminiq",
-        "var": "Vitara",
-        "url": "https://i.ibb.co/jkpwgZB7/image.png",
-        "cat": "Accent Chairs",
-        "mat": "Savyasachi Pichwai Linen PCL001 Ply & Foam Upholstery Structure; Black Matt Sheesham Frame",
-        "sz": "Outer: 33\" x 33\" x 39\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/11tsshKyvJfr0PbmS27mmLXbKFD3sQnuc",
-        "des": "Hetvi Shah",
-        "dl": "24-Sept-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082413",
-        "prod": "Dragonheart",
-        "var": "Neymar",
-        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
-        "des": "Hetvi Shah",
-        "dl": "24-Nov-2024",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "10-Nov-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3903,6 +3798,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-05T10:22:30.574Z"
+    "timestamp": "2026-02-05T10:39:36.677Z"
   }
 }
