@@ -699,7 +699,7 @@
         "vendorDisplayName": "Vipra"
       }
     ],
-    "krishna_furnitech_polish_only": [
+    "aws": [
       {
         "op": "012605",
         "prod": "Felicity",
@@ -719,175 +719,154 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "AWS"
       },
       {
-        "op": "052306",
-        "prod": "Dunes",
-        "var": "Ibis",
-        "url": "https://i.ibb.co/tw2mLbyy/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Distressed/Charcoal Reclaimed Hardwood Top; Black Matt White Ash Legs",
-        "sz": "Outer: 19\" x 19\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1Dl4P0j4cdooAT6NhWkgTF7yjH8j3QZcC",
-        "des": "Dilip Jangir",
-        "dl": "22-Apr-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "082412",
-        "prod": "Earthhaven",
-        "var": "Mobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
-        "sz": "Outer: 22\" x 22\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
-        "des": "Tanmay Shah",
-        "dl": "05-Nov-2025",
+        "op": "012617",
+        "prod": "Larisa",
+        "var": "Karin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260123_111819_451957_WhatsApp_Image_2026-01-23_at_09_46_20.jpeg",
+        "cat": "Art Plates",
+        "mat": "Suncity Indian Teak Panel; Matt Buffing Brass Accessories; Brass Transparent Coat Mild Steel Mounting",
+        "sz": "Outer: 19\" x 0.75\" x 8\"",
+        "fld": "https://drive.google.com/drive/folders/1yBPQeRL9kAxj2r5S40DWh_keoCFop1Ta",
+        "des": "Rohan Parmar",
+        "dl": "23-Jan-2026",
         "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "Pls don’t forget the brass detail on top to hang the plate",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4 hooks for hanging"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "042510",
+        "prod": "Briggan",
+        "var": "Grover",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
+        "cat": "Nightstands",
+        "mat": "Mirror Buffing Marble TBC Top; Warwick Lustrella Auro Fawn Leatherette Carcass; Welmica Laminates Mink 1321 SF 16mm Plywood Internal Carcass; Warwick Lustrella Auro Fawn Leatherette Drawer Fascia",
+        "sz": "Outer: 20\" x 20\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom -Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "PU Leather"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "052504",
+        "prod": "Crucis",
+        "var": "Theta",
+        "url": "https://i.ibb.co/YT7W4fvT/Whats-App-Image-2025-05-09-at-5-34-09-PM.jpg",
+        "cat": "Dressers",
+        "mat": "Olive White Oak Carcass; Olive White Oak Drawer; Olive White Oak Base; Gold PVD Stainless Steel 304 Matt Handle",
+        "sz": "Outer: 48\" x 21\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/17PySo8IjVjd-qXaFAGjqzLhN-GJaTGHq",
+        "des": "Parthsarthi Suthar",
+        "dl": "09-Jul-2025",
+        "q": 1,
+        "pm": "Smruti Saraiya",
+        "cr": "Master Bedroom Chest",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Jewelley unit"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "052508",
+        "prod": "Avocado",
+        "var": "Mili",
+        "url": "https://i.ibb.co/QF3QKhf/v01-8.jpg",
+        "cat": "Accent Tables",
+        "mat": "Black Distressed/Charcoal White Oak Top; Gold PVD Stainless Steel 304 Gloss Mounting; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 11.5\" x 11.5\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/15O4Lg2j4XAW9AqCB1aHe1u013-5Pqsxf",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Living Room",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "AWS"
       },
       {
-        "op": "082524",
-        "prod": "Clonliff",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120753_162910_Screenshot_2025-09-12_151716.png",
-        "cat": "Windows",
-        "mat": "Rich Tobacco Sheesham Frame",
-        "sz": "Outer: 54\" x 6\" x 60\"",
-        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
+        "op": "082519",
+        "prod": "Skerries",
+        "var": "Campbell",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_144415_365541_WhatsApp_Image_2025-08-22_at_1_30_19_PM.jpeg",
+        "cat": "Awnings",
+        "mat": "Black Powder Coat Aluminium Frame; Sauleda Azul Real 2235 Canvas Upholstery Canopy",
+        "sz": "Outer: 78\" x 39\" x 39\"",
+        "fld": "https://drive.google.com/drive/folders/1LaI6USG02PpOVpB9fiCeuTkWM6482tFE",
+        "des": "Tanmay Shah",
+        "dl": "01-Jan-2010",
         "q": 1,
-        "pm": "Parth Gada",
-        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
+        "pm": "Smruti Saraiya",
+        "cr": "This is a Sample Order for approval; Price Inlcudes Fitting and Delivery; Scaffolding in Client Scope",
         "v": {
-          "c": "07-Oct-2025",
+          "c": "",
           "a": "",
-          "rm": "Rich Tobacco Finish"
+          "rm": "Smruti is working with a new vendor"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "AWS"
       },
       {
-        "op": "082524",
-        "prod": "Coombs",
-        "var": "Brittany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120737_488711_Screenshot_2025-09-12_140949.png",
-        "cat": "Windows",
-        "mat": "Rich Tobacco Sheesham Frame",
-        "sz": "Outer: 76\" x 7.5\" x 69\"",
-        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "Rich Tobacco Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "082524",
-        "prod": "Croydon",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120718_331100_Screenshot_2025-09-12_151648.png",
-        "cat": "Windows",
-        "mat": "Rich Tobacco Sheesham Frame",
-        "sz": "Outer: 60\" x 2.5\" x 54\"",
-        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "Rich Tobacco Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "092416",
-        "prod": "Coringa",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/qr4GVXj/0001.jpg",
-        "cat": "Benches",
-        "mat": "Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Seat; Black Matt Sheesham Base",
-        "sz": "Outer: 72\" x 21\" x 16\", Seat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1wX84oWZ82I3NDzMoMbUzdkRbStt9yfbN",
-        "des": "Akarsha Jha",
-        "dl": "18-Nov-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM;\nSAME LEATHER As Sloane Quartz",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "black matt"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "122505",
-        "prod": "Clement",
-        "var": "Dwight",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124620_363420_pasted_image_1765869394570.png",
-        "cat": "Accent Tables",
-        "mat": "Black Powder Coat Mild Steel Top; Black Matt Sheesham Base",
-        "sz": "Outer: 14\" x 16\" x 29\"",
-        "fld": "https://drive.google.com/drive/folders/1Nw0tbi03q9XKMbYO-D8B2lfmldfN195T",
+        "op": "092522",
+        "prod": "Poseidon",
+        "var": "Malana",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250730_104823_415246_0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Natural Burma Border Teak Frame; Beyond Black SRN 134 Ply & Foam Upholstery Backrest; Beyond Black SRN 130 Ply & Foam Upholstery Backrest; Beyond Black SRN 134 Ply & Foam Upholstery Seat; Beyond Black SRN 130 Ply & Foam Upholstery Seat",
+        "sz": "Outer: 30\" x 36\" x 33.5\", Seat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
         "des": "Hetvi Shah",
-        "dl": "17-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
+        "dl": "16-Aug-2025",
+        "q": 2,
+        "pm": "Smruti Saraiya",
         "cr": "",
         "v": {
-          "c": "24-Dec-2025",
-          "a": "",
-          "rm": "black matt"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "122532",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Natural White Oak Top; Black Matt Sheesham Base",
-        "sz": "Outer: 48\" x 30\" x 15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "06-Jan-2026",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "122519",
+        "prod": "Dorothy",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Jacobean Sheesham Top; Black Powder Coat Mild Steel Base",
+        "sz": "Outer: 16\" x 16\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1bfzM1oaC7cdqsi7nON7sVDXkpSTBKTGm",
+        "des": "Tarishi Rathore",
+        "dl": "28-Dec-2021",
+        "q": 3,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "3 tops and 1 frames ready, make one"
+        },
+        "vendorDisplayName": "AWS"
       }
     ],
     "arbuda_metal": [
@@ -1563,9 +1542,9 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "08-Feb-2026",
           "a": "",
-          "rm": "Don't make Frame as per 2D, Maulik will share Sofa structure size for that."
+          "rm": "Teak Wood, Polish Vadodara"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -2164,155 +2143,6 @@
           "rm": "ICA Gold PU, Application as shown in image"
         },
         "vendorDisplayName": "Ashok Polish"
-      }
-    ],
-    "aws": [
-      {
-        "op": "012617",
-        "prod": "Larisa",
-        "var": "Karin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260123_111819_451957_WhatsApp_Image_2026-01-23_at_09_46_20.jpeg",
-        "cat": "Art Plates",
-        "mat": "Suncity Indian Teak Panel; Matt Buffing Brass Accessories; Brass Transparent Coat Mild Steel Mounting",
-        "sz": "Outer: 19\" x 0.75\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1yBPQeRL9kAxj2r5S40DWh_keoCFop1Ta",
-        "des": "Rohan Parmar",
-        "dl": "23-Jan-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "Pls don’t forget the brass detail on top to hang the plate",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "4 hooks for hanging"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "042510",
-        "prod": "Briggan",
-        "var": "Grover",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
-        "cat": "Nightstands",
-        "mat": "Mirror Buffing Marble TBC Top; Warwick Lustrella Auro Fawn Leatherette Carcass; Welmica Laminates Mink 1321 SF 16mm Plywood Internal Carcass; Warwick Lustrella Auro Fawn Leatherette Drawer Fascia",
-        "sz": "Outer: 20\" x 20\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom -Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "PU Leather"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "052504",
-        "prod": "Crucis",
-        "var": "Theta",
-        "url": "https://i.ibb.co/YT7W4fvT/Whats-App-Image-2025-05-09-at-5-34-09-PM.jpg",
-        "cat": "Dressers",
-        "mat": "Olive White Oak Carcass; Olive White Oak Drawer; Olive White Oak Base; Gold PVD Stainless Steel 304 Matt Handle",
-        "sz": "Outer: 48\" x 21\" x 30\"",
-        "fld": "https://drive.google.com/drive/folders/17PySo8IjVjd-qXaFAGjqzLhN-GJaTGHq",
-        "des": "Parthsarthi Suthar",
-        "dl": "09-Jul-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Master Bedroom Chest",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Jewelley unit"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "052508",
-        "prod": "Avocado",
-        "var": "Mili",
-        "url": "https://i.ibb.co/QF3QKhf/v01-8.jpg",
-        "cat": "Accent Tables",
-        "mat": "Black Distressed/Charcoal White Oak Top; Gold PVD Stainless Steel 304 Gloss Mounting; Black Distressed/Charcoal Sheesham Base",
-        "sz": "Outer: 11.5\" x 11.5\" x 21.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/15O4Lg2j4XAW9AqCB1aHe1u013-5Pqsxf",
-        "des": "Lavanya Nagpal",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "082519",
-        "prod": "Skerries",
-        "var": "Campbell",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250822_144415_365541_WhatsApp_Image_2025-08-22_at_1_30_19_PM.jpeg",
-        "cat": "Awnings",
-        "mat": "Black Powder Coat Aluminium Frame; Sauleda Azul Real 2235 Canvas Upholstery Canopy",
-        "sz": "Outer: 78\" x 39\" x 39\"",
-        "fld": "https://drive.google.com/drive/folders/1LaI6USG02PpOVpB9fiCeuTkWM6482tFE",
-        "des": "Tanmay Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "This is a Sample Order for approval; Price Inlcudes Fitting and Delivery; Scaffolding in Client Scope",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Smruti is working with a new vendor"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092522",
-        "prod": "Poseidon",
-        "var": "Malana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250730_104823_415246_0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Natural Burma Border Teak Frame; Beyond Black SRN 134 Ply & Foam Upholstery Backrest; Beyond Black SRN 130 Ply & Foam Upholstery Backrest; Beyond Black SRN 134 Ply & Foam Upholstery Seat; Beyond Black SRN 130 Ply & Foam Upholstery Seat",
-        "sz": "Outer: 30\" x 36\" x 33.5\", Seat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
-        "des": "Hetvi Shah",
-        "dl": "16-Aug-2025",
-        "q": 2,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "122519",
-        "prod": "Dorothy",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/NxT1Bvh/Ivy-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Jacobean Sheesham Top; Black Powder Coat Mild Steel Base",
-        "sz": "Outer: 16\" x 16\" x 20\"",
-        "fld": "https://drive.google.com/drive/folders/1bfzM1oaC7cdqsi7nON7sVDXkpSTBKTGm",
-        "des": "Tarishi Rathore",
-        "dl": "28-Dec-2021",
-        "q": 3,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "3 tops and 1 frames ready, make one"
-        },
-        "vendorDisplayName": "AWS"
       }
     ],
     "krishna_furnitech": [
@@ -3016,6 +2846,176 @@
           "rm": "ready made legs"
         },
         "vendorDisplayName": "FS Sofa Legs"
+      }
+    ],
+    "krishna_furnitech_polish_only": [
+      {
+        "op": "052306",
+        "prod": "Dunes",
+        "var": "Ibis",
+        "url": "https://i.ibb.co/tw2mLbyy/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Black Distressed/Charcoal Reclaimed Hardwood Top; Black Matt White Ash Legs",
+        "sz": "Outer: 19\" x 19\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Dl4P0j4cdooAT6NhWkgTF7yjH8j3QZcC",
+        "des": "Dilip Jangir",
+        "dl": "22-Apr-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082412",
+        "prod": "Earthhaven",
+        "var": "Mobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_115946_595949_pasted_image_1758522592169.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Marble TBC Top; Mirror Buffing Marble TBC Shelf; Black Matt Sheesham Base; Gold PVD Stainless Steel 304 Matt Mounting; Black Matt Sheesham Structure",
+        "sz": "Outer: 22\" x 22\" x 24\"",
+        "fld": "https://drive.google.com/drive/folders/1MPol53weebXOfvUaElgMADqVwCWsvGqZ",
+        "des": "Tanmay Shah",
+        "dl": "05-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082524",
+        "prod": "Clonliff",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120753_162910_Screenshot_2025-09-12_151716.png",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 54\" x 6\" x 60\"",
+        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
+        "v": {
+          "c": "07-Oct-2025",
+          "a": "",
+          "rm": "Rich Tobacco Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082524",
+        "prod": "Coombs",
+        "var": "Brittany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120737_488711_Screenshot_2025-09-12_140949.png",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 76\" x 7.5\" x 69\"",
+        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "07-Oct-2025",
+          "a": "",
+          "rm": "Rich Tobacco Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "082524",
+        "prod": "Croydon",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120718_331100_Screenshot_2025-09-12_151648.png",
+        "cat": "Windows",
+        "mat": "Rich Tobacco Sheesham Frame",
+        "sz": "Outer: 60\" x 2.5\" x 54\"",
+        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
+        "des": "Dipen Gada",
+        "dl": "27-Aug-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "07-Oct-2025",
+          "a": "",
+          "rm": "Rich Tobacco Finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "092416",
+        "prod": "Coringa",
+        "var": "Jaguar",
+        "url": "https://i.ibb.co/qr4GVXj/0001.jpg",
+        "cat": "Benches",
+        "mat": "Ferrow 24418 Caramel Shade No 15 Ply & Foam Upholstery Seat; Black Matt Sheesham Base",
+        "sz": "Outer: 72\" x 21\" x 16\", Seat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1wX84oWZ82I3NDzMoMbUzdkRbStt9yfbN",
+        "des": "Akarsha Jha",
+        "dl": "18-Nov-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM;\nSAME LEATHER As Sloane Quartz",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "black matt"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "122505",
+        "prod": "Clement",
+        "var": "Dwight",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124620_363420_pasted_image_1765869394570.png",
+        "cat": "Accent Tables",
+        "mat": "Black Powder Coat Mild Steel Top; Black Matt Sheesham Base",
+        "sz": "Outer: 14\" x 16\" x 29\"",
+        "fld": "https://drive.google.com/drive/folders/1Nw0tbi03q9XKMbYO-D8B2lfmldfN195T",
+        "des": "Hetvi Shah",
+        "dl": "17-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "24-Dec-2025",
+          "a": "",
+          "rm": "black matt"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "122532",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Natural White Oak Top; Black Matt Sheesham Base",
+        "sz": "Outer: 48\" x 30\" x 15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "06-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
     "vishwakarma_glass": [
@@ -3861,6 +3861,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-06T10:07:55.447Z"
+    "timestamp": "2026-02-06T10:22:50.880Z"
   }
 }
