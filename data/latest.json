@@ -722,27 +722,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "012617",
-        "prod": "Larisa",
-        "var": "Karin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260123_111819_451957_WhatsApp_Image_2026-01-23_at_09_46_20.jpeg",
-        "cat": "Art Plates",
-        "mat": "Suncity Indian Teak Panel; Matt Buffing Brass Accessories; Brass Transparent Coat Mild Steel Mounting",
-        "sz": "Outer: 19\" x 0.75\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1yBPQeRL9kAxj2r5S40DWh_keoCFop1Ta",
-        "des": "Rohan Parmar",
-        "dl": "23-Jan-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "Pls don’t forget the brass detail on top to hang the plate",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "4 hooks for hanging"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "042510",
         "prod": "Briggan",
         "var": "Grover",
@@ -844,6 +823,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "122504",
+        "prod": "Cordelia",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
+        "cat": "Dining Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Black Matt Sheesham Frame; Rose Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 23.75\" x 23.5\" x 32\"",
+        "fld": "https://drive.google.com/drive/folders/1AH_HQLZREIjvVGmpJ33oIRK6453WCI0-",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 8,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
         },
         "vendorDisplayName": "AWS"
       },
@@ -1123,6 +1123,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "122504",
+        "prod": "Bellami",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 54\" x 30\" x 13\"",
+        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "122518",
         "prod": "Zakef",
         "var": "Accuris",
@@ -1285,6 +1306,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Bellami",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 54\" x 30\" x 13\"",
+        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -1517,6 +1559,48 @@
         "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122504",
+        "prod": "Anjalee",
+        "var": "Livia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163334_908170_pasted_image_1767697430952.png",
+        "cat": "Benches",
+        "mat": "RAL/NCS Matt Polyurethane (PU) HDHMR Base; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 60\" x 24\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1vA8dURWHEBNVj5l4TNqEYRJDasv8s62Y",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122504",
+        "prod": "Bellami",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Black Powder Coat Mild Steel Frame",
+        "sz": "Outer: 54\" x 30\" x 13\"",
+        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -2013,157 +2097,6 @@
           "rm": "gold pvd"
         },
         "vendorDisplayName": "Surat PVD"
-      }
-    ],
-    "nishant_cnc": [
-      {
-        "op": "012617",
-        "prod": "Larisa",
-        "var": "Karin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260123_111819_451957_WhatsApp_Image_2026-01-23_at_09_46_20.jpeg",
-        "cat": "Art Plates",
-        "mat": "Suncity Indian Teak Panel; Matt Buffing Brass Accessories; Brass Transparent Coat Mild Steel Mounting",
-        "sz": "Outer: 19\" x 0.75\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1yBPQeRL9kAxj2r5S40DWh_keoCFop1Ta",
-        "des": "Rohan Parmar",
-        "dl": "23-Jan-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "Pls don’t forget the brass detail on top to hang the plate",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "wood carving, brass cutting and final preparation"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "062505",
-        "prod": "Bower",
-        "var": "Vesper",
-        "url": "https://i.ibb.co/K5k6Cvq/v02-1.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Black Distressed/Charcoal Sheesham Top; Black Distressed/Charcoal Sheesham Base",
-        "sz": "Outer: 42\" x 22\" x 12.5\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1tcaU3B3NnLrEwcGxytn3yUagPuIIxnqW",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "102411",
-        "prod": "Driftbloom",
-        "var": "Livia",
-        "url": "https://i.ibb.co/7NxYfXBC/Screenshot-2025-04-03-121300.png",
-        "cat": "Accent Tables",
-        "mat": "Mirror Buffing Baroda Green Marble Top; Finish TBC Indian Teak Base",
-        "sz": "Outer: 18\" x 18\" x 18\"",
-        "fld": "https://drive.google.com/drive/folders/1XzrhkLk9R7T5lLhN6Ksb1YFYc6rRgFO4",
-        "des": "Hetvi Shah",
-        "dl": "14-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Accent Table ; Accent table paired with the coffee table",
-        "v": {
-          "c": "04-Aug-2025",
-          "a": "04-Aug-2025",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      }
-    ],
-    "ashok_polish": [
-      {
-        "op": "012617",
-        "prod": "Larisa",
-        "var": "Karin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260123_111819_451957_WhatsApp_Image_2026-01-23_at_09_46_20.jpeg",
-        "cat": "Art Plates",
-        "mat": "Suncity Indian Teak Panel; Matt Buffing Brass Accessories; Brass Transparent Coat Mild Steel Mounting",
-        "sz": "Outer: 19\" x 0.75\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1yBPQeRL9kAxj2r5S40DWh_keoCFop1Ta",
-        "des": "Rohan Parmar",
-        "dl": "23-Jan-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "Pls don’t forget the brass detail on top to hang the plate",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "sucity polish on wood"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Mustang",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 84\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1ifh-4V6VaYub2pSNjYxxPX6HtfzhxSXp",
-        "des": "Tanmay Shah",
-        "dl": "13-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "052510",
-        "prod": "Digbet",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/XZM0G3R1/image.png",
-        "cat": "Sofas",
-        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
-        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
-        "des": "Tanmay Shah",
-        "dl": "16-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "082413",
-        "prod": "Dragonheart",
-        "var": "Neymar",
-        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
-        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
-        "des": "Hetvi Shah",
-        "dl": "24-Nov-2024",
-        "q": 8,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "30-Dec-2025",
-          "a": "",
-          "rm": "ICA Gold PU, Application as shown in image"
-        },
-        "vendorDisplayName": "Ashok Polish"
       }
     ],
     "krishna_furnitech": [
@@ -3255,6 +3188,115 @@
         "vendorDisplayName": "Shital Glass"
       }
     ],
+    "ashok_polish": [
+      {
+        "op": "052510",
+        "prod": "Digbet",
+        "var": "Mustang",
+        "url": "https://i.ibb.co/XZM0G3R1/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
+        "sz": "Outer: 84\" x 42\" x 33\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1ifh-4V6VaYub2pSNjYxxPX6HtfzhxSXp",
+        "des": "Tanmay Shah",
+        "dl": "13-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      },
+      {
+        "op": "052510",
+        "prod": "Digbet",
+        "var": "Nycia",
+        "url": "https://i.ibb.co/XZM0G3R1/image.png",
+        "cat": "Sofas",
+        "mat": "Fabric TBC Ply & Foam Upholstery Structure; Peca Sheesham Frame; Gold PVD Stainless Steel 304 Matt Mounting; Clear Leather Strap Accessories",
+        "sz": "Outer: 96\" x 42\" x 33\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1eegBx19G7YZTdEwIS4p6wOL3ttcyHzb4",
+        "des": "Tanmay Shah",
+        "dl": "16-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      },
+      {
+        "op": "082413",
+        "prod": "Dragonheart",
+        "var": "Neymar",
+        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Black Matt Sheesham Frame; ICA VMA3010 + SFCA Sheesham Mounting; AZCO Carbon Velvets SRN VT 305 Ply & Foam Upholstery Seat; AZCO Carbon Velvets SRN VT 320 Ply & Foam Upholstery Backrest",
+        "sz": "Outer: 19.25\" x 25\" x 34\", Seat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
+        "des": "Hetvi Shah",
+        "dl": "24-Nov-2024",
+        "q": 8,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "30-Dec-2025",
+          "a": "",
+          "rm": "ICA Gold PU, Application as shown in image"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      }
+    ],
+    "nishant_cnc": [
+      {
+        "op": "062505",
+        "prod": "Bower",
+        "var": "Vesper",
+        "url": "https://i.ibb.co/K5k6Cvq/v02-1.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Black Distressed/Charcoal Sheesham Top; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 42\" x 22\" x 12.5\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1tcaU3B3NnLrEwcGxytn3yUagPuIIxnqW",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "102411",
+        "prod": "Driftbloom",
+        "var": "Livia",
+        "url": "https://i.ibb.co/7NxYfXBC/Screenshot-2025-04-03-121300.png",
+        "cat": "Accent Tables",
+        "mat": "Mirror Buffing Baroda Green Marble Top; Finish TBC Indian Teak Base",
+        "sz": "Outer: 18\" x 18\" x 18\"",
+        "fld": "https://drive.google.com/drive/folders/1XzrhkLk9R7T5lLhN6Ksb1YFYc6rRgFO4",
+        "des": "Hetvi Shah",
+        "dl": "14-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Accent Table ; Accent table paired with the coffee table",
+        "v": {
+          "c": "04-Aug-2025",
+          "a": "04-Aug-2025",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      }
+    ],
     "chhoturam": [
       {
         "op": "062508",
@@ -3882,6 +3924,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-11T13:07:26.188Z"
+    "timestamp": "2026-02-11T13:23:43.334Z"
   }
 }
