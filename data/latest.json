@@ -841,9 +841,9 @@
         "pm": "Rohan Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "06-Feb-2026",
           "a": "",
-          "rm": ""
+          "rm": "Ready Made chair kinjalbhai arrange from chaina"
         },
         "vendorDisplayName": "AWS"
       },
@@ -1606,6 +1606,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122504",
+        "prod": "Cordelia",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
+        "cat": "Dining Chairs",
+        "mat": "Fabric TBC Ply & Foam Upholstery Seat; Black Matt Sheesham Frame; Rose Gold PVD Stainless Steel 304 Matt Cap",
+        "sz": "Outer: 23.75\" x 23.5\" x 32\"",
+        "fld": "https://drive.google.com/drive/folders/1AH_HQLZREIjvVGmpJ33oIRK6453WCI0-",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 8,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "इसमें सिर्फ कपड़ा चढ़ाना होगा कुर्सी रेडी मेड ली है"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -3924,6 +3945,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-11T13:23:43.334Z"
+    "timestamp": "2026-02-11T13:37:36.738Z"
   }
 }
