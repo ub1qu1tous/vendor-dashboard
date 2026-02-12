@@ -4006,6 +4006,27 @@
         "vendorDisplayName": "Aarti Steel"
       },
       {
+        "op": "122504",
+        "prod": "Lorilay",
+        "var": "Gold",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
+        "cat": "Accent Tables",
+        "mat": "Black Powder Coat Mild Steel Structure",
+        "sz": "Outer: 19\" x 19\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
         "op": "122518",
         "prod": "Zakef",
         "var": "Accuris",
@@ -4029,6 +4050,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-12T09:38:48.773Z"
+    "timestamp": "2026-02-12T09:52:31.257Z"
   }
 }
