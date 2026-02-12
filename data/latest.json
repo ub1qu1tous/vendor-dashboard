@@ -1144,6 +1144,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Finish TBC Mild Steel Frame",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "122518",
         "prod": "Zakef",
         "var": "Accuris",
@@ -2517,6 +2538,48 @@
           "c": "",
           "a": "",
           "rm": "Oak wood Knobs and Leg"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122504",
+        "prod": "Kittens",
+        "var": "Gul",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_171623_583204_Screenshot_2026-02-10_134306.png",
+        "cat": "Accent Tables",
+        "mat": "Black Matt White Oak Top; Black Matt White Oak Base",
+        "sz": "Outer: 20\" x 20\" x 21\"",
+        "fld": "https://drive.google.com/drive/folders/1C0j2vfsaBU7xzJdC8Fd4oOWwINz_crX6",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122504",
+        "prod": "Leeor",
+        "var": "Rust",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_180931_521667_pasted_image_1768912790010.png",
+        "cat": "Dining Tables",
+        "mat": "Mirror Buffing Black Marquina Top; Black Matt Sheesham Legs; RAL/NCS Matt Polyurethane (PU) HDHMR Legs",
+        "sz": "Outer: 90\" x 45\" x 30\"",
+        "fld": "https://drive.google.com/drive/folders/1ZyF_SDlJTLzgSXL19bkZsPRnZkFbxVj0",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3922,6 +3985,27 @@
     ],
     "aarti_steel": [
       {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Finish TBC Mild Steel Frame",
+        "sz": "Outer: 18\" x 18\" x 20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
         "op": "122518",
         "prod": "Zakef",
         "var": "Accuris",
@@ -3945,6 +4029,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-12T09:22:42.142Z"
+    "timestamp": "2026-02-12T09:38:48.773Z"
   }
 }
