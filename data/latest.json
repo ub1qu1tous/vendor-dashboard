@@ -785,6 +785,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "072409",
+        "prod": "Carnival",
+        "var": "Turkey",
+        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
+        "cat": "Credenzas",
+        "mat": "Black Matt 10mm Glass Top; Jacobean White Ash Shutter Internal; Black Matt 18mm MDF Shutter Panel; Black Matt HDHMR Drawer Fascia; Tan-Fabric Laminate 16mm Plywood Internal Carcass; Black Matt HDHMR Carcass; Jacobean White Ash Base",
+        "sz": "Outer: 78\" x 14.5\" x 30.25\"",
+        "fld": "https://drive.google.com/drive/folders/1hzGvu6mPcgZSY49ewYtmNlWxG0vHBeGB",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom 01\r\n",
+        "v": {
+          "c": "30-Jun-2025",
+          "a": "",
+          "rm": "Black back painted glass, Edge polished"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "082519",
         "prod": "Skerries",
         "var": "Campbell",
@@ -3077,27 +3098,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "072409",
-        "prod": "Carnival",
-        "var": "Turkey",
-        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
-        "cat": "Credenzas",
-        "mat": "Black Matt 10mm Glass Top; Jacobean White Ash Shutter Internal; Black Matt 18mm MDF Shutter Panel; Black Matt HDHMR Drawer Fascia; Tan-Fabric Laminate 16mm Plywood Internal Carcass; Black Matt HDHMR Carcass; Jacobean White Ash Base",
-        "sz": "Outer: 78\" x 14.5\" x 30.25\"",
-        "fld": "https://drive.google.com/drive/folders/1hzGvu6mPcgZSY49ewYtmNlWxG0vHBeGB",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom 01\r\n",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "Black back painted glass, Edge polished"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
     "clientfabric": [
@@ -4050,6 +4050,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-13T04:52:22.398Z"
+    "timestamp": "2026-02-13T05:07:43.168Z"
   }
 }
