@@ -2645,6 +2645,27 @@
           "rm": "Make using cnc as per \"Top Zakef Accuris.pdf\" File."
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022602",
+        "prod": "Facile",
+        "var": "Ivy",
+        "url": "",
+        "cat": "",
+        "mat": "",
+        "sz": 0,
+        "fld": 0,
+        "des": "",
+        "dl": "30-Dec-1899",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "kamlesh_jangid": [
@@ -4050,6 +4071,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-13T07:07:25.406Z"
+    "timestamp": "2026-02-13T07:22:28.072Z"
   }
 }
