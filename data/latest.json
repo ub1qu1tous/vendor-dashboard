@@ -3845,27 +3845,6 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
-        "op": "082413",
-        "prod": "Phantom",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/ZGXx5hy/0001.jpg",
-        "cat": "Media Consoles",
-        "mat": "Natural Black Veneer Carcass; SCS 0015 16mm Plywood Internal Carcass; SCS 0015 16mm Plywood Shutter; Gold PVD Stainless Steel 304 Matt Mounting",
-        "sz": "Outer: 60\" x 18\" x 24\"",
-        "fld": "https://drive.google.com/drive/folders/1ozkTgBxAZcsq7MpYDz6hy-PEp7yLiH4B",
-        "des": "Hetvi Shah",
-        "dl": "28-Nov-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Jaybhai's Bedroom",
-        "v": {
-          "c": "02-Aug-2025",
-          "a": "",
-          "rm": "Push to open hardware Mangvake lgana hai, PVD vali border frame fascia pe lgani hai, Hinges lgane hai"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
         "op": "092522",
         "prod": "Avocado",
         "var": "Iris",
@@ -4491,6 +4470,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-14T11:07:48.125Z"
+    "timestamp": "2026-02-14T11:25:31.144Z"
   }
 }
