@@ -2897,27 +2897,6 @@
           "rm": "Make using cnc as per \"Top Zakef Accuris.pdf\" File."
         },
         "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022601",
-        "prod": "Bower",
-        "var": "Caitlin",
-        "url": "https://i.ibb.co/6Z2CvZG/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Suncity White Ash Top; Black Distressed/Charcoal Sheesham Base",
-        "sz": "Outer: 22\" x 18\" x 16\"",
-        "fld": "https://drive.google.com/drive/folders/1XW5tA_me1-E9uOGVbPXtqxi6yNlrxaJg",
-        "des": "Maulik Parmar",
-        "dl": "03-Dec-2022",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "kamlesh_jangid": [
@@ -4365,6 +4344,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-16T07:39:08.359Z"
+    "timestamp": "2026-02-16T07:52:28.812Z"
   }
 }
