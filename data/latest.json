@@ -1547,27 +1547,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "082520",
-        "prod": "Honeysuckle",
-        "var": "Evan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250913_131611_566083_pasted_image_1757749575926.png",
-        "cat": "Beds",
-        "mat": "Black Matt Sheesham Structure; Asian Paint Tantrums Tattva Pruge Sable Ply & Foam Upholstery Headboard; Oak Laminate 12mm Plywood Bed Slat Support; Black Powder Coat Mild Steel Canopy",
-        "sz": "Outer: 90\" x 97.75\" x 80.7\", Seat Height: 27.6\";\nMattress Size: 84\" x 84\" x 8\"",
-        "fld": "https://drive.google.com/drive/folders/1AgVv7dtMBIJcSUb0WGFo1uXomPsb_0F_",
-        "des": "Tanmay Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "112520",
         "prod": "Vespera",
         "var": "Aera",
@@ -2601,6 +2580,27 @@
           "c": "",
           "a": "",
           "rm": "4x4 Inches\nThickness: 18mm\n4 Pcs\nSheesham\nPeca"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052508",
+        "prod": "Avocado",
+        "var": "Mili",
+        "url": "https://i.ibb.co/QF3QKhf/v01-8.jpg",
+        "cat": "Accent Tables",
+        "mat": "Black Distressed/Charcoal White Oak Top; Gold PVD Stainless Steel 304 Gloss Mounting; Black Distressed/Charcoal Sheesham Base",
+        "sz": "Outer: 11.5\" x 11.5\" x 21.5\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/15O4Lg2j4XAW9AqCB1aHe1u013-5Pqsxf",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Round Top bnana hai Black Distressed Sheesham me."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4344,6 +4344,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-16T06:22:26.491Z"
+    "timestamp": "2026-02-16T06:48:58.475Z"
   }
 }
