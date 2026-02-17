@@ -1671,6 +1671,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022611",
+        "prod": "Ixia",
+        "var": "Beamer",
+        "url": "https://i.ibb.co/ZW199Zj/Nuage-product-96-1024x1024.jpg",
+        "cat": "Ottomans",
+        "mat": "SOHO 701 Ply & Foam Upholstery Seat; Natural White Oak Legs",
+        "sz": "Outer: 21.5\" x 15.5\" x 13.5\"",
+        "fld": "https://drive.google.com/drive/folders/17RquA_FD0s2WIUjBVbUdxyBbZ5uY6HLO",
+        "des": "Amish Parmar",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "vittal_wood_tech": [
@@ -2895,6 +2916,27 @@
           "c": "",
           "a": "",
           "rm": "Make using cnc as per \"Top Zakef Accuris.pdf\" File."
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022611",
+        "prod": "Ixia",
+        "var": "Beamer",
+        "url": "https://i.ibb.co/ZW199Zj/Nuage-product-96-1024x1024.jpg",
+        "cat": "Ottomans",
+        "mat": "SOHO 701 Ply & Foam Upholstery Seat; Natural White Oak Legs",
+        "sz": "Outer: 21.5\" x 15.5\" x 13.5\"",
+        "fld": "https://drive.google.com/drive/folders/17RquA_FD0s2WIUjBVbUdxyBbZ5uY6HLO",
+        "des": "Amish Parmar",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4 pc legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -4185,6 +4227,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "022611",
+        "prod": "Ixia",
+        "var": "Beamer",
+        "url": "https://i.ibb.co/ZW199Zj/Nuage-product-96-1024x1024.jpg",
+        "cat": "Ottomans",
+        "mat": "SOHO 701 Ply & Foam Upholstery Seat; Natural White Oak Legs",
+        "sz": "Outer: 21.5\" x 15.5\" x 13.5\"",
+        "fld": "https://drive.google.com/drive/folders/17RquA_FD0s2WIUjBVbUdxyBbZ5uY6HLO",
+        "des": "Amish Parmar",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
       }
     ],
     "mandap": [
@@ -4344,6 +4407,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-17T04:39:27.349Z"
+    "timestamp": "2026-02-17T05:00:42.006Z"
   }
 }
