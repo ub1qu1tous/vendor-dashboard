@@ -722,6 +722,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "022611",
+        "prod": "Ixia",
+        "var": "Beamer",
+        "url": "https://i.ibb.co/ZW199Zj/Nuage-product-96-1024x1024.jpg",
+        "cat": "Ottomans",
+        "mat": "SOHO 701 Ply & Foam Upholstery Seat; Natural White Oak Legs",
+        "sz": "Outer: 21.5\" x 15.5\" x 13.5\"",
+        "fld": "https://drive.google.com/drive/folders/17RquA_FD0s2WIUjBVbUdxyBbZ5uY6HLO",
+        "des": "Amish Parmar",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "042510",
         "prod": "Briggan",
         "var": "Grover",
@@ -3466,113 +3487,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       }
     ],
-    "aavaran": [
-      {
-        "op": "022611",
-        "prod": "Ixia",
-        "var": "Beamer",
-        "url": "https://i.ibb.co/ZW199Zj/Nuage-product-96-1024x1024.jpg",
-        "cat": "Ottomans",
-        "mat": "SOHO 701 Ply & Foam Upholstery Seat; Natural White Oak Legs",
-        "sz": "Outer: 21.5\" x 15.5\" x 13.5\"",
-        "fld": "https://drive.google.com/drive/folders/17RquA_FD0s2WIUjBVbUdxyBbZ5uY6HLO",
-        "des": "Amish Parmar",
-        "dl": "17-Feb-2026",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "072420",
-        "prod": "Lumen",
-        "var": "Terrano",
-        "url": "https://i.ibb.co/x8pHPKF/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Black Matt Sheesham Structure; White By Azco Ply & Foam Upholstery Seat; Customise Fabric A Ply & Foam Upholstery Backrest; Black Powder Coat Mild Steel Mounting",
-        "sz": "Outer: 30\" x 36\" x 34.5\", Seat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1hU_eQ4BRXZXjEpG7MSE11TIiB2_-8EWC",
-        "des": "Hetvi Shah",
-        "dl": "07-Nov-2024",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "092520",
-        "prod": "Kaveri",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
-        "cat": "Headboards",
-        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
-        "sz": "Outer: 120\" x 1.5\" x 45\"",
-        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Panel",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "112520",
-        "prod": "Vespera",
-        "var": "Aera",
-        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
-        "sz": "Outer: 18\" x 18\" x 17\"",
-        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "122514",
-        "prod": "Peynova",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_162249_522167_pasted_image_1765882383572.png",
-        "cat": "Shoe Cabinets",
-        "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
-        "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
-        "des": "Hetvi Shah",
-        "dl": "15-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Foyer Shoe Bench",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      }
-    ],
     "kamlesh_jangid": [
       {
         "op": "032507",
@@ -4775,6 +4689,92 @@
         "vendorDisplayName": "Jain Marble"
       }
     ],
+    "aavaran": [
+      {
+        "op": "072420",
+        "prod": "Lumen",
+        "var": "Terrano",
+        "url": "https://i.ibb.co/x8pHPKF/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Black Matt Sheesham Structure; White By Azco Ply & Foam Upholstery Seat; Customise Fabric A Ply & Foam Upholstery Backrest; Black Powder Coat Mild Steel Mounting",
+        "sz": "Outer: 30\" x 36\" x 34.5\", Seat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1hU_eQ4BRXZXjEpG7MSE11TIiB2_-8EWC",
+        "des": "Hetvi Shah",
+        "dl": "07-Nov-2024",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092520",
+        "prod": "Kaveri",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_181001_942270_pasted_image_1758544807421.png",
+        "cat": "Headboards",
+        "mat": "Natural Teak Veneer Panel; Natural Burma Border Teak Frame; V&J Lashkara SRN 219 Foam Upholstery Support",
+        "sz": "Outer: 120\" x 1.5\" x 45\"",
+        "fld": "https://drive.google.com/drive/folders/1ruqHh3Y-6lt9Pz989LeP39K_1nHxmMD3",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Panel",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "112520",
+        "prod": "Vespera",
+        "var": "Aera",
+        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Luxury Velvet 954 Ply & Foam Upholstery Structure; Harvest White Oak Legs; Luxury Velvet 954 Foam Upholstery Seat",
+        "sz": "Outer: 18\" x 18\" x 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "122514",
+        "prod": "Peynova",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_162249_522167_pasted_image_1765882383572.png",
+        "cat": "Shoe Cabinets",
+        "mat": "Natural White Oak Carcass; Fabric TBC Ply & Foam Upholstery Seat",
+        "sz": "Outer: 29\" x 15\" x 22\", Seat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1laLmQtv10ha3KwgkXgQBM3KBLzIN80kA",
+        "des": "Hetvi Shah",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Foyer Shoe Bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      }
+    ],
     "mandap": [
       {
         "op": "082520",
@@ -4932,6 +4932,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-17T06:07:27.924Z"
+    "timestamp": "2026-02-17T06:22:24.906Z"
   }
 }
