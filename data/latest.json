@@ -3340,48 +3340,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "112504",
-        "prod": "Belcamp",
-        "var": "Hunter",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124028_704878_pasted_image_1765869042771.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Carrara Statuario (Mirror Buffing)\nBase: White Oak (Finish TBC)",
-        "sz": "Outer: 37\" x 22.5\" x 13.5\"",
-        "fld": "https://drive.google.com/drive/folders/1aGvnGX0xAVpNaaEBvVMyblo-AOxTNybP",
-        "des": "Tanmay Shah",
-        "dl": "03-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Dec-2025",
-          "a": "",
-          "rm": "Marble and base"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "112504",
-        "prod": "Belcamp",
-        "var": "Irina",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_123949_695493_pasted_image_1765869004002.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Carrara Statuario (Mirror Buffing)\nBase: White Oak (Finish TBC)",
-        "sz": "Outer: 31.5\" x 19\" x 10\"",
-        "fld": "https://drive.google.com/drive/folders/1TntZqmfxsenE2ZKiGd5dzM2B--Op_S1H",
-        "des": "Tanmay Shah",
-        "dl": "03-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Dec-2025",
-          "a": "",
-          "rm": "Marble and base"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "112511",
         "prod": "Delfit",
         "var": "Fynn",
@@ -4932,6 +4890,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-18T05:22:23.714Z"
+    "timestamp": "2026-02-18T05:40:08.024Z"
   }
 }
