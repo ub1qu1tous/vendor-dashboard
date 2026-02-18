@@ -2079,7 +2079,7 @@
         "var": "Fynn",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260216_171736_261019_pasted_image_1771242478296.png",
         "cat": "Bar Cabinets",
-        "mat": "Carcass: Oak Veneer (Natural)\nShutter: Oak Veneer (Natural)\nInternal Carcass: Laminate (Oak Laminate)",
+        "mat": "Carcass: Oak Veneer (Natural)\nShutter: Oak Veneer (Natural)\nInternal Carcass: Laminate (Oak Laminate)\nShelf: 8mm Glass (Clear)",
         "sz": "Outer: W18\" x D22\" x H27\"\nCube: W18\" x D16.33\" x H21.15\"",
         "fld": "https://drive.google.com/drive/folders/1O3_PRhMoXtjDbCfw8M4mpBnu36ReeAUe",
         "des": "Arpit Jain",
@@ -2090,7 +2090,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Veneer Hum bhejege\nAvailable Slot Size for Square cube: \n460 x 415 x 538 MM\n Polish vadodara me hogi"
+          "rm": "Veneer aur Laminate Hum bhejege\nMM to MM 2D k hisab se bnana hai\nPolish vadodara me hogi\nAndar ka glass shelf hum bnayege"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3734,6 +3734,27 @@
           "rm": "Cappuccino 8655 (Paint)10mm Glass "
         },
         "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "122514",
+        "prod": "Soohoo",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_171736_261019_pasted_image_1771242478296.png",
+        "cat": "Bar Cabinets",
+        "mat": "Carcass: Oak Veneer (Natural)\nShutter: Oak Veneer (Natural)\nInternal Carcass: Laminate (Oak Laminate)\nShelf: 8mm Glass (Clear)",
+        "sz": "Outer: W18\" x D22\" x H27\"\nCube: W18\" x D16.33\" x H21.15\"",
+        "fld": "https://drive.google.com/drive/folders/1O3_PRhMoXtjDbCfw8M4mpBnu36ReeAUe",
+        "des": "Arpit Jain",
+        "dl": "15-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Small Bar Case",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "8 MM Clear Glass"
+        },
+        "vendorDisplayName": "Shital Glass"
       }
     ],
     "ashok_polish": [
@@ -4449,6 +4470,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-18T09:22:23.241Z"
+    "timestamp": "2026-02-18T09:37:22.987Z"
   }
 }
