@@ -3027,27 +3027,6 @@
         "vendorDisplayName": "Aavaran"
       },
       {
-        "op": "112520",
-        "prod": "Vespera",
-        "var": "Aera",
-        "url": "https://i.ibb.co/zZfFx9T/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Luxury Velvet 954)\nLegs: White Oak (Harvest)\nSeat: Foam Upholstery (Luxury Velvet 954)",
-        "sz": "Outer: W18\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1t1tJMRSiV_1pBTV8_kZ5VPZzG3o4tXRV",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
         "op": "122514",
         "prod": "Peynova",
         "var": "Kos",
@@ -4470,6 +4449,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-18T10:07:23.219Z"
+    "timestamp": "2026-02-18T10:22:24.133Z"
   }
 }
