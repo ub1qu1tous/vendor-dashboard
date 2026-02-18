@@ -911,514 +911,6 @@
         "vendorDisplayName": "AWS"
       }
     ],
-    "arbuda_metal": [
-      {
-        "op": "012605",
-        "prod": "Felicity",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260116_155719_379723_Screenshot_2026-01-16_155556.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: Recycled Teak (Finish TBC)\n3 Cushions: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W84\" x D36\" x H30\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1vKniv4oKJAoIPuWB_omGt25ezrODPS4-",
-        "des": "Hetvi Shah",
-        "dl": "06-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "012606",
-        "prod": "Quartzia",
-        "var": "Ethel",
-        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Marble TBC (Mirror Buffing)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W18\" x D18\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
-        "des": "Tanmay Shah",
-        "dl": "27-Aug-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Darshan's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Canetta",
-        "var": "Dyson",
-        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Limited Edition Hashtag 40023)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
-        "des": "Ravi Malladi",
-        "dl": "14-Dec-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Dellamon",
-        "var": "Cappuccino",
-        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W72\" x D36\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
-        "des": "Akhilesh Yadav",
-        "dl": "02-Jul-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Hilton",
-        "var": "Baltic",
-        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
-        "des": "Parth Gada",
-        "dl": "22-May-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "112511",
-        "prod": "Pinson",
-        "var": "Lexia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_171452_043226_pasted_image_1766058306045.png",
-        "cat": "Media Consoles",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nCarcass: White Oak (Black Distressed/Charcoal)\nShutter: White Oak (Black Distressed/Charcoal)\nShelf: White Oak (Black Distressed/Charcoal)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72\" x D15\" x H19\"",
-        "fld": "https://drive.google.com/drive/folders/1D8EDr2ijM5-9EjZHstwgg3gK56ekdpB7",
-        "des": "Tanmay Shah",
-        "dl": "12-Dec-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Bellami",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W54\" x D30\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Calton",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Bottled Grape 8102)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Only Base",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Calton",
-        "var": "Vama",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Only Base",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Lars",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
-        "cat": "Accent Tables",
-        "mat": "Frame: Mild Steel (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Mossgrove",
-        "var": "Fuji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171318_202486_pasted_image_1767699814418.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Black Matt)\nHandle: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W19.69\" x D20.87\" x H38.98\"\nSeat Height: 29.92\"",
-        "fld": "https://drive.google.com/drive/folders/10oJTjhpClHyg7Q9b_uGfsXBooBp4K92C",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Passini",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nPlatform: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)\nTop: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/19iQTbEZhlEz_Sr9nsKhI8EenjVGThagW",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      }
-    ],
-    "royal_powder_coat": [
-      {
-        "op": "012605",
-        "prod": "Felicity",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260116_155719_379723_Screenshot_2026-01-16_155556.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: Recycled Teak (Finish TBC)\n3 Cushions: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W84\" x D36\" x H30\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1vKniv4oKJAoIPuWB_omGt25ezrODPS4-",
-        "des": "Hetvi Shah",
-        "dl": "06-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "032507",
-        "prod": "Teresta",
-        "var": "Oriole",
-        "url": "https://i.ibb.co/prbV74b0/image.png",
-        "cat": "Beds",
-        "mat": "Structure: Teak Veneer (Finish TBC)\nAccessories: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72.2\" x D47.71\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1I4FRNC9AoirCoVsezIMJgoSV_rmcRo2B",
-        "des": "Dilip Jangir",
-        "dl": "26-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Platform with safety bars",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052318",
-        "prod": "Delilah",
-        "var": "Neymar",
-        "url": "https://i.ibb.co/1d6RXMx/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Carrara (Mirror Buffing)\nBase: White Oak (Natural)\nSupport: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W36\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1s0TzJ5aTmtJ1fZr-0z7LfL3mJJ5u-3VO",
-        "des": "Parth Gada",
-        "dl": "08-Jun-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bedroom 2",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052508",
-        "prod": "Dellamon",
-        "var": "Cappuccino",
-        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W72\" x D36\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
-        "des": "Akhilesh Yadav",
-        "dl": "02-Jul-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052508",
-        "prod": "Hilton",
-        "var": "Baltic",
-        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
-        "des": "Parth Gada",
-        "dl": "22-May-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062510",
-        "prod": "Jurell",
-        "var": "Ginette",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (CASAMIA Zuri Hampton LN 002 CO 001)\nFrame: Mild Steel (Wood Brown (M2149-HB))",
-        "sz": "Outer: W84\" x D30.5\" x H34\"",
-        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
-        "des": "Tanmay Shah",
-        "dl": "27-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "092416",
-        "prod": "Decker",
-        "var": "Yoku",
-        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Pure Adali Pebble 110920)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W37\" x D33\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
-        "des": "Maulik Parmar",
-        "dl": "04-Dec-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM\r",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122504",
-        "prod": "Bellami",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W54\" x D30\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122504",
-        "prod": "Lars",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
-        "cat": "Accent Tables",
-        "mat": "Frame: Mild Steel (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black Powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122504",
-        "prod": "Lorilay",
-        "var": "Gold",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122505",
-        "prod": "Clement",
-        "var": "Dwight",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124620_363420_pasted_image_1765869394570.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W14\" x D16\" x H29\"",
-        "fld": "https://drive.google.com/drive/folders/1Nw0tbi03q9XKMbYO-D8B2lfmldfN195T",
-        "des": "Hetvi Shah",
-        "dl": "17-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "23-Dec-2025",
-          "a": "",
-          "rm": "BLACK MATT "
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122528",
-        "prod": "Dorothy",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/yskJF0g/Bagel-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1hZzHp2z6_ewkmD7Twc3aO0wxKErhmIJA",
-        "des": "Tarishi Rathore",
-        "dl": "28-Dec-2021",
-        "q": 3,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      }
-    ],
     "aidan_dudy": [
       {
         "op": "012605",
@@ -2114,6 +1606,239 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      }
+    ],
+    "arbuda_metal": [
+      {
+        "op": "012606",
+        "prod": "Quartzia",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/PZ0CXbdK/image.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Marble TBC (Mirror Buffing)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W18\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1tWI-imAFZBrEZMbfz5cF7GMRSt40f3eZ",
+        "des": "Tanmay Shah",
+        "dl": "27-Aug-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Darshan's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Canetta",
+        "var": "Dyson",
+        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
+        "cat": "Ottomans",
+        "mat": "Seat: Ply & Foam Upholstery (Limited Edition Hashtag 40023)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19\" x D19\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
+        "des": "Ravi Malladi",
+        "dl": "14-Dec-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Dellamon",
+        "var": "Cappuccino",
+        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W72\" x D36\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
+        "des": "Akhilesh Yadav",
+        "dl": "02-Jul-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining table top and chair structure have the same finish\n",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112511",
+        "prod": "Pinson",
+        "var": "Lexia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_171452_043226_pasted_image_1766058306045.png",
+        "cat": "Media Consoles",
+        "mat": "Top: Black Marquina (Mirror Buffing)\nCarcass: White Oak (Black Distressed/Charcoal)\nShutter: White Oak (Black Distressed/Charcoal)\nShelf: White Oak (Black Distressed/Charcoal)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W72\" x D15\" x H19\"",
+        "fld": "https://drive.google.com/drive/folders/1D8EDr2ijM5-9EjZHstwgg3gK56ekdpB7",
+        "des": "Tanmay Shah",
+        "dl": "12-Dec-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Bellami",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W54\" x D30\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Calton",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Bottled Grape 8102)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Only Base",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Calton",
+        "var": "Vama",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Only Base",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Frame: Mild Steel (Finish TBC)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Mossgrove",
+        "var": "Fuji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171318_202486_pasted_image_1767699814418.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Black Matt)\nHandle: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19.69\" x D20.87\" x H38.98\"\nSeat Height: 29.92\"",
+        "fld": "https://drive.google.com/drive/folders/10oJTjhpClHyg7Q9b_uGfsXBooBp4K92C",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Passini",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nPlatform: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)\nTop: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W60\" x D24\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/19iQTbEZhlEz_Sr9nsKhI8EenjVGThagW",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "manish_marble_jaipur": [
@@ -3237,6 +2962,239 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      }
+    ],
+    "royal_powder_coat": [
+      {
+        "op": "032507",
+        "prod": "Teresta",
+        "var": "Oriole",
+        "url": "https://i.ibb.co/prbV74b0/image.png",
+        "cat": "Beds",
+        "mat": "Structure: Teak Veneer (Finish TBC)\nAccessories: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W72.2\" x D47.71\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1I4FRNC9AoirCoVsezIMJgoSV_rmcRo2B",
+        "des": "Dilip Jangir",
+        "dl": "26-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Only Platform with safety bars",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052318",
+        "prod": "Delilah",
+        "var": "Neymar",
+        "url": "https://i.ibb.co/1d6RXMx/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Carrara (Mirror Buffing)\nBase: White Oak (Natural)\nSupport: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W36\" x D36\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1s0TzJ5aTmtJ1fZr-0z7LfL3mJJ5u-3VO",
+        "des": "Parth Gada",
+        "dl": "08-Jun-2023",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Bedroom 2",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052508",
+        "prod": "Dellamon",
+        "var": "Cappuccino",
+        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W72\" x D36\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
+        "des": "Akhilesh Yadav",
+        "dl": "02-Jul-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining table top and chair structure have the same finish\n",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062510",
+        "prod": "Jurell",
+        "var": "Ginette",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (CASAMIA Zuri Hampton LN 002 CO 001)\nFrame: Mild Steel (Wood Brown (M2149-HB))",
+        "sz": "Outer: W84\" x D30.5\" x H34\"",
+        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
+        "des": "Tanmay Shah",
+        "dl": "27-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092416",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Pure Adali Pebble 110920)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W37\" x D33\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Bellami",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W54\" x D30\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Frame: Mild Steel (Finish TBC)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black Powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Lorilay",
+        "var": "Gold",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W19\" x D19\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122505",
+        "prod": "Clement",
+        "var": "Dwight",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124620_363420_pasted_image_1765869394570.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W14\" x D16\" x H29\"",
+        "fld": "https://drive.google.com/drive/folders/1Nw0tbi03q9XKMbYO-D8B2lfmldfN195T",
+        "des": "Hetvi Shah",
+        "dl": "17-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "23-Dec-2025",
+          "a": "",
+          "rm": "BLACK MATT "
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122528",
+        "prod": "Dorothy",
+        "var": "Bagel",
+        "url": "https://i.ibb.co/yskJF0g/Bagel-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Natural)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1hZzHp2z6_ewkmD7Twc3aO0wxKErhmIJA",
+        "des": "Tarishi Rathore",
+        "dl": "28-Dec-2021",
+        "q": 3,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "kamlesh_jangid": [
@@ -4449,6 +4407,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-18T11:22:26.116Z"
+    "timestamp": "2026-02-18T11:37:23.858Z"
   }
 }
