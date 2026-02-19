@@ -174,6 +174,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "042510",
+        "prod": "Skimmer",
+        "var": "Cory",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152600_341686_Masterbedroom_bed_back_1.png",
+        "cat": "Wall Panels",
+        "mat": "Panel: Oak Veneer (Natural)",
+        "sz": "Outer: W112\" x D25\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1geviA0BEhzGuBe3vxpc1_Cqf2ahqSTeo",
+        "des": "Hetvi Shah",
+        "dl": "18-Sept-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Master's Bedroom 02 & 01 - Wall Panel",
+        "v": {
+          "c": "25-Nov-2025",
+          "a": "",
+          "rm": "find flutted veneer"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "052504",
         "prod": "Crucis",
         "var": "Theta",
@@ -1799,27 +1820,6 @@
           "c": "",
           "a": "",
           "rm": "4 pc legs"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042510",
-        "prod": "Skimmer",
-        "var": "Cory",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152600_341686_Masterbedroom_bed_back_1.png",
-        "cat": "Wall Panels",
-        "mat": "Panel: Oak Veneer (Natural)",
-        "sz": "Outer: W112\" x D25\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1geviA0BEhzGuBe3vxpc1_Cqf2ahqSTeo",
-        "des": "Hetvi Shah",
-        "dl": "18-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Master's Bedroom 02 & 01 - Wall Panel",
-        "v": {
-          "c": "25-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3460,6 +3460,27 @@
       },
       {
         "op": "042510",
+        "prod": "Skimmer",
+        "var": "Cory",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152600_341686_Masterbedroom_bed_back_1.png",
+        "cat": "Wall Panels",
+        "mat": "Panel: Oak Veneer (Natural)",
+        "sz": "Outer: W112\" x D25\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1geviA0BEhzGuBe3vxpc1_Cqf2ahqSTeo",
+        "des": "Hetvi Shah",
+        "dl": "18-Sept-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Master's Bedroom 02 & 01 - Wall Panel",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
         "prod": "Solway",
         "var": "Atria",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251210_180907_555685_1.png",
@@ -4386,6 +4407,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-19T10:52:48.078Z"
+    "timestamp": "2026-02-19T11:11:28.199Z"
   }
 }
