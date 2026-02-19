@@ -109,596 +109,6 @@
         "vendorDisplayName": "Krisha Lights"
       }
     ],
-    "vipra": [
-      {
-        "op": "012604",
-        "prod": "Solaris",
-        "var": "Shelby",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170159_953531_pasted_image_1767699135503.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: 16mm Plywood (Deluxe-100 Gothic Grey)",
-        "sz": "Shelf A: W10.71\" x D34.13\" x H0.75\"\nShelf B: W10.71\" x D36.1\" x H0.75\"\nShelf C: W10.71\" x D36.1\" x H0.75\"\nShelf D: W20.47\" x D22.24\" x H0.75\"",
-        "fld": "https://drive.google.com/drive/folders/1QI8UGQGfFCHuDYeppC2V1RuooaxjcKQl",
-        "des": "Dilip Jangir",
-        "dl": "09-Jan-2026",
-        "q": 1,
-        "pm": "Kamlesh Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Jan-2026",
-          "a": "",
-          "rm": "272mm x 867mm x 18mm;\n272mm x 917mm x 18mm;\n520mm x 565mm x 18mm\n\nEach 1 pc"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "012604",
-        "prod": "Solaris",
-        "var": "Shortle",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170159_953531_pasted_image_1767699135503.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: 16mm Plywood (Deluxe-100 Gothic Grey)",
-        "sz": "Shelf A: W22.24\" x D21.65\" x H0.75\"",
-        "fld": "https://drive.google.com/drive/folders/19KlTJuOOf7Tk5A6mczGRZjASrbyQv00t",
-        "des": "Dilip Jangir",
-        "dl": "09-Jan-2026",
-        "q": 2,
-        "pm": "Kamlesh Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Jan-2026",
-          "a": "",
-          "rm": "565mm x 550mm x 18mm ; 2 pcs"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Cloudspire",
-        "var": "Finesse",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
-        "cat": "Wardrobe Fillers",
-        "mat": "Core: HDHMR (RAL 1013 Oyster White)",
-        "sz": "Filler 1: W84.84\" x D2.52\" x H0.75\"\nFiller 2: W103.31\" x D2.56\" x H0.75\"\nFiller 3: W10.63\" x D2.56\" x H\"\nFiller 4: W25.59\" x D2.56\" x H\"\nFiller 5: W25.2\" x D2.56\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1jVCp1_sjjZqaItCzWiy9ZF3jDca-mWCs",
-        "des": "Dilip Jangir",
-        "dl": "01-Jan-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Oare",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
-        "cat": "Wardrobe Fillers",
-        "mat": "Core: 16mm Plywood (RAL 9010 Pure White)",
-        "sz": "Filler 1: W106.6\" x D2.87\" x H0.75\"",
-        "fld": "https://drive.google.com/drive/folders/1ng_AE-qZDU5Rq20DA8K4i5QtG7ApixJd",
-        "des": "Dilip Jangir",
-        "dl": "01-Jan-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Rosef",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
-        "cat": "Wardrobe Fillers",
-        "mat": "Core: 16mm Plywood (Pale Green RAL 6021)",
-        "sz": "Filler 1: W107.01\" x D3.54\" x H0.75\"",
-        "fld": "https://drive.google.com/drive/folders/10s2qZoEMfvQcHgMtTtvN8jedtvwR1NgV",
-        "des": "Dilip Jangir",
-        "dl": "01-Jan-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032507",
-        "prod": "Squid",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
-        "cat": "Wardrobe Fillers",
-        "mat": "Core: Teak Veneer (Suncity)",
-        "sz": "Filler 1: W153.94\" x D6.69\" x H0.75\"\nFiller 2: W11.57\" x D38.58\" x H0.75\"\nFiller 3: W19.09\" x D11.02\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1We3O7Utmo79AWOqPLFbUyC08aml2O2-v",
-        "des": "Dilip Jangir",
-        "dl": "01-Jan-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Nov-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Cirevon",
-        "var": "Avocet",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_151930_751090_Ayushi_s_Tv_unit.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: Oak Veneer (Natural)\nNiche: Oak Veneer (Natural)\nShutter: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W166\" x D16\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1bBIJhTApWPYYeWwIPOKtoGu-K12HbJoB",
-        "des": "Tanmay Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Aayush's Bedroom - TV Unit",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Kraton",
-        "var": "Karin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251205_171759_490073_pasted_image_1764935292604.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nTop: Oak Veneer (Natural)\nBase: Oak Veneer (Natural)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nShutter: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)\nShelf: 10mm Glass (Extra Clear)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
-        "sz": "Outer: W107.48\" x D25.6\" x H27.6\"",
-        "fld": "https://drive.google.com/drive/folders/15v1R4RHc4T5r8HmTAJI9SlCOkezKl7WD",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Guest Bedroom TV Unit",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Lavendra",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152039_878875_Sarthak_s_Study_unit.png",
-        "cat": "Study Tables",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W55\" x D20\" x H5\"",
-        "fld": "https://drive.google.com/drive/folders/1wnECDN_JVkE7dqwlN8vroajAFYawy3jm",
-        "des": "Tanmay Shah",
-        "dl": "18-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Sarthak's Bedroom - Study Tables",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Lullaby",
-        "var": "Dwight",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251115_150018_149256_Sarthak_s_Tv_unit1.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nShutter: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nSkirting: HDHMR (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W114\" x D16\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1cjcwMYaKxii6e1BmPfZb60e5cPVaxyYN",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Sarthak's Bedroom - TV Unit",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Majvion",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251118_163905_415307_Sarthak_s_N1.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nSkirting: HDHMR (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W79\" x D20\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/12byhGV0Douc61veZ1kzNX0WNX4aGzlzE",
-        "des": "Hetvi Shah",
-        "dl": "18-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Sarthak's Bedroom - Nightstand",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Majvion",
-        "var": "Felicia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251118_163918_207221_Sarthak_s_N2.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nSkirting: HDHMR (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W30\" x D20\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1Zbtaxvu_YaNsSnGdnaeG-feisN0i-AGH",
-        "des": "Hetvi Shah",
-        "dl": "18-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Sarthak's Bedroom - Nightstand",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Majvion",
-        "var": "Graysen",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152313_776643_Arushi_N2.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W70\" x D20\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1Qeper9rsSIJ8nIuJdEbLGFsXmClZKAOS",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Aarushi's Bedroom - Nighstand",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Majvion",
-        "var": "Heidi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152334_246967_Arushi_N1.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W28\" x D20\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1LODp8hRRyvJdARNIL0QshfyKWmKKtlYN",
-        "des": "Tanmay Shah",
-        "dl": "18-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Aarushi's Bedroom - Nighstand",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Omelle",
-        "var": "Gratia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
-        "cat": "Study Tables",
-        "mat": "Shelf: Oak Veneer (Natural)",
-        "sz": "Outer: W75\" x D24\" x H2\"",
-        "fld": "https://drive.google.com/drive/folders/1e2hFU3wsBMncyT5SU63msHAaWDw-Ef5y",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom - Study Table",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Omelle",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: Oak Veneer (Natural)",
-        "sz": "Outer: W51\" x D8\" x H2\"",
-        "fld": "https://drive.google.com/drive/folders/1KbgcbBO8o1QMdk968UxoN1_QcwAbAZUr",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom - Bookshelf",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Omelle",
-        "var": "Iguana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152814_595674_Arushi_N2_Shelf_1.png",
-        "cat": "Shelvings",
-        "mat": "Structure: Oak Veneer (Natural)",
-        "sz": "Outer: W70\" x D8\" x H2\"",
-        "fld": "https://drive.google.com/drive/folders/1b2h_LMLBttCdPEFBtczxGad4Nw5_ozlc",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Aarushi's Bedroom - Bookshelf",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Pomfret",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152732_566699_Chelsi_s_Tv_unit.png",
-        "cat": "Media Consoles",
-        "mat": "Structure: Oak Veneer (Natural)\nCarcass: HDHMR (ICA VMA3040 + SFCA)\nShutter: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
-        "sz": "Outer: W77\" x D16\" x H28\"",
-        "fld": "https://drive.google.com/drive/folders/1TJbrrx5-wDklqRj829NN_Rn_2VVKAB2p",
-        "des": "Tanmay Shah",
-        "dl": "19-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom - TV Unit",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Pomfret",
-        "var": "Hilario",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152704_957588_Arushi_Tv_unit.png",
-        "cat": "Media Consoles",
-        "mat": "Structure: Oak Veneer (Natural)\nCarcass: HDHMR (ICA VMA3040 + SFCA)\nShutter: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
-        "sz": "Outer: W97\" x D16\" x H28\"",
-        "fld": "https://drive.google.com/drive/folders/14svpxDC8vV0Y7-7L9aaasH6FS8GR7ryt",
-        "des": "Tanmay Shah",
-        "dl": "19-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Aarushi's Bedroom - TV Unit",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Solway",
-        "var": "Atria",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251210_180907_555685_1.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)\nLegs: White Oak (Natural)",
-        "sz": "Outer: W27.6\" x D19.7\" x H14.2\"",
-        "fld": "https://drive.google.com/drive/folders/1v3JAt0qAGXEzRMpjdFnmH5-QK3ElBMdn",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Grand Parents Room Nightstand",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Turuk",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251011_161233_913011_pasted_image_1760179360757.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nShutter: 16mm Plywood ()\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
-        "sz": "Outer: W90\" x D19.7\" x H22.4\"",
-        "fld": "https://drive.google.com/drive/folders/1zzyZIQQgoH6mQcOEkvEKV-yH3n3JC0ql",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Grand Parents Room TV Unit",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Vangof",
-        "var": "Avelli",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251010_180744_972693_pasted_image_1760099871788.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Oak Veneer (Natural)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W28\" x D24\" x H8\"",
-        "fld": "https://drive.google.com/drive/folders/1xE5C6rO2otXfXwbH8-2k6tJAaenhZS79",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Master's Bedroom 02 & 01 - Nightstands",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Vangof",
-        "var": "Bullion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251010_181701_265604_pasted_image_1760100427813.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Oak Veneer (Natural)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)\nShelf: Oak Veneer (Natural)",
-        "sz": "Drawer: W28\" x D24\" x H8\"\nLedge: W48\" x D24\" x H2\"",
-        "fld": "https://drive.google.com/drive/folders/1J1xC9Cb7qf21e8nZ0W7UKHfcBPakiZcS",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Master's Bedroom 02 & 01 - Nightstands",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "042510",
-        "prod": "Zentara",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251009_181501_558263_pasted_image_1760013908366.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)",
-        "sz": "Outer: W27.6\" x D13.8\" x H14.4\"",
-        "fld": "https://drive.google.com/drive/folders/1hyofz1oA2vUMT8RvRiTmhtnyb3vF1czk",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Guest Bedroom Nightstand",
-        "v": {
-          "c": "11-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082412",
-        "prod": "Peacock",
-        "var": "Crystal",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_155109_965553_pasted_image_1762251679326.png",
-        "cat": "Beds",
-        "mat": "Headboard: HDHMR (Finish TBC)\nFootboard: HDHMR (Finish TBC)\nMounting: Sheesham (Black Matt)\nMounting: White Oak (Natural)\nBed Slat Support: 12mm Plywood (SCS 0015)",
-        "sz": "Outer: W103\" x D81\" x H37\"\nMattress: W72\" x D78\" x H10\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1eVry2i92H7CLK83eAUsoJ9JTSzynA2Is",
-        "des": "Tanmay Shah",
-        "dl": "04-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "18-Jan-2026",
-          "a": "",
-          "rm": "Ply Size for Mattress: 1995x1835 MM\nWe'll send \"Black laminate\""
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082412",
-        "prod": "Ticknock",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Asianpaints Fare)\nPlatform: Ply & Foam Upholstery (Asianpaints Fare)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W72\" x D83.5\" x H56\"\nMattress: W66\" x D78\" x H8\"",
-        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Mattress Ply Size: 1670x1980\nVipra Wooden dark laminate must be used as per discussion."
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082520",
-        "prod": "Honeysuckle",
-        "var": "Evan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250913_131611_566083_pasted_image_1757749575926.png",
-        "cat": "Beds",
-        "mat": "Structure: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Asian Paint Tantrums Tattva Pruge Sable)\nBed Slat Support: 12mm Plywood (Oak Laminate)\nCanopy: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W90\" x D97.75\" x H80.7\"\nMattress Size: W84\" x D84\" x H8\"\nSeat Height: 27.6\"",
-        "fld": "https://drive.google.com/drive/folders/1AgVv7dtMBIJcSUb0WGFo1uXomPsb_0F_",
-        "des": "Tanmay Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Require Plywood top; Size: 96\" X 42\"; 12mm Thickness; SCS 0555 Laminate BSL; Qty: 2 Pcs"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122526",
-        "prod": "Strand",
-        "var": "Rawlins",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (Finish TBC)\nTop: Marble TBC (Mirror Buffing)\nDrawer Fascia: Sheesham (Black Distressed/Charcoal)\nDrawer Box: Oak Veneer (Finish TBC)\nDrawer Internal: 16mm Plywood (Finish TBC)\nSkirting: Stainless Steel 304 Gloss (Mirror Buffing)",
-        "sz": "Outer: W24\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
-        "des": "Tanmay Shah",
-        "dl": "01-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Carcass Black PU only"
-        },
-        "vendorDisplayName": "Vipra"
-      }
-    ],
     "aws": [
       {
         "op": "012605",
@@ -2964,6 +2374,554 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
+    "vipra": [
+      {
+        "op": "032507",
+        "prod": "Cloudspire",
+        "var": "Finesse",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
+        "cat": "Wardrobe Fillers",
+        "mat": "Core: HDHMR (RAL 1013 Oyster White)",
+        "sz": "Filler 1: W84.84\" x D2.52\" x H0.75\"\nFiller 2: W103.31\" x D2.56\" x H0.75\"\nFiller 3: W10.63\" x D2.56\" x H\"\nFiller 4: W25.59\" x D2.56\" x H\"\nFiller 5: W25.2\" x D2.56\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1jVCp1_sjjZqaItCzWiy9ZF3jDca-mWCs",
+        "des": "Dilip Jangir",
+        "dl": "01-Jan-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "15-Nov-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "032507",
+        "prod": "Oare",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
+        "cat": "Wardrobe Fillers",
+        "mat": "Core: 16mm Plywood (RAL 9010 Pure White)",
+        "sz": "Filler 1: W106.6\" x D2.87\" x H0.75\"",
+        "fld": "https://drive.google.com/drive/folders/1ng_AE-qZDU5Rq20DA8K4i5QtG7ApixJd",
+        "des": "Dilip Jangir",
+        "dl": "01-Jan-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "15-Nov-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "032507",
+        "prod": "Rosef",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
+        "cat": "Wardrobe Fillers",
+        "mat": "Core: 16mm Plywood (Pale Green RAL 6021)",
+        "sz": "Filler 1: W107.01\" x D3.54\" x H0.75\"",
+        "fld": "https://drive.google.com/drive/folders/10s2qZoEMfvQcHgMtTtvN8jedtvwR1NgV",
+        "des": "Dilip Jangir",
+        "dl": "01-Jan-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "15-Nov-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "032507",
+        "prod": "Squid",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163819_285223_pasted_image_1767697713128.png",
+        "cat": "Wardrobe Fillers",
+        "mat": "Core: Teak Veneer (Suncity)",
+        "sz": "Filler 1: W153.94\" x D6.69\" x H0.75\"\nFiller 2: W11.57\" x D38.58\" x H0.75\"\nFiller 3: W19.09\" x D11.02\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1We3O7Utmo79AWOqPLFbUyC08aml2O2-v",
+        "des": "Dilip Jangir",
+        "dl": "01-Jan-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "15-Nov-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Cirevon",
+        "var": "Avocet",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_151930_751090_Ayushi_s_Tv_unit.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: Oak Veneer (Natural)\nNiche: Oak Veneer (Natural)\nShutter: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W166\" x D16\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1bBIJhTApWPYYeWwIPOKtoGu-K12HbJoB",
+        "des": "Tanmay Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Aayush's Bedroom - TV Unit",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Kraton",
+        "var": "Karin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251205_171759_490073_pasted_image_1764935292604.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nTop: Oak Veneer (Natural)\nBase: Oak Veneer (Natural)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nShutter: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)\nShelf: 10mm Glass (Extra Clear)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
+        "sz": "Outer: W107.48\" x D25.6\" x H27.6\"",
+        "fld": "https://drive.google.com/drive/folders/15v1R4RHc4T5r8HmTAJI9SlCOkezKl7WD",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Guest Bedroom TV Unit",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Lavendra",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152039_878875_Sarthak_s_Study_unit.png",
+        "cat": "Study Tables",
+        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W55\" x D20\" x H5\"",
+        "fld": "https://drive.google.com/drive/folders/1wnECDN_JVkE7dqwlN8vroajAFYawy3jm",
+        "des": "Tanmay Shah",
+        "dl": "18-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Sarthak's Bedroom - Study Tables",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Lullaby",
+        "var": "Dwight",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251115_150018_149256_Sarthak_s_Tv_unit1.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nShutter: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nSkirting: HDHMR (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W114\" x D16\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1cjcwMYaKxii6e1BmPfZb60e5cPVaxyYN",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Sarthak's Bedroom - TV Unit",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Majvion",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251118_163905_415307_Sarthak_s_N1.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nSkirting: HDHMR (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W79\" x D20\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/12byhGV0Douc61veZ1kzNX0WNX4aGzlzE",
+        "des": "Hetvi Shah",
+        "dl": "18-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Sarthak's Bedroom - Nightstand",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Majvion",
+        "var": "Felicia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251118_163918_207221_Sarthak_s_N2.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nSkirting: HDHMR (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W30\" x D20\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1Zbtaxvu_YaNsSnGdnaeG-feisN0i-AGH",
+        "des": "Hetvi Shah",
+        "dl": "18-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Sarthak's Bedroom - Nightstand",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Majvion",
+        "var": "Graysen",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152313_776643_Arushi_N2.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W70\" x D20\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1Qeper9rsSIJ8nIuJdEbLGFsXmClZKAOS",
+        "des": "Hetvi Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Aarushi's Bedroom - Nighstand",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Majvion",
+        "var": "Heidi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152334_246967_Arushi_N1.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W28\" x D20\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1LODp8hRRyvJdARNIL0QshfyKWmKKtlYN",
+        "des": "Tanmay Shah",
+        "dl": "18-Sept-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Aarushi's Bedroom - Nighstand",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Omelle",
+        "var": "Gratia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
+        "cat": "Study Tables",
+        "mat": "Shelf: Oak Veneer (Natural)",
+        "sz": "Outer: W75\" x D24\" x H2\"",
+        "fld": "https://drive.google.com/drive/folders/1e2hFU3wsBMncyT5SU63msHAaWDw-Ef5y",
+        "des": "Hetvi Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom - Study Table",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Omelle",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
+        "cat": "Shelvings",
+        "mat": "Shelf: Oak Veneer (Natural)",
+        "sz": "Outer: W51\" x D8\" x H2\"",
+        "fld": "https://drive.google.com/drive/folders/1KbgcbBO8o1QMdk968UxoN1_QcwAbAZUr",
+        "des": "Hetvi Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom - Bookshelf",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Omelle",
+        "var": "Iguana",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152814_595674_Arushi_N2_Shelf_1.png",
+        "cat": "Shelvings",
+        "mat": "Structure: Oak Veneer (Natural)",
+        "sz": "Outer: W70\" x D8\" x H2\"",
+        "fld": "https://drive.google.com/drive/folders/1b2h_LMLBttCdPEFBtczxGad4Nw5_ozlc",
+        "des": "Hetvi Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Aarushi's Bedroom - Bookshelf",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Pomfret",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152732_566699_Chelsi_s_Tv_unit.png",
+        "cat": "Media Consoles",
+        "mat": "Structure: Oak Veneer (Natural)\nCarcass: HDHMR (ICA VMA3040 + SFCA)\nShutter: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
+        "sz": "Outer: W77\" x D16\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1TJbrrx5-wDklqRj829NN_Rn_2VVKAB2p",
+        "des": "Tanmay Shah",
+        "dl": "19-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom - TV Unit",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Pomfret",
+        "var": "Hilario",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152704_957588_Arushi_Tv_unit.png",
+        "cat": "Media Consoles",
+        "mat": "Structure: Oak Veneer (Natural)\nCarcass: HDHMR (ICA VMA3040 + SFCA)\nShutter: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
+        "sz": "Outer: W97\" x D16\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/14svpxDC8vV0Y7-7L9aaasH6FS8GR7ryt",
+        "des": "Tanmay Shah",
+        "dl": "19-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Aarushi's Bedroom - TV Unit",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Solway",
+        "var": "Atria",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251210_180907_555685_1.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W27.6\" x D19.7\" x H14.2\"",
+        "fld": "https://drive.google.com/drive/folders/1v3JAt0qAGXEzRMpjdFnmH5-QK3ElBMdn",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Grand Parents Room Nightstand",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Turuk",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251011_161233_913011_pasted_image_1760179360757.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nShutter: 16mm Plywood ()\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)\nFrame: Mild Steel (ICA VMA3040 + SFCA)",
+        "sz": "Outer: W90\" x D19.7\" x H22.4\"",
+        "fld": "https://drive.google.com/drive/folders/1zzyZIQQgoH6mQcOEkvEKV-yH3n3JC0ql",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Grand Parents Room TV Unit",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Vangof",
+        "var": "Avelli",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251010_180744_972693_pasted_image_1760099871788.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Oak Veneer (Natural)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
+        "sz": "Outer: W28\" x D24\" x H8\"",
+        "fld": "https://drive.google.com/drive/folders/1xE5C6rO2otXfXwbH8-2k6tJAaenhZS79",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Master's Bedroom 02 & 01 - Nightstands",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Vangof",
+        "var": "Bullion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251010_181701_265604_pasted_image_1760100427813.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Oak Veneer (Natural)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)\nShelf: Oak Veneer (Natural)",
+        "sz": "Drawer: W28\" x D24\" x H8\"\nLedge: W48\" x D24\" x H2\"",
+        "fld": "https://drive.google.com/drive/folders/1J1xC9Cb7qf21e8nZ0W7UKHfcBPakiZcS",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Master's Bedroom 02 & 01 - Nightstands",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042510",
+        "prod": "Zentara",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251009_181501_558263_pasted_image_1760013908366.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (RAL 1015 Light Ivory)\nDrawer Fascia: HDHMR (RAL 1015 Light Ivory)\nInternal Carcass: 16mm Plywood (Aica Sunmika Exp 09 Royal Ivory)",
+        "sz": "Outer: W27.6\" x D13.8\" x H14.4\"",
+        "fld": "https://drive.google.com/drive/folders/1hyofz1oA2vUMT8RvRiTmhtnyb3vF1czk",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Guest Bedroom Nightstand",
+        "v": {
+          "c": "11-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082412",
+        "prod": "Peacock",
+        "var": "Crystal",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_155109_965553_pasted_image_1762251679326.png",
+        "cat": "Beds",
+        "mat": "Headboard: HDHMR (Finish TBC)\nFootboard: HDHMR (Finish TBC)\nMounting: Sheesham (Black Matt)\nMounting: White Oak (Natural)\nBed Slat Support: 12mm Plywood (SCS 0015)",
+        "sz": "Outer: W103\" x D81\" x H37\"\nMattress: W72\" x D78\" x H10\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1eVry2i92H7CLK83eAUsoJ9JTSzynA2Is",
+        "des": "Tanmay Shah",
+        "dl": "04-Nov-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom",
+        "v": {
+          "c": "18-Jan-2026",
+          "a": "",
+          "rm": "Ply Size for Mattress: 1995x1835 MM\nWe'll send \"Black laminate\""
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082412",
+        "prod": "Ticknock",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
+        "cat": "Beds",
+        "mat": "Structure: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Asianpaints Fare)\nPlatform: Ply & Foam Upholstery (Asianpaints Fare)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W72\" x D83.5\" x H56\"\nMattress: W66\" x D78\" x H8\"",
+        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Mattress Ply Size: 1670x1980\nVipra Wooden dark laminate must be used as per discussion."
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082520",
+        "prod": "Honeysuckle",
+        "var": "Evan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250913_131611_566083_pasted_image_1757749575926.png",
+        "cat": "Beds",
+        "mat": "Structure: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Asian Paint Tantrums Tattva Pruge Sable)\nBed Slat Support: 12mm Plywood (Oak Laminate)\nCanopy: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W90\" x D97.75\" x H80.7\"\nMattress Size: W84\" x D84\" x H8\"\nSeat Height: 27.6\"",
+        "fld": "https://drive.google.com/drive/folders/1AgVv7dtMBIJcSUb0WGFo1uXomPsb_0F_",
+        "des": "Tanmay Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Require Plywood top; Size: 96\" X 42\"; 12mm Thickness; SCS 0555 Laminate BSL; Qty: 2 Pcs"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122526",
+        "prod": "Strand",
+        "var": "Rawlins",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nTop: Marble TBC (Mirror Buffing)\nDrawer Fascia: Sheesham (Black Distressed/Charcoal)\nDrawer Box: Oak Veneer (Finish TBC)\nDrawer Internal: 16mm Plywood (Finish TBC)\nSkirting: Stainless Steel 304 Gloss (Mirror Buffing)",
+        "sz": "Outer: W24\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
+        "des": "Tanmay Shah",
+        "dl": "01-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Carcass Black PU only"
+        },
+        "vendorDisplayName": "Vipra"
+      }
+    ],
     "royal_powder_coat": [
       {
         "op": "032507",
@@ -4407,6 +4365,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-19T05:22:21.662Z"
+    "timestamp": "2026-02-19T05:38:38.845Z"
   }
 }
