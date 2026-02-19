@@ -995,27 +995,6 @@
           "rm": "Veneer aur Laminate Hum bhejege\nMM to MM 2D k hisab se bnana hai\nPolish vadodara me hogi\nAndar ka glass shelf hum bnayege"
         },
         "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122532",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "05-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "arbuda_metal": [
@@ -1037,6 +1016,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022602",
+        "prod": "Facile",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260211_125809_172728_pasted_image_1770794910291.jpeg",
+        "cat": "Dining Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nLegs: White Ash (Smoke Grey)",
+        "sz": "Outer: W78\" x D38\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1-5ikk2T9xZmBinPT3yw4wr3Iv7edH6nO",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Metal supporters"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -1761,6 +1761,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "022602",
+        "prod": "Facile",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260211_125809_172728_pasted_image_1770794910291.jpeg",
+        "cat": "Dining Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nLegs: White Ash (Smoke Grey)",
+        "sz": "Outer: W78\" x D38\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1-5ikk2T9xZmBinPT3yw4wr3Iv7edH6nO",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Base"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "022611",
         "prod": "Ixia",
         "var": "Beamer",
@@ -2095,6 +2116,176 @@
           "rm": "Make using cnc as per \"Top Zakef Accuris.pdf\" File."
         },
         "vendorDisplayName": "Krishna Furnitech"
+      }
+    ],
+    "jain_marble": [
+      {
+        "op": "022602",
+        "prod": "Facile",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260211_125809_172728_pasted_image_1770794910291.jpeg",
+        "cat": "Dining Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nLegs: White Ash (Smoke Grey)",
+        "sz": "Outer: W78\" x D38\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1-5ikk2T9xZmBinPT3yw4wr3Iv7edH6nO",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "marble work"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072313",
+        "prod": "Ascovia",
+        "var": "Scroll",
+        "url": "https://i.ibb.co/qYQP1KgZ/Screenshot-2025-07-03-180435.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Bianco Equador (Mirror Buffing)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W42\" x D42\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1VqJC9imLaSkdxcLhweasPQ9_xZmatmJ4",
+        "des": "Hetvi Shah",
+        "dl": "25-Apr-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room GF Coffee Table",
+        "v": {
+          "c": "26-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "072313",
+        "prod": "Odie",
+        "var": "Urban",
+        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "Top: Bianco Equador (River)\nBase: Aluminium (Black Powder Coat)",
+        "sz": "Outer: W24\" x D24\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
+        "des": "Hetvi Shah",
+        "dl": "29-Apr-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Deck Front GF Outdoor Accent Table",
+        "v": {
+          "c": "26-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "082413",
+        "prod": "Chateaux",
+        "var": "Wattage",
+        "url": "https://i.ibb.co/zT0TFqTF/0002.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Albester White Marble (Mirror Buffing)\nSupport: Black Veneer (Natural)\nBase: Black Veneer (Natural)\nPanel: Black Wood Vaulted Fluted Veneer (Natural)",
+        "sz": "Outer: W96\" x D39\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1T7w2eQ-PFkJJDv10WJ4ySiHW7gjfs1cP",
+        "des": "Hetvi Shah",
+        "dl": "15-Nov-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "082413",
+        "prod": "Harbor",
+        "var": "Yukon",
+        "url": "https://i.ibb.co/mCpDj00b/image.png",
+        "cat": "Media Consoles",
+        "mat": "Top: Albester White Marble (Mirror Buffing)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nCarcass: Black Veneer (Natural)\nInternal Carcass: 16mm Plywood (SCS 0015)\nShutter: Black Veneer (Natural)\nBase: Albester White Marble (Mirror Buffing)\nSupport: Albester White Marble (Mirror Buffing)\nAccessories: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W53\" x D16\" x H27\"",
+        "fld": "https://drive.google.com/drive/folders/1Tl6B7ml7UXL2uQ-GrH53WyVYNznW3X9y",
+        "des": "Tanmay Shah",
+        "dl": "17-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dhyanbhai's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Top"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "082413",
+        "prod": "Thunderbolt",
+        "var": "Latten",
+        "url": "https://i.ibb.co/qMfg21nx/0002.jpg",
+        "cat": "Beds",
+        "mat": "Structure: Ply & Foam Upholstery (Pure Vani Cloud 115218)\nLegs: Sheesham (Black Matt)\nBed Slat Support: 12mm Plywood (SCS 0015)\nHeadboard: Ply & Foam Upholstery (Pure Vani Beetroot 115203)\nShelf: Albester White Marble (Mirror Buffing)",
+        "sz": "Outer: W114\" x D83\" x H48\"\nKing Size Bed Mattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.5\" x H36\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Bu8N45i-Sa8sZkp9bnYN3I59pBCLIRx_",
+        "des": "Tanmay Shah",
+        "dl": "09-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "30-Jul-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "122415",
+        "prod": "Valeriya",
+        "var": "Ethan",
+        "url": "https://i.ibb.co/jZZ7NPTT/0002.jpg",
+        "cat": "Chests",
+        "mat": "Top: Nano White Quartz (Mirror Buffing)\nCarcass: Sheesham (White Wash)\nDrawer: Sheesham (White Wash)\nDrawer Fascia: Pre-woven Rattan (Clear Lacquered)\nKnobs: Brass (Antique Brass)",
+        "sz": "Outer: W54\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1_RCC3yGw_jKg5qBv0SzJy9_hamIRiRO_",
+        "des": "Hetvi Shah",
+        "dl": "20-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Daughter Bedroom Console Cum Study Table",
+        "v": {
+          "c": "02-Jul-2025",
+          "a": "",
+          "rm": "kailash gurjar"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "122504",
+        "prod": "Passini",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nPlatform: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)\nTop: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W60\" x D24\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/19iQTbEZhlEz_Sr9nsKhI8EenjVGThagW",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
       }
     ],
     "aavaran": [
@@ -4017,155 +4208,6 @@
         "vendorDisplayName": "Siddhi Vinayak Marble"
       }
     ],
-    "jain_marble": [
-      {
-        "op": "072313",
-        "prod": "Ascovia",
-        "var": "Scroll",
-        "url": "https://i.ibb.co/qYQP1KgZ/Screenshot-2025-07-03-180435.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Bianco Equador (Mirror Buffing)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W42\" x D42\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1VqJC9imLaSkdxcLhweasPQ9_xZmatmJ4",
-        "des": "Hetvi Shah",
-        "dl": "25-Apr-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room GF Coffee Table",
-        "v": {
-          "c": "26-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "072313",
-        "prod": "Odie",
-        "var": "Urban",
-        "url": "https://i.ibb.co/PpcvSmK/Screenshot-2025-07-03-180046.png",
-        "cat": "Outdoor Coffee Tables",
-        "mat": "Top: Bianco Equador (River)\nBase: Aluminium (Black Powder Coat)",
-        "sz": "Outer: W24\" x D24\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/14lXLqVhlfHSbxSpiLW42SLkbAkYrZV0r",
-        "des": "Hetvi Shah",
-        "dl": "29-Apr-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Deck Front GF Outdoor Accent Table",
-        "v": {
-          "c": "26-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "082413",
-        "prod": "Chateaux",
-        "var": "Wattage",
-        "url": "https://i.ibb.co/zT0TFqTF/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Albester White Marble (Mirror Buffing)\nSupport: Black Veneer (Natural)\nBase: Black Veneer (Natural)\nPanel: Black Wood Vaulted Fluted Veneer (Natural)",
-        "sz": "Outer: W96\" x D39\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1T7w2eQ-PFkJJDv10WJ4ySiHW7gjfs1cP",
-        "des": "Hetvi Shah",
-        "dl": "15-Nov-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "082413",
-        "prod": "Harbor",
-        "var": "Yukon",
-        "url": "https://i.ibb.co/mCpDj00b/image.png",
-        "cat": "Media Consoles",
-        "mat": "Top: Albester White Marble (Mirror Buffing)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nCarcass: Black Veneer (Natural)\nInternal Carcass: 16mm Plywood (SCS 0015)\nShutter: Black Veneer (Natural)\nBase: Albester White Marble (Mirror Buffing)\nSupport: Albester White Marble (Mirror Buffing)\nAccessories: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W53\" x D16\" x H27\"",
-        "fld": "https://drive.google.com/drive/folders/1Tl6B7ml7UXL2uQ-GrH53WyVYNznW3X9y",
-        "des": "Tanmay Shah",
-        "dl": "17-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyanbhai's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Top"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "082413",
-        "prod": "Thunderbolt",
-        "var": "Latten",
-        "url": "https://i.ibb.co/qMfg21nx/0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Ply & Foam Upholstery (Pure Vani Cloud 115218)\nLegs: Sheesham (Black Matt)\nBed Slat Support: 12mm Plywood (SCS 0015)\nHeadboard: Ply & Foam Upholstery (Pure Vani Beetroot 115203)\nShelf: Albester White Marble (Mirror Buffing)",
-        "sz": "Outer: W114\" x D83\" x H48\"\nKing Size Bed Mattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.5\" x H36\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Bu8N45i-Sa8sZkp9bnYN3I59pBCLIRx_",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "30-Jul-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "122415",
-        "prod": "Valeriya",
-        "var": "Ethan",
-        "url": "https://i.ibb.co/jZZ7NPTT/0002.jpg",
-        "cat": "Chests",
-        "mat": "Top: Nano White Quartz (Mirror Buffing)\nCarcass: Sheesham (White Wash)\nDrawer: Sheesham (White Wash)\nDrawer Fascia: Pre-woven Rattan (Clear Lacquered)\nKnobs: Brass (Antique Brass)",
-        "sz": "Outer: W54\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1_RCC3yGw_jKg5qBv0SzJy9_hamIRiRO_",
-        "des": "Hetvi Shah",
-        "dl": "20-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Daughter Bedroom Console Cum Study Table",
-        "v": {
-          "c": "02-Jul-2025",
-          "a": "",
-          "rm": "kailash gurjar"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "122504",
-        "prod": "Passini",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nPlatform: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)\nTop: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/19iQTbEZhlEz_Sr9nsKhI8EenjVGThagW",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      }
-    ],
     "mandap": [
       {
         "op": "082520",
@@ -4323,6 +4365,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-19T06:52:23.569Z"
+    "timestamp": "2026-02-19T07:07:33.856Z"
   }
 }
