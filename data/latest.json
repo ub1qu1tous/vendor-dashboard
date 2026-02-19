@@ -892,48 +892,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "122504",
-        "prod": "Sinkay",
-        "var": "Atrica",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260204_161231_080533_Screenshot_2026-02-04_161223.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: 10mm Glass (Cappuccino 8655)\nLegs: White Oak (Black Matt)",
-        "sz": "Outer: W48\" x D24\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1OsVr40vw0AINwDgjgIHJ9jz1mmxB2P4C",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122504",
-        "prod": "Sinkay",
-        "var": "Brume",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_175145_930502_Screenshot_2026-01-20_174952.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: White Oak (Black Matt)",
-        "sz": "Outer: W30\" x D30\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1i8FIew-h0DcdR9wAtFCreJCr3yN4pX0o",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "122514",
         "prod": "Peynova",
         "var": "Kos",
@@ -4313,6 +4271,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "122504",
+        "prod": "Sinkay",
+        "var": "Atrica",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260204_161231_080533_Screenshot_2026-02-04_161223.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: 10mm Glass (Cappuccino 8655)\nLegs: White Oak (Black Matt)",
+        "sz": "Outer: W48\" x D24\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1OsVr40vw0AINwDgjgIHJ9jz1mmxB2P4C",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "122504",
+        "prod": "Sinkay",
+        "var": "Brume",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_175145_930502_Screenshot_2026-01-20_174952.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: White Oak (Black Matt)",
+        "sz": "Outer: W30\" x D30\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1i8FIew-h0DcdR9wAtFCreJCr3yN4pX0o",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
       }
     ],
     "the_lighting_studio": [
@@ -4449,6 +4449,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-19T12:52:39.941Z"
+    "timestamp": "2026-02-19T13:07:34.417Z"
   }
 }
