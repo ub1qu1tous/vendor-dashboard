@@ -2374,7 +2374,7 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
     ],
-    "vipra": [
+    "kamlesh_jangid": [
       {
         "op": "032507",
         "prod": "Cloudspire",
@@ -2390,11 +2390,11 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "15-Nov-2025",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Vipra"
+        "vendorDisplayName": "Kamlesh Jangid"
       },
       {
         "op": "032507",
@@ -2411,11 +2411,11 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "15-Nov-2025",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Vipra"
+        "vendorDisplayName": "Kamlesh Jangid"
       },
       {
         "op": "032507",
@@ -2432,11 +2432,11 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "15-Nov-2025",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Vipra"
+        "vendorDisplayName": "Kamlesh Jangid"
       },
       {
         "op": "032507",
@@ -2453,12 +2453,482 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "15-Nov-2025",
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Vipra"
+        "vendorDisplayName": "Kamlesh Jangid"
       },
+      {
+        "op": "032507",
+        "prod": "Teresta",
+        "var": "Oriole",
+        "url": "https://i.ibb.co/prbV74b0/image.png",
+        "cat": "Beds",
+        "mat": "Structure: Teak Veneer (Finish TBC)\nAccessories: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W72.2\" x D47.71\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1I4FRNC9AoirCoVsezIMJgoSV_rmcRo2B",
+        "des": "Dilip Jangir",
+        "dl": "26-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Only Platform with safety bars",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "ऑन साइट बेड के पीछे की तरफ वॉल के साथ में 50x50 की पाइप फिक्स करनी है उसके साथ उसने मुझे कटेरे में कट किया हुआ भाग दीवार के साथ में लगेगा या बेड स्लाइड होगा जिस पर पूरा बेड फिट होगा, उसके साथ वह गार्ड फिटिंग और सीढ़ी फिटिंग भी करना है"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "072409",
+        "prod": "Chako",
+        "var": "Typex",
+        "url": "https://i.ibb.co/84dX1HgR/0002.jpg",
+        "cat": "Beds",
+        "mat": "Frame: Mild Steel (Black Powder Coat)\nHeadboard: Ply & Foam Upholstery (Aelin 03 Flamingo)\nPosters: Mild Steel (Black Powder Coat)\nCanopy: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W69\" x D84\" x H89\"\nMattress: W66\" x D78\" x H8\"\nFootboard: W69\" x D1.25\" x H24\"\nHeadboard: W69\" x D1.25\" x H56\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/1okLe9WRv4rT2E5Kp2Eoe6jE3yzhLDxvg",
+        "des": "Dilip Jangir",
+        "dl": "13-Oct-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom 03",
+        "v": {
+          "c": "30-Jul-2025",
+          "a": "",
+          "rm": "बेड को अच्छे से फिट होने के लिए चेक करें, बेड प्लाई का साइज देना है प्रेस के लिए"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "082301",
+        "prod": "Noriko",
+        "var": "Ardor",
+        "url": "https://i.ibb.co/zxH8qHN/Glass-sshutter0006-IBB.jpg",
+        "cat": "Wardrobes",
+        "mat": "Carcass: 16mm Plywood (Deluxe-101 Irish Cream)\nShutter: Aluminium Profile (Rose Gold PVD)\nShutter Panel: 4mm Glass (Clear)",
+        "sz": "Outer: W60\" x D24\" x H96\"",
+        "fld": "https://drive.google.com/drive/folders/1jhIp8EEoy7z_VjIwzh3qQ3r9A7tI5GXJ",
+        "des": "Tataria Living",
+        "dl": "02-Mar-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "For Olvvi Display",
+        "v": {
+          "c": "29-Jun-2025",
+          "a": "",
+          "rm": "वावार्डरोब में जो हिस्सा खुला हुआ है उसको ठीक करना है"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "102411",
+        "prod": "Lucentia",
+        "var": "Insignia",
+        "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Frame: Recycled Teak (Natural)\nMirror: 4mm Glass (Extra Clear)",
+        "sz": "Outer: W36\" x D1\" x H66\"",
+        "fld": "https://drive.google.com/drive/folders/1alZbANUB8NdSZaYDRNAgBA7oEeQcYt8j",
+        "des": "Hetvi Shah",
+        "dl": "21-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Darshan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "102411",
+        "prod": "Lucentia",
+        "var": "Theta",
+        "url": "https://i.ibb.co/gLTLcDm4/0002.jpg",
+        "cat": "Mirrors",
+        "mat": "Frame: Recycled Teak (Natural)\nMirror: 4mm Glass (Extra Clear)",
+        "sz": "Outer: W43\" x D1\" x H61\"",
+        "fld": "https://drive.google.com/drive/folders/184FpILaxT92dL4SdgYC9qih7Ds1uVSoM",
+        "des": "Hetvi Shah",
+        "dl": "21-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Vandan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "102411",
+        "prod": "Orpheus",
+        "var": "Endear",
+        "url": "https://i.ibb.co/Txs88mcm/0002.jpg",
+        "cat": "Dressers",
+        "mat": "Structure: Teak Veneer (Natural)\nDrawer Fascia: 4mm Glass (Clear)\nPanel: Ply & Foam Upholstery (Fabric TBC)\nInternal Carcass: 16mm Plywood (SCS 9672)",
+        "sz": "Outer: W39.14\" x D18.94\" x H6\"",
+        "fld": "https://drive.google.com/drive/folders/1Rm8vr3v6rK-2OItKRD-wJ6bjPHrPhEQ2",
+        "des": "Hetvi Shah",
+        "dl": "12-Feb-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Daughter's Room Dressing Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "102411",
+        "prod": "Plateau",
+        "var": "Tanner",
+        "url": "https://i.ibb.co/hQHrWQ0/0002.jpg",
+        "cat": "Study Tables",
+        "mat": "Carcass: Teak Veneer (Natural)\nInternal Carcass: 16mm Plywood (SCS 9672)",
+        "sz": "Outer: W43\" x D18\" x H6\"",
+        "fld": "https://drive.google.com/drive/folders/1NHZ5Efhv3M9Kj53eQWIppIXJYT7rNOKx",
+        "des": "Hetvi Shah",
+        "dl": "22-Apr-2025",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Daughter's Room Study Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "112411",
+        "prod": "Kizomba",
+        "var": "Macy",
+        "url": "https://i.ibb.co/XZtF7xHm/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Mild Steel (RAL 7023 Concrete Grey)\nLegs: Mild Steel (RAL 5014 Pigeon Blue)\nLegs: Mild Steel (RAL 4007 Purple Violet)\nMounting: Mild Steel (RAL 7030 Grey Stone)\nMounting: Mild Steel (RAL 7040 Window Grey)\nMounting: Mild Steel (RAL 4009 Pastel Violet)",
+        "sz": "Outer: W108\" x D42\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1Rb3-izU35UJyJ67AqD02R8DOLbwWpQS9",
+        "des": "Dilip Jangir",
+        "dl": "11-Apr-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Dining Room Dining Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "dining metal part fitting "
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "122415",
+        "prod": "Glowworm",
+        "var": "Hyde",
+        "url": "https://i.ibb.co/0V9SGQ4c/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Structure: Indian Teak (Suncity)\nDrawer: Indian Teak (Suncity)\nBase: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W26\" x D19\" x H25\"",
+        "fld": "https://drive.google.com/drive/folders/1N8Dli7HHMg3UToWGLHpZIopgmKyvitRp",
+        "des": "Hetvi Shah",
+        "dl": "13-Apr-2025",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "c": "10-Jul-2025",
+          "a": "",
+          "rm": "दराज बॉक्स को मेटल बेस के साथ फिक्स करें और बफर लगाएं, और हैंडल अभी खरीदें नहीं है 1,2 दिन में ख़रीदने के बाद वो भी लगने हे"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      }
+    ],
+    "royal_powder_coat": [
+      {
+        "op": "032507",
+        "prod": "Teresta",
+        "var": "Oriole",
+        "url": "https://i.ibb.co/prbV74b0/image.png",
+        "cat": "Beds",
+        "mat": "Structure: Teak Veneer (Finish TBC)\nAccessories: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W72.2\" x D47.71\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1I4FRNC9AoirCoVsezIMJgoSV_rmcRo2B",
+        "des": "Dilip Jangir",
+        "dl": "26-May-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Only Platform with safety bars",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052318",
+        "prod": "Delilah",
+        "var": "Neymar",
+        "url": "https://i.ibb.co/1d6RXMx/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Carrara (Mirror Buffing)\nBase: White Oak (Natural)\nSupport: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W36\" x D36\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1s0TzJ5aTmtJ1fZr-0z7LfL3mJJ5u-3VO",
+        "des": "Parth Gada",
+        "dl": "08-Jun-2023",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Bedroom 2",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052508",
+        "prod": "Dellamon",
+        "var": "Cappuccino",
+        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W72\" x D36\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
+        "des": "Akhilesh Yadav",
+        "dl": "02-Jul-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining table top and chair structure have the same finish\n",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062510",
+        "prod": "Jurell",
+        "var": "Ginette",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (CASAMIA Zuri Hampton LN 002 CO 001)\nFrame: Mild Steel (Wood Brown (M2149-HB))",
+        "sz": "Outer: W84\" x D30.5\" x H34\"",
+        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
+        "des": "Tanmay Shah",
+        "dl": "27-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092416",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Pure Adali Pebble 110920)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W37\" x D33\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Bellami",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W54\" x D30\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Frame: Mild Steel (Finish TBC)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black Powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122504",
+        "prod": "Lorilay",
+        "var": "Gold",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W19\" x D19\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122505",
+        "prod": "Clement",
+        "var": "Dwight",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124620_363420_pasted_image_1765869394570.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W14\" x D16\" x H29\"",
+        "fld": "https://drive.google.com/drive/folders/1Nw0tbi03q9XKMbYO-D8B2lfmldfN195T",
+        "des": "Hetvi Shah",
+        "dl": "17-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "23-Dec-2025",
+          "a": "",
+          "rm": "BLACK MATT "
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "122528",
+        "prod": "Dorothy",
+        "var": "Bagel",
+        "url": "https://i.ibb.co/yskJF0g/Bagel-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Natural)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1hZzHp2z6_ewkmD7Twc3aO0wxKErhmIJA",
+        "des": "Tarishi Rathore",
+        "dl": "28-Dec-2021",
+        "q": 3,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      }
+    ],
+    "d_g_interior": [
+      {
+        "op": "042510",
+        "prod": "Briggan",
+        "var": "Grover",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
+        "cat": "Nightstands",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nCarcass: Leatherette (Warwick Lustrella Auro Fawn)\nInternal Carcass: 16mm Plywood (Welmica Laminates Mink 1321 SF)\nDrawer Fascia: Leatherette (Warwick Lustrella Auro Fawn)",
+        "sz": "Outer: W20\" x D20\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom -Nightstand",
+        "v": {
+          "c": "25-Sept-2025",
+          "a": "",
+          "rm": "construction and PU"
+        },
+        "vendorDisplayName": "D G INTERIOR"
+      }
+    ],
+    "deco_ply": [
+      {
+        "op": "042510",
+        "prod": "Briggan",
+        "var": "Grover",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
+        "cat": "Nightstands",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nCarcass: Leatherette (Warwick Lustrella Auro Fawn)\nInternal Carcass: 16mm Plywood (Welmica Laminates Mink 1321 SF)\nDrawer Fascia: Leatherette (Warwick Lustrella Auro Fawn)",
+        "sz": "Outer: W20\" x D20\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
+        "des": "Hetvi Shah",
+        "dl": "09-Dec-2025",
+        "q": 2,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom -Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "2 Lam Sheet"
+        },
+        "vendorDisplayName": "Deco Ply"
+      }
+    ],
+    "vipra": [
       {
         "op": "042510",
         "prod": "Cirevon",
@@ -2878,518 +3348,6 @@
           "rm": "Mattress Ply Size: 1670x1980\nVipra Wooden dark laminate must be used as per discussion."
         },
         "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082520",
-        "prod": "Honeysuckle",
-        "var": "Evan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250913_131611_566083_pasted_image_1757749575926.png",
-        "cat": "Beds",
-        "mat": "Structure: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Asian Paint Tantrums Tattva Pruge Sable)\nBed Slat Support: 12mm Plywood (Oak Laminate)\nCanopy: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W90\" x D97.75\" x H80.7\"\nMattress Size: W84\" x D84\" x H8\"\nSeat Height: 27.6\"",
-        "fld": "https://drive.google.com/drive/folders/1AgVv7dtMBIJcSUb0WGFo1uXomPsb_0F_",
-        "des": "Tanmay Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Require Plywood top; Size: 96\" X 42\"; 12mm Thickness; SCS 0555 Laminate BSL; Qty: 2 Pcs"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122526",
-        "prod": "Strand",
-        "var": "Rawlins",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (Finish TBC)\nTop: Marble TBC (Mirror Buffing)\nDrawer Fascia: Sheesham (Black Distressed/Charcoal)\nDrawer Box: Oak Veneer (Finish TBC)\nDrawer Internal: 16mm Plywood (Finish TBC)\nSkirting: Stainless Steel 304 Gloss (Mirror Buffing)",
-        "sz": "Outer: W24\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
-        "des": "Tanmay Shah",
-        "dl": "01-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Carcass Black PU only"
-        },
-        "vendorDisplayName": "Vipra"
-      }
-    ],
-    "royal_powder_coat": [
-      {
-        "op": "032507",
-        "prod": "Teresta",
-        "var": "Oriole",
-        "url": "https://i.ibb.co/prbV74b0/image.png",
-        "cat": "Beds",
-        "mat": "Structure: Teak Veneer (Finish TBC)\nAccessories: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72.2\" x D47.71\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1I4FRNC9AoirCoVsezIMJgoSV_rmcRo2B",
-        "des": "Dilip Jangir",
-        "dl": "26-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Platform with safety bars",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052318",
-        "prod": "Delilah",
-        "var": "Neymar",
-        "url": "https://i.ibb.co/1d6RXMx/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Carrara (Mirror Buffing)\nBase: White Oak (Natural)\nSupport: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W36\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1s0TzJ5aTmtJ1fZr-0z7LfL3mJJ5u-3VO",
-        "des": "Parth Gada",
-        "dl": "08-Jun-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bedroom 2",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052508",
-        "prod": "Dellamon",
-        "var": "Cappuccino",
-        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W72\" x D36\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
-        "des": "Akhilesh Yadav",
-        "dl": "02-Jul-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052508",
-        "prod": "Hilton",
-        "var": "Baltic",
-        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
-        "des": "Parth Gada",
-        "dl": "22-May-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062510",
-        "prod": "Jurell",
-        "var": "Ginette",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250714_183248_283164_WhatsApp_Image_2025-07-14_at_18_20_45_e18824e9.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (CASAMIA Zuri Hampton LN 002 CO 001)\nFrame: Mild Steel (Wood Brown (M2149-HB))",
-        "sz": "Outer: W84\" x D30.5\" x H34\"",
-        "fld": "https://drive.google.com/drive/folders/10E1h1KhcOjBCiMC1palPVwqCrholu1Z2",
-        "des": "Tanmay Shah",
-        "dl": "27-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "092416",
-        "prod": "Decker",
-        "var": "Yoku",
-        "url": "https://i.ibb.co/S0ZPGg7/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Pure Adali Pebble 110920)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W37\" x D33\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
-        "des": "Maulik Parmar",
-        "dl": "04-Dec-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM\r",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122504",
-        "prod": "Bellami",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W54\" x D30\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122504",
-        "prod": "Lars",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
-        "cat": "Accent Tables",
-        "mat": "Frame: Mild Steel (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black Powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122504",
-        "prod": "Lorilay",
-        "var": "Gold",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122505",
-        "prod": "Clement",
-        "var": "Dwight",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_124620_363420_pasted_image_1765869394570.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W14\" x D16\" x H29\"",
-        "fld": "https://drive.google.com/drive/folders/1Nw0tbi03q9XKMbYO-D8B2lfmldfN195T",
-        "des": "Hetvi Shah",
-        "dl": "17-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "23-Dec-2025",
-          "a": "",
-          "rm": "BLACK MATT "
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122528",
-        "prod": "Dorothy",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/yskJF0g/Bagel-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1hZzHp2z6_ewkmD7Twc3aO0wxKErhmIJA",
-        "des": "Tarishi Rathore",
-        "dl": "28-Dec-2021",
-        "q": 3,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      }
-    ],
-    "kamlesh_jangid": [
-      {
-        "op": "032507",
-        "prod": "Teresta",
-        "var": "Oriole",
-        "url": "https://i.ibb.co/prbV74b0/image.png",
-        "cat": "Beds",
-        "mat": "Structure: Teak Veneer (Finish TBC)\nAccessories: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72.2\" x D47.71\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1I4FRNC9AoirCoVsezIMJgoSV_rmcRo2B",
-        "des": "Dilip Jangir",
-        "dl": "26-May-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Platform with safety bars",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "ऑन साइट बेड के पीछे की तरफ वॉल के साथ में 50x50 की पाइप फिक्स करनी है उसके साथ उसने मुझे कटेरे में कट किया हुआ भाग दीवार के साथ में लगेगा या बेड स्लाइड होगा जिस पर पूरा बेड फिट होगा, उसके साथ वह गार्ड फिटिंग और सीढ़ी फिटिंग भी करना है"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "072409",
-        "prod": "Chako",
-        "var": "Typex",
-        "url": "https://i.ibb.co/84dX1HgR/0002.jpg",
-        "cat": "Beds",
-        "mat": "Frame: Mild Steel (Black Powder Coat)\nHeadboard: Ply & Foam Upholstery (Aelin 03 Flamingo)\nPosters: Mild Steel (Black Powder Coat)\nCanopy: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W69\" x D84\" x H89\"\nMattress: W66\" x D78\" x H8\"\nFootboard: W69\" x D1.25\" x H24\"\nHeadboard: W69\" x D1.25\" x H56\"\nSeat Height: 21\"",
-        "fld": "https://drive.google.com/drive/folders/1okLe9WRv4rT2E5Kp2Eoe6jE3yzhLDxvg",
-        "des": "Dilip Jangir",
-        "dl": "13-Oct-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom 03",
-        "v": {
-          "c": "30-Jul-2025",
-          "a": "",
-          "rm": "बेड को अच्छे से फिट होने के लिए चेक करें, बेड प्लाई का साइज देना है प्रेस के लिए"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "082301",
-        "prod": "Noriko",
-        "var": "Ardor",
-        "url": "https://i.ibb.co/zxH8qHN/Glass-sshutter0006-IBB.jpg",
-        "cat": "Wardrobes",
-        "mat": "Carcass: 16mm Plywood (Deluxe-101 Irish Cream)\nShutter: Aluminium Profile (Rose Gold PVD)\nShutter Panel: 4mm Glass (Clear)",
-        "sz": "Outer: W60\" x D24\" x H96\"",
-        "fld": "https://drive.google.com/drive/folders/1jhIp8EEoy7z_VjIwzh3qQ3r9A7tI5GXJ",
-        "des": "Tataria Living",
-        "dl": "02-Mar-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "For Olvvi Display",
-        "v": {
-          "c": "29-Jun-2025",
-          "a": "",
-          "rm": "वावार्डरोब में जो हिस्सा खुला हुआ है उसको ठीक करना है"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "102411",
-        "prod": "Lucentia",
-        "var": "Insignia",
-        "url": "https://i.ibb.co/wh84GTWZ/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Frame: Recycled Teak (Natural)\nMirror: 4mm Glass (Extra Clear)",
-        "sz": "Outer: W36\" x D1\" x H66\"",
-        "fld": "https://drive.google.com/drive/folders/1alZbANUB8NdSZaYDRNAgBA7oEeQcYt8j",
-        "des": "Hetvi Shah",
-        "dl": "21-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Darshan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "102411",
-        "prod": "Lucentia",
-        "var": "Theta",
-        "url": "https://i.ibb.co/gLTLcDm4/0002.jpg",
-        "cat": "Mirrors",
-        "mat": "Frame: Recycled Teak (Natural)\nMirror: 4mm Glass (Extra Clear)",
-        "sz": "Outer: W43\" x D1\" x H61\"",
-        "fld": "https://drive.google.com/drive/folders/184FpILaxT92dL4SdgYC9qih7Ds1uVSoM",
-        "des": "Hetvi Shah",
-        "dl": "21-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Vandan Patelʼs Bedroom Mirror ; Mirror in the walk-in wardrobe",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "102411",
-        "prod": "Orpheus",
-        "var": "Endear",
-        "url": "https://i.ibb.co/Txs88mcm/0002.jpg",
-        "cat": "Dressers",
-        "mat": "Structure: Teak Veneer (Natural)\nDrawer Fascia: 4mm Glass (Clear)\nPanel: Ply & Foam Upholstery (Fabric TBC)\nInternal Carcass: 16mm Plywood (SCS 9672)",
-        "sz": "Outer: W39.14\" x D18.94\" x H6\"",
-        "fld": "https://drive.google.com/drive/folders/1Rm8vr3v6rK-2OItKRD-wJ6bjPHrPhEQ2",
-        "des": "Hetvi Shah",
-        "dl": "12-Feb-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Daughter's Room Dressing Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "102411",
-        "prod": "Plateau",
-        "var": "Tanner",
-        "url": "https://i.ibb.co/hQHrWQ0/0002.jpg",
-        "cat": "Study Tables",
-        "mat": "Carcass: Teak Veneer (Natural)\nInternal Carcass: 16mm Plywood (SCS 9672)",
-        "sz": "Outer: W43\" x D18\" x H6\"",
-        "fld": "https://drive.google.com/drive/folders/1NHZ5Efhv3M9Kj53eQWIppIXJYT7rNOKx",
-        "des": "Hetvi Shah",
-        "dl": "22-Apr-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Daughter's Room Study Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "112411",
-        "prod": "Kizomba",
-        "var": "Macy",
-        "url": "https://i.ibb.co/XZtF7xHm/0001.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Mild Steel (RAL 7023 Concrete Grey)\nLegs: Mild Steel (RAL 5014 Pigeon Blue)\nLegs: Mild Steel (RAL 4007 Purple Violet)\nMounting: Mild Steel (RAL 7030 Grey Stone)\nMounting: Mild Steel (RAL 7040 Window Grey)\nMounting: Mild Steel (RAL 4009 Pastel Violet)",
-        "sz": "Outer: W108\" x D42\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1Rb3-izU35UJyJ67AqD02R8DOLbwWpQS9",
-        "des": "Dilip Jangir",
-        "dl": "11-Apr-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Dining Room Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "dining metal part fitting "
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "122415",
-        "prod": "Glowworm",
-        "var": "Hyde",
-        "url": "https://i.ibb.co/0V9SGQ4c/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Structure: Indian Teak (Suncity)\nDrawer: Indian Teak (Suncity)\nBase: Mild Steel (Black Powder Coat)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W26\" x D19\" x H25\"",
-        "fld": "https://drive.google.com/drive/folders/1N8Dli7HHMg3UToWGLHpZIopgmKyvitRp",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Master Bedroom Nightstand",
-        "v": {
-          "c": "10-Jul-2025",
-          "a": "",
-          "rm": "दराज बॉक्स को मेटल बेस के साथ फिक्स करें और बफर लगाएं, और हैंडल अभी खरीदें नहीं है 1,2 दिन में ख़रीदने के बाद वो भी लगने हे"
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      }
-    ],
-    "d_g_interior": [
-      {
-        "op": "042510",
-        "prod": "Briggan",
-        "var": "Grover",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
-        "cat": "Nightstands",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nCarcass: Leatherette (Warwick Lustrella Auro Fawn)\nInternal Carcass: 16mm Plywood (Welmica Laminates Mink 1321 SF)\nDrawer Fascia: Leatherette (Warwick Lustrella Auro Fawn)",
-        "sz": "Outer: W20\" x D20\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom -Nightstand",
-        "v": {
-          "c": "25-Sept-2025",
-          "a": "",
-          "rm": "construction and PU"
-        },
-        "vendorDisplayName": "D G INTERIOR"
-      }
-    ],
-    "deco_ply": [
-      {
-        "op": "042510",
-        "prod": "Briggan",
-        "var": "Grover",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
-        "cat": "Nightstands",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nCarcass: Leatherette (Warwick Lustrella Auro Fawn)\nInternal Carcass: 16mm Plywood (Welmica Laminates Mink 1321 SF)\nDrawer Fascia: Leatherette (Warwick Lustrella Auro Fawn)",
-        "sz": "Outer: W20\" x D20\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom -Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "2 Lam Sheet"
-        },
-        "vendorDisplayName": "Deco Ply"
       }
     ],
     "fs_sofa_legs": [
@@ -4365,6 +4323,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-19T05:38:38.845Z"
+    "timestamp": "2026-02-19T05:54:19.955Z"
   }
 }
