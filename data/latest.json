@@ -958,6 +958,27 @@
       },
       {
         "op": "022602",
+        "prod": "Darcy",
+        "var": "Carter",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: White Ash (Smoke Grey)",
+        "sz": "Outer: W41\" x D30\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1QXDjwKuLLKKee83Df_6ROAv5HW-Jh97p",
+        "des": "Hetvi Shah",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Metal supporter"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022602",
         "prod": "Facile",
         "var": "Ivy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260211_125809_172728_pasted_image_1770794910291.jpeg",
@@ -1699,6 +1720,27 @@
       },
       {
         "op": "022602",
+        "prod": "Darcy",
+        "var": "Carter",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: White Ash (Smoke Grey)",
+        "sz": "Outer: W41\" x D30\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1QXDjwKuLLKKee83Df_6ROAv5HW-Jh97p",
+        "des": "Hetvi Shah",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Base"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022602",
         "prod": "Facile",
         "var": "Ivy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260211_125809_172728_pasted_image_1770794910291.jpeg",
@@ -2037,6 +2079,27 @@
     "jain_marble": [
       {
         "op": "022602",
+        "prod": "Darcy",
+        "var": "Carter",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: White Ash (Smoke Grey)",
+        "sz": "Outer: W41\" x D30\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1QXDjwKuLLKKee83Df_6ROAv5HW-Jh97p",
+        "des": "Hetvi Shah",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Marble Work"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "022602",
         "prod": "Facile",
         "var": "Ivy",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260211_125809_172728_pasted_image_1770794910291.jpeg",
@@ -2205,6 +2268,27 @@
       }
     ],
     "nishant_cnc": [
+      {
+        "op": "022602",
+        "prod": "Darcy",
+        "var": "Carter",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: White Ash (Smoke Grey)",
+        "sz": "Outer: W41\" x D30\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1QXDjwKuLLKKee83Df_6ROAv5HW-Jh97p",
+        "des": "Hetvi Shah",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
       {
         "op": "022602",
         "prod": "Facile",
@@ -4449,6 +4533,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-20T05:22:26.665Z"
+    "timestamp": "2026-02-20T05:38:56.537Z"
   }
 }
