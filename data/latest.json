@@ -429,6 +429,48 @@
       },
       {
         "op": "022614",
+        "prod": "Alex",
+        "var": "Vitara",
+        "url": "https://i.ibb.co/r6w323K/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W84\" x D34\" x H31.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1mMAiDXpTjIazwqqFv4xwXs96drxni9iB",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/SJPj8cv/v02.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W31.5\" x D33.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/13kTairQVwYogufnO-X0gE2FT5kQlT2Nb",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022614",
         "prod": "Asperula",
         "var": "Bagel",
         "url": "https://i.ibb.co/wQ7yC4h/a0006IBB.jpg",
@@ -678,6 +720,48 @@
           "c": "08-Feb-2026",
           "a": "",
           "rm": "Teak Wood, Polish Vadodara"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Vitara",
+        "url": "https://i.ibb.co/r6w323K/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W84\" x D34\" x H31.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1mMAiDXpTjIazwqqFv4xwXs96drxni9iB",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/SJPj8cv/v02.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W31.5\" x D33.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/13kTairQVwYogufnO-X0gE2FT5kQlT2Nb",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -2545,6 +2629,48 @@
       }
     ],
     "krishna_furnitech_polish_only": [
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Vitara",
+        "url": "https://i.ibb.co/r6w323K/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W84\" x D34\" x H31.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1mMAiDXpTjIazwqqFv4xwXs96drxni9iB",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/SJPj8cv/v02.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W31.5\" x D33.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/13kTairQVwYogufnO-X0gE2FT5kQlT2Nb",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
       {
         "op": "022614",
         "prod": "Asperula",
@@ -4596,6 +4722,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-20T05:55:11.308Z"
+    "timestamp": "2026-02-20T06:07:26.163Z"
   }
 }
