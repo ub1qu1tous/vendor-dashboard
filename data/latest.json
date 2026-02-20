@@ -929,7 +929,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Veneer aur Laminate Hum bhejege\nMM to MM 2D k hisab se bnana hai\nPolish vadodara me hogi\nAndar ka glass shelf hum bnayege"
+          "rm": "Veneer aur Laminate Hum bhejege\nNiche Tiles ka skirting hai, Height: 75mm\nMM to MM 2D k hisab se bnana hai\nPolish vadodara me hogi\nAndar ka glass shelf hum bnayege"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       }
@@ -2034,6 +2034,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "122514",
+        "prod": "Venezia",
+        "var": "Warren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_150716_984680_pasted_image_1765791453970.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W18\" x D12\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1BqUR5ROtUPHy1OSM7JFY3IYjHl2BtxUp",
+        "des": "Hetvi Shah",
+        "dl": "07-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Sofa Side Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122518",
         "prod": "Steapa",
         "var": "Rawlins",
@@ -2265,6 +2286,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "122514",
+        "prod": "Venezia",
+        "var": "Warren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_150716_984680_pasted_image_1765791453970.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W18\" x D12\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1BqUR5ROtUPHy1OSM7JFY3IYjHl2BtxUp",
+        "des": "Hetvi Shah",
+        "dl": "07-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Sofa Side Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
       }
     ],
     "nishant_cnc": [
@@ -2348,6 +2390,27 @@
         "v": {
           "c": "04-Aug-2025",
           "a": "04-Aug-2025",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "122514",
+        "prod": "Venezia",
+        "var": "Warren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_150716_984680_pasted_image_1765791453970.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W18\" x D12\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1BqUR5ROtUPHy1OSM7JFY3IYjHl2BtxUp",
+        "des": "Hetvi Shah",
+        "dl": "07-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Sofa Side Table",
+        "v": {
+          "c": "",
+          "a": "",
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Nishant CNC"
@@ -4533,6 +4596,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-20T05:38:56.537Z"
+    "timestamp": "2026-02-20T05:55:11.308Z"
   }
 }
