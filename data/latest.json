@@ -808,6 +808,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "022615",
+        "prod": "Espana",
+        "var": "Java",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_185423_849627_pasted_image_1771334682611.png",
+        "cat": "Lamps",
+        "mat": "Structure: Sheesham (Black Matt)\nLamp Fitting: Blow Glass (White)",
+        "sz": "Outer: W10\" x D10\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/19-rq-dL8U0kWd_A9fja5aKVovT1wWIJ-",
+        "des": "Meet Patel",
+        "dl": "23-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "15-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "032522",
         "prod": "Amithi",
         "var": "Ethel",
@@ -2630,6 +2651,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "022615",
+        "prod": "Espana",
+        "var": "Java",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_185423_849627_pasted_image_1771334682611.png",
+        "cat": "Lamps",
+        "mat": "Structure: Sheesham (Black Matt)\nLamp Fitting: Blow Glass (White)",
+        "sz": "Outer: W10\" x D10\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/19-rq-dL8U0kWd_A9fja5aKVovT1wWIJ-",
+        "des": "Meet Patel",
+        "dl": "23-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black Matt"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "052306",
         "prod": "Dunes",
         "var": "Ibis",
@@ -4277,6 +4319,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-23T11:22:24.224Z"
+    "timestamp": "2026-02-23T11:37:30.468Z"
   }
 }
