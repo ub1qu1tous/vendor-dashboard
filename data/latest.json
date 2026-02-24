@@ -3435,27 +3435,6 @@
       },
       {
         "op": "082412",
-        "prod": "Peacock",
-        "var": "Crystal",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251104_155109_965553_pasted_image_1762251679326.png",
-        "cat": "Beds",
-        "mat": "Headboard: HDHMR (Finish TBC)\nFootboard: HDHMR (Finish TBC)\nMounting: Sheesham (Black Matt)\nMounting: White Oak (Natural)\nBed Slat Support: 12mm Plywood (SCS 0015)",
-        "sz": "Outer: W103\" x D81\" x H37\"\nMattress: W72\" x D78\" x H10\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1eVry2i92H7CLK83eAUsoJ9JTSzynA2Is",
-        "des": "Tanmay Shah",
-        "dl": "04-Nov-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Kids Bedroom",
-        "v": {
-          "c": "18-Jan-2026",
-          "a": "",
-          "rm": "Ply Size for Mattress: 1995x1835 MM\nWe'll send \"Black laminate\""
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "082412",
         "prod": "Ticknock",
         "var": "Wren",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
@@ -4256,6 +4235,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-24T06:38:49.129Z"
+    "timestamp": "2026-02-24T06:52:27.868Z"
   }
 }
