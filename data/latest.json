@@ -1421,27 +1421,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "082413",
-        "prod": "Thunderbolt",
-        "var": "Mili",
-        "url": "https://i.ibb.co/Sw34WdHF/0002.jpg",
-        "cat": "Media Consoles",
-        "mat": "Carcass: HDHMR (Black Matt PU)\nInternal Carcass: 16mm Plywood (SCS 0015)\nShutter: Oak Veneer (Natural)\nTop: Albester White Marble (Mirror Buffing)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Mild Steel (Black Powder Coat)\nDrawer: Oak Veneer (Natural)",
-        "sz": "Outer: W60\" x D16\" x H25.5\"",
-        "fld": "https://drive.google.com/drive/folders/1y3jc6OlA5cOW5WZPCbphk2TOXblZTJ7I",
-        "des": "Tanmay Shah",
-        "dl": "30-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
         "op": "102411",
         "prod": "Drakonis",
         "var": "Kiera",
@@ -4235,6 +4214,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-24T07:07:25.462Z"
+    "timestamp": "2026-02-24T07:23:43.260Z"
   }
 }
