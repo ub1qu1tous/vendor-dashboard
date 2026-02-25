@@ -253,7 +253,7 @@
         "v": {
           "c": "30-Jun-2025",
           "a": "",
-          "rm": "Black back painted glass, Edge polished"
+          "rm": "Black back painted glass, Edge polished\nProgress pause by client (Rajeshbhai)"
         },
         "vendorDisplayName": "AWS"
       },
@@ -3967,6 +3967,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "122526",
+        "prod": "Strand",
+        "var": "Rawlins",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nTop: Marble TBC (Mirror Buffing)\nDrawer Fascia: Sheesham (Black Distressed/Charcoal)\nDrawer Box: Oak Veneer (Finish TBC)\nDrawer Internal: 16mm Plywood (Finish TBC)\nSkirting: Stainless Steel 304 Gloss (Mirror Buffing)",
+        "sz": "Outer: W24\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
+        "des": "Tanmay Shah",
+        "dl": "01-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Marble Fitting"
+        },
+        "vendorDisplayName": "Chhoturam"
       }
     ],
     "siddhi_vinayak_marble": [
@@ -4298,6 +4319,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-25T08:52:23.113Z"
+    "timestamp": "2026-02-25T09:07:28.181Z"
   }
 }
