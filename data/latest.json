@@ -850,6 +850,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "022616",
+        "prod": "Malmo",
+        "var": "Deepa",
+        "url": "https://media.adorno.design/wp-content/uploads/2026/02/06190603/shopcasestudios.com-burned_wood_coffetable-2-800x1000.webp",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Black Distressed/Charcoal)\nBase: Stainless Steel 304 Matt (Matt Buffing)",
+        "sz": "Outer: W48\" x D24\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1Ju9WzPXpXzdVca7Rzsg9iaBDuov6dMIp",
+        "des": "Dilip Jangir",
+        "dl": "24-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "05-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "032522",
         "prod": "Amithi",
         "var": "Ethel",
@@ -2672,6 +2693,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "022616",
+        "prod": "Malmo",
+        "var": "Deepa",
+        "url": "https://media.adorno.design/wp-content/uploads/2026/02/06190603/shopcasestudios.com-burned_wood_coffetable-2-800x1000.webp",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Black Distressed/Charcoal)\nBase: Stainless Steel 304 Matt (Matt Buffing)",
+        "sz": "Outer: W48\" x D24\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1Ju9WzPXpXzdVca7Rzsg9iaBDuov6dMIp",
+        "des": "Dilip Jangir",
+        "dl": "24-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "06-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "022621",
         "prod": "Tauris",
         "var": "Cormac",
@@ -4340,6 +4382,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-27T07:22:32.272Z"
+    "timestamp": "2026-02-27T07:37:29.834Z"
   }
 }
