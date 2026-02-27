@@ -1272,27 +1272,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "112511",
-        "prod": "Pinson",
-        "var": "Lexia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_171452_043226_pasted_image_1766058306045.png",
-        "cat": "Media Consoles",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nCarcass: White Oak (Black Distressed/Charcoal)\nShutter: White Oak (Black Distressed/Charcoal)\nShelf: White Oak (Black Distressed/Charcoal)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72\" x D15\" x H19\"",
-        "fld": "https://drive.google.com/drive/folders/1D8EDr2ijM5-9EjZHstwgg3gK56ekdpB7",
-        "des": "Tanmay Shah",
-        "dl": "12-Dec-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "122504",
         "prod": "Bellami",
         "var": "Kos",
@@ -4382,6 +4361,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-27T09:52:26.908Z"
+    "timestamp": "2026-02-27T10:07:29.116Z"
   }
 }
