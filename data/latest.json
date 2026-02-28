@@ -153,6 +153,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "022619",
+        "prod": "Davis",
+        "var": "Iris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_181748_856795_pasted_image_1770641296253.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Mild Steel (Grey Powder Coat)\nMembrane: Canvas Upholstery (Bukatti Jade No 01)\n2 Cushions: Foam Upholstery (Jackpot Colour: M804)",
+        "sz": "Outer: W23.1\" x D26\" x H32.4\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1d2ZIKxFJbaE0QxlJTPe9ndGyi9pRi1-9?usp=sharing",
+        "des": "Parth Gada",
+        "dl": "20-Dec-2022",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "042510",
         "prod": "Briggan",
         "var": "Grover",
@@ -338,27 +359,6 @@
           "c": "",
           "a": "",
           "rm": "3 tops and 1 frames ready, make one"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "022619",
-        "prod": "Davis",
-        "var": "Iris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_181748_856795_pasted_image_1770641296253.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Mild Steel (Grey Powder Coat)\nMembrane: Canvas Upholstery (Bukatti Jade No 01)\n2 Cushions: Foam Upholstery (Jackpot Colour: M804)",
-        "sz": "Outer: W23.1\" x D26\" x H32.4\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1d2ZIKxFJbaE0QxlJTPe9ndGyi9pRi1-9?usp=sharing",
-        "des": "Parth Gada",
-        "dl": "20-Dec-2022",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
       }
@@ -4403,6 +4403,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-28T13:37:30.165Z"
+    "timestamp": "2026-02-28T13:53:08.303Z"
   }
 }
