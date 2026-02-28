@@ -1252,6 +1252,27 @@
       },
       {
         "op": "062509",
+        "prod": "Chevara",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260121_123930_606235_Screenshot_2026-01-21_123856.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabricare Comfort IV SRN 420)\nBase: Mild Steel (ICA VMA3020 + SFCA)\nSupport: Black Veneer (Black Matt)",
+        "sz": "Outer: W60\" x D21\" x H17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1mko30ckNpYjdtZRqdltf9gL5Qf1MqQij",
+        "des": "Hetvi Shah",
+        "dl": "15-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Bench",
+        "v": {
+          "c": "10-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
         "prod": "Dupont",
         "var": "Fedora",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
@@ -3990,6 +4011,27 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
+        "op": "062509",
+        "prod": "Chevara",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260121_123930_606235_Screenshot_2026-01-21_123856.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabricare Comfort IV SRN 420)\nBase: Mild Steel (ICA VMA3020 + SFCA)\nSupport: Black Veneer (Black Matt)",
+        "sz": "Outer: W60\" x D21\" x H17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1mko30ckNpYjdtZRqdltf9gL5Qf1MqQij",
+        "des": "Hetvi Shah",
+        "dl": "15-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Bench",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
         "op": "092522",
         "prod": "Avocado",
         "var": "Iris",
@@ -4382,6 +4424,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-28T07:07:30.312Z"
+    "timestamp": "2026-02-28T07:22:30.611Z"
   }
 }
