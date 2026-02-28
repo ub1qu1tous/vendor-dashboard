@@ -1230,6 +1230,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "052508",
+        "prod": "Portulaca",
+        "var": "Sania",
+        "url": "https://i.ibb.co/7tYJWvn/Sania-3.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W24\" x D24\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1aYDQrvZJaG1ldcxPeFcwhRRDiZ4tppO1",
+        "des": "Hetvi Shah",
+        "dl": "22-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "10-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "062509",
         "prod": "Dupont",
         "var": "Fedora",
@@ -1925,6 +1946,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052508",
+        "prod": "Portulaca",
+        "var": "Sania",
+        "url": "https://i.ibb.co/7tYJWvn/Sania-3.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W24\" x D24\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1aYDQrvZJaG1ldcxPeFcwhRRDiZ4tppO1",
+        "des": "Hetvi Shah",
+        "dl": "22-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Frame bhejege, uske upar top cut to cut bnake screw krke dijiyega.\nHum yaha top nikalke Powdercoat krva dege."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3757,6 +3799,27 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
+        "op": "052508",
+        "prod": "Portulaca",
+        "var": "Sania",
+        "url": "https://i.ibb.co/7tYJWvn/Sania-3.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W24\" x D24\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1aYDQrvZJaG1ldcxPeFcwhRRDiZ4tppO1",
+        "des": "Hetvi Shah",
+        "dl": "22-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
         "op": "062509",
         "prod": "Dupont",
         "var": "Fedora",
@@ -4319,6 +4382,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-28T06:52:24.469Z"
+    "timestamp": "2026-02-28T07:07:30.312Z"
   }
 }
