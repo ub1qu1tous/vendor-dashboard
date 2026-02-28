@@ -2118,27 +2118,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "122503",
-        "prod": "Bayts",
-        "var": "Baltic",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251209_111712_854219_pasted_image_1765259246267.png",
-        "cat": "Console Tables",
-        "mat": "Carcass: 16mm Plywood (Merino 40214 Sky Marble)\nInternal Carcass: 16mm Plywood (Deluxe-100 Gothic Grey)\nLegs: White Oak (Smoke Grey)\nKnobs: White Oak (Smoke Grey)",
-        "sz": "Outer: W78\" x D15\" x H39\"",
-        "fld": "https://drive.google.com/drive/folders/1sFrcT-rLod1x26lMp6uNV_iIeaszJgsJ",
-        "des": "Tanmay Shah",
-        "dl": "15-Dec-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "Without Marble Top",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Oak wood Knobs and Leg"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "122514",
         "prod": "Venezia",
         "var": "Warren",
@@ -4424,6 +4403,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-02-28T07:52:28.023Z"
+    "timestamp": "2026-02-28T08:07:25.048Z"
   }
 }
