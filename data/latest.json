@@ -2034,27 +2034,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "082520",
-        "prod": "Dolphins",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250918_175729_032653_Screenshot_2025-09-17_150242.png",
-        "cat": "Dining Tables",
-        "mat": "Top: White Ash (Black Matt)\nBase: White Ash (Black Matt)",
-        "sz": "Outer: W72\" x D47\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1w4uvYmKmiQ_41JnopaRVNJtiPLDb2Wsx",
-        "des": "Parthsarthi Suthar",
-        "dl": "29-Oct-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "092518",
         "prod": "Steapa",
         "var": "Rawlins",
@@ -4340,6 +4319,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-01T05:40:27.372Z"
+    "timestamp": "2026-03-01T05:52:25.808Z"
   }
 }
