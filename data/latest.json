@@ -1456,7 +1456,7 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom (FF) Accent Table",
         "v": {
-          "c": "",
+          "c": "05-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1985,7 +1985,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "10-Mar-2026",
           "a": "",
           "rm": "Frame bhejege, uske upar top cut to cut bnake screw krke dijiyega.\nHum yaha top nikalke Powdercoat krva dege."
         },
@@ -2135,27 +2135,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122518",
-        "prod": "Steapa",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: 10mm Glass (Brown Tinted)\nMounting: Sheesham (Jacobean)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nBase: Green Lavante (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
-        "des": "Parth Gada",
-        "dl": "20-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "470MM\nDnut aek side\nSheesham\nJacobean"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3813,7 +3792,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "11-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3921,27 +3900,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "122518",
-        "prod": "Zakef",
-        "var": "Accuris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260218_153157_336860_Screenshot_2026-02-18_152713.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W11\" x D16\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1TPlcQ2p_hY6ea-x8FVMvZKpc5vH_hpZF",
-        "des": "Dilip Jangir",
-        "dl": "06-Jan-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -4355,27 +4313,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122518",
-        "prod": "Zakef",
-        "var": "Accuris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260218_153157_336860_Screenshot_2026-02-18_152713.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W11\" x D16\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1TPlcQ2p_hY6ea-x8FVMvZKpc5vH_hpZF",
-        "des": "Dilip Jangir",
-        "dl": "06-Jan-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "06-Jan-2026",
-          "a": "",
-          "rm": "laser cutting bending buffing"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "shital_glass": [
@@ -4403,6 +4340,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-01T05:22:30.134Z"
+    "timestamp": "2026-03-01T05:40:27.372Z"
   }
 }
