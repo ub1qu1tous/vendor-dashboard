@@ -575,6 +575,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "062509",
+        "prod": "Dubber",
+        "var": "Novak",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "072515",
         "prod": "Glint",
         "var": "Cello",
@@ -1266,6 +1287,27 @@
         "cr": "Living Room Bench",
         "v": {
           "c": "10-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Dubber",
+        "var": "Novak",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Bed",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2494,6 +2536,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "062509",
+        "prod": "Dubber",
+        "var": "Novak",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Bed",
         "v": {
           "c": "",
           "a": "",
@@ -3779,6 +3842,27 @@
       },
       {
         "op": "062509",
+        "prod": "Dubber",
+        "var": "Novak",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062509",
         "prod": "Dupont",
         "var": "Fedora",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
@@ -4319,6 +4403,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-01T13:22:27.009Z"
+    "timestamp": "2026-03-01T13:37:30.752Z"
   }
 }
