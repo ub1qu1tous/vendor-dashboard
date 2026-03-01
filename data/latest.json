@@ -1307,7 +1307,7 @@
         "pm": "Maulik Parmar",
         "cr": "Daughter Bedroom Bed",
         "v": {
-          "c": "",
+          "c": "08-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1329,6 +1329,27 @@
         "cr": "Master Bedroom (FF) Accent Table",
         "v": {
           "c": "06-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Orovia",
+        "var": "Noel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_180833_872345_Screenshot_2026-02-10_180745.png",
+        "cat": "Nightstands",
+        "mat": "Top: HDHMR (White PU)\nMounting: Mild Steel (White Powder Coat)\nCarcass: HDHMR (White PU)\nInternal Carcass: HDHMR (Finish TBC)\nSupport: Mild Steel (White Powder Coat)\nBase: Marble TBC (Finish TBC)",
+        "sz": "Outer: W16\" x D16\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1sqNL_09NNGR8huhN-7Vv773QAwi7Tytw",
+        "des": "Tanmay Shah",
+        "dl": "01-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Nightstand",
+        "v": {
+          "c": "10-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4032,6 +4053,27 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
+        "op": "062509",
+        "prod": "Orovia",
+        "var": "Noel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_180833_872345_Screenshot_2026-02-10_180745.png",
+        "cat": "Nightstands",
+        "mat": "Top: HDHMR (White PU)\nMounting: Mild Steel (White Powder Coat)\nCarcass: HDHMR (White PU)\nInternal Carcass: HDHMR (Finish TBC)\nSupport: Mild Steel (White Powder Coat)\nBase: Marble TBC (Finish TBC)",
+        "sz": "Outer: W16\" x D16\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1sqNL_09NNGR8huhN-7Vv773QAwi7Tytw",
+        "des": "Tanmay Shah",
+        "dl": "01-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
         "op": "092522",
         "prod": "Avocado",
         "var": "Iris",
@@ -4403,6 +4445,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-01T13:37:30.752Z"
+    "timestamp": "2026-03-01T13:52:27.899Z"
   }
 }
