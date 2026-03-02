@@ -1121,6 +1121,27 @@
           "rm": "Clean Oak Wood me bnana hai, Knot-less, Cnc vadodara ma karege"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122514",
+        "prod": "Soohoo",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260227_200227_852706_123.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Carcass: Oak Veneer (Natural)\nShutter: Oak Veneer (Natural)\nInternal Carcass: Laminate (Oak Laminate)\nShelf: 8mm Glass (Clear)",
+        "sz": "Outer: W18\" x D22\" x H27\"\nCube: W18\" x D16.33\" x H21.15\"",
+        "fld": "https://drive.google.com/drive/folders/1O3_PRhMoXtjDbCfw8M4mpBnu36ReeAUe",
+        "des": "Hetvi Shah",
+        "dl": "27-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Small Bar Case",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Hinge Final krke Kam shuru kariyega\nVeneer k Grains aade  aayege\nNiche skirting hai, Height: 75mm. Skirting me aage Tile aayegi uske liye 20 MM jagah chhodi hai.\nMM to MM 2D k hisab se bnana hai\nPolish vadodara me hogi\nAndar ka glass shelf hum bnvayege"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "arbuda_metal": [
@@ -2284,6 +2305,48 @@
           "c": "",
           "a": "",
           "rm": "marble work"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "062509",
+        "prod": "Artaine",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_150502_793354_pasted_image_1765964117581.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Black Veneer (Black Matt)\nBase: HDHMR (ICA VMA3020 + SFCA)\nSupport: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W25\" x D38\" x H11\"\nAccent: W15.2\" x D36.7\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1hgGJRwVt7SaenvLHG47fzJxb6DsALgVD",
+        "des": "Hetvi Shah",
+        "dl": "28-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Coffee Table Set",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Jain Marble"
+      },
+      {
+        "op": "062509",
+        "prod": "Aviva",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151250_977525_pasted_image_1765964586668.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W17\" x D17\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1X6MngZQEd2XAIr7kPIQldWgIq9mt7Aur",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Accent Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Jain Marble"
       },
@@ -3772,6 +3835,48 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "062509",
+        "prod": "Artaine",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_150502_793354_pasted_image_1765964117581.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Black Veneer (Black Matt)\nBase: HDHMR (ICA VMA3020 + SFCA)\nSupport: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W25\" x D38\" x H11\"\nAccent: W15.2\" x D36.7\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1hgGJRwVt7SaenvLHG47fzJxb6DsALgVD",
+        "des": "Hetvi Shah",
+        "dl": "28-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Coffee Table Set",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Base ICA Gold \nand Top's bottom and border in ICA Gold "
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Aviva",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151250_977525_pasted_image_1765964586668.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W17\" x D17\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1X6MngZQEd2XAIr7kPIQldWgIq9mt7Aur",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Accent Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Base Gold"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082412",
         "prod": "Ticknock",
         "var": "Wren",
@@ -4112,6 +4217,48 @@
           "c": "",
           "a": "",
           "rm": "Fitting of Knob and Buffer"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "062509",
+        "prod": "Artaine",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_150502_793354_pasted_image_1765964117581.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Black Veneer (Black Matt)\nBase: HDHMR (ICA VMA3020 + SFCA)\nSupport: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W25\" x D38\" x H11\"\nAccent: W15.2\" x D36.7\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1hgGJRwVt7SaenvLHG47fzJxb6DsALgVD",
+        "des": "Hetvi Shah",
+        "dl": "28-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Coffee Table Set",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "062509",
+        "prod": "Aviva",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151250_977525_pasted_image_1765964586668.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W17\" x D17\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1X6MngZQEd2XAIr7kPIQldWgIq9mt7Aur",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Accent Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Chhoturam"
       },
@@ -4525,10 +4672,31 @@
           "rm": "Cappuccino 8655 (Paint)10mm Glass "
         },
         "vendorDisplayName": "Shital Glass"
+      },
+      {
+        "op": "122514",
+        "prod": "Soohoo",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260227_200227_852706_123.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Carcass: Oak Veneer (Natural)\nShutter: Oak Veneer (Natural)\nInternal Carcass: Laminate (Oak Laminate)\nShelf: 8mm Glass (Clear)",
+        "sz": "Outer: W18\" x D22\" x H27\"\nCube: W18\" x D16.33\" x H21.15\"",
+        "fld": "https://drive.google.com/drive/folders/1O3_PRhMoXtjDbCfw8M4mpBnu36ReeAUe",
+        "des": "Hetvi Shah",
+        "dl": "27-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Small Bar Case",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "8 MM Clear Glass"
+        },
+        "vendorDisplayName": "Shital Glass"
       }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-02T06:37:30.794Z"
+    "timestamp": "2026-03-02T06:53:12.910Z"
   }
 }
