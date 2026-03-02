@@ -808,6 +808,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "012624",
+        "prod": "Cordia",
+        "var": "Nycia",
+        "url": "https://i.ibb.co/ssBCVWP/z-1.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nFrame: Mild Steel (Black Powder Coat)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W17\" x D17\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1E7icaKxWihJjiI4rAXDu8Fp9vr91atfP",
+        "des": "Tarishi Rathore",
+        "dl": "02-Mar-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "sheesham top"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "022614",
         "prod": "Alex",
         "var": "Kiera",
@@ -4781,6 +4802,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-02T07:37:29.683Z"
+    "timestamp": "2026-03-02T08:01:21.928Z"
   }
 }
