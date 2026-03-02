@@ -596,6 +596,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "062509",
+        "prod": "Eduardia",
+        "var": "Koan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
+        "cat": "Ottomans",
+        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W16\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Ottoman",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "072515",
         "prod": "Glint",
         "var": "Cello",
@@ -2712,6 +2733,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "062509",
+        "prod": "Eduardia",
+        "var": "Koan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
+        "cat": "Ottomans",
+        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W16\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Ottoman",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "072420",
         "prod": "Lumen",
         "var": "Terrano",
@@ -4285,6 +4327,27 @@
       },
       {
         "op": "062509",
+        "prod": "Eduardia",
+        "var": "Koan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
+        "cat": "Ottomans",
+        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W16\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Ottoman",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "062509",
         "prod": "Orovia",
         "var": "Noel",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260210_180833_872345_Screenshot_2026-02-10_180745.png",
@@ -4697,6 +4760,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-02T06:53:12.910Z"
+    "timestamp": "2026-03-02T07:08:56.867Z"
   }
 }
