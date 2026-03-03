@@ -892,27 +892,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "022615",
-        "prod": "Espana",
-        "var": "Java",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_185423_849627_pasted_image_1771334682611.png",
-        "cat": "Lamps",
-        "mat": "Structure: Sheesham (Black Matt)\nLamp Fitting: Blow Glass (White)",
-        "sz": "Outer: W10\" x D10\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/19-rq-dL8U0kWd_A9fja5aKVovT1wWIJ-",
-        "des": "Meet Patel",
-        "dl": "23-Feb-2026",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "15-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "022616",
         "prod": "Malmo",
         "var": "Deepa",
@@ -2097,27 +2076,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
-        "op": "022615",
-        "prod": "Espana",
-        "var": "Java",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_185423_849627_pasted_image_1771334682611.png",
-        "cat": "Lamps",
-        "mat": "Structure: Sheesham (Black Matt)\nLamp Fitting: Blow Glass (White)",
-        "sz": "Outer: W10\" x D10\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/19-rq-dL8U0kWd_A9fja5aKVovT1wWIJ-",
-        "des": "Meet Patel",
-        "dl": "23-Feb-2026",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black Matt"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
         "op": "022616",
         "prod": "Malmo",
         "var": "Deepa",
@@ -2261,27 +2219,6 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "black matt"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
-      },
-      {
-        "op": "122532",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "06-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
@@ -5142,6 +5079,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-03T04:09:44.770Z"
+    "timestamp": "2026-03-03T04:22:25.984Z"
   }
 }
