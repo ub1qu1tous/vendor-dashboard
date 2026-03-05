@@ -1627,6 +1627,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122523",
+        "prod": "Maylene",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
+        "des": "Parth Gada",
+        "dl": "10-Jun-2023",
+        "q": 20,
+        "pm": "Dilip Jangir",
+        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
+        "v": {
+          "c": "15-Mar-2026",
+          "a": "",
+          "rm": "Need one sample without handle, then after 19 chair in ss"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "manish_marble_jaipur": [
@@ -5016,6 +5037,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-05T11:07:33.108Z"
+    "timestamp": "2026-03-05T11:22:29.938Z"
   }
 }
