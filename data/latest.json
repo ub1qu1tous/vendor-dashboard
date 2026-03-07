@@ -934,6 +934,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "022620",
+        "prod": "Juniper",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260307_131626_154886_0004.jpg",
+        "cat": "Daybeds",
+        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
+        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
+        "des": "Hetvi Shah",
+        "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-Mar-2026",
+          "a": "",
+          "rm": "OAK WOOD"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "032522",
         "prod": "Amithi",
         "var": "Ethel",
@@ -3917,6 +3938,29 @@
         "vendorDisplayName": "The Art Room"
       }
     ],
+    "demodes": [
+      {
+        "op": "022620",
+        "prod": "Juniper",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260307_131626_154886_0004.jpg",
+        "cat": "Daybeds",
+        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
+        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
+        "des": "Hetvi Shah",
+        "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "RECEIVED , KEPT BEHIND PRODUCTION ROOM SOFA"
+        },
+        "vendorDisplayName": "Demodes"
+      }
+    ],
     "kamlesh_jangid": [
       {
         "op": "032507",
@@ -5289,6 +5333,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-07T15:07:22.373Z"
+    "timestamp": "2026-03-07T15:22:24.921Z"
   }
 }
