@@ -1356,6 +1356,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "012624",
+        "prod": "Dorothy",
+        "var": "Typex",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_174742_416152_pasted_image_1772281077812.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/16L4eWjz3nfFCMYRGBWsGrxA3oTVPdeKC",
+        "des": "Dilip Jangir",
+        "dl": "08-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "For top Marble work in Client scope: MDF support and it’s fixing in Aws scope",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "metal part welding"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "022602",
         "prod": "Darcy",
         "var": "Carter",
@@ -2727,6 +2748,92 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
+      }
+    ],
+    "aarti_steel": [
+      {
+        "op": "012624",
+        "prod": "Dorothy",
+        "var": "Typex",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_174742_416152_pasted_image_1772281077812.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/16L4eWjz3nfFCMYRGBWsGrxA3oTVPdeKC",
+        "des": "Dilip Jangir",
+        "dl": "08-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "For top Marble work in Client scope: MDF support and it’s fixing in Aws scope",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "laser-cut in ms"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Frame: Mild Steel (Finish TBC)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Feb-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "122504",
+        "prod": "Lorilay",
+        "var": "Gold",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W19\" x D19\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "122504",
+        "prod": "Siaran",
+        "var": "Drake",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172746_679927_pasted_image_1767700682809.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (ICA VMA3040 + SFCA)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W39\" x D39\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1TN9TuFGoJhNtrxOjVm2gxKRx4_d7ULTJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "20-Feb-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "krishna_furnitech": [
@@ -5285,71 +5392,6 @@
         "vendorDisplayName": "Lalji Handicrafts"
       }
     ],
-    "aarti_steel": [
-      {
-        "op": "122504",
-        "prod": "Lars",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
-        "cat": "Accent Tables",
-        "mat": "Frame: Mild Steel (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "25-Feb-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122504",
-        "prod": "Lorilay",
-        "var": "Gold",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122504",
-        "prod": "Siaran",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172746_679927_pasted_image_1767700682809.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (ICA VMA3040 + SFCA)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W39\" x D39\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1TN9TuFGoJhNtrxOjVm2gxKRx4_d7ULTJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "20-Feb-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      }
-    ],
     "shital_glass": [
       {
         "op": "122504",
@@ -5396,6 +5438,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-08T06:37:23.501Z"
+    "timestamp": "2026-03-08T06:52:26.709Z"
   }
 }
