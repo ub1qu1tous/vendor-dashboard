@@ -408,6 +408,27 @@
       },
       {
         "op": "022613",
+        "prod": "Blinkist",
+        "var": "Dahlia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_151331_952677_WhatsApp_Image_2026-02-14_at_14_02_54.jpeg",
+        "cat": "Ottomans",
+        "mat": "Structure: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W18\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1BVRE9gfogmMbMNcws2RSnZAd8r4w0tvT",
+        "des": "Dilip Jangir",
+        "dl": "08-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "1 Mtr",
+        "v": {
+          "c": "14-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022613",
         "prod": "Trevis",
         "var": "Cenric",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260305_162822_940305_pasted_image_1772708329122.png",
@@ -421,7 +442,7 @@
         "pm": "Dilip Jangir",
         "cr": "1 Mtr",
         "v": {
-          "c": "",
+          "c": "14-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -823,6 +844,27 @@
         "cr": "",
         "v": {
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022613",
+        "prod": "Blinkist",
+        "var": "Dahlia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_151331_952677_WhatsApp_Image_2026-02-14_at_14_02_54.jpeg",
+        "cat": "Ottomans",
+        "mat": "Structure: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W18\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1BVRE9gfogmMbMNcws2RSnZAd8r4w0tvT",
+        "des": "Dilip Jangir",
+        "dl": "08-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "1 Mtr",
+        "v": {
+          "c": "10-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3578,6 +3620,27 @@
     "clientfabric": [
       {
         "op": "022613",
+        "prod": "Blinkist",
+        "var": "Dahlia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_151331_952677_WhatsApp_Image_2026-02-14_at_14_02_54.jpeg",
+        "cat": "Ottomans",
+        "mat": "Structure: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W18\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1BVRE9gfogmMbMNcws2RSnZAd8r4w0tvT",
+        "des": "Dilip Jangir",
+        "dl": "08-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "1 Mtr",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "022613",
         "prod": "Trevis",
         "var": "Cenric",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260305_162822_940305_pasted_image_1772708329122.png",
@@ -5333,6 +5396,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-08T04:52:22.539Z"
+    "timestamp": "2026-03-08T05:07:28.745Z"
   }
 }
