@@ -1249,27 +1249,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "062509",
-        "prod": "Wicklow",
-        "var": "Nested",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_113934_019524_Screenshot_2026-02-14_113648.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: HDHMR (Black Matt PU)\nDrawer Fascia: Fluted HDHMR (Black Matt PU)\nDrawer Fascia: Marble TBC (Finish TBC)\nDrawer Internal: Laminate (Finish TBC)\nHandle: Mild Steel (Black Powder Coat)\nMounting: Leather Strap (Fabric TBC)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W60\" x D18\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1wztWQ_FgIAoKWoSWG3tRHtebTD64GPDl",
-        "des": "Tanmay Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Media Console",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "122504",
         "prod": "Bellami",
         "var": "Kos",
@@ -1687,9 +1666,9 @@
         "pm": "Maulik Parmar",
         "cr": "Son Bedroom Media Console",
         "v": {
-          "c": "",
+          "c": "17-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "gold matt pvd"
         },
         "vendorDisplayName": "Surat PVD"
       },
@@ -6030,6 +6009,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-15T08:22:25.510Z"
+    "timestamp": "2026-03-15T08:37:23.679Z"
   }
 }
