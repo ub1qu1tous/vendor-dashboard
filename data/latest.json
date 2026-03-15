@@ -955,6 +955,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "022620",
+        "prod": "Juniper",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
+        "cat": "Daybeds",
+        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
+        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
+        "des": "Hetvi Shah",
+        "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "16-Mar-2026",
+          "a": "",
+          "rm": "welding work, laser-cut from aarti"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "052508",
         "prod": "Canetta",
         "var": "Dyson",
@@ -1201,27 +1222,6 @@
         "cr": "Daughter Bedroom Mirror",
         "v": {
           "c": "15-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Marino",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_153413_360946_pasted_image_1766052267225.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W30\" x D1.5\" x H78\"",
-        "fld": "https://drive.google.com/drive/folders/1_KI_E7CAvhlpVLWYIhEBdkGX0HqKwdq0",
-        "des": "Dilip Jangir",
-        "dl": "01-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Mirror",
-        "v": {
-          "c": "10-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2788,6 +2788,27 @@
           "c": "11-Mar-2026",
           "a": "",
           "rm": "black matt"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "022620",
+        "prod": "Juniper",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
+        "cat": "Daybeds",
+        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
+        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
+        "des": "Hetvi Shah",
+        "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "16-Mar-2026",
+          "a": "",
+          "rm": "black matt powdercoat"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -6009,6 +6030,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-15T08:07:21.244Z"
+    "timestamp": "2026-03-15T08:22:25.510Z"
   }
 }
