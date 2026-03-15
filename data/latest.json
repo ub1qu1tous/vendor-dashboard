@@ -1334,27 +1334,6 @@
       },
       {
         "op": "122504",
-        "prod": "Lars",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
-        "cat": "Accent Tables",
-        "mat": "Frame: Mild Steel (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
         "prod": "Passini",
         "var": "Fynn",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
@@ -3105,48 +3084,6 @@
           "c": "09-Mar-2026",
           "a": "",
           "rm": "laser-cut in ms"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122504",
-        "prod": "Lars",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
-        "cat": "Accent Tables",
-        "mat": "Frame: Mild Steel (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "25-Feb-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122504",
-        "prod": "Lorilay",
-        "var": "Gold",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_170006_202023_pasted_image_1767699022481.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1reQiN3mezMM8oLDTrqomDYHrNKmyeGD1",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
       },
@@ -6072,6 +6009,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-15T06:52:28.604Z"
+    "timestamp": "2026-03-15T07:07:36.214Z"
   }
 }
