@@ -1398,6 +1398,27 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
+        "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
         "op": "072515",
         "prod": "Nolvera",
         "var": "Tyler",
@@ -2096,6 +2117,27 @@
       },
       {
         "op": "062509",
+        "prod": "Friston",
+        "var": "Jet",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260207_112642_155497_pasted_image_1770443824672.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer: Laminate (Finish TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22.5\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1i9CKQRk-5Bxc7RIVJ-i2ZmEMTcNFrZaJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Nightstand",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
         "prod": "Parnell",
         "var": "Brida",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260210_183805_241988_pasted_image_1770728907549.png",
@@ -2429,6 +2471,27 @@
           "c": "",
           "a": "",
           "rm": "black matt 2 base only polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "062509",
+        "prod": "Friston",
+        "var": "Jet",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260207_112642_155497_pasted_image_1770443824672.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer: Laminate (Finish TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22.5\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1i9CKQRk-5Bxc7RIVJ-i2ZmEMTcNFrZaJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
@@ -5166,6 +5229,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082412",
         "prod": "Ticknock",
         "var": "Wren",
@@ -5820,6 +5904,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-15T16:55:21.579Z"
+    "timestamp": "2026-03-15T17:10:19.733Z"
   }
 }
