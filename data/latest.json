@@ -4230,27 +4230,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "082525",
-        "prod": "Citadel",
-        "var": "Drake",
-        "url": "https://i.ibb.co/QmBQkMQ/Screenshot-2024-11-14-182134.png",
-        "cat": "Swings",
-        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1SFv_8hth8TZ6eb7UVjdFQL1vBwk1L9X-",
-        "des": "Hetvi Shah",
-        "dl": "25-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Carmine",
@@ -6198,6 +6177,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-16T18:37:24.284Z"
+    "timestamp": "2026-03-16T18:52:22.947Z"
   }
 }
