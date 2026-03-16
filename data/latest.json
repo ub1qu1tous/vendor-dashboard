@@ -2216,7 +2216,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "1 Marble fascia vala drawer hai vo Fascia hum dege, Uske bad hi Drawer bnaye."
+          "rm": "Drawer Fascias me rounding hai, to internal vartical thickness aese bnana k fascia lagne k bad samne se gap na dikhe.\n1 Marble fascia vala drawer hai vo Fascia hum dege, Uske bad hi vo vala single Drawer bnaye."
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3275,6 +3275,27 @@
         "cr": "Multipurpose Hall",
         "v": {
           "c": "15-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022601",
+        "prod": "Pluto",
+        "var": "Millia",
+        "url": "https://i.ibb.co/fd0JdJT/a0002.jpg",
+        "cat": "Benches",
+        "mat": "Frame: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W41\" x D23\" x H20\"\nSeat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1TNIOYu_rzzvwvn38VYBGuwj7afpjjghM",
+        "des": "Readymade",
+        "dl": "16-Mar-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5967,6 +5988,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-16T08:08:16.862Z"
+    "timestamp": "2026-03-16T08:22:49.783Z"
   }
 }
