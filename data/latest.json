@@ -2240,27 +2240,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122504",
-        "prod": "Leeor",
-        "var": "Rust",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_180931_521667_pasted_image_1768912790010.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Sheesham (Black Matt)\nLegs: HDHMR (Milan red 8101)",
-        "sz": "Outer: W90\" x D45\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1ZyF_SDlJTLzgSXL19bkZsPRnZkFbxVj0",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Marble (Bassi Granite ) Top + Base in HDHMR"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "krishna_furnitech_polish_only": [
@@ -5967,6 +5946,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-16T06:37:33.247Z"
+    "timestamp": "2026-03-16T06:52:38.121Z"
   }
 }
