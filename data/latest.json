@@ -1380,7 +1380,7 @@
         "var": "Puma",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Bottled Grape 8102)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
         "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
         "des": "Hetvi Shah",
@@ -1401,7 +1401,7 @@
         "var": "Vama",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
         "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
         "des": "Hetvi Shah",
@@ -5570,7 +5570,7 @@
         "var": "Puma",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Bottled Grape 8102)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
         "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
         "des": "Hetvi Shah",
@@ -5591,7 +5591,7 @@
         "var": "Vama",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
         "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
         "des": "Hetvi Shah",
@@ -6324,6 +6324,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-17T10:22:37.138Z"
+    "timestamp": "2026-03-17T10:37:29.228Z"
   }
 }
