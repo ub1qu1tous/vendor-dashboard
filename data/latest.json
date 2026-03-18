@@ -1137,7 +1137,7 @@
         "pm": "Maulik Parmar",
         "cr": "Dining table top and chair structure have the same finish\n",
         "v": {
-          "c": "",
+          "c": "28-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1990,27 +1990,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "012624",
-        "prod": "Darcy",
-        "var": "Basque",
-        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
-        "sz": "Outer: W41\" x D30\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
-        "des": "Parth Gada",
-        "dl": "02-Jul-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "20-Mar-2026",
-          "a": "",
-          "rm": "only base wood grains should be like image no patches no grey lines"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "022613",
         "prod": "Blinkist",
         "var": "Dahlia",
@@ -2538,6 +2517,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       },
       {
+        "op": "012624",
+        "prod": "Darcy",
+        "var": "Basque",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
+        "sz": "Outer: W41\" x D30\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
+        "des": "Parth Gada",
+        "dl": "02-Jul-2023",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
         "op": "022613",
         "prod": "Trevis",
         "var": "Cenric",
@@ -2891,6 +2891,27 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "black matt"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "122504",
+        "prod": "Jawhead",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Finish TBC)\nBolster: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W42\" x D17\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "27-Mar-2026",
+          "a": "",
+          "rm": "black matt "
         },
         "vendorDisplayName": "Krishna Furnitech - Polish Only"
       }
@@ -3296,286 +3317,28 @@
         "vendorDisplayName": "Royal Powder Coat"
       }
     ],
-    "nishant_cnc": [
-      {
-        "op": "012624",
-        "prod": "Darcy",
-        "var": "Basque",
-        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
-        "sz": "Outer: W41\" x D30\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
-        "des": "Parth Gada",
-        "dl": "02-Jul-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "cnc top "
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "022602",
-        "prod": "Darcy",
-        "var": "Carter",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260225_131024_018671_pasted_image_1772005244230.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Lassa White (Mirror Buffing)\nBase: White Oak (Smoke Grey)",
-        "sz": "Outer: W41\" x D30\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1QXDjwKuLLKKee83Df_6ROAv5HW-Jh97p",
-        "des": "Hetvi Shah",
-        "dl": "17-Feb-2026",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "022602",
-        "prod": "Facile",
-        "var": "Ivy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260302_110824_419370_pasted_image_1772429930544.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Lassa White (Mirror Buffing)\nLegs: White Oak (Smoke Grey)",
-        "sz": "Outer: W78\" x D38\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1-5ikk2T9xZmBinPT3yw4wr3Iv7edH6nO",
-        "des": "Hetvi Shah",
-        "dl": "16-Feb-2026",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "062505",
-        "prod": "Bower",
-        "var": "Vesper",
-        "url": "https://i.ibb.co/K5k6Cvq/v02-1.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nBase: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W42\" x D22\" x H12.5\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1tcaU3B3NnLrEwcGxytn3yUagPuIIxnqW",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "062509",
-        "prod": "Ennis",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_152156_598125_pasted_image_1765965131973.png",
-        "cat": "Mirrors",
-        "mat": "Base: Stainless Steel 304 Matt (Gold PVD)\nMounting: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nMirror: 5mm Glass (Extra Clear)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D7.5\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1KuhUKLarw8ESVYD7xjJfX7VrLAYLXMJS",
-        "des": "Dilip Jangir",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Mirror",
-        "v": {
-          "c": "09-Mar-2026",
-          "a": "",
-          "rm": "12mm hdhmr"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "062509",
-        "prod": "Marino",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_153413_360946_pasted_image_1766052267225.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W30\" x D1.5\" x H78\"",
-        "fld": "https://drive.google.com/drive/folders/1_KI_E7CAvhlpVLWYIhEBdkGX0HqKwdq0",
-        "des": "Dilip Jangir",
-        "dl": "01-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Mirror",
-        "v": {
-          "c": "12-Mar-2026",
-          "a": "",
-          "rm": "12mm mdf"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      },
-      {
-        "op": "102411",
-        "prod": "Driftbloom",
-        "var": "Livia",
-        "url": "https://i.ibb.co/7NxYfXBC/Screenshot-2025-04-03-121300.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Baroda Green Marble (Mirror Buffing)\nBase: Indian Teak (Finish TBC)",
-        "sz": "Outer: W18\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1XzrhkLk9R7T5lLhN6Ksb1YFYc6rRgFO4",
-        "des": "Hetvi Shah",
-        "dl": "14-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Accent Table ; Accent table paired with the coffee table",
-        "v": {
-          "c": "04-Aug-2025",
-          "a": "04-Aug-2025",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      }
-    ],
-    "ashok_polish": [
-      {
-        "op": "012624",
-        "prod": "Darcy",
-        "var": "Basque",
-        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
-        "sz": "Outer: W41\" x D30\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
-        "des": "Parth Gada",
-        "dl": "02-Jul-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "20-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      }
-    ],
-    "aarti_steel": [
-      {
-        "op": "012624",
-        "prod": "Temenos",
-        "var": "Tau",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_175046_508410_pasted_image_1772281260386.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Black Powder Coat)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSupport: 18mm MDF (White Matt Duco)",
-        "sz": "Outer: W21\" x D21\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1abQII1SKEJYjrqUokq-p-78LTypSdbbp",
-        "des": "Dilip Jangir",
-        "dl": "16-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "20-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "012624",
-        "prod": "Temenos",
-        "var": "Warren",
-        "url": "https://i.ibb.co/zJGcN1F/v02.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Black Powder Coat)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSupport: 18mm MDF (White Matt Duco)",
-        "sz": "Outer: W54\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1CjL-wWN2sySvw7hbADdnq7HADQO9vwQL",
-        "des": "Dilip Jangir",
-        "dl": "16-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "20-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122504",
-        "prod": "Siaran",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172746_679927_pasted_image_1767700682809.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (ICA VMA3040 + SFCA)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W39\" x D39\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1TN9TuFGoJhNtrxOjVm2gxKRx4_d7ULTJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "20-Feb-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      }
-    ],
     "krishna_furnitech": [
+      {
+        "op": "012624",
+        "prod": "Darcy",
+        "var": "Basque",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
+        "sz": "Outer: W41\" x D30\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
+        "des": "Parth Gada",
+        "dl": "02-Jul-2023",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "20-Mar-2026",
+          "a": "",
+          "rm": "only base, wood grains should be like image no patches no grey lines, natural polish"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
       {
         "op": "022503",
         "prod": "Chelsea",
@@ -4039,27 +3802,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "122504",
-        "prod": "Jawhead",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Finish TBC)\nBolster: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W42\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "27-Mar-2026",
-          "a": "",
-          "rm": "black matt "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "122514",
         "prod": "Venezia",
         "var": "Warren",
@@ -4163,6 +3905,285 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      }
+    ],
+    "nishant_cnc": [
+      {
+        "op": "012624",
+        "prod": "Darcy",
+        "var": "Basque",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
+        "sz": "Outer: W41\" x D30\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
+        "des": "Parth Gada",
+        "dl": "02-Jul-2023",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "cnc top "
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "022602",
+        "prod": "Darcy",
+        "var": "Carter",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260225_131024_018671_pasted_image_1772005244230.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: White Oak (Smoke Grey)",
+        "sz": "Outer: W41\" x D30\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1QXDjwKuLLKKee83Df_6ROAv5HW-Jh97p",
+        "des": "Hetvi Shah",
+        "dl": "17-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "022602",
+        "prod": "Facile",
+        "var": "Ivy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260302_110824_419370_pasted_image_1772429930544.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nLegs: White Oak (Smoke Grey)",
+        "sz": "Outer: W78\" x D38\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1-5ikk2T9xZmBinPT3yw4wr3Iv7edH6nO",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "062505",
+        "prod": "Bower",
+        "var": "Vesper",
+        "url": "https://i.ibb.co/K5k6Cvq/v02-1.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nBase: Sheesham (Black Distressed/Charcoal)",
+        "sz": "Outer: W42\" x D22\" x H12.5\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1tcaU3B3NnLrEwcGxytn3yUagPuIIxnqW",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "062509",
+        "prod": "Ennis",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_152156_598125_pasted_image_1765965131973.png",
+        "cat": "Mirrors",
+        "mat": "Base: Stainless Steel 304 Matt (Gold PVD)\nMounting: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nMirror: 5mm Glass (Extra Clear)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W30\" x D7.5\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1KuhUKLarw8ESVYD7xjJfX7VrLAYLXMJS",
+        "des": "Dilip Jangir",
+        "dl": "06-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Mirror",
+        "v": {
+          "c": "09-Mar-2026",
+          "a": "",
+          "rm": "12mm hdhmr"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "062509",
+        "prod": "Marino",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_153413_360946_pasted_image_1766052267225.png",
+        "cat": "Mirrors",
+        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W30\" x D1.5\" x H78\"",
+        "fld": "https://drive.google.com/drive/folders/1_KI_E7CAvhlpVLWYIhEBdkGX0HqKwdq0",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Mirror",
+        "v": {
+          "c": "12-Mar-2026",
+          "a": "",
+          "rm": "12mm mdf"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      },
+      {
+        "op": "102411",
+        "prod": "Driftbloom",
+        "var": "Livia",
+        "url": "https://i.ibb.co/7NxYfXBC/Screenshot-2025-04-03-121300.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Baroda Green Marble (Mirror Buffing)\nBase: Indian Teak (Finish TBC)",
+        "sz": "Outer: W18\" x D18\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1XzrhkLk9R7T5lLhN6Ksb1YFYc6rRgFO4",
+        "des": "Hetvi Shah",
+        "dl": "14-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Accent Table ; Accent table paired with the coffee table",
+        "v": {
+          "c": "04-Aug-2025",
+          "a": "04-Aug-2025",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      }
+    ],
+    "ashok_polish": [
+      {
+        "op": "012624",
+        "prod": "Darcy",
+        "var": "Basque",
+        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
+        "sz": "Outer: W41\" x D30\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
+        "des": "Parth Gada",
+        "dl": "02-Jul-2023",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "20-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      },
+      {
+        "op": "062509",
+        "prod": "Cremore",
+        "var": "Hilda",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
+        "sz": "Outer: W84\" x D36\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
+        "des": "Hetvi Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      }
+    ],
+    "aarti_steel": [
+      {
+        "op": "012624",
+        "prod": "Temenos",
+        "var": "Tau",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_175046_508410_pasted_image_1772281260386.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Black Powder Coat)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSupport: 18mm MDF (White Matt Duco)",
+        "sz": "Outer: W21\" x D21\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1abQII1SKEJYjrqUokq-p-78LTypSdbbp",
+        "des": "Dilip Jangir",
+        "dl": "16-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "20-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "012624",
+        "prod": "Temenos",
+        "var": "Warren",
+        "url": "https://i.ibb.co/zJGcN1F/v02.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Black Powder Coat)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSupport: 18mm MDF (White Matt Duco)",
+        "sz": "Outer: W54\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1CjL-wWN2sySvw7hbADdnq7HADQO9vwQL",
+        "des": "Dilip Jangir",
+        "dl": "16-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "20-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "062509",
+        "prod": "Cremore",
+        "var": "Hilda",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
+        "sz": "Outer: W84\" x D36\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
+        "des": "Hetvi Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "122504",
+        "prod": "Siaran",
+        "var": "Drake",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172746_679927_pasted_image_1767700682809.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (ICA VMA3040 + SFCA)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W39\" x D39\" x H12\"",
+        "fld": "https://drive.google.com/drive/folders/1TN9TuFGoJhNtrxOjVm2gxKRx4_d7ULTJ",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "20-Feb-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "jain_marble": [
@@ -6765,6 +6786,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-18T08:22:22.079Z"
+    "timestamp": "2026-03-18T08:37:19.153Z"
   }
 }
