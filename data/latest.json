@@ -1460,6 +1460,69 @@
       },
       {
         "op": "122504",
+        "prod": "Cordelia",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
+        "cat": "Dining Chairs",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Black Matt)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
+        "sz": "Outer: W23.75\" x D23.5\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1AH_HQLZREIjvVGmpJ33oIRK6453WCI0-",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 8,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Jawhead",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Finish TBC)\nBolster: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W42\" x D17\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "25-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Lars",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_165652_773977_pasted_image_1767698828867.png",
+        "cat": "Accent Tables",
+        "mat": "Frame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1XzFk_1xpjrcrhwpl9B461P_6BLYnejLU",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "15-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
         "prod": "Passini",
         "var": "Fynn",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
@@ -2245,7 +2308,7 @@
         "op": "062509",
         "prod": "Dublin",
         "var": "Quitero",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250814_184719_025635_TYLSA_NIGHT_4__1_.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
         "cat": "Chests",
         "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
         "sz": "Outer: W60\" x D21\" x H30\"",
@@ -2424,7 +2487,7 @@
         "pm": "Rohan Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "25-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3972,6 +4035,27 @@
           "c": "12-Jan-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122504",
+        "prod": "Jawhead",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Finish TBC)\nBolster: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W42\" x D17\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "27-Mar-2026",
+          "a": "",
+          "rm": "black matt "
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -5675,7 +5759,7 @@
         "op": "062509",
         "prod": "Dublin",
         "var": "Quitero",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250814_184719_025635_TYLSA_NIGHT_4__1_.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
         "cat": "Chests",
         "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
         "sz": "Outer: W60\" x D21\" x H30\"",
@@ -6681,6 +6765,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-18T07:52:25.099Z"
+    "timestamp": "2026-03-18T08:07:37.866Z"
   }
 }
