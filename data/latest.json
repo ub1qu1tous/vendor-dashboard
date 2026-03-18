@@ -1880,7 +1880,7 @@
         "v": {
           "c": "20-Mar-2026",
           "a": "",
-          "rm": "wood grains should be like image no patches no grey lines"
+          "rm": "only base wood grains should be like image no patches no grey lines"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -2021,6 +2021,27 @@
         "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
         "des": "Hetvi Shah",
         "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-Mar-2026",
+          "a": "",
+          "rm": "OAK WOOD"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022620",
+        "prod": "Murmur",
+        "var": "Dabster",
+        "url": "https://i.pinimg.com/736x/dc/d4/dc/dcd4dca8fbdfa84b7023c42190ec55e2.jpg",
+        "cat": "Benches",
+        "mat": "Base: White Oak (Black Matt)\nSeat: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W48\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1ZGVyv-V0_1JilRTYnzbIhQZhbVb8hChK",
+        "des": "Hetvi Shah",
+        "dl": "11-Mar-2026",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -2469,6 +2490,27 @@
         "cr": "",
         "v": {
           "c": "06-Jan-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "022620",
+        "prod": "Murmur",
+        "var": "Dabster",
+        "url": "https://i.pinimg.com/736x/dc/d4/dc/dcd4dca8fbdfa84b7023c42190ec55e2.jpg",
+        "cat": "Benches",
+        "mat": "Base: White Oak (Black Matt)\nSeat: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W48\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1ZGVyv-V0_1JilRTYnzbIhQZhbVb8hChK",
+        "des": "Hetvi Shah",
+        "dl": "11-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4146,197 +4188,6 @@
         "vendorDisplayName": "Jain Marble"
       }
     ],
-    "clientfabric": [
-      {
-        "op": "022613",
-        "prod": "Blinkist",
-        "var": "Dahlia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_151331_952677_WhatsApp_Image_2026-02-14_at_14_02_54.jpeg",
-        "cat": "Ottomans",
-        "mat": "Structure: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W18\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1BVRE9gfogmMbMNcws2RSnZAd8r4w0tvT",
-        "des": "Dilip Jangir",
-        "dl": "08-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "1 Mtr",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "022613",
-        "prod": "Trevis",
-        "var": "Cenric",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_162822_940305_pasted_image_1772708329122.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W19.7\" x D19.7\" x H31.5\"",
-        "fld": "https://drive.google.com/drive/folders/1IzmmVtew0pQAPqSAifjuVCLOv3dWLZXi",
-        "des": "Dilip Jangir",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "1 Mtr",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "032522",
-        "prod": "Amithi",
-        "var": "Ethel",
-        "url": "https://i.ibb.co/QvVKqjJ/a0001IBB.jpg",
-        "cat": "Benches",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
-        "sz": "Outer: W66\" x D18\" x H18.2\"\nTrunk: W63.5\" x D18\" x H12\"\nSeat Height: 18.2\"",
-        "fld": "https://drive.google.com/drive/folders/1HMax8_RFXMOf6HY4oD5df1KKewnHxq0c",
-        "des": "Hetvi Shah",
-        "dl": "24-Feb-2026",
-        "q": 4,
-        "pm": "Amish Parmar",
-        "cr": "Fabric 2.5 mtr each from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "052508",
-        "prod": "Ajax",
-        "var": "Juniper",
-        "url": "https://i.ibb.co/82Q6xBn/Ajax-Juniper-01.jpg",
-        "cat": "Sofa cum Beds",
-        "mat": "Structure: Ply & Foam Upholstery (Azco Amethyst Cotton Wool)\nLegs: Sheesham (Peca)",
-        "sz": "Outer: W82\" x D41\" x H34.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ElIA49_WHCWAbg5OS4oafhPCUcUnsRsE",
-        "des": "Akarsha Jha",
-        "dl": "29-Mar-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Width: 2100mm",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "052508",
-        "prod": "Canetta",
-        "var": "Dyson",
-        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Limited Edition Hashtag 40023)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
-        "des": "Ravi Malladi",
-        "dl": "14-Dec-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "052508",
-        "prod": "Phaedros",
-        "var": "Sania",
-        "url": "https://i.ibb.co/q5nsLDZ/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nBase: Oak Veneer (Harvest)",
-        "sz": "Outer: W17\" x D17\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1rRvz-zT065pqZXd3kqVdh6jrc9zzPsFE",
-        "des": "Tanmay Shah",
-        "dl": "08-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "072515",
-        "prod": "Silvera",
-        "var": "Hue",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
-        "cat": "Sofas",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Warwick Jefferson Coal)\nBackrest: Foam Upholstery (Warwick Jefferson Coal)\n5 Cushions: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/16rai4tbKEGhQCFOpUo6o_KLYeiY303yA",
-        "des": "Tanmay Shah",
-        "dl": "16-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122522",
-        "prod": "Irithel",
-        "var": "Carmine",
-        "url": "https://i.ibb.co/j9ryNJnL/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Base: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1uBSXh9Uu8J7yCgFrbsMQJxriRt9m86PI",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122522",
-        "prod": "Umbrella",
-        "var": "Insignia",
-        "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W60\" x D50\" x H36\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1IK7uixIRF_V1Uq-uPotVNraroW1-KYyn",
-        "des": "Parth Gada",
-        "dl": "07-Nov-2024",
-        "q": 6,
-        "pm": "Dilip Jangir",
-        "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      }
-    ],
     "aavaran": [
       {
         "op": "022614",
@@ -4910,6 +4761,155 @@
           "rm": "दराज बॉक्स को मेटल बेस के साथ फिक्स करें और बफर लगाएं, और हैंडल अभी खरीदें नहीं है 1,2 दिन में ख़रीदने के बाद वो भी लगने हे"
         },
         "vendorDisplayName": "Kamlesh Jangid"
+      }
+    ],
+    "clientfabric": [
+      {
+        "op": "032522",
+        "prod": "Amithi",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/QvVKqjJ/a0001IBB.jpg",
+        "cat": "Benches",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
+        "sz": "Outer: W66\" x D18\" x H18.2\"\nTrunk: W63.5\" x D18\" x H12\"\nSeat Height: 18.2\"",
+        "fld": "https://drive.google.com/drive/folders/1HMax8_RFXMOf6HY4oD5df1KKewnHxq0c",
+        "des": "Hetvi Shah",
+        "dl": "24-Feb-2026",
+        "q": 4,
+        "pm": "Amish Parmar",
+        "cr": "Fabric 2.5 mtr each from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "052508",
+        "prod": "Ajax",
+        "var": "Juniper",
+        "url": "https://i.ibb.co/82Q6xBn/Ajax-Juniper-01.jpg",
+        "cat": "Sofa cum Beds",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Amethyst Cotton Wool)\nLegs: Sheesham (Peca)",
+        "sz": "Outer: W82\" x D41\" x H34.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1ElIA49_WHCWAbg5OS4oafhPCUcUnsRsE",
+        "des": "Akarsha Jha",
+        "dl": "29-Mar-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Width: 2100mm",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "052508",
+        "prod": "Canetta",
+        "var": "Dyson",
+        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
+        "cat": "Ottomans",
+        "mat": "Seat: Ply & Foam Upholstery (Limited Edition Hashtag 40023)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19\" x D19\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
+        "des": "Ravi Malladi",
+        "dl": "14-Dec-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "052508",
+        "prod": "Phaedros",
+        "var": "Sania",
+        "url": "https://i.ibb.co/q5nsLDZ/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nBase: Oak Veneer (Harvest)",
+        "sz": "Outer: W17\" x D17\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1rRvz-zT065pqZXd3kqVdh6jrc9zzPsFE",
+        "des": "Tanmay Shah",
+        "dl": "08-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "072515",
+        "prod": "Silvera",
+        "var": "Hue",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
+        "cat": "Sofas",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Warwick Jefferson Coal)\nBackrest: Foam Upholstery (Warwick Jefferson Coal)\n5 Cushions: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/16rai4tbKEGhQCFOpUo6o_KLYeiY303yA",
+        "des": "Tanmay Shah",
+        "dl": "16-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "122522",
+        "prod": "Irithel",
+        "var": "Carmine",
+        "url": "https://i.ibb.co/j9ryNJnL/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Base: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1uBSXh9Uu8J7yCgFrbsMQJxriRt9m86PI",
+        "des": "Tanmay Shah",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "122522",
+        "prod": "Umbrella",
+        "var": "Insignia",
+        "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W60\" x D50\" x H36\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1IK7uixIRF_V1Uq-uPotVNraroW1-KYyn",
+        "des": "Parth Gada",
+        "dl": "07-Nov-2024",
+        "q": 6,
+        "pm": "Dilip Jangir",
+        "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
       }
     ],
     "d_g_interior": [
@@ -6366,6 +6366,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-18T06:37:30.061Z"
+    "timestamp": "2026-03-18T06:52:20.652Z"
   }
 }
