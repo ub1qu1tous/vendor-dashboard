@@ -1081,6 +1081,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "022605",
+        "prod": "Mishika",
+        "var": "Kiera",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_181431_973519_Screenshot_2026-02-13_181357.png",
+        "cat": "Office Desks",
+        "mat": "Top: Recycled Teak (Finish TBC)\nCarcass: Recycled Teak (Finish TBC)\nDrawer Fascia: Recycled Teak (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Section A: W84\" x D18\" x H30\"\nSection B: W78\" x D18\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1ipmPUcQNRiD94FAFKn6zvaR1tjUrGhIb",
+        "des": "Hetvi Shah",
+        "dl": "10-Mar-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "022620",
         "prod": "Juniper",
         "var": "Nested",
@@ -3546,6 +3567,27 @@
           "c": "",
           "a": "",
           "rm": "Base"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022605",
+        "prod": "Mishika",
+        "var": "Kiera",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_181431_973519_Screenshot_2026-02-13_181357.png",
+        "cat": "Office Desks",
+        "mat": "Top: Recycled Teak (Finish TBC)\nCarcass: Recycled Teak (Finish TBC)\nDrawer Fascia: Recycled Teak (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Section A: W84\" x D18\" x H30\"\nSection B: W78\" x D18\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1ipmPUcQNRiD94FAFKn6zvaR1tjUrGhIb",
+        "des": "Hetvi Shah",
+        "dl": "10-Mar-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -6828,6 +6870,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-19T14:54:59.282Z"
+    "timestamp": "2026-03-19T15:07:33.994Z"
   }
 }
