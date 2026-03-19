@@ -2353,7 +2353,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20260204_131452_152004_Screenshot_2026-02-04_131323.png",
         "cat": "Study Tables",
         "mat": "Structure: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)\nInternal Carcass: Laminate (Finish TBC)\nTop: Marble TBC (Mirror Buffing)",
-        "sz": "Outer: W42\" x D27\" x H30\"",
+        "sz": "Outer: W42\" x D24\" x H30\"",
         "fld": "https://drive.google.com/drive/folders/1POPAihn7YcQ_WVxCZ6z6bGDm5CwTGYdV",
         "des": "Hetvi Shah",
         "dl": "14-Mar-2026",
@@ -5820,6 +5820,27 @@
       },
       {
         "op": "062509",
+        "prod": "Fibbsinn",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260204_131452_152004_Screenshot_2026-02-04_131323.png",
+        "cat": "Study Tables",
+        "mat": "Structure: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)\nInternal Carcass: Laminate (Finish TBC)\nTop: Marble TBC (Mirror Buffing)",
+        "sz": "Outer: W42\" x D24\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1POPAihn7YcQ_WVxCZ6z6bGDm5CwTGYdV",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Study Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
         "prod": "Howard",
         "var": "Yurick",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250829_111907_652499_pasted_image_1756446550965.png",
@@ -6807,6 +6828,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-19T05:52:38.521Z"
+    "timestamp": "2026-03-19T06:14:30.871Z"
   }
 }
