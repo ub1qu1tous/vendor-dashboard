@@ -2432,6 +2432,27 @@
       },
       {
         "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
         "prod": "Wicklow",
         "var": "Nested",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260214_113934_019524_Screenshot_2026-02-14_113648.png",
@@ -2803,6 +2824,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Parent's Bedroom Mirror",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+      },
+      {
+        "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
         "v": {
           "c": "",
           "a": "",
@@ -5730,7 +5772,7 @@
         "v": {
           "c": "20-Mar-2026",
           "a": "",
-          "rm": "Base ICA Gold \nand Top's bottom and border in ICA Gold "
+          "rm": "PU ONLY\nBase ICA Gold \nand Top's bottom and border in ICA Gold "
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5751,7 +5793,7 @@
         "v": {
           "c": "15-Mar-2026",
           "a": "",
-          "rm": "Base Gold"
+          "rm": "PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5772,7 +5814,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5793,7 +5835,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5814,7 +5856,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5898,28 +5940,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Color Only"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Sovella",
-        "var": "Swoon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
-        "sz": "Outer: W15.5\" x D12\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
-        "des": "Tanmay Shah",
-        "dl": "15-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
+          "rm": "PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6150,7 +6171,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU Only"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -6366,7 +6387,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU and Drawer ONLY"
         },
         "vendorDisplayName": "Chhoturam"
       },
@@ -6807,6 +6828,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-19T13:37:27.479Z"
+    "timestamp": "2026-03-19T13:52:23.740Z"
   }
 }
