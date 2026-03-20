@@ -3842,27 +3842,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "122514",
-        "prod": "Venezia",
-        "var": "Warren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_150716_984680_pasted_image_1765791453970.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nBase: White Oak (Natural)",
-        "sz": "Outer: W18\" x D12\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1BqUR5ROtUPHy1OSM7JFY3IYjHl2BtxUp",
-        "des": "Hetvi Shah",
-        "dl": "07-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Sofa Side Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Carmine",
@@ -4390,27 +4369,6 @@
         "cr": "Living Room GF Coffee Table",
         "v": {
           "c": "26-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "082413",
-        "prod": "Chateaux",
-        "var": "Wattage",
-        "url": "https://i.ibb.co/zT0TFqTF/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Albester White Marble (Mirror Buffing)\nSupport: Black Veneer (Natural)\nBase: Black Veneer (Natural)\nPanel: Black Wood Vaulted Fluted Veneer (Natural)",
-        "sz": "Outer: W96\" x D39\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1T7w2eQ-PFkJJDv10WJ4ySiHW7gjfs1cP",
-        "des": "Hetvi Shah",
-        "dl": "15-Nov-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6260,27 +6218,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "122514",
-        "prod": "Venezia",
-        "var": "Warren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251215_150716_984680_pasted_image_1765791453970.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nBase: White Oak (Natural)",
-        "sz": "Outer: W18\" x D12\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1BqUR5ROtUPHy1OSM7JFY3IYjHl2BtxUp",
-        "des": "Hetvi Shah",
-        "dl": "07-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Sofa Side Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
       }
     ],
     "srk_readymade_legs": [
@@ -6614,6 +6551,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-20T13:07:32.826Z"
+    "timestamp": "2026-03-20T13:22:33.510Z"
   }
 }
