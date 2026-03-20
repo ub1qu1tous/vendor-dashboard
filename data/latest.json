@@ -1102,6 +1102,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "022616",
+        "prod": "Malmo",
+        "var": "Deepa",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_134903_432250_Screenshot_2026-02-27_150653.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Black Distressed/Charcoal)\nBase: Stainless Steel 304 Matt (Matt Buffing)",
+        "sz": "Outer: W48\" x D24\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1Ju9WzPXpXzdVca7Rzsg9iaBDuov6dMIp",
+        "des": "Dilip Jangir",
+        "dl": "24-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "21-Mar-2026",
+          "a": "",
+          "rm": "matt finish and buffer work"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "022620",
         "prod": "Juniper",
         "var": "Nested",
@@ -1623,6 +1644,27 @@
         "cr": "Darshan's Bedroom",
         "v": {
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "022618",
+        "prod": "Olympia",
+        "var": "Theta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_180110_107240_pasted_image_1772713896743.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure (A): Rajasthan Black (Mirror Buffing)\nStructure (B): Jaipur Pink (Mirror Buffing)\nStructure (C): Banswada White (Mirror Buffing)",
+        "sz": "Outer: W54\" x D24\" x H18\"\nRajasthan Black: W54\" x D22\" x H14\"\nJaipur Pink: W33\" x D14\" x H18\"\nBanswada White: W33\" x D12\" x H9\"",
+        "fld": "https://drive.google.com/drive/folders/16ugOtG8yvRaDf4jhxy5NQW7Gh-9w2xaj",
+        "des": "Dilip Jangir",
+        "dl": "15-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "28-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6870,6 +6912,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-20T06:22:27.852Z"
+    "timestamp": "2026-03-20T06:37:43.943Z"
   }
 }
