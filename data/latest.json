@@ -587,7 +587,7 @@
         "dl": "01-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "",
+        "cr": "Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -1240,7 +1240,7 @@
         "dl": "01-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "",
+        "cr": "Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3117,7 +3117,7 @@
         "dl": "01-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "",
+        "cr": "Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3667,7 +3667,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "10-Mar-2026",
+          "c": "30-Mar-2026",
           "a": "",
           "rm": "Frame bhejege, uske upar top cut to cut bnake screw krke dijiyega.\nHum yaha top nikalke Powdercoat krva dege."
         },
@@ -4609,6 +4609,27 @@
       },
       {
         "op": "052508",
+        "prod": "Phaedros",
+        "var": "Sania",
+        "url": "https://i.ibb.co/q5nsLDZ/0001.jpg",
+        "cat": "Ottomans",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nBase: Oak Veneer (Harvest)",
+        "sz": "Outer: W17\" x D17\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1rRvz-zT065pqZXd3kqVdh6jrc9zzPsFE",
+        "des": "Tanmay Shah",
+        "dl": "08-Oct-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "052508",
         "prod": "Sloane",
         "var": "Urban",
         "url": "https://i.ibb.co/m87xBvs/0002.jpg",
@@ -4620,7 +4641,7 @@
         "dl": "01-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "",
+        "cr": "Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -5322,27 +5343,6 @@
         "q": 4,
         "pm": "Amish Parmar",
         "cr": "Fabric 2.5 mtr each from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "052508",
-        "prod": "Phaedros",
-        "var": "Sania",
-        "url": "https://i.ibb.co/q5nsLDZ/0001.jpg",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nBase: Oak Veneer (Harvest)",
-        "sz": "Outer: W17\" x D17\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1rRvz-zT065pqZXd3kqVdh6jrc9zzPsFE",
-        "des": "Tanmay Shah",
-        "dl": "08-Oct-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -7015,6 +7015,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-20T09:22:27.395Z"
+    "timestamp": "2026-03-20T09:37:34.562Z"
   }
 }
