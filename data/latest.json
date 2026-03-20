@@ -5602,7 +5602,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "ICA gold PU ONLY"
+          "rm": "ICA VMA3020 + SFCA Antique Gold PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5623,7 +5623,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "PU ONLY"
+          "rm": "ICA VMA3020 + SFCA Antique Gold PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5665,7 +5665,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "Carcass Black Veneer, Push to open Shutter\nAll Shutters Oak veneer, will be Polished by us\nHDHMR plank with ICA VMA3020 + SFCA Gold will be fixed in bottom (As shown in the image)\nshelf in each of the shutters\nInternal Liner Solid black color"
+          "rm": "Carcass Black Veneer,\nPush to open Shutter,\nAll Shutters Oak veneer, will be Polished by us,\nHDHMR plank with ICA VMA3020 + SFCA Gold will be fixed in bottom (As shown in the image)\nshelf in each of the shutters\nInternal Liner Solid black color"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5707,7 +5707,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "Push To Open 4 Drawers\nCarcass Black Veneer\nInternal Liner Solid black color\nICA VMA3020 + SFCA Gold on HDHMR Shutter (One Adjustable shelf inside)\nBase (Gold on Hdhmr)\n"
+          "rm": "Push To Open 4 Drawers,\nCarcass Black Veneer,\nInternal Liner Solid black color,\nICA VMA3020 + SFCA Gold on HDHMR Shutter (One Adjustable shelf inside),\nBase (Gold on Hdhmr)\n"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6614,6 +6614,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-20T10:37:47.096Z"
+    "timestamp": "2026-03-20T10:52:39.253Z"
   }
 }
