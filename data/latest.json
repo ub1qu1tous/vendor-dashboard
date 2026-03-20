@@ -5514,7 +5514,7 @@
         "dl": "04-Nov-2022",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "One of the tables is customized to a 450mm width.",
+        "cr": "",
         "v": {
           "c": "30-Mar-2026",
           "a": "",
@@ -5602,7 +5602,7 @@
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "PU ONLY"
+          "rm": "ICA gold PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6614,6 +6614,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-20T10:26:09.234Z"
+    "timestamp": "2026-03-20T10:37:47.096Z"
   }
 }
