@@ -1607,6 +1607,27 @@
       },
       {
         "op": "122526",
+        "prod": "Gibson",
+        "var": "Ambrosio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_102954_829314_pasted_image_1773896394166.png",
+        "cat": "Accent Tables",
+        "mat": "Top: HDHMR (Black Matt PU)\nBase: HDHMR (White PU)\nFixture: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1tKBKlpdCHwNPlaAV0lXsvia10gnFbDZU",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "fitting"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122526",
         "prod": "Hank",
         "var": "Kenji",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
@@ -2593,6 +2614,27 @@
         "cr": "",
         "v": {
           "c": "28-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122526",
+        "prod": "Gibson",
+        "var": "Ambrosio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_102954_829314_pasted_image_1773896394166.png",
+        "cat": "Accent Tables",
+        "mat": "Top: HDHMR (Black Matt PU)\nBase: HDHMR (White PU)\nFixture: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1tKBKlpdCHwNPlaAV0lXsvia10gnFbDZU",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4906,29 +4948,6 @@
         "vendorDisplayName": "The Art Room"
       }
     ],
-    "demodes": [
-      {
-        "op": "022620",
-        "prod": "Juniper",
-        "var": "Nested",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
-        "cat": "Daybeds",
-        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
-        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
-        "des": "Hetvi Shah",
-        "dl": "07-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "RECEIVED , KEPT BEHIND PRODUCTION ROOM SOFA"
-        },
-        "vendorDisplayName": "Demodes"
-      }
-    ],
     "kamlesh_jangid": [
       {
         "op": "032507",
@@ -6240,6 +6259,27 @@
       },
       {
         "op": "122526",
+        "prod": "Gibson",
+        "var": "Ambrosio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_102954_829314_pasted_image_1773896394166.png",
+        "cat": "Accent Tables",
+        "mat": "Top: HDHMR (Black Matt PU)\nBase: HDHMR (White PU)\nFixture: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1tKBKlpdCHwNPlaAV0lXsvia10gnFbDZU",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "PU Only"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122526",
         "prod": "Hank",
         "var": "Kenji",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
@@ -6912,6 +6952,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-20T06:37:43.943Z"
+    "timestamp": "2026-03-20T06:54:23.535Z"
   }
 }
