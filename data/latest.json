@@ -799,7 +799,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "23-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -828,6 +828,48 @@
       },
       {
         "op": "122504",
+        "prod": "MacGregor",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260204_160309_085062_pasted_image_1770201211055.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: HDHMR (RAL/NCS Matt Polyurethane (PU))\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W22.75\" x D22.75\" x H33.5\"\nSeat Height: 19.75\"",
+        "fld": "https://drive.google.com/drive/folders/1GS5uXakJQukfD7uerdLeXDWeyYYUKjwK",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122504",
+        "prod": "Mossgrove",
+        "var": "Fuji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171318_202486_pasted_image_1767699814418.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Black Matt)\nHandle: Stainless Steel 304 Matt (Rose Gold PVD)\nMounting: Stainless Steel 304 Matt (Rose Gold PVD)",
+        "sz": "Outer: W19.69\" x D20.87\" x H38.98\"\nSeat Height: 29.92\"",
+        "fld": "https://drive.google.com/drive/folders/10oJTjhpClHyg7Q9b_uGfsXBooBp4K92C",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122504",
         "prod": "Passini",
         "var": "Fynn",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
@@ -842,6 +884,27 @@
         "cr": "",
         "v": {
           "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122504",
+        "prod": "Riverness",
+        "var": "Quartz",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_175630_839133_Screenshot_2026-01-20_175544.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: HDHMR (RAL/NCS Matt Polyurethane (PU))\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W18\" x D18\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1xUxSZmUHzAyFjN7UZHmuEEQOMXlAmeZp",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6551,6 +6614,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-21T06:07:28.172Z"
+    "timestamp": "2026-03-21T06:22:59.689Z"
   }
 }
