@@ -2492,7 +2492,7 @@
         "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
-    "krishna_furnitech_polish_only": [
+    "krishna_furnitech_polish": [
       {
         "op": "012624",
         "prod": "Cordia",
@@ -2512,7 +2512,7 @@
           "a": "",
           "rm": "black distress finish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "012624",
@@ -2533,7 +2533,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022613",
@@ -2554,7 +2554,7 @@
           "a": "",
           "rm": "harvest finish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022614",
@@ -2575,7 +2575,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022614",
@@ -2596,7 +2596,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022614",
@@ -2617,7 +2617,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022616",
@@ -2638,7 +2638,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022620",
@@ -2659,7 +2659,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "022621",
@@ -2680,7 +2680,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "062509",
@@ -2701,7 +2701,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "062509",
@@ -2722,7 +2722,7 @@
           "a": "",
           "rm": "Black Polish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "062509",
@@ -2743,7 +2743,7 @@
           "a": "",
           "rm": "black matt 2 base only polish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "062509",
@@ -2764,7 +2764,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "062509",
@@ -2785,7 +2785,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "062509",
@@ -2806,7 +2806,7 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "082524",
@@ -2827,7 +2827,7 @@
           "a": "",
           "rm": "Rich Tobacco Finish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "082524",
@@ -2848,7 +2848,7 @@
           "a": "",
           "rm": "Rich Tobacco Finish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "082524",
@@ -2869,7 +2869,7 @@
           "a": "",
           "rm": "Rich Tobacco Finish"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "092416",
@@ -2890,7 +2890,7 @@
           "a": "",
           "rm": "black matt"
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
         "op": "122504",
@@ -2911,7 +2911,7 @@
           "a": "",
           "rm": "black matt "
         },
-        "vendorDisplayName": "Krishna Furnitech - Polish Only"
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       }
     ],
     "royal_powder_coat": [
@@ -5831,9 +5831,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "25-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU work in back hdhmr"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5852,9 +5852,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "25-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU work in back hdhmr, and legs"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6551,6 +6551,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-21T05:37:54.979Z"
+    "timestamp": "2026-03-21T05:55:45.741Z"
   }
 }
