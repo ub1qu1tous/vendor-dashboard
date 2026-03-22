@@ -2869,27 +2869,6 @@
       },
       {
         "op": "122504",
-        "prod": "Bellami",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163624_535485_pasted_image_1767697600039.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W54\" x D30\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1gtd_R_-1b9HmWE23dAkTbArFCpP48eBJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Feb-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
         "prod": "Calton",
         "var": "Puma",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
@@ -7647,6 +7626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-22T08:37:27.124Z"
+    "timestamp": "2026-03-22T08:52:21.866Z"
   }
 }
