@@ -3926,6 +3926,48 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "022610",
+        "prod": "Bullmat",
+        "var": "Baris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_170937_258652_c5f06567-de7c-4882-a978-2e2984b323ce.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Zinnia SRN 83006 By Draper)\nLegs: Sheesham (Black)",
+        "sz": "Outer: W80\" x D34\" x H35\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1YX2Oan6tquTi2O-WZY2zDZdmSUmkfDAf",
+        "des": "Maulik Parmar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022610",
+        "prod": "Bullmat",
+        "var": "Vivienne",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_170937_258652_c5f06567-de7c-4882-a978-2e2984b323ce.jpg",
+        "cat": "Ottomans",
+        "mat": "Structure: Ply & Foam Upholstery (Zinnia SRN 83006 By Draper)\nLegs: Sheesham (Black)",
+        "sz": "Outer: W28\" x D28\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1gu06lWlZ7IhlQAqjoKNE1q2mAKjLXd0X",
+        "des": "Maulik Parmar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "052508",
         "prod": "Ajax",
         "var": "Juniper",
@@ -4640,6 +4682,48 @@
         "q": 2,
         "pm": "Dilip Jangir",
         "cr": "Fabric Will Provide By Client 1.5 Meter.\nBar Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022610",
+        "prod": "Bullmat",
+        "var": "Baris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_170937_258652_c5f06567-de7c-4882-a978-2e2984b323ce.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Zinnia SRN 83006 By Draper)\nLegs: Sheesham (Black)",
+        "sz": "Outer: W80\" x D34\" x H35\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1YX2Oan6tquTi2O-WZY2zDZdmSUmkfDAf",
+        "des": "Maulik Parmar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022610",
+        "prod": "Bullmat",
+        "var": "Vivienne",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_170937_258652_c5f06567-de7c-4882-a978-2e2984b323ce.jpg",
+        "cat": "Ottomans",
+        "mat": "Structure: Ply & Foam Upholstery (Zinnia SRN 83006 By Draper)\nLegs: Sheesham (Black)",
+        "sz": "Outer: W28\" x D28\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1gu06lWlZ7IhlQAqjoKNE1q2mAKjLXd0X",
+        "des": "Maulik Parmar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -6971,6 +7055,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-22T06:52:21.048Z"
+    "timestamp": "2026-03-22T07:07:31.786Z"
   }
 }
