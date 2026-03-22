@@ -4621,27 +4621,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "012624",
-        "prod": "Darcy",
-        "var": "Basque",
-        "url": "https://i.ibb.co/0cpJG4R/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (Asian Paints L-152 Cream Pie Satin)\nBase: White Oak (Natural)",
-        "sz": "Outer: W41\" x D30\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1GjHAEAQfR3f7SZp0Q-cVMyNfcmY54ZiS",
-        "des": "Parth Gada",
-        "dl": "02-Jul-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "022613",
         "prod": "Trevis",
         "var": "Cenric",
@@ -7626,6 +7605,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-22T11:07:27.705Z"
+    "timestamp": "2026-03-22T11:22:23.384Z"
   }
 }
