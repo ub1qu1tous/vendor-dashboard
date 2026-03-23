@@ -4768,6 +4768,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "032522",
+        "prod": "Amithi",
+        "var": "Ethel",
+        "url": "https://i.ibb.co/QvVKqjJ/a0001IBB.jpg",
+        "cat": "Benches",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
+        "sz": "Outer: W66\" x D18\" x H18.2\"\nTrunk: W63.5\" x D18\" x H12\"\nSeat Height: 18.2\"",
+        "fld": "https://drive.google.com/drive/folders/1HMax8_RFXMOf6HY4oD5df1KKewnHxq0c",
+        "des": "Hetvi Shah",
+        "dl": "24-Feb-2026",
+        "q": 4,
+        "pm": "Amish Parmar",
+        "cr": "Fabric 2.5 mtr each from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Natural Finish on 4 pc Benches"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "062509",
         "prod": "Baku",
         "var": "Numin",
@@ -7605,6 +7626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-23T05:52:23.807Z"
+    "timestamp": "2026-03-23T06:07:25.631Z"
   }
 }
