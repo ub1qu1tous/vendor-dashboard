@@ -713,9 +713,9 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
         "v": {
-          "c": "",
+          "c": "30-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "1. 800x360mm, Thickness: 40mm\n2. 350x100mm, Thickness: 16mm\n3. 350x50mm, Thickness: 16mm\n\nMaterial: Distressed Sheesham\nPolish: Black"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4706,6 +4706,27 @@
       },
       {
         "op": "022620",
+        "prod": "Juniper",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
+        "cat": "Daybeds",
+        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
+        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
+        "des": "Hetvi Shah",
+        "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "26-Mar-2026",
+          "a": "",
+          "rm": "AS PER SAMPLE"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "022620",
         "prod": "Murmur",
         "var": "Dabster",
         "url": "https://i.pinimg.com/736x/dc/d4/dc/dcd4dca8fbdfa84b7023c42190ec55e2.jpg",
@@ -4719,9 +4740,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "26-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "BLACK MATT"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -5123,6 +5144,27 @@
           "c": "25-Mar-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "022618",
+        "prod": "Wafina",
+        "var": "Giles",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_172124_429558_pasted_image_1772711510847.png",
+        "cat": "Accent Table Sets",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W15\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1nDRrm9wAZCM2FQE_8hmh1Bd-35fvtyoM",
+        "des": "Dilip Jangir",
+        "dl": "02-Mar-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "TEXTURE BLACK MATT"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -6147,71 +6189,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
-    "the_art_room": [
-      {
-        "op": "022618",
-        "prod": "Wafina",
-        "var": "Giles",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_172124_429558_pasted_image_1772711510847.png",
-        "cat": "Accent Table Sets",
-        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W15\" x D15\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1nDRrm9wAZCM2FQE_8hmh1Bd-35fvtyoM",
-        "des": "Dilip Jangir",
-        "dl": "02-Mar-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      },
-      {
-        "op": "052508",
-        "prod": "Dellamon",
-        "var": "Cappuccino",
-        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W72\" x D36\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
-        "des": "Akhilesh Yadav",
-        "dl": "02-Jul-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      },
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (Finish TBC)\nMounting: Mild Steel (Finish TBC)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      }
-    ],
     "aws": [
       {
         "op": "022619",
@@ -7041,6 +7018,50 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
+    "the_art_room": [
+      {
+        "op": "052508",
+        "prod": "Dellamon",
+        "var": "Cappuccino",
+        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W72\" x D36\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
+        "des": "Akhilesh Yadav",
+        "dl": "02-Jul-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining table top and chair structure have the same finish\n",
+        "v": {
+          "c": "28-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Art Room"
+      },
+      {
+        "op": "122526",
+        "prod": "Hank",
+        "var": "Kenji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nMounting: Mild Steel (Finish TBC)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
+        "sz": "Outer: W22\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Match Fabric for PU Colour",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Art Room"
+      }
+    ],
     "chhoturam": [
       {
         "op": "062508",
@@ -7563,6 +7584,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-24T08:52:20.411Z"
+    "timestamp": "2026-03-24T09:07:23.309Z"
   }
 }
