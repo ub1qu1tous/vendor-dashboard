@@ -2746,6 +2746,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "042517",
+        "prod": "Azmira",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251205_115624_760484_Hyde-1.jpg",
+        "cat": "Dressers",
+        "mat": "Carcass: 16mm Plywood (Oak Laminate)\nInternal Carcass: 16mm Plywood (Oak Laminate)\nShutter: Aluminium Profile (Champagne SM-402)\nShutter: 5mm Glass (Clear)\nLight: LED Light (White)\nDrawer Fascia: HDHMR (RAL 1013 Oyster White)\nDrawer Internal: 16mm Plywood (Oak Laminate)\nMirror: 5mm Glass (Extra Clear)\nKnobs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W97\" x D25.5\" x H118\"",
+        "fld": "https://drive.google.com/drive/folders/1RR5-ARejQLYzlqasd99AevGfKhelVGcT",
+        "des": "Tanmay Shah",
+        "dl": "04-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Arpan bhai masterbed room dresser unit",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "052508",
         "prod": "Abigale",
         "var": "Resol",
@@ -3845,7 +3866,7 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
         "cat": "Benches",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Finish TBC)\nBolster: Foam Upholstery (Fabric TBC)",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nBolster: Foam Upholstery (Fabric TBC)",
         "sz": "Outer: W42\" x D17\" x H17\"",
         "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
         "des": "Hetvi Shah",
@@ -4129,7 +4150,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "05-Jan-2026",
+          "c": "22-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4941,7 +4962,7 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
         "cat": "Benches",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Finish TBC)\nBolster: Foam Upholstery (Fabric TBC)",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nBolster: Foam Upholstery (Fabric TBC)",
         "sz": "Outer: W42\" x D17\" x H17\"",
         "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
         "des": "Hetvi Shah",
@@ -7500,6 +7521,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-25T06:22:30.694Z"
+    "timestamp": "2026-03-25T06:37:24.162Z"
   }
 }
