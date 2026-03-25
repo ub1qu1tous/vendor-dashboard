@@ -2595,6 +2595,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "092416",
+        "prod": "Argos",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_101210_489041_pasted_image_1771303355668.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (D'decor Ballard Plain Sr 27)\nLegs: Stainless Steel 304 Gloss (Gold PVD)",
+        "sz": "Outer: W70\" x D16.5\" x H19\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1uNC6wmFtkHuXaFC53AYNyMDLnu_kJrX-",
+        "des": "Tarishi Rathore",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "gold matt"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "102416",
         "prod": "Fluke",
         "var": "Trickle",
@@ -3857,6 +3878,27 @@
           "c": "20-Mar-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092416",
+        "prod": "Argos",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_101210_489041_pasted_image_1771303355668.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (D'decor Ballard Plain Sr 27)\nLegs: Stainless Steel 304 Gloss (Gold PVD)",
+        "sz": "Outer: W70\" x D16.5\" x H19\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1uNC6wmFtkHuXaFC53AYNyMDLnu_kJrX-",
+        "des": "Tarishi Rathore",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "28-Mar-2026",
+          "a": "",
+          "rm": "Flat Bar ma bnavani che"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -7605,6 +7647,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-25T12:37:38.534Z"
+    "timestamp": "2026-03-25T12:52:32.851Z"
   }
 }
