@@ -2257,6 +2257,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "092519",
+        "prod": "Hylos",
+        "var": "Pique",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 8,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "092520",
         "prod": "Kaveri",
         "var": "Numin",
@@ -4577,6 +4598,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "092519",
+        "prod": "Hylos",
+        "var": "Pique",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 8,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092520",
         "prod": "Rosenfeld",
         "var": "Finch",
@@ -5079,6 +5121,27 @@
           "c": "30-Jun-2025",
           "a": "",
           "rm": "black matt"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "092519",
+        "prod": "Hylos",
+        "var": "Pique",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 8,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -7647,6 +7710,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-27T06:52:28.600Z"
+    "timestamp": "2026-03-27T07:07:31.896Z"
   }
 }
