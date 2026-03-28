@@ -2768,27 +2768,6 @@
       },
       {
         "op": "062509",
-        "prod": "Aviva",
-        "var": "Helix",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151250_977525_pasted_image_1765964586668.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: HDHMR (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W17\" x D17\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1X6MngZQEd2XAIr7kPIQldWgIq9mt7Aur",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Accent Table",
-        "v": {
-          "c": "15-Mar-2026",
-          "a": "",
-          "rm": "PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
         "prod": "Dublin",
         "var": "Mousse",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
@@ -7290,6 +7269,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-28T12:37:28.484Z"
+    "timestamp": "2026-03-28T12:52:34.253Z"
   }
 }
