@@ -862,7 +862,7 @@
         "v": {
           "c": "28-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "30 pcs sheesham black matt legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -883,7 +883,7 @@
         "v": {
           "c": "28-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "48 pcs sheesham black matt legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4875,27 +4875,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "022618",
-        "prod": "Wafina",
-        "var": "Giles",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_172124_429558_pasted_image_1772711510847.png",
-        "cat": "Accent Table Sets",
-        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W15\" x D15\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1nDRrm9wAZCM2FQE_8hmh1Bd-35fvtyoM",
-        "des": "Dilip Jangir",
-        "dl": "02-Mar-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "TEXTURE BLACK MATT"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "052318",
         "prod": "Delilah",
         "var": "Neymar",
@@ -7269,6 +7248,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-29T05:37:34.571Z"
+    "timestamp": "2026-03-29T05:53:28.653Z"
   }
 }
