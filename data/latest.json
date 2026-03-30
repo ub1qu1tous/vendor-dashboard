@@ -7200,6 +7200,29 @@
         "vendorDisplayName": "Lalji Handicrafts"
       }
     ],
+    "ansar_enterprises": [
+      {
+        "op": "092535",
+        "prod": "Portobello",
+        "var": "Hulu",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260207_110920_700254_pasted_image_1770442781808.png",
+        "cat": "Rugs",
+        "mat": "Carpet: Blended Wool (Hand-Tufted)",
+        "sz": "Outer: W108\" x D72\" x H0.75\"",
+        "fld": "https://drive.google.com/drive/folders/1vlr5EkQk3r447C0M-VmcBhKXzKRr-gJ1",
+        "des": "Readymade",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ansar Enterprises"
+      }
+    ],
     "shital_glass": [
       {
         "op": "122504",
@@ -7290,6 +7313,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-03-30T11:22:29.421Z"
+    "timestamp": "2026-03-30T11:37:26.717Z"
   }
 }
