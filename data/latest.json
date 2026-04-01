@@ -1142,6 +1142,48 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "022620",
+        "prod": "Juniper",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
+        "cat": "Daybeds",
+        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
+        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
+        "des": "Hetvi Shah",
+        "dl": "07-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022620",
+        "prod": "Murmur",
+        "var": "Dabster",
+        "url": "https://i.pinimg.com/736x/dc/d4/dc/dcd4dca8fbdfa84b7023c42190ec55e2.jpg",
+        "cat": "Benches",
+        "mat": "Base: White Oak (Black Matt)\nSeat: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W48\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1ZGVyv-V0_1JilRTYnzbIhQZhbVb8hChK",
+        "des": "Hetvi Shah",
+        "dl": "11-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "032522",
         "prod": "Amithi",
         "var": "Ethel",
@@ -3273,27 +3315,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "022621",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "23-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "062509",
         "prod": "Baku",
         "var": "Numin",
@@ -4344,48 +4365,6 @@
           "c": "06-Jan-2026",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "022620",
-        "prod": "Juniper",
-        "var": "Nested",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
-        "cat": "Daybeds",
-        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
-        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
-        "des": "Hetvi Shah",
-        "dl": "07-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "26-Mar-2026",
-          "a": "",
-          "rm": "AS PER SAMPLE"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "022620",
-        "prod": "Murmur",
-        "var": "Dabster",
-        "url": "https://i.pinimg.com/736x/dc/d4/dc/dcd4dca8fbdfa84b7023c42190ec55e2.jpg",
-        "cat": "Benches",
-        "mat": "Base: White Oak (Black Matt)\nSeat: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W48\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1ZGVyv-V0_1JilRTYnzbIhQZhbVb8hChK",
-        "des": "Hetvi Shah",
-        "dl": "11-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "26-Mar-2026",
-          "a": "",
-          "rm": "BLACK MATT"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -7166,6 +7145,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-01T06:37:33.029Z"
+    "timestamp": "2026-04-01T06:52:22.614Z"
   }
 }
