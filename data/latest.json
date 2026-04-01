@@ -3104,27 +3104,6 @@
       },
       {
         "op": "122504",
-        "prod": "Anjalee",
-        "var": "Livia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_163334_908170_pasted_image_1767697430952.png",
-        "cat": "Benches",
-        "mat": "Base: HDHMR (Milan red 8101)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nMounting: Stainless Steel 304 Gloss (Rose Gold PVD)",
-        "sz": "Outer: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1vA8dURWHEBNVj5l4TNqEYRJDasv8s62Y",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122504",
         "prod": "Calton",
         "var": "Puma",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
@@ -7334,6 +7313,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-01T14:22:24.970Z"
+    "timestamp": "2026-04-01T14:37:29.664Z"
   }
 }
