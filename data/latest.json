@@ -860,7 +860,7 @@
         "pm": "Dilip Jangir",
         "cr": "FF Sofa\nFabric 4m + 2.5m From Client Each Piece",
         "v": {
-          "c": "28-Mar-2026",
+          "c": "06-Apr-2026",
           "a": "",
           "rm": "30 pcs sheesham black matt legs"
         },
@@ -881,7 +881,7 @@
         "pm": "Dilip Jangir",
         "cr": "GF & SF Visitor Sofa\nFabric 4m + 2.5m From Client Each Piece",
         "v": {
-          "c": "28-Mar-2026",
+          "c": "06-Apr-2026",
           "a": "",
           "rm": "48 pcs sheesham black matt legs"
         },
@@ -902,7 +902,7 @@
         "pm": "Dilip Jangir",
         "cr": "GF Accent Chair\nFabric 2.5m + 1.5m From Client Each Piece",
         "v": {
-          "c": "28-Mar-2026",
+          "c": "06-Apr-2026",
           "a": "",
           "rm": "first handle sample required"
         },
@@ -923,7 +923,7 @@
         "pm": "Dilip Jangir",
         "cr": "GF Sofa\nFabric 7m + 2.5m From Client Each Piece",
         "v": {
-          "c": "28-Mar-2026",
+          "c": "06-Apr-2026",
           "a": "",
           "rm": "first handle sample required"
         },
@@ -944,7 +944,7 @@
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
         "v": {
-          "c": "30-Mar-2026",
+          "c": "06-Apr-2026",
           "a": "",
           "rm": "Base: Sheesham (Black Matt)"
         },
@@ -1178,27 +1178,6 @@
         "cr": "",
         "v": {
           "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022620",
-        "prod": "Juniper",
-        "var": "Nested",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260310_165350_107573_0004.jpg",
-        "cat": "Daybeds",
-        "mat": "Base: White Oak (Finish TBC)\nBolster: Foam Upholstery (Finish TBC)",
-        "sz": "Outer: W48\" x D26\" x H27\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1sfO_BrnT_8PEJ2BtT857vfmBQyFvHVFA",
-        "des": "Hetvi Shah",
-        "dl": "07-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3162,6 +3141,27 @@
           "c": "07-Apr-2026",
           "a": "",
           "rm": "3 tables"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122523",
+        "prod": "Glick",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_585634_Screenshot_from_2025-12-23_11-58-34.png",
+        "cat": "Storage Cabinets",
+        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "sz": "Outer: W72\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
+        "des": "Hetvi Shah",
+        "dl": "01-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -6279,6 +6279,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "122523",
+        "prod": "Glick",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_585634_Screenshot_from_2025-12-23_11-58-34.png",
+        "cat": "Storage Cabinets",
+        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "sz": "Outer: W72\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
+        "des": "Hetvi Shah",
+        "dl": "01-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122526",
         "prod": "Filini",
         "var": "Tuscany",
@@ -7208,6 +7229,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-03T07:37:26.286Z"
+    "timestamp": "2026-04-03T07:52:24.610Z"
   }
 }
