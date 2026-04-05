@@ -2830,27 +2830,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "022605",
-        "prod": "Mishika",
-        "var": "Kiera",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_181431_973519_Screenshot_2026-02-13_181357.png",
-        "cat": "Office Desks",
-        "mat": "Top: Recycled Teak (Finish TBC)\nCarcass: Recycled Teak (Finish TBC)\nDrawer Fascia: Recycled Teak (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Section A: W84\" x D18\" x H30\"\nSection B: W78\" x D18\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1ipmPUcQNRiD94FAFKn6zvaR1tjUrGhIb",
-        "des": "Hetvi Shah",
-        "dl": "10-Mar-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "052508",
         "prod": "Canetta",
         "var": "Dyson",
@@ -3104,48 +3083,6 @@
       },
       {
         "op": "122504",
-        "prod": "Calton",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Base",
-        "v": {
-          "c": "27-Mar-2026",
-          "a": "",
-          "rm": "ss parts as per drawing given"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Calton",
-        "var": "Vama",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Base",
-        "v": {
-          "c": "27-Mar-2026",
-          "a": "",
-          "rm": "ss parts as per drawing given"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
         "prod": "Cordelia",
         "var": "Quill",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
@@ -3162,27 +3099,6 @@
           "c": "25-Mar-2026",
           "a": "",
           "rm": "cap work"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Jawhead",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nBolster: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W42\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "ss part as per given detail"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3906,48 +3822,6 @@
       },
       {
         "op": "122504",
-        "prod": "Calton",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Base",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "rosegold PVD"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "122504",
-        "prod": "Calton",
-        "var": "Vama",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Base",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "rosegold PVD"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "122504",
         "prod": "Cordelia",
         "var": "Quill",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
@@ -3958,27 +3832,6 @@
         "des": "Hetvi Shah",
         "dl": "09-Feb-2026",
         "q": 8,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "rosegold PVD"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "122504",
-        "prod": "Jawhead",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nBolster: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W42\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
@@ -6893,6 +6746,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-05T13:08:44.558Z"
+    "timestamp": "2026-04-05T13:24:00.301Z"
   }
 }
