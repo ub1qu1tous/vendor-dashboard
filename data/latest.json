@@ -3567,27 +3567,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "122504",
-        "prod": "Jawhead",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260117_155732_052304_pasted_image_1768645669560.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nBolster: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W42\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1ivEbmu5w776d3GAxT9N51ALr3-ePKdXs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "27-Mar-2026",
-          "a": "",
-          "rm": "black matt "
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "122523",
         "prod": "Dax",
         "var": "Vor",
@@ -6725,6 +6704,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-07T14:24:04.668Z"
+    "timestamp": "2026-04-07T14:37:31.098Z"
   }
 }
