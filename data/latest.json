@@ -2831,6 +2831,48 @@
       },
       {
         "op": "052508",
+        "prod": "Abigale",
+        "var": "Resol",
+        "url": "https://i.ibb.co/7WBdWhR/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Structure: 15mm MDF (White PU)\nNiche: 15mm MDF (RAL 8028 Terra Brown)\nDrawer: 15mm MDF (White PU)\nInlay: Stainless Steel 304 Gloss (Gold PVD)\nHandle: Stainless Steel 304 Gloss (Gold PVD)\nBase: 15mm MDF (White PU)",
+        "sz": "Outer: W24\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1-kYwDUkf1tOUQfg4a8kdFr00Gs5juXUg",
+        "des": "Akarsha Jha",
+        "dl": "04-Nov-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "08-Apr-2026",
+          "a": "",
+          "rm": "ss gloss knobs 2 pcs  and ptti"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Abigale",
+        "var": "Vor",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_122158_084853_pasted_image_1771224742030.png",
+        "cat": "Nightstands",
+        "mat": "Structure: 15mm MDF (White PU)\nNiche: 15mm MDF (RAL 8028 Terra Brown)\nDrawer: 15mm MDF (White PU)\nInlay: Stainless Steel 304 Gloss (Gold PVD)\nHandle: Stainless Steel 304 Gloss (Gold PVD)\nBase: 15mm MDF (White PU)",
+        "sz": "Outer: W17.75\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1SF4UpIbNcllAJrzB4zE--UE6EGe6eyqF",
+        "des": "Hetvi Shah",
+        "dl": "26-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "08-Apr-2026",
+          "a": "",
+          "rm": "ss gloss knobs 2 pcs  and ptti"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
         "prod": "Canetta",
         "var": "Dyson",
         "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
@@ -6788,6 +6830,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-07T06:07:36.343Z"
+    "timestamp": "2026-04-07T06:22:26.916Z"
   }
 }
