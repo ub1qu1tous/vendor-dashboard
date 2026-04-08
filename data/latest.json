@@ -2408,6 +2408,48 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "022618",
+        "prod": "Tamsin",
+        "var": "Ester",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_173328_360920_pasted_image_1772712234919.png",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Finish TBC)\nSupport: White Oak (Finish TBC)\nBase: Travertine (Matt Buffing)",
+        "sz": "Outer: W18\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1qQHHkHz4kakp08nBkxX0s_eRgdkjCuEO",
+        "des": "Hetvi Shah",
+        "dl": "29-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022618",
+        "prod": "Wolberg",
+        "var": "Paloma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_181526_102471_pasted_image_1772714752376.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Finish TBC)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W29.5\" x D31.5\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1JvHNBLh__WRZ78HpcIbm3VakTGd-nS8n",
+        "des": "Hetvi Shah",
+        "dl": "07-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-Apr-2026",
+          "a": "",
+          "rm": "white oak( oak wood should be clean )"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "062509",
         "prod": "Cremore",
         "var": "Hilda",
@@ -6767,6 +6809,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-08T08:52:26.657Z"
+    "timestamp": "2026-04-08T09:08:31.098Z"
   }
 }
