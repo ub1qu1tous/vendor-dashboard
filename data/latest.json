@@ -1100,27 +1100,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "022613",
-        "prod": "Zyverra",
-        "var": "Atria",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251117_160758_500025_pasted_image_1763375888138.png",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black)",
-        "sz": "Outer: W17\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1Zv8kFCL_8WrCk57vokpkOBZz8j8BTSYL",
-        "des": "Maulik Parmar",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "4 Mtr\nin case of excess fabric, Give cushion cover complementry",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "022614",
         "prod": "Alex",
         "var": "Kiera",
@@ -2466,7 +2445,7 @@
         "v": {
           "c": "11-Apr-2026",
           "a": "",
-          "rm": "white oak( oak wood should be clean )"
+          "rm": "white oak"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3373,7 +3352,7 @@
         "v": {
           "c": "13-Apr-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "white wash"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -3394,7 +3373,7 @@
         "v": {
           "c": "12-Apr-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "black distress"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -4873,71 +4852,6 @@
           "rm": "PU Only"
         },
         "vendorDisplayName": "Vipra"
-      }
-    ],
-    "srk_readymade_legs": [
-      {
-        "op": "022613",
-        "prod": "Zyverra",
-        "var": "Atria",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251117_160758_500025_pasted_image_1763375888138.png",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black)",
-        "sz": "Outer: W17\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1Zv8kFCL_8WrCk57vokpkOBZz8j8BTSYL",
-        "des": "Maulik Parmar",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "4 Mtr\nin case of excess fabric, Give cushion cover complementry",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "8 Legs"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "062509",
-        "prod": "Neilston",
-        "var": "Lucia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_124228_110375_pasted_image_1772089974089.png",
-        "cat": "Storage Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Mulberry Concept SRN VT 317)\nPlatform: Ply & Foam Upholstery (Magiclean Turri SRN 12)\nBackrest: Foam Upholstery (Magiclean Turri SRN 12)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W80\" x D85\" x H40\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 20\"",
-        "fld": "https://drive.google.com/drive/folders/1vbC3Qa5VVsgA_HtBj9aJ4yL7NO4F1At5",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "062509",
-        "prod": "Yagher",
-        "var": "Nairobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
-        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Sectional Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
     "manish_marble_jaipur": [
@@ -6518,6 +6432,50 @@
         "vendorDisplayName": "Aarti Steel"
       }
     ],
+    "srk_readymade_legs": [
+      {
+        "op": "062509",
+        "prod": "Neilston",
+        "var": "Lucia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_124228_110375_pasted_image_1772089974089.png",
+        "cat": "Storage Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Mulberry Concept SRN VT 317)\nPlatform: Ply & Foam Upholstery (Magiclean Turri SRN 12)\nBackrest: Foam Upholstery (Magiclean Turri SRN 12)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W80\" x D85\" x H40\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1vbC3Qa5VVsgA_HtBj9aJ4yL7NO4F1At5",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "062509",
+        "prod": "Yagher",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
+        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Sectional Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      }
+    ],
     "siddhi_vinayak_marble": [
       {
         "op": "072313",
@@ -6872,6 +6830,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-08T12:52:34.254Z"
+    "timestamp": "2026-04-08T13:07:31.324Z"
   }
 }
