@@ -2681,6 +2681,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "122523",
+        "prod": "Missi",
+        "var": "Morin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
+        "cat": "Mirrors",
+        "mat": "Frame: White Oak (Natural)\nMirror: 4mm Glass (Extra Clear)\nSupport: Wood Plastic Composite (WPC) (White)",
+        "sz": "Outer: W24\" x D22\" x H66\"",
+        "fld": "https://drive.google.com/drive/folders/1n5Q35lJrzik5l6lsXGkzgZXmtGTWEbH2",
+        "des": "Dilip Jangir",
+        "dl": "30-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Mirror",
+        "v": {
+          "c": "10-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "122526",
         "prod": "Filini",
         "var": "Tuscany",
@@ -3580,6 +3601,27 @@
         "q": 3,
         "pm": "Dilip Jangir",
         "cr": "GF Console",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "122523",
+        "prod": "Missi",
+        "var": "Morin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
+        "cat": "Mirrors",
+        "mat": "Frame: White Oak (Natural)\nMirror: 4mm Glass (Extra Clear)\nSupport: Wood Plastic Composite (WPC) (White)",
+        "sz": "Outer: W24\" x D22\" x H66\"",
+        "fld": "https://drive.google.com/drive/folders/1n5Q35lJrzik5l6lsXGkzgZXmtGTWEbH2",
+        "des": "Dilip Jangir",
+        "dl": "30-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Mirror",
         "v": {
           "c": "",
           "a": "",
@@ -5257,6 +5299,27 @@
           "rm": "Add Marble top Black Marquina from Warehouse"
         },
         "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "122523",
+        "prod": "Missi",
+        "var": "Morin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
+        "cat": "Mirrors",
+        "mat": "Frame: White Oak (Natural)\nMirror: 4mm Glass (Extra Clear)\nSupport: Wood Plastic Composite (WPC) (White)",
+        "sz": "Outer: W24\" x D22\" x H66\"",
+        "fld": "https://drive.google.com/drive/folders/1n5Q35lJrzik5l6lsXGkzgZXmtGTWEbH2",
+        "des": "Dilip Jangir",
+        "dl": "30-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Mirror",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
       }
     ],
     "kamlesh_jangid": [
@@ -6704,6 +6767,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-08T07:07:28.457Z"
+    "timestamp": "2026-04-08T07:22:26.365Z"
   }
 }
