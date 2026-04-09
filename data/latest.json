@@ -1164,6 +1164,27 @@
       },
       {
         "op": "022618",
+        "prod": "Beness",
+        "var": "Damon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260408_184732_623016_pasted_image_1775654250810.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W35\" x D33\" x H31\"",
+        "fld": "https://drive.google.com/drive/folders/1f-C8oF3KuhoNLprRLOFDbPTSREEkWogo",
+        "des": "Hetvi Shah",
+        "dl": "08-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "14-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022618",
         "prod": "Wolberg",
         "var": "Paloma",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260305_181526_102471_pasted_image_1772714752376.png",
@@ -2409,6 +2430,27 @@
       },
       {
         "op": "022618",
+        "prod": "Beness",
+        "var": "Damon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260408_184732_623016_pasted_image_1775654250810.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W35\" x D33\" x H31\"",
+        "fld": "https://drive.google.com/drive/folders/1f-C8oF3KuhoNLprRLOFDbPTSREEkWogo",
+        "des": "Hetvi Shah",
+        "dl": "08-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022618",
         "prod": "Tamsin",
         "var": "Ester",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260305_173328_360920_pasted_image_1772712234919.png",
@@ -3332,6 +3374,27 @@
           "c": "06-Jan-2026",
           "a": "",
           "rm": "black distress"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "022618",
+        "prod": "Beness",
+        "var": "Damon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260408_184732_623016_pasted_image_1775654250810.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W35\" x D33\" x H31\"",
+        "fld": "https://drive.google.com/drive/folders/1f-C8oF3KuhoNLprRLOFDbPTSREEkWogo",
+        "des": "Hetvi Shah",
+        "dl": "08-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "13-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -6830,6 +6893,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-09T06:07:33.557Z"
+    "timestamp": "2026-04-09T06:22:29.327Z"
   }
 }
