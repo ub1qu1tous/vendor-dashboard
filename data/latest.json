@@ -2555,6 +2555,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "042609",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W48\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "062509",
         "prod": "Cremore",
         "var": "Hilda",
@@ -2904,27 +2925,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "042609",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -3672,6 +3672,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "042609",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W48\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "062509",
         "prod": "Baku",
         "var": "Numin",
@@ -3958,27 +3979,6 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "FF Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "042609",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -5086,6 +5086,27 @@
       }
     ],
     "manish_marble_jaipur": [
+      {
+        "op": "012624",
+        "prod": "Dorothy",
+        "var": "Typex",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_174742_416152_pasted_image_1772281077812.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/16L4eWjz3nfFCMYRGBWsGrxA3oTVPdeKC",
+        "des": "Dilip Jangir",
+        "dl": "08-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "06-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
       {
         "op": "022618",
         "prod": "Olympia",
@@ -6977,6 +6998,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-10T16:24:57.727Z"
+    "timestamp": "2026-04-10T16:39:18.172Z"
   }
 }
