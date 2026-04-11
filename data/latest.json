@@ -3187,6 +3187,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "042510",
+        "prod": "Omelle",
+        "var": "Gratia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
+        "cat": "Study Tables",
+        "mat": "Shelf: Oak Veneer (Natural)",
+        "sz": "Outer: W75\" x D24\" x H2\"",
+        "fld": "https://drive.google.com/drive/folders/1e2hFU3wsBMncyT5SU63msHAaWDw-Ef5y",
+        "des": "Hetvi Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom - Study Table",
+        "v": {
+          "c": "01-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "052508",
         "prod": "Abigale",
         "var": "Resol",
@@ -7166,6 +7187,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-11T06:37:29.490Z"
+    "timestamp": "2026-04-11T06:52:48.207Z"
   }
 }
