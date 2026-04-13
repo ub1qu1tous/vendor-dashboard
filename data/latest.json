@@ -1900,6 +1900,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "042602",
+        "prod": "Beaver",
+        "var": "Elin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_162221_423285_pasted_image_1775213539079.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
+        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
+        "des": "Hetvi Shah",
+        "dl": "13-Apr-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "052508",
         "prod": "Ajax",
         "var": "Juniper",
@@ -2651,6 +2672,27 @@
         "dl": "27-Mar-2026",
         "q": 1,
         "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "042602",
+        "prod": "Beaver",
+        "var": "Elin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_162221_423285_pasted_image_1775213539079.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
+        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
+        "des": "Hetvi Shah",
+        "dl": "13-Apr-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -3815,6 +3857,27 @@
           "c": "28-Mar-2026",
           "a": "",
           "rm": "Natural Finish on 4 pc Benches"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "042602",
+        "prod": "Beaver",
+        "var": "Elin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_162221_423285_pasted_image_1775213539079.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
+        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
+        "des": "Hetvi Shah",
+        "dl": "13-Apr-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -7082,6 +7145,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-13T12:52:28.540Z"
+    "timestamp": "2026-04-13T13:07:27.671Z"
   }
 }
