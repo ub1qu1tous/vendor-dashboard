@@ -3714,27 +3714,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "022616",
-        "prod": "Malmo",
-        "var": "Deepa",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_134903_432250_Screenshot_2026-02-27_150653.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Black Distressed/Charcoal)\nBase: Stainless Steel 304 Matt (Matt Buffing)",
-        "sz": "Outer: W48\" x D24\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1Ju9WzPXpXzdVca7Rzsg9iaBDuov6dMIp",
-        "des": "Dilip Jangir",
-        "dl": "24-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "06-Jan-2026",
-          "a": "",
-          "rm": "black distress"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "022618",
         "prod": "Beness",
         "var": "Damon",
@@ -7103,6 +7082,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-13T15:37:28.760Z"
+    "timestamp": "2026-04-13T15:52:27.632Z"
   }
 }
