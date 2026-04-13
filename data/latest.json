@@ -946,7 +946,7 @@
         "v": {
           "c": "06-Apr-2026",
           "a": "",
-          "rm": "first handle sample required"
+          "rm": "first handle sample required, then 2 left , 2 right handle"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -967,7 +967,7 @@
         "v": {
           "c": "06-Apr-2026",
           "a": "",
-          "rm": "first handle sample required"
+          "rm": "first handle sample required, then 2 left , 2 right handle"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -989,6 +989,27 @@
           "c": "06-Apr-2026",
           "a": "",
           "rm": "Base: Sheesham (Black Matt)"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122523",
+        "prod": "Cheryl",
+        "var": "Willis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_112448_041950_pasted_image_1775195687240.png",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Natural)\nMounting: White Oak (Natural)\nBase: White Oak (Black Matt)",
+        "sz": "Outer: W23\" x D23\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1djlq7b9DMbr5_GVGFDj35cUqiyi1UQgL",
+        "des": "Hetvi Shah",
+        "dl": "08-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "GF Accent Table",
+        "v": {
+          "c": "19-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -3052,7 +3073,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "28-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5099,9 +5120,9 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "07-Apr-2026",
           "a": "",
-          "rm": "PU Only"
+          "rm": "PU and drawer making, push open channel"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5120,7 +5141,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "07-Apr-2026",
           "a": "",
           "rm": "PU Only"
         },
@@ -6958,7 +6979,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "07-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7082,6 +7103,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-13T15:52:27.632Z"
+    "timestamp": "2026-04-13T16:07:34.712Z"
   }
 }
