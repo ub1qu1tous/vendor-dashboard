@@ -4959,27 +4959,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "082412",
-        "prod": "Ticknock",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_155945_841814_0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Asianpaints Fare)\nPlatform: Ply & Foam Upholstery (Asianpaints Fare)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W72\" x D83.5\" x H56\"\nMattress: W66\" x D78\" x H8\"",
-        "fld": "https://drive.google.com/drive/folders/1aaiZKTJ2eE8qN5zJAkDTqDEyZIoW6Ekf",
-        "des": "Tanmay Shah",
-        "dl": "09-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parents Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Mattress Ply Size: 1670x1980\nVipra Wooden dark laminate must be used as per discussion."
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "092535",
         "prod": "Aamon",
         "var": "Thruhiker",
@@ -7103,6 +7082,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-13T06:37:33.071Z"
+    "timestamp": "2026-04-13T06:52:35.240Z"
   }
 }
