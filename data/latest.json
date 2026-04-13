@@ -5316,27 +5316,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "122504",
-        "prod": "Passini",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_171741_390285_pasted_image_1767700077583.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nPlatform: Ply & Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)\nTop: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/19iQTbEZhlEz_Sr9nsKhI8EenjVGThagW",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
     "aws": [
@@ -7103,6 +7082,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-13T17:24:15.563Z"
+    "timestamp": "2026-04-13T17:37:27.227Z"
   }
 }
