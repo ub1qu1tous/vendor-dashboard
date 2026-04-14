@@ -3819,27 +3819,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "022621",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "29-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "042602",
         "prod": "Beaver",
         "var": "Elin",
@@ -4009,48 +3988,6 @@
       },
       {
         "op": "082524",
-        "prod": "Clonliff",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120753_162910_Screenshot_2025-09-12_151716.png",
-        "cat": "Windows",
-        "mat": "Frame: Sheesham (Rich Tobacco)",
-        "sz": "Outer: W54\" x D6\" x H60\"",
-        "fld": "https://drive.google.com/drive/folders/1BNmtINpOJxztGCxJRtqPnKcPBKR3r93T",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "This product has a double sided wooden frame to accommodate total of four windows (two on either side).",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "Rich Tobacco Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "082524",
-        "prod": "Coombs",
-        "var": "Brittany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120737_488711_Screenshot_2025-09-12_140949.png",
-        "cat": "Windows",
-        "mat": "Frame: Sheesham (Rich Tobacco)",
-        "sz": "Outer: W76\" x D7.5\" x H69\"",
-        "fld": "https://drive.google.com/drive/folders/1SfQXYr44WEWope5rYUysrEXZdKeEaeYP",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "Rich Tobacco Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "082524",
         "prod": "Croydon",
         "var": "Kylar",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120718_331100_Screenshot_2025-09-12_151648.png",
@@ -4067,27 +4004,6 @@
           "c": "07-Oct-2025",
           "a": "",
           "rm": "Rich Tobacco Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "092416",
-        "prod": "Coringa",
-        "var": "Jaguar",
-        "url": "https://i.ibb.co/qr4GVXj/0001.jpg",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Ferrow 24418 Caramel Shade No 15)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W72\" x D21\" x H16\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1wX84oWZ82I3NDzMoMbUzdkRbStt9yfbN",
-        "des": "Akarsha Jha",
-        "dl": "18-Nov-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM;\nSAME LEATHER As Sloane Quartz",
-        "v": {
-          "c": "30-Jun-2025",
-          "a": "",
-          "rm": "black matt"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -7082,6 +6998,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-14T05:54:31.085Z"
+    "timestamp": "2026-04-14T06:07:25.509Z"
   }
 }
