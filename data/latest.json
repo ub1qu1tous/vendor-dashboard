@@ -522,11 +522,11 @@
         "dl": "01-Jan-2010",
         "q": 6,
         "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
+        "cr": "",
         "v": {
           "c": "30-Mar-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Black Polish"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1490,7 +1490,7 @@
         "dl": "01-Jan-2010",
         "q": 6,
         "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
+        "cr": "",
         "v": {
           "c": "30-Mar-2026",
           "a": "",
@@ -2122,7 +2122,7 @@
         "dl": "01-Jan-2010",
         "q": 6,
         "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -4496,27 +4496,6 @@
       },
       {
         "op": "052508",
-        "prod": "Dellamon",
-        "var": "Cappuccino",
-        "url": "https://i.ibb.co/1K3K8Kx/0001.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Newton Grey (Mirror PU Lamination)\nBase: Stainless Steel 304 Gloss (Black PVD)\nSupport: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W72\" x D36\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1bxC-koDhgB2iX_gOsfgMlAz37yDwP8c8",
-        "des": "Akhilesh Yadav",
-        "dl": "02-Jul-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052508",
         "prod": "Hilton",
         "var": "Baltic",
         "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
@@ -6352,7 +6331,7 @@
         "dl": "02-Jul-2022",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Dining table top and chair structure have the same finish\n",
+        "cr": "",
         "v": {
           "c": "28-Mar-2026",
           "a": "",
@@ -7229,6 +7208,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-14T06:52:21.397Z"
+    "timestamp": "2026-04-14T07:07:35.917Z"
   }
 }
