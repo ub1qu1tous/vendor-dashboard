@@ -3186,48 +3186,6 @@
       },
       {
         "op": "122526",
-        "prod": "Filini",
-        "var": "Tuscany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260316_130254_134975_pasted_image_1773646402611.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (Deluxe-02 Frosty White)\nDrawer Fascia: HDHMR (White PU)",
-        "sz": "Outer: W14\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/14R0JjwoCsc2eufbPT7gEkudqWxOnnman",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122526",
-        "prod": "Gibson",
-        "var": "Ambrosio",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_102954_829314_pasted_image_1773896394166.png",
-        "cat": "Accent Tables",
-        "mat": "Top: HDHMR (Black Matt PU)\nBase: HDHMR (White PU)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1tKBKlpdCHwNPlaAV0lXsvia10gnFbDZU",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122526",
         "prod": "Hank",
         "var": "Kenji",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
@@ -5204,7 +5162,7 @@
         "pm": "Maulik Parmar",
         "cr": "Match Fabric for PU Colour",
         "v": {
-          "c": "",
+          "c": "07-Apr-2026",
           "a": "",
           "rm": "PU Only"
         },
@@ -7250,6 +7208,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-14T17:52:28.469Z"
+    "timestamp": "2026-04-14T18:07:27.402Z"
   }
 }
