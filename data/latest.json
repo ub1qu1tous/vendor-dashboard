@@ -3987,27 +3987,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "082524",
-        "prod": "Croydon",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251013_120718_331100_Screenshot_2025-09-12_151648.png",
-        "cat": "Windows",
-        "mat": "Frame: Sheesham (Rich Tobacco)",
-        "sz": "Outer: W60\" x D2.5\" x H54\"",
-        "fld": "https://drive.google.com/drive/folders/1j0RDOXIwyfCLXczdCqgW1yplZAnjrsNW",
-        "des": "Dipen Gada",
-        "dl": "27-Aug-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2025",
-          "a": "",
-          "rm": "Rich Tobacco Finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "092519",
         "prod": "Hylos",
         "var": "Pique",
@@ -6998,6 +6977,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-14T06:07:25.509Z"
+    "timestamp": "2026-04-14T06:22:25.309Z"
   }
 }
