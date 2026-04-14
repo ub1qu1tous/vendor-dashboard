@@ -484,7 +484,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Please make Legs solid.\nAgar leg ka dia kam lag raha ho marble ka weight uthane k liye, to dia bdha skte hai."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -7250,6 +7250,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-14T07:22:22.679Z"
+    "timestamp": "2026-04-14T07:37:27.306Z"
   }
 }
