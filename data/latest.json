@@ -4724,6 +4724,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "042613",
+        "prod": "Bram",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
+        "sz": "Outer: W64\" x D64\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
+        "des": "Dilip Jangir",
+        "dl": "15-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "vipra": [
@@ -7068,6 +7089,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "042613",
+        "prod": "Bram",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
+        "sz": "Outer: W64\" x D64\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
+        "des": "Dilip Jangir",
+        "dl": "15-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
       }
     ],
     "the_lighting_studio": [
@@ -7183,10 +7225,31 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Art Room"
+      },
+      {
+        "op": "042613",
+        "prod": "Bram",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
+        "sz": "Outer: W64\" x D64\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
+        "des": "Dilip Jangir",
+        "dl": "15-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Art Room"
       }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-15T09:07:24.569Z"
+    "timestamp": "2026-04-15T09:22:27.727Z"
   }
 }
