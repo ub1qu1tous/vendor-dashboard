@@ -4622,27 +4622,6 @@
       },
       {
         "op": "062509",
-        "prod": "Symphonica",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250901_120052_672128_pasted_image_1756708255714.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Mild Steel (Blue Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W27\" x D1\" x H75\"",
-        "fld": "https://drive.google.com/drive/folders/1W7UQx_36ENIByFH85iXUyHo1eiTWYuU8",
-        "des": "Dilip Jangir",
-        "dl": "15-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062509",
         "prod": "Wicklow",
         "var": "Nested",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260214_113934_019524_Screenshot_2026-02-14_113648.png",
@@ -6503,7 +6482,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "5mm extra clear"
         },
         "vendorDisplayName": "Vishwakarma Glass"
       }
@@ -7208,6 +7187,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-15T05:37:25.722Z"
+    "timestamp": "2026-04-15T05:53:13.535Z"
   }
 }
