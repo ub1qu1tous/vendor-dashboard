@@ -4579,6 +4579,27 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
+        "op": "042613",
+        "prod": "Bram",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
+        "sz": "Outer: W64\" x D64\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
+        "des": "Dilip Jangir",
+        "dl": "15-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
         "op": "052318",
         "prod": "Delilah",
         "var": "Neymar",
@@ -4843,27 +4864,6 @@
         "dl": "28-Dec-2021",
         "q": 3,
         "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "042613",
-        "prod": "Bram",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
-        "sz": "Outer: W64\" x D64\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
-        "des": "Dilip Jangir",
-        "dl": "15-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -6548,6 +6548,157 @@
         "vendorDisplayName": "Jain Marble"
       }
     ],
+    "mandap": [
+      {
+        "op": "042613",
+        "prod": "Bram",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
+        "sz": "Outer: W64\" x D64\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
+        "des": "Dilip Jangir",
+        "dl": "15-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "082520",
+        "prod": "Marrion",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W46\" x D28\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
+        "des": "Tanmay Shah",
+        "dl": "03-Sept-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "122504",
+        "prod": "Kittens",
+        "var": "Gul",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_132223_090192_pasted_image_1771055566657.png",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Black Matt)\nBase: White Oak (Black Matt)",
+        "sz": "Outer: W20\" x D20\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1C0j2vfsaBU7xzJdC8Fd4oOWwINz_crX6",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "122504",
+        "prod": "Ronav",
+        "var": "Lance",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172132_099920_pasted_image_1767700308101.png",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Black Matt)\nBase: White Oak (Black Matt)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1jmf3P7GYCaxzyVdzp9y-ElXTMa84P36x",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "122526",
+        "prod": "Dormer",
+        "var": "Lorraine",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260316_153830_200278_pasted_image_1773655734176.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Carrara (Mirror Buffing)\nBase: White Oak (Black Matt)",
+        "sz": "Outer: W21\" x D21\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1GV1bc9Nr_-oRdVgWfqRx9w86iVXilmVu",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "07-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      }
+    ],
+    "the_art_room": [
+      {
+        "op": "042613",
+        "prod": "Bram",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
+        "sz": "Outer: W64\" x D64\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
+        "des": "Dilip Jangir",
+        "dl": "15-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Art Room"
+      },
+      {
+        "op": "122526",
+        "prod": "Hank",
+        "var": "Kenji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nMounting: Mild Steel (Finish TBC)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
+        "sz": "Outer: W22\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Match Fabric for PU Colour",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Art Room"
+      }
+    ],
     "vishwakarma_glass": [
       {
         "op": "052318",
@@ -7131,113 +7282,6 @@
         "vendorDisplayName": "Anil Engineers"
       }
     ],
-    "mandap": [
-      {
-        "op": "082520",
-        "prod": "Marrion",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W46\" x D28\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "122504",
-        "prod": "Kittens",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_132223_090192_pasted_image_1771055566657.png",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Black Matt)\nBase: White Oak (Black Matt)",
-        "sz": "Outer: W20\" x D20\" x H21\"",
-        "fld": "https://drive.google.com/drive/folders/1C0j2vfsaBU7xzJdC8Fd4oOWwINz_crX6",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "122504",
-        "prod": "Ronav",
-        "var": "Lance",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172132_099920_pasted_image_1767700308101.png",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Black Matt)\nBase: White Oak (Black Matt)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1jmf3P7GYCaxzyVdzp9y-ElXTMa84P36x",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "122526",
-        "prod": "Dormer",
-        "var": "Lorraine",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260316_153830_200278_pasted_image_1773655734176.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Carrara (Mirror Buffing)\nBase: White Oak (Black Matt)",
-        "sz": "Outer: W21\" x D21\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1GV1bc9Nr_-oRdVgWfqRx9w86iVXilmVu",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "042613",
-        "prod": "Bram",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
-        "sz": "Outer: W64\" x D64\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
-        "des": "Dilip Jangir",
-        "dl": "15-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      }
-    ],
     "the_lighting_studio": [
       {
         "op": "092518",
@@ -7329,53 +7373,9 @@
         },
         "vendorDisplayName": "Shital Glass"
       }
-    ],
-    "the_art_room": [
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (Finish TBC)\nMounting: Mild Steel (Finish TBC)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      },
-      {
-        "op": "042613",
-        "prod": "Bram",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
-        "sz": "Outer: W64\" x D64\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
-        "des": "Dilip Jangir",
-        "dl": "15-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-16T14:07:55.362Z"
+    "timestamp": "2026-04-16T14:22:28.069Z"
   }
 }
