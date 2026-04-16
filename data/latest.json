@@ -1,112 +1,5 @@
 {
   "vendors": {
-    "umiya_glass": [
-      {
-        "op": "012412",
-        "prod": "Ebba",
-        "var": "Bianca",
-        "url": "https://i.ibb.co/56gjRs5/Screenshot-from-2024-01-16-15-41-53.jpg",
-        "cat": "Accessories",
-        "mat": "Mirror: 4mm Glass (Golden Mirror)",
-        "sz": "Outer: W49.72\" x D0.15\" x H113.03\"",
-        "fld": "https://drive.google.com/drive/folders/1vSNNH7nkHs1ctuCAGHFkrEwlHLZA63Jo",
-        "des": "Alpesh Kinariwala",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Amish Parmar",
-        "cr": "Size: 2490mm( W ) x 1652(H)",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Glass as selected from Pravin bhai"
-        },
-        "vendorDisplayName": "Umiya Glass"
-      },
-      {
-        "op": "012412",
-        "prod": "Nils",
-        "var": "Amara",
-        "url": "https://i.ibb.co/G9dkqmx/Screenshot-from-2024-01-16-15-38-37.jpg",
-        "cat": "Accessories",
-        "mat": "Mirror: 4mm Glass (Golden Mirror)",
-        "sz": "Outer: W99.21\" x D0.15\" x H103.74\"",
-        "fld": "https://drive.google.com/drive/folders/15HQ5Dh4lsnfAtSxPl2CtFeOgdsLGjs60",
-        "des": "Alpesh Kinariwala",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "There are 2 arc farma as per site need to make 4mm gold mirror as per selection and 2 straight glass as per Sizes in source folder need to make same gold mirror as per selction",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Glass as selected from Pravin bhai"
-        },
-        "vendorDisplayName": "Umiya Glass"
-      },
-      {
-        "op": "012412",
-        "prod": "Skaadi",
-        "var": "Demus",
-        "url": "https://i.ibb.co/PM5TzHm/Screenshot-from-2024-01-16-15-48-08.jpg",
-        "cat": "Other",
-        "mat": "Mirror: 4mm Glass (Brown Tinted)",
-        "sz": "Outer: W11.14\" x D0.15\" x H60.5\"",
-        "fld": "https://drive.google.com/drive/folders/1iWqADpV3JjT3mBsKgTLdxooOqP3i98i6",
-        "des": "Alpesh Kinariwala",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "Only need to make Brown tinted glass \nboth left and right doors sizes are as per groove \nSizes: Left door : 280mm x 1537mm \nRight Door: 265mm x 1597mm",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Glass as selected from Pravin bhai"
-        },
-        "vendorDisplayName": "Umiya Glass"
-      },
-      {
-        "op": "012412",
-        "prod": "Solvig",
-        "var": "Cello",
-        "url": "https://i.ibb.co/TbFWzfc/Screenshot-from-2024-01-16-15-45-38.jpg",
-        "cat": "Mirrors",
-        "mat": "Mirror: 8mm Glass (Light Brown)\nSupport: 12mm Plywood (Natural)",
-        "sz": "Outer: W20.43\" x D1.29\" x H44.4\"",
-        "fld": "https://drive.google.com/drive/folders/1FiAfVlljWVb95uqEXLEgBSOCGqw76bCn",
-        "des": "Alpesh Kinariwala",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "Only need to make light brown laminated mirror pasted on 12mm ply wood \nSizes : 519mm x 1110mm\nNote : Ply offset 12mm from mirror size for light\nSize: 481mm x 1091mm ",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Glass as selected from Pravin bhai"
-        },
-        "vendorDisplayName": "Umiya Glass"
-      },
-      {
-        "op": "052413",
-        "prod": "Ingham",
-        "var": "Bullion",
-        "url": "https://i.ibb.co/tsFFhN9/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: 10mm Back-painted Glass (RAL 9010 Pure White)\nBase: Mild Steel (RAL 9010 Pure White)",
-        "sz": "Outer: W36\" x D36\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/11Cw-l9goBVO9-qL77lIFS5TdJo_JzUem",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Umiya Glass"
-      }
-    ],
     "krisha_lights": [
       {
         "op": "012417",
@@ -2842,7 +2735,7 @@
         "pm": "Dilip Jangir",
         "cr": "Marble will provided by client.",
         "v": {
-          "c": "",
+          "c": "09-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2863,7 +2756,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "09-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2884,7 +2777,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "09-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2905,7 +2798,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "09-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3390,9 +3283,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "09-Apr-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "32mm round pipe and plate fitting as per drawing shared"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3411,9 +3304,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "09-Apr-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "32mm round pipe and plate fitting as per drawing shared"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3483,27 +3376,6 @@
       {
         "op": "052508",
         "prod": "Abigale",
-        "var": "Resol",
-        "url": "https://i.ibb.co/7WBdWhR/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Structure: 15mm MDF (White PU)\nNiche: 15mm MDF (RAL 8028 Terra Brown)\nDrawer: 15mm MDF (White PU)\nInlay: Stainless Steel 304 Gloss (Gold PVD)\nHandle: Stainless Steel 304 Gloss (Gold PVD)\nBase: 15mm MDF (White PU)",
-        "sz": "Outer: W24\" x D15\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1-kYwDUkf1tOUQfg4a8kdFr00Gs5juXUg",
-        "des": "Akarsha Jha",
-        "dl": "04-Nov-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "08-Apr-2026",
-          "a": "",
-          "rm": "ss gloss knobs 2 pcs  and ptti"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Abigale",
         "var": "Vor",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260216_122158_084853_pasted_image_1771224742030.png",
         "cat": "Nightstands",
@@ -3524,27 +3396,6 @@
       },
       {
         "op": "052508",
-        "prod": "Canetta",
-        "var": "Dyson",
-        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Limited Edition Hashtag 40023)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
-        "des": "Ravi Malladi",
-        "dl": "14-Dec-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "12-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
         "prod": "Hilton",
         "var": "Baltic",
         "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
@@ -3558,9 +3409,9 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "14-Apr-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "577 in to in dimesnion required"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4304,48 +4155,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "052508",
-        "prod": "Canetta",
-        "var": "Dyson",
-        "url": "https://i.ibb.co/pL3ggC1/a0002.jpg",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Limited Edition Hashtag 40023)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W19\" x D19\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1baKuA2mvL5k7_0O4R3guOX2dUaOc9gbc",
-        "des": "Ravi Malladi",
-        "dl": "14-Dec-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "052508",
-        "prod": "Hilton",
-        "var": "Baltic",
-        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
-        "des": "Parth Gada",
-        "dl": "22-May-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
@@ -4636,27 +4445,6 @@
         "cr": "",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "052508",
-        "prod": "Portulaca",
-        "var": "Sania",
-        "url": "https://i.ibb.co/7tYJWvn/Sania-3.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W24\" x D24\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1aYDQrvZJaG1ldcxPeFcwhRRDiZ4tppO1",
-        "des": "Hetvi Shah",
-        "dl": "22-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "23-Mar-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6701,92 +6489,6 @@
         "vendorDisplayName": "The Art Room"
       }
     ],
-    "vishwakarma_glass": [
-      {
-        "op": "052318",
-        "prod": "Colbert",
-        "var": "Ewan",
-        "url": "https://i.ibb.co/TtPBMqp/a0006IBB.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: 12mm Glass (Black Tinted)\nFrame: Recycled Teak (Natural)",
-        "sz": "Outer: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/12hBpDCt7YA7jPxsqqVX1zkX8mDKUI0kQ",
-        "des": "Priya Patel",
-        "dl": "23-Jun-2023",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "062509",
-        "prod": "Ennis",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_162714_445291_pasted_image_1773831433166.png",
-        "cat": "Mirrors",
-        "mat": "Base: Stainless Steel 304 Matt (Gold PVD)\nMounting: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nMirror: 5mm Glass (Extra Clear)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D7.5\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1KuhUKLarw8ESVYD7xjJfX7VrLAYLXMJS",
-        "des": "Dilip Jangir",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "6mm extra clear"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "062509",
-        "prod": "Marino",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_153413_360946_pasted_image_1766052267225.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W30\" x D1.5\" x H78\"",
-        "fld": "https://drive.google.com/drive/folders/1_KI_E7CAvhlpVLWYIhEBdkGX0HqKwdq0",
-        "des": "Dilip Jangir",
-        "dl": "01-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Mirror",
-        "v": {
-          "c": "13-Mar-2026",
-          "a": "",
-          "rm": "5mm mirror"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "062509",
-        "prod": "Symphonica",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250901_120052_672128_pasted_image_1756708255714.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Mild Steel (Blue Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W27\" x D1\" x H75\"",
-        "fld": "https://drive.google.com/drive/folders/1W7UQx_36ENIByFH85iXUyHo1eiTWYuU8",
-        "des": "Dilip Jangir",
-        "dl": "15-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "5mm extra clear"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      }
-    ],
     "casa_creations": [
       {
         "op": "052508",
@@ -7173,6 +6875,71 @@
         "vendorDisplayName": "Ashok Polish"
       }
     ],
+    "vishwakarma_glass": [
+      {
+        "op": "062509",
+        "prod": "Ennis",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_162714_445291_pasted_image_1773831433166.png",
+        "cat": "Mirrors",
+        "mat": "Base: Stainless Steel 304 Matt (Gold PVD)\nMounting: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nMirror: 5mm Glass (Extra Clear)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W30\" x D7.5\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1KuhUKLarw8ESVYD7xjJfX7VrLAYLXMJS",
+        "des": "Dilip Jangir",
+        "dl": "06-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Mirror",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "6mm extra clear"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      },
+      {
+        "op": "062509",
+        "prod": "Marino",
+        "var": "Tyler",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_153413_360946_pasted_image_1766052267225.png",
+        "cat": "Mirrors",
+        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W30\" x D1.5\" x H78\"",
+        "fld": "https://drive.google.com/drive/folders/1_KI_E7CAvhlpVLWYIhEBdkGX0HqKwdq0",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Mirror",
+        "v": {
+          "c": "13-Mar-2026",
+          "a": "",
+          "rm": "5mm mirror"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      },
+      {
+        "op": "062509",
+        "prod": "Symphonica",
+        "var": "Vor",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250901_120052_672128_pasted_image_1756708255714.png",
+        "cat": "Mirrors",
+        "mat": "Frame: Mild Steel (Blue Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W27\" x D1\" x H75\"",
+        "fld": "https://drive.google.com/drive/folders/1W7UQx_36ENIByFH85iXUyHo1eiTWYuU8",
+        "des": "Dilip Jangir",
+        "dl": "15-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Mirror",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "5mm extra clear"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      }
+    ],
     "srk_readymade_legs": [
       {
         "op": "062509",
@@ -7378,6 +7145,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-16T16:52:29.151Z"
+    "timestamp": "2026-04-16T17:07:28.442Z"
   }
 }
