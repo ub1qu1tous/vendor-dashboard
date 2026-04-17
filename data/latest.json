@@ -2658,90 +2658,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "032607",
-        "prod": "Decorat",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131850_271848_pasted_image_1776412129201.png",
-        "cat": "Reception Counters",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nStructure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (Grey Powder Coat)\nSkirting: Laminate (Deluxe-100 Gothic Grey)",
-        "sz": "Outer: W16.7\" x D16.7\" x H30\"\nBig outer: W25.4\" x D25.4\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1MEklQ9j73qKNuydxCkzRIRzVgDThBHxD",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Marble will provided by client.",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "032607",
-        "prod": "Espana",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131308_709952_pasted_image_1776411787497.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W23\" x D23\" x H49.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Jb6lTHX0w6WKEqCr3vvCR2mMx-zF9hOr",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "032607",
-        "prod": "Espana",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131203_343368_pasted_image_1776411721849.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W23\" x D23\" x H44\"",
-        "fld": "https://drive.google.com/drive/folders/1iwOnhu8GAfEYutDdKB2SZ2BUyxvcqNHe",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "032607",
-        "prod": "Lavina",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131408_267013_pasted_image_1776411847234.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nFixture: SS Wire Rope ()",
-        "sz": "Outer: W23\" x D23\" x H57\"",
-        "fld": "https://drive.google.com/drive/folders/14esMPv-gi6oNSKC6D_wG6yhEk3bXO-P6",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "042602",
         "prod": "Beaver",
         "var": "Elin",
@@ -2885,27 +2801,6 @@
           "c": "30-Mar-2026",
           "a": "",
           "rm": "Dublin Mousse ka sample bhejege aapko, uske upar se Dublin Quitero bnana hai. Width and Height as per Sheet and Depth badhegi 1-1.5\" to chalega"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Fibbsinn",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_115548_280003_pasted_image_1773901547501.png",
-        "cat": "Study Tables",
-        "mat": "Structure: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)\nInternal Carcass: Laminate (Finish TBC)\nTop: Marble TBC (Mirror Buffing)",
-        "sz": "Outer: W42\" x D24\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1POPAihn7YcQ_WVxCZ6z6bGDm5CwTGYdV",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Study Table",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Push to open channel set ho aese bnana hai.\nUpr marble aaeyga, Marble chipka sake aur leg proper fix ho sake aese bnaiyega"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -6553,6 +6448,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-17T14:22:24.842Z"
+    "timestamp": "2026-04-17T14:37:24.714Z"
   }
 }
