@@ -3099,512 +3099,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
-    "arbuda_metal": [
-      {
-        "op": "012624",
-        "prod": "Cordia",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/ssBCVWP/z-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nFrame: Mild Steel (Black Powder Coat)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W17\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1E7icaKxWihJjiI4rAXDu8Fp9vr91atfP",
-        "des": "Tarishi Rathore",
-        "dl": "02-Mar-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "012624",
-        "prod": "Temenos",
-        "var": "Tau",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260228_175046_508410_pasted_image_1772281260386.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Black Powder Coat)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSupport: 18mm MDF (White Matt Duco)",
-        "sz": "Outer: W21\" x D21\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1abQII1SKEJYjrqUokq-p-78LTypSdbbp",
-        "des": "Dilip Jangir",
-        "dl": "16-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "23-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "012624",
-        "prod": "Temenos",
-        "var": "Warren",
-        "url": "https://i.ibb.co/zJGcN1F/v02.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Black Powder Coat)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSupport: 18mm MDF (White Matt Duco)",
-        "sz": "Outer: W54\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1CjL-wWN2sySvw7hbADdnq7HADQO9vwQL",
-        "des": "Dilip Jangir",
-        "dl": "16-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "23-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "022614",
-        "prod": "Asperula",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/wQ7yC4h/a0006IBB.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1doP2HNZke2JvBnCPlia9WiER5O6L57zS",
-        "des": "Akarsha Jha",
-        "dl": "17-Jun-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "032607",
-        "prod": "Arcadia",
-        "var": "Dahlia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (D'Decor INFINITY 314 Gery)\nOutside Back: Foam Upholstery (D'Decor  INFINITY 332 Green)\nFrame: Stainless Steel 304 Matt (Gold PVD)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W84\" x D30\" x H30\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1nhOmSI_L7rrW-ENKf9JkAIV4bVE_s9SV",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "We need to select fabric",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "032607",
-        "prod": "Espana",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_142601_761957_pasted_image_1774515360067.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W23\" x D23\" x H49.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Jb6lTHX0w6WKEqCr3vvCR2mMx-zF9hOr",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "32mm round pipe and plate fitting as per drawing shared"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "032607",
-        "prod": "Espana",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_142637_769813_pasted_image_1774515396475.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W23\" x D23\" x H44\"",
-        "fld": "https://drive.google.com/drive/folders/1iwOnhu8GAfEYutDdKB2SZ2BUyxvcqNHe",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "32mm round pipe and plate fitting as per drawing shared"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042510",
-        "prod": "Omelle",
-        "var": "Gratia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
-        "cat": "Study Tables",
-        "mat": "Shelf: Oak Veneer (Natural)",
-        "sz": "Outer: W75\" x D24\" x H2\"",
-        "fld": "https://drive.google.com/drive/folders/1e2hFU3wsBMncyT5SU63msHAaWDw-Ef5y",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom - Study Table",
-        "v": {
-          "c": "01-Apr-2026",
-          "a": "",
-          "rm": "metal frame in 15x15 sq. pipe and 12mm stud  8 inch long ms"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042607",
-        "prod": "Endsville",
-        "var": "Marbella",
-        "url": "https://i.ibb.co/NrHDK4z/dinning-table.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Recycled Teak (Natural)\nBeading: Recycled Teak (Natural)\nSupport: 8mm MDF (White Matt Duco)\nLegs: Banswada White (Mirror Buffing)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W96\" x D48\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1wYsCFmlmr-9s-WTyCujtkU9V1h0TyIyq",
-        "des": "Tarishi Rathore",
-        "dl": "19-Apr-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Abigale",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_122158_084853_pasted_image_1771224742030.png",
-        "cat": "Nightstands",
-        "mat": "Structure: 15mm MDF (White PU)\nNiche: 15mm MDF (RAL 8028 Terra Brown)\nDrawer: 15mm MDF (White PU)\nInlay: Stainless Steel 304 Gloss (Gold PVD)\nHandle: Stainless Steel 304 Gloss (Gold PVD)\nBase: 15mm MDF (White PU)",
-        "sz": "Outer: W17.75\" x D15\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1SF4UpIbNcllAJrzB4zE--UE6EGe6eyqF",
-        "des": "Hetvi Shah",
-        "dl": "26-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "08-Apr-2026",
-          "a": "",
-          "rm": "ss gloss knobs 2 pcs  and ptti"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Hilton",
-        "var": "Baltic",
-        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
-        "des": "Parth Gada",
-        "dl": "22-May-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "14-Apr-2026",
-          "a": "",
-          "rm": "577 in to in dimesnion required"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052508",
-        "prod": "Sloane",
-        "var": "Urban",
-        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Ply & Foam Upholstery (Pure Noville Portobello 110205)\nHeadboard: Ply & Foam Upholstery (SK YANA01-12)\n2 Cushions: Foam Upholstery (Pure Noville Portobello 110205)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W76\" x D86\" x H32\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W76\" x D3\" x H37\"\nCushion: W34.5\" x D3\" x H21.5\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1RLwpzIbPT89keQAo1O3f8hrmNjBxpwHM",
-        "des": "Maulik Parmar",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "metal frame size in to in given by chhotubhai"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Baku",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_132458_360754_pasted_image_1767686114200.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Carbon Velvet SRN VT312)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nHandle: Sheesham (Black Matt)",
-        "sz": "Outer: W26.5\" x D32.5\" x H35\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1A-vtG80XEgNtYnJFXj0QRAIa9O5H36qS",
-        "des": "Dilip Jangir",
-        "dl": "12-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Accent Chair",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Chevara",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260121_123930_606235_Screenshot_2026-01-21_123856.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Fabricare Comfort IV SRN 420)\nBase: Mild Steel (ICA VMA3020 + SFCA)\nSupport: Black Veneer (Black Matt)",
-        "sz": "Outer: W60\" x D21\" x H17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1mko30ckNpYjdtZRqdltf9gL5Qf1MqQij",
-        "des": "Hetvi Shah",
-        "dl": "15-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Bench",
-        "v": {
-          "c": "10-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Do as per the guidance provided by Dilipbhai"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Deetoo",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Vani Madder 115202)\nBackrest: Ply & Foam Upholstery (Vani Madder 115202)",
-        "sz": "Outer: W20\" x D22\" x H30\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1WCpt-u_xpz6D8L1YHBWzGuScVFR-YZ4N",
-        "des": "Tanmay Shah",
-        "dl": "04-Mar-2026",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Dolce",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_183515_937866_pasted_image_1770987938289.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 320)\nFrame: Sheesham (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W30\" x D33\" x H32\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1-YwIvhYIUPO7BBkZuO-iCOIJSLdhbR60",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "4 Pc cnc parts"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Firhouse",
-        "var": "Yorker",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_142920_847187_pasted_image_1767689976820.png",
-        "cat": "Storage Beds",
-        "mat": "Frame: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Tula Tula023)\nPlatform: Ply & Foam Upholstery (Neutral Bliss Sandra SRN 105)\nFrame: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W81\" x D83\" x H48\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Og0wONAGCSd7mZnTFwVXC3S-b3oKKQRq",
-        "des": "Hetvi Shah",
-        "dl": "24-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Wicklow",
-        "var": "Nested",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_113934_019524_Screenshot_2026-02-14_113648.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: HDHMR (Black Matt PU)\nDrawer Fascia: Fluted HDHMR (Black Matt PU)\nDrawer Fascia: Marble TBC (Finish TBC)\nDrawer Internal: Laminate (Finish TBC)\nHandle: Mild Steel (Black Powder Coat)\nMounting: Leather Strap (Fabric TBC)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W60\" x D18\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1wztWQ_FgIAoKWoSWG3tRHtebTD64GPDl",
-        "des": "Tanmay Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Media Console",
-        "v": {
-          "c": "11-Mar-2026",
-          "a": "",
-          "rm": "Knobs Pending"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "112521",
-        "prod": "Miller",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260321_162837_162283_pasted_image_1774090715902.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: Recycled Teak (Natural)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W116\" x D29.5\" x H100\"\nShelf: W116\" x D29.5\" x H1.5\"",
-        "fld": "https://drive.google.com/drive/folders/1pLffPzkogcROXTZMoLjA-es-0MnS5zAA",
-        "des": "Hetvi Shah",
-        "dl": "28-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bar Area Shelving",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "112521",
-        "prod": "Miller",
-        "var": "Xany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260219_182648_482007_pasted_image_1771505831331.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: Recycled Teak (Natural)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W\" x D\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1Y57o-A8GzYc5rhwDkfb37A-b5oklymz_",
-        "des": "Hetvi Shah",
-        "dl": "10-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bar Area Shelving",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Cordelia",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
-        "cat": "Dining Chairs",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Black Matt)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W23.75\" x D23.5\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1AH_HQLZREIjvVGmpJ33oIRK6453WCI0-",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 8,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "cap work"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122523",
-        "prod": "Maylene",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
-        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
-        "des": "Parth Gada",
-        "dl": "10-Jun-2023",
-        "q": 20,
-        "pm": "Dilip Jangir",
-        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
-        "v": {
-          "c": "15-Apr-2026",
-          "a": "",
-          "rm": "Need one sample without handle, then after 19 chair in ss"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (Finish TBC)\nMounting: Mild Steel (Finish TBC)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "Fit kese hoga vo Dilipbhai Discuss/decide krke hi Production start kare"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      }
-    ],
     "krishna_furnitech_polish": [
       {
         "op": "012624",
@@ -4512,6 +4006,449 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
+      }
+    ],
+    "arbuda_metal": [
+      {
+        "op": "022614",
+        "prod": "Asperula",
+        "var": "Bagel",
+        "url": "https://i.ibb.co/wQ7yC4h/a0006IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1doP2HNZke2JvBnCPlia9WiER5O6L57zS",
+        "des": "Akarsha Jha",
+        "dl": "17-Jun-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "032607",
+        "prod": "Arcadia",
+        "var": "Dahlia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (D'Decor INFINITY 314 Gery)\nOutside Back: Foam Upholstery (D'Decor  INFINITY 332 Green)\nFrame: Stainless Steel 304 Matt (Gold PVD)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W84\" x D30\" x H30\"\nSeat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1nhOmSI_L7rrW-ENKf9JkAIV4bVE_s9SV",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "We need to select fabric",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "032607",
+        "prod": "Espana",
+        "var": "Drake",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_142601_761957_pasted_image_1774515360067.png",
+        "cat": "Display Cabinet",
+        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W23\" x D23\" x H49.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Jb6lTHX0w6WKEqCr3vvCR2mMx-zF9hOr",
+        "des": "Hetvi Shah",
+        "dl": "27-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "09-Apr-2026",
+          "a": "",
+          "rm": "32mm round pipe and plate fitting as per drawing shared"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "032607",
+        "prod": "Espana",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_142637_769813_pasted_image_1774515396475.png",
+        "cat": "Display Cabinet",
+        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W23\" x D23\" x H44\"",
+        "fld": "https://drive.google.com/drive/folders/1iwOnhu8GAfEYutDdKB2SZ2BUyxvcqNHe",
+        "des": "Hetvi Shah",
+        "dl": "27-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "09-Apr-2026",
+          "a": "",
+          "rm": "32mm round pipe and plate fitting as per drawing shared"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "042510",
+        "prod": "Omelle",
+        "var": "Gratia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
+        "cat": "Study Tables",
+        "mat": "Shelf: Oak Veneer (Natural)",
+        "sz": "Outer: W75\" x D24\" x H2\"",
+        "fld": "https://drive.google.com/drive/folders/1e2hFU3wsBMncyT5SU63msHAaWDw-Ef5y",
+        "des": "Hetvi Shah",
+        "dl": "17-Sept-2025",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Chelsi's Bedroom - Study Table",
+        "v": {
+          "c": "01-Apr-2026",
+          "a": "",
+          "rm": "metal frame in 15x15 sq. pipe and 12mm stud  8 inch long ms"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "042607",
+        "prod": "Endsville",
+        "var": "Marbella",
+        "url": "https://i.ibb.co/NrHDK4z/dinning-table.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Recycled Teak (Natural)\nBeading: Recycled Teak (Natural)\nSupport: 8mm MDF (White Matt Duco)\nLegs: Banswada White (Mirror Buffing)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W96\" x D48\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1wYsCFmlmr-9s-WTyCujtkU9V1h0TyIyq",
+        "des": "Tarishi Rathore",
+        "dl": "19-Apr-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Abigale",
+        "var": "Vor",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_122158_084853_pasted_image_1771224742030.png",
+        "cat": "Nightstands",
+        "mat": "Structure: 15mm MDF (White PU)\nNiche: 15mm MDF (RAL 8028 Terra Brown)\nDrawer: 15mm MDF (White PU)\nInlay: Stainless Steel 304 Gloss (Gold PVD)\nHandle: Stainless Steel 304 Gloss (Gold PVD)\nBase: 15mm MDF (White PU)",
+        "sz": "Outer: W17.75\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1SF4UpIbNcllAJrzB4zE--UE6EGe6eyqF",
+        "des": "Hetvi Shah",
+        "dl": "26-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "08-Apr-2026",
+          "a": "",
+          "rm": "ss gloss knobs 2 pcs  and ptti"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Hilton",
+        "var": "Baltic",
+        "url": "https://i.ibb.co/cXCjXLs/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: White Ash (Smoke Grey)\nDrawer Box: White Ash (Smoke Grey)\nFrame: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W24\" x D18\" x H21\"\n22.5: W18\" x D18\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1QSUfRuUJaoSpO-E-PrIbibeQSOPTbTMX",
+        "des": "Parth Gada",
+        "dl": "22-May-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "14-Apr-2026",
+          "a": "",
+          "rm": "577 in to in dimesnion required"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052508",
+        "prod": "Sloane",
+        "var": "Urban",
+        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
+        "cat": "Beds",
+        "mat": "Structure: Ply & Foam Upholstery (Pure Noville Portobello 110205)\nHeadboard: Ply & Foam Upholstery (SK YANA01-12)\n2 Cushions: Foam Upholstery (Pure Noville Portobello 110205)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W76\" x D86\" x H32\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W76\" x D3\" x H37\"\nCushion: W34.5\" x D3\" x H21.5\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1RLwpzIbPT89keQAo1O3f8hrmNjBxpwHM",
+        "des": "Maulik Parmar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "28-Mar-2026",
+          "a": "",
+          "rm": "metal frame size in to in given by chhotubhai"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Baku",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_132458_360754_pasted_image_1767686114200.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Carbon Velvet SRN VT312)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nHandle: Sheesham (Black Matt)",
+        "sz": "Outer: W26.5\" x D32.5\" x H35\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1A-vtG80XEgNtYnJFXj0QRAIa9O5H36qS",
+        "des": "Dilip Jangir",
+        "dl": "12-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Accent Chair",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Chevara",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260121_123930_606235_Screenshot_2026-01-21_123856.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabricare Comfort IV SRN 420)\nBase: Mild Steel (ICA VMA3020 + SFCA)\nSupport: Black Veneer (Black Matt)",
+        "sz": "Outer: W60\" x D21\" x H17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1mko30ckNpYjdtZRqdltf9gL5Qf1MqQij",
+        "des": "Hetvi Shah",
+        "dl": "15-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Bench",
+        "v": {
+          "c": "10-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Cremore",
+        "var": "Hilda",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
+        "sz": "Outer: W84\" x D36\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
+        "des": "Hetvi Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Do as per the guidance provided by Dilipbhai"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Deetoo",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Vani Madder 115202)\nBackrest: Ply & Foam Upholstery (Vani Madder 115202)",
+        "sz": "Outer: W20\" x D22\" x H30\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1WCpt-u_xpz6D8L1YHBWzGuScVFR-YZ4N",
+        "des": "Tanmay Shah",
+        "dl": "04-Mar-2026",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Dolce",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_183515_937866_pasted_image_1770987938289.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 320)\nFrame: Sheesham (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W30\" x D33\" x H32\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1-YwIvhYIUPO7BBkZuO-iCOIJSLdhbR60",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4 Pc cnc parts"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Firhouse",
+        "var": "Yorker",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_142920_847187_pasted_image_1767689976820.png",
+        "cat": "Storage Beds",
+        "mat": "Frame: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Tula Tula023)\nPlatform: Ply & Foam Upholstery (Neutral Bliss Sandra SRN 105)\nFrame: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W81\" x D83\" x H48\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Og0wONAGCSd7mZnTFwVXC3S-b3oKKQRq",
+        "des": "Hetvi Shah",
+        "dl": "24-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Wicklow",
+        "var": "Nested",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_113934_019524_Screenshot_2026-02-14_113648.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: HDHMR (Black Matt PU)\nDrawer Fascia: Fluted HDHMR (Black Matt PU)\nDrawer Fascia: Marble TBC (Finish TBC)\nDrawer Internal: Laminate (Finish TBC)\nHandle: Mild Steel (Black Powder Coat)\nMounting: Leather Strap (Fabric TBC)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D18\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1wztWQ_FgIAoKWoSWG3tRHtebTD64GPDl",
+        "des": "Tanmay Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Media Console",
+        "v": {
+          "c": "11-Mar-2026",
+          "a": "",
+          "rm": "Knobs Pending"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112521",
+        "prod": "Miller",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260321_162837_162283_pasted_image_1774090715902.png",
+        "cat": "Shelvings",
+        "mat": "Shelf: Recycled Teak (Natural)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W116\" x D29.5\" x H100\"\nShelf: W116\" x D29.5\" x H1.5\"",
+        "fld": "https://drive.google.com/drive/folders/1pLffPzkogcROXTZMoLjA-es-0MnS5zAA",
+        "des": "Hetvi Shah",
+        "dl": "28-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Bar Area Shelving",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112521",
+        "prod": "Miller",
+        "var": "Xany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260219_182648_482007_pasted_image_1771505831331.png",
+        "cat": "Shelvings",
+        "mat": "Shelf: Recycled Teak (Natural)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W\" x D\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1Y57o-A8GzYc5rhwDkfb37A-b5oklymz_",
+        "des": "Hetvi Shah",
+        "dl": "10-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Bar Area Shelving",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122504",
+        "prod": "Cordelia",
+        "var": "Quill",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
+        "cat": "Dining Chairs",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Black Matt)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
+        "sz": "Outer: W23.75\" x D23.5\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1AH_HQLZREIjvVGmpJ33oIRK6453WCI0-",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 8,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Mar-2026",
+          "a": "",
+          "rm": "cap work"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122523",
+        "prod": "Maylene",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
+        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
+        "des": "Parth Gada",
+        "dl": "10-Jun-2023",
+        "q": 20,
+        "pm": "Dilip Jangir",
+        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
+        "v": {
+          "c": "15-Apr-2026",
+          "a": "",
+          "rm": "Need one sample without handle, then after 19 chair in ss"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "122526",
+        "prod": "Hank",
+        "var": "Kenji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nMounting: Mild Steel (Finish TBC)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
+        "sz": "Outer: W22\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Match Fabric for PU Colour",
+        "v": {
+          "c": "28-Mar-2026",
+          "a": "",
+          "rm": "Fit kese hoga vo Dilipbhai Discuss/decide krke hi Production start kare"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "manish_marble_jaipur": [
@@ -6616,6 +6553,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-17T06:07:20.009Z"
+    "timestamp": "2026-04-17T06:22:26.162Z"
   }
 }
