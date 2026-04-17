@@ -3249,27 +3249,6 @@
       },
       {
         "op": "042510",
-        "prod": "Majvion",
-        "var": "Heidi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152334_246967_Arushi_N1.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA VMA3040 + SFCA)\nDrawer: HDHMR (RAL 1015 Light Ivory)\nLegs: Mild Steel (ICA VMA3040 + SFCA)\nInternal Carcass: 16mm Plywood (Welmica Laminates Ashwood 2813 SF)",
-        "sz": "Outer: W28\" x D20\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1LODp8hRRyvJdARNIL0QshfyKWmKKtlYN",
-        "des": "Tanmay Shah",
-        "dl": "18-Sept-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Aarushi's Bedroom - Nighstand",
-        "v": {
-          "c": "25-Nov-2025",
-          "a": "02-Jan-2026",
-          "rm": "8 side legs ms 25mm square pipe"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042510",
         "prod": "Omelle",
         "var": "Gratia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
@@ -6637,6 +6616,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-17T05:37:23.918Z"
+    "timestamp": "2026-04-17T05:52:28.741Z"
   }
 }
