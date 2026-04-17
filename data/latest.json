@@ -3312,6 +3312,27 @@
       },
       {
         "op": "062509",
+        "prod": "Artaine",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_150502_793354_pasted_image_1765964117581.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Black Veneer (Black Matt)\nBase: HDHMR (ICA VMA3020 + SFCA)\nSupport: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W25\" x D38\" x H11\"\nAccent: W15.2\" x D36.7\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1hgGJRwVt7SaenvLHG47fzJxb6DsALgVD",
+        "des": "Hetvi Shah",
+        "dl": "28-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Coffee Table Set",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Upr jo black dikh raha hai vo Veneer cnc krke de raha hu, Aapko uspe Black polish krvana hai"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "062509",
         "prod": "Baku",
         "var": "Numin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_132458_360754_pasted_image_1767686114200.png",
@@ -5302,27 +5323,6 @@
       },
       {
         "op": "062509",
-        "prod": "Artaine",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_150502_793354_pasted_image_1765964117581.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Top: Black Veneer (Black Matt)\nBase: HDHMR (ICA VMA3020 + SFCA)\nSupport: HDHMR (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W25\" x D38\" x H11\"\nAccent: W15.2\" x D36.7\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1hgGJRwVt7SaenvLHG47fzJxb6DsALgVD",
-        "des": "Hetvi Shah",
-        "dl": "28-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Coffee Table Set",
-        "v": {
-          "c": "20-Mar-2026",
-          "a": "",
-          "rm": "PU ONLY\nBase ICA Gold \nand Top's bottom and border in ICA Gold "
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
         "prod": "Dublin",
         "var": "Mousse",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
@@ -6553,6 +6553,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-17T10:39:31.315Z"
+    "timestamp": "2026-04-17T10:52:26.995Z"
   }
 }
