@@ -1623,27 +1623,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "082413",
-        "prod": "Horizon",
-        "var": "Woodstock",
-        "url": "https://i.ibb.co/CbhxKwD/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 313)\nBackrest: Leatherette (Finish TBC)",
-        "sz": "Outer: W26.5\" x D30\" x H33\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1w6vTi0IgW9OtopP4mlsqcKuX-y_xIw3t",
-        "des": "Parthsarthi Suthar",
-        "dl": "11-Jan-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Dhyanbhai's Bedroom",
-        "v": {
-          "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "112520",
         "prod": "Vespera",
         "var": "Aera",
@@ -6448,6 +6427,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-18T11:38:21.320Z"
+    "timestamp": "2026-04-18T11:52:27.406Z"
   }
 }
