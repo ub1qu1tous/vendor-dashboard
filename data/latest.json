@@ -132,54 +132,12 @@
       {
         "op": "022503",
         "prod": "Tisdale",
-        "var": "Livia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251204_120354_176817_1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Natural)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W24\" x D24\" x H19.69\"",
-        "fld": "https://drive.google.com/drive/folders/1zbaNmpEN2XJ0eiqfc4SuihEUDO-zQkO1",
-        "des": "Hetvi Shah",
-        "dl": "20-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Multipurpose Hall",
-        "v": {
-          "c": "10-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022503",
-        "prod": "Tisdale",
         "var": "Lumia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251204_120418_322489_2.jpg",
         "cat": "Accent Tables",
         "mat": "Top: Recycled Teak (Natural)\nBase: Recycled Teak (Natural)",
         "sz": "Outer: W32\" x D32\" x H15.75\"",
         "fld": "https://drive.google.com/drive/folders/19KBxk_-TDUPil-VGLLOmaE-hqm-d4WfQ",
-        "des": "Hetvi Shah",
-        "dl": "20-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Multipurpose Hall",
-        "v": {
-          "c": "10-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022503",
-        "prod": "Tisdale",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251204_120439_376045_3.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Natural)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W18\" x D18\" x H17.72\"",
-        "fld": "https://drive.google.com/drive/folders/1_7XVQ9iXuc7TtNv7P_PhJMcHAZrbJZUh",
         "des": "Hetvi Shah",
         "dl": "20-Dec-2025",
         "q": 1,
@@ -6301,6 +6259,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-22T05:52:26.692Z"
+    "timestamp": "2026-04-22T06:12:14.897Z"
   }
 }
