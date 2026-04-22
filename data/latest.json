@@ -151,6 +151,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "022608",
+        "prod": "Chelsea",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_163355_278692_pasted_image_1770721455784.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20.5\" x D21\" x H31\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/177qTVjy-nhxqUnRdoW3Lj1gPafSLTVru",
+        "des": "Readymade",
+        "dl": "01-Jan-2010",
+        "q": 8,
+        "pm": "Amish Parmar",
+        "cr": "Client will provide fabric & sample chair.\nClient will arrange pickup ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "022610",
         "prod": "Bullmat",
         "var": "Baris",
@@ -5778,6 +5799,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-22T10:52:24.831Z"
+    "timestamp": "2026-04-22T11:07:25.457Z"
   }
 }
