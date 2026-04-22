@@ -277,27 +277,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "022614",
-        "prod": "Asperula",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/wQ7yC4h/a0006IBB.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1doP2HNZke2JvBnCPlia9WiER5O6L57zS",
-        "des": "Akarsha Jha",
-        "dl": "17-Jun-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "022618",
         "prod": "Beness",
         "var": "Damon",
@@ -3273,27 +3252,6 @@
         "vendorDisplayName": "Aavaran"
       },
       {
-        "op": "022614",
-        "prod": "Asperula",
-        "var": "Bagel",
-        "url": "https://i.ibb.co/wQ7yC4h/a0006IBB.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1doP2HNZke2JvBnCPlia9WiER5O6L57zS",
-        "des": "Akarsha Jha",
-        "dl": "17-Jun-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
         "op": "042602",
         "prod": "Beaver",
         "var": "Elin",
@@ -6154,6 +6112,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-22T08:37:27.591Z"
+    "timestamp": "2026-04-22T08:52:24.755Z"
   }
 }
