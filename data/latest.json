@@ -3634,27 +3634,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "042510",
-        "prod": "Briggan",
-        "var": "Grover",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
-        "cat": "Nightstands",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nCarcass: Leatherette (Warwick Lustrella Auro Fawn)\nInternal Carcass: 16mm Plywood (Welmica Laminates Mink 1321 SF)\nDrawer Fascia: Leatherette (Warwick Lustrella Auro Fawn)",
-        "sz": "Outer: W20\" x D20\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom -Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "PU Leather"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "042607",
         "prod": "Dyrroth",
         "var": "Wadell",
@@ -4606,29 +4585,6 @@
           "rm": "4 readymade legs in grey finish"
         },
         "vendorDisplayName": "FS Sofa Legs"
-      }
-    ],
-    "d_g_interior": [
-      {
-        "op": "042510",
-        "prod": "Briggan",
-        "var": "Grover",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_183024_097708_pasted_image_1761397231819.png",
-        "cat": "Nightstands",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nCarcass: Leatherette (Warwick Lustrella Auro Fawn)\nInternal Carcass: 16mm Plywood (Welmica Laminates Mink 1321 SF)\nDrawer Fascia: Leatherette (Warwick Lustrella Auro Fawn)",
-        "sz": "Outer: W20\" x D20\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/11Ghl5kA5attsQQ7MBdGJDtl8rxiL2Wli",
-        "des": "Hetvi Shah",
-        "dl": "09-Dec-2025",
-        "q": 2,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom -Nightstand",
-        "v": {
-          "c": "25-Sept-2025",
-          "a": "",
-          "rm": "construction and PU"
-        },
-        "vendorDisplayName": "D G INTERIOR"
       }
     ],
     "arbuda_metal": [
@@ -5757,6 +5713,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-23T14:23:59.304Z"
+    "timestamp": "2026-04-23T14:38:55.955Z"
   }
 }
