@@ -3126,27 +3126,6 @@
         "vendorDisplayName": "Aavaran"
       },
       {
-        "op": "052508",
-        "prod": "Cinnamon",
-        "var": "Acer",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260220_152254_926310_pasted_image_1771581198626.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W23.5\" x D23\" x H30\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/19X93Qd2TkrktpE0il7J9PBAiKuhi3CtN",
-        "des": "Zenroot",
-        "dl": "01-Jan-2010",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
         "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
@@ -5778,6 +5757,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-23T12:52:30.363Z"
+    "timestamp": "2026-04-23T13:07:28.800Z"
   }
 }
