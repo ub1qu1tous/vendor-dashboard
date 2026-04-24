@@ -909,512 +909,6 @@
         "vendorDisplayName": "Divine"
       }
     ],
-    "vittal_wood_tech": [
-      {
-        "op": "012624",
-        "prod": "Cordia",
-        "var": "Nycia",
-        "url": "https://i.ibb.co/ssBCVWP/z-1.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nFrame: Mild Steel (Black Powder Coat)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W17\" x D17\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1E7icaKxWihJjiI4rAXDu8Fp9vr91atfP",
-        "des": "Tarishi Rathore",
-        "dl": "02-Mar-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "sheesham top"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022613",
-        "prod": "Blinkist",
-        "var": "Dahlia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_151331_952677_WhatsApp_Image_2026-02-14_at_14_02_54.jpeg",
-        "cat": "Ottomans",
-        "mat": "Structure: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W18\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1BVRE9gfogmMbMNcws2RSnZAd8r4w0tvT",
-        "des": "Dilip Jangir",
-        "dl": "08-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "1 Mtr",
-        "v": {
-          "c": "10-Mar-2026",
-          "a": "",
-          "rm": "sheesham wood  puffy structure \nqty= 1 "
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022614",
-        "prod": "Alex",
-        "var": "Kiera",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260221_151053_671185_Screenshot_2026-02-21_151037.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
-        "sz": "Outer: W31.5\" x D33.5\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/13kTairQVwYogufnO-X0gE2FT5kQlT2Nb",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Farma k hisab se bnana hai"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022614",
-        "prod": "Alex",
-        "var": "Vitara",
-        "url": "https://i.ibb.co/r6w323K/0002-10.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
-        "sz": "Outer: W84\" x D34\" x H31.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1mMAiDXpTjIazwqqFv4xwXs96drxni9iB",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Farma k hisab se bnana hai"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022618",
-        "prod": "Beness",
-        "var": "Damon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_120238_358584_pasted_image_1775716357084.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W35\" x D33\" x H31\"",
-        "fld": "https://drive.google.com/drive/folders/1f-C8oF3KuhoNLprRLOFDbPTSREEkWogo",
-        "des": "Hetvi Shah",
-        "dl": "08-Apr-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "12-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022618",
-        "prod": "Lambros",
-        "var": "Sagrario",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260307_105304_671962_pasted_image_1772861011745.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure: Indian Teak (Mirror PU Lamination)\nInlay: Indian Teak (Mirror PU Lamination)",
-        "sz": "Outer: W54\" x D24\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1wfEXMUWNHR6o5xacaxAU7KkO0eHZn2kE",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Rectangle Shape",
-        "v": {
-          "c": "14-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022618",
-        "prod": "Tamsin",
-        "var": "Ester",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_173328_360920_pasted_image_1772712234919.png",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (White Wash)\nSupport: White Oak (White Wash)\nBase: Travertine (Matt Buffing)",
-        "sz": "Outer: W18\" x D18\" x H21\"",
-        "fld": "https://drive.google.com/drive/folders/1qQHHkHz4kakp08nBkxX0s_eRgdkjCuEO",
-        "des": "Hetvi Shah",
-        "dl": "29-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "12-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022618",
-        "prod": "Wolberg",
-        "var": "Paloma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_120408_793045_pasted_image_1775716447802.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W29.5\" x D31.5\" x H28\"",
-        "fld": "https://drive.google.com/drive/folders/1JvHNBLh__WRZ78HpcIbm3VakTGd-nS8n",
-        "des": "Hetvi Shah",
-        "dl": "07-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "11-Apr-2026",
-          "a": "",
-          "rm": "white oak"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "042602",
-        "prod": "Beaver",
-        "var": "Elin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_162221_423285_pasted_image_1775213539079.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
-        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "042609",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "10-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Deetoo",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Vani Madder 115202)\nBackrest: Ply & Foam Upholstery (Vani Madder 115202)",
-        "sz": "Outer: W20\" x D22\" x H30\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1WCpt-u_xpz6D8L1YHBWzGuScVFR-YZ4N",
-        "des": "Tanmay Shah",
-        "dl": "04-Mar-2026",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Need 1 Sample First"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Dubber",
-        "var": "Novak",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
-        "cat": "Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
-        "des": "Dilip Jangir",
-        "dl": "01-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Bed",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Dande ka Size Dilipbhai dege fir bnana hai"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Dublin",
-        "var": "Mousse",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1XTleXzDEE76ypoaKNUHqlOrtc8BGu98X",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Nightstand",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Dublin",
-        "var": "Quitero",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
-        "cat": "Chests",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
-        "sz": "Outer: W60\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/12tb8yR8C37pNFmEv6tK5iNe1fBT3-fEc",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Media Console",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Dublin Mousse ka sample bhejege aapko, uske upar se Dublin Quitero bnana hai. Width and Height as per Sheet and Depth badhegi 1-1.5\" to chalega"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Friston",
-        "var": "Jet",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260207_112642_155497_pasted_image_1770443824672.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer: Laminate (Finish TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W22.5\" x D18\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1i9CKQRk-5Bxc7RIVJ-i2ZmEMTcNFrZaJ",
-        "des": "Tanmay Shah",
-        "dl": "15-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Nightstand",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Roebuck",
-        "var": "Voorp",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_114126_164230_pasted_image_1771049508786.png",
-        "cat": "Study Tables",
-        "mat": "Top: HDHMR (Finish TBC)\nSupport: HDHMR (Finish TBC)\nCarcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: 12mm Plywood (SCS RZ 5129 RS)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W66\" x D24\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/10GfB2qQ_XXxdFQ5p0Sb0ghMvQYYTzwCA",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Study Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Sheesham vale Box me Piche Sheesham ka patiya marke band krna hai box. Opening bas aek side hi rahega"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Sovella",
-        "var": "Swoon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
-        "sz": "Outer: W15.5\" x D12\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
-        "des": "Tanmay Shah",
-        "dl": "15-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092519",
-        "prod": "Hylos",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 8,
-        "pm": "",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092520",
-        "prod": "Rosenfeld",
-        "var": "Finch",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Burma Border Teak (Natural)\nLegs: Burma Border Teak (Natural)",
-        "sz": "Outer: W24\" x D16\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Nightstand",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "6 \" clear drawer depth required "
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122523",
-        "prod": "Dax",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_175306_327974_pasted_image_1774614185689.png",
-        "cat": "Console Tables",
-        "mat": "Structure: White Oak (Natural)\nDrawer: White Oak (Natural)\nHandle: Brass (Antique Brass)",
-        "sz": "Outer: W60\" x D18\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1V_lL5yM54L4Xnt5YXdckCOKme6UhXLBU",
-        "des": "Hetvi Shah",
-        "dl": "29-Mar-2026",
-        "q": 3,
-        "pm": "Dilip Jangir",
-        "cr": "GF Console",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "3 tables"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122523",
-        "prod": "Glick",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_585634_Screenshot_from_2025-12-23_11-58-34.png",
-        "cat": "Storage Cabinets",
-        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
-        "sz": "Outer: W72\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
-        "des": "Hetvi Shah",
-        "dl": "01-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122523",
-        "prod": "Missi",
-        "var": "Morin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
-        "cat": "Mirrors",
-        "mat": "Frame: White Oak (Natural)\nMirror: 4mm Glass (Extra Clear)\nSupport: Wood Plastic Composite (WPC) (White)",
-        "sz": "Outer: W24\" x D22\" x H66\"",
-        "fld": "https://drive.google.com/drive/folders/1n5Q35lJrzik5l6lsXGkzgZXmtGTWEbH2",
-        "des": "Dilip Jangir",
-        "dl": "30-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "FF Mirror",
-        "v": {
-          "c": "10-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA RAL 3009)\nMounting: Mild Steel (ICA RAL 3009)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      }
-    ],
     "krishna_furnitech_polish": [
       {
         "op": "012624",
@@ -3290,6 +2784,449 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aavaran"
+      }
+    ],
+    "vittal_wood_tech": [
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Kiera",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260221_151053_671185_Screenshot_2026-02-21_151037.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W31.5\" x D33.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/13kTairQVwYogufnO-X0gE2FT5kQlT2Nb",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "Farma k hisab se bnana hai"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022614",
+        "prod": "Alex",
+        "var": "Vitara",
+        "url": "https://i.ibb.co/r6w323K/0002-10.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W84\" x D34\" x H31.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1mMAiDXpTjIazwqqFv4xwXs96drxni9iB",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "Farma k hisab se bnana hai"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022618",
+        "prod": "Beness",
+        "var": "Damon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_120238_358584_pasted_image_1775716357084.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W35\" x D33\" x H31\"",
+        "fld": "https://drive.google.com/drive/folders/1f-C8oF3KuhoNLprRLOFDbPTSREEkWogo",
+        "des": "Hetvi Shah",
+        "dl": "08-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022618",
+        "prod": "Lambros",
+        "var": "Sagrario",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260307_105304_671962_pasted_image_1772861011745.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure: Indian Teak (Mirror PU Lamination)\nInlay: Indian Teak (Mirror PU Lamination)",
+        "sz": "Outer: W54\" x D24\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1wfEXMUWNHR6o5xacaxAU7KkO0eHZn2kE",
+        "des": "Hetvi Shah",
+        "dl": "27-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Rectangle Shape",
+        "v": {
+          "c": "14-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022618",
+        "prod": "Tamsin",
+        "var": "Ester",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_173328_360920_pasted_image_1772712234919.png",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (White Wash)\nSupport: White Oak (White Wash)\nBase: Travertine (Matt Buffing)",
+        "sz": "Outer: W18\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1qQHHkHz4kakp08nBkxX0s_eRgdkjCuEO",
+        "des": "Hetvi Shah",
+        "dl": "29-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "022618",
+        "prod": "Wolberg",
+        "var": "Paloma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_120408_793045_pasted_image_1775716447802.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W29.5\" x D31.5\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1JvHNBLh__WRZ78HpcIbm3VakTGd-nS8n",
+        "des": "Hetvi Shah",
+        "dl": "07-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "11-Apr-2026",
+          "a": "",
+          "rm": "white oak"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "042602",
+        "prod": "Beaver",
+        "var": "Elin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_162221_423285_pasted_image_1775213539079.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
+        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
+        "des": "Hetvi Shah",
+        "dl": "13-Apr-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "042609",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W48\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Cremore",
+        "var": "Hilda",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
+        "sz": "Outer: W84\" x D36\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
+        "des": "Hetvi Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Table",
+        "v": {
+          "c": "10-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Deetoo",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Vani Madder 115202)\nBackrest: Ply & Foam Upholstery (Vani Madder 115202)",
+        "sz": "Outer: W20\" x D22\" x H30\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1WCpt-u_xpz6D8L1YHBWzGuScVFR-YZ4N",
+        "des": "Tanmay Shah",
+        "dl": "04-Mar-2026",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Need 1 Sample First"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Dubber",
+        "var": "Novak",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Bed",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "Dande ka Size Dilipbhai dege fir bnana hai"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Dublin",
+        "var": "Mousse",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
+        "sz": "Outer: W18\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1XTleXzDEE76ypoaKNUHqlOrtc8BGu98X",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Nightstand",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Dublin",
+        "var": "Quitero",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
+        "cat": "Chests",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
+        "sz": "Outer: W60\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/12tb8yR8C37pNFmEv6tK5iNe1fBT3-fEc",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Media Console",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "Dublin Mousse ka sample bhejege aapko, uske upar se Dublin Quitero bnana hai. Width and Height as per Sheet and Depth badhegi 1-1.5\" to chalega"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Friston",
+        "var": "Jet",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260207_112642_155497_pasted_image_1770443824672.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer: Laminate (Finish TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22.5\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1i9CKQRk-5Bxc7RIVJ-i2ZmEMTcNFrZaJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Nightstand",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092519",
+        "prod": "Hylos",
+        "var": "Pique",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 8,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092520",
+        "prod": "Rosenfeld",
+        "var": "Finch",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Burma Border Teak (Natural)\nLegs: Burma Border Teak (Natural)",
+        "sz": "Outer: W24\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Nightstand",
+        "v": {
+          "c": "05-Oct-2025",
+          "a": "",
+          "rm": "6 \" clear drawer depth required "
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122523",
+        "prod": "Dax",
+        "var": "Vor",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_175306_327974_pasted_image_1774614185689.png",
+        "cat": "Console Tables",
+        "mat": "Structure: White Oak (Natural)\nDrawer: White Oak (Natural)\nHandle: Brass (Antique Brass)",
+        "sz": "Outer: W60\" x D18\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1V_lL5yM54L4Xnt5YXdckCOKme6UhXLBU",
+        "des": "Hetvi Shah",
+        "dl": "29-Mar-2026",
+        "q": 3,
+        "pm": "Dilip Jangir",
+        "cr": "GF Console",
+        "v": {
+          "c": "07-Apr-2026",
+          "a": "",
+          "rm": "3 tables"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122523",
+        "prod": "Glick",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_585634_Screenshot_from_2025-12-23_11-58-34.png",
+        "cat": "Storage Cabinets",
+        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "sz": "Outer: W72\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
+        "des": "Hetvi Shah",
+        "dl": "01-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122523",
+        "prod": "Missi",
+        "var": "Morin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
+        "cat": "Mirrors",
+        "mat": "Frame: White Oak (Natural)\nMirror: 4mm Glass (Extra Clear)\nSupport: Wood Plastic Composite (WPC) (White)",
+        "sz": "Outer: W24\" x D22\" x H66\"",
+        "fld": "https://drive.google.com/drive/folders/1n5Q35lJrzik5l6lsXGkzgZXmtGTWEbH2",
+        "des": "Dilip Jangir",
+        "dl": "30-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Mirror",
+        "v": {
+          "c": "10-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "122526",
+        "prod": "Hank",
+        "var": "Kenji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (ICA RAL 3009)\nMounting: Mild Steel (ICA RAL 3009)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
+        "sz": "Outer: W22\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Match Fabric for PU Colour",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "manish_marble_jaipur": [
@@ -5734,6 +5671,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-24T16:37:27.716Z"
+    "timestamp": "2026-04-24T16:52:25.709Z"
   }
 }
