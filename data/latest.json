@@ -2915,27 +2915,6 @@
       },
       {
         "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "10-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
@@ -3034,27 +3013,6 @@
         "cr": "Master Bedroom (FF) Nightstand",
         "v": {
           "c": "30-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062509",
-        "prod": "Sovella",
-        "var": "Swoon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
-        "sz": "Outer: W15.5\" x D12\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
-        "des": "Tanmay Shah",
-        "dl": "15-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Nightstand",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5564,6 +5522,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-25T16:53:26.429Z"
+    "timestamp": "2026-04-25T17:07:22.892Z"
   }
 }
