@@ -1649,27 +1649,6 @@
       },
       {
         "op": "052508",
-        "prod": "Avocado",
-        "var": "Mili",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_150426_770328_jpeg-optimizer_06_B_editorial_bright_hero.jpeg",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Black Distressed/Charcoal)\nMounting: Stainless Steel 304 Gloss (Gold PVD)\nBase: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W11.5\" x D11.5\" x H21.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/15O4Lg2j4XAW9AqCB1aHe1u013-5Pqsxf",
-        "des": "Lavanya Nagpal",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "Round Top bnana hai Black Distressed Sheesham me."
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "052508",
         "prod": "Cinnamon",
         "var": "Acer",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260220_152254_926310_pasted_image_1771581198626.png",
@@ -1707,27 +1686,6 @@
           "c": "25-Mar-2026",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "052508",
-        "prod": "Portulaca",
-        "var": "Sania",
-        "url": "https://i.ibb.co/7tYJWvn/Sania-3.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W24\" x D24\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1aYDQrvZJaG1ldcxPeFcwhRRDiZ4tppO1",
-        "des": "Hetvi Shah",
-        "dl": "22-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Frame bhejege, uske upar top cut to cut bnake screw krke dijiyega.\nHum yaha top nikalke Powdercoat krva dege."
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3485,27 +3443,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "052508",
-        "prod": "Avocado",
-        "var": "Mili",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_150426_770328_jpeg-optimizer_06_B_editorial_bright_hero.jpeg",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Black Distressed/Charcoal)\nMounting: Stainless Steel 304 Gloss (Gold PVD)\nBase: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W11.5\" x D11.5\" x H21.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/15O4Lg2j4XAW9AqCB1aHe1u013-5Pqsxf",
-        "des": "Lavanya Nagpal",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Keep Base and Rod clean and Ready"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "072409",
         "prod": "Carnival",
         "var": "Turkey",
@@ -4757,50 +4694,6 @@
         "vendorDisplayName": "Arbuda Metal"
       }
     ],
-    "aarti_steel": [
-      {
-        "op": "042607",
-        "prod": "Bearmont",
-        "var": "Thyme",
-        "url": "https://i.ibb.co/1X2M74k/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Mild Steel (Black Matt PU)",
-        "sz": "Outer: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1MNdQOujDrZzXLFVLTBO4uUt-Bv7_-ivA",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Without T patti needed"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      }
-    ],
     "surat_pvd": [
       {
         "op": "042607",
@@ -5378,6 +5271,29 @@
         "vendorDisplayName": "Chhoturam"
       }
     ],
+    "aarti_steel": [
+      {
+        "op": "062509",
+        "prod": "Cremore",
+        "var": "Hilda",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
+        "sz": "Outer: W84\" x D36\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
+        "des": "Hetvi Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      }
+    ],
     "vishwakarma_glass": [
       {
         "op": "062509",
@@ -5623,27 +5539,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Sunil Marble"
-      },
-      {
-        "op": "122526",
-        "prod": "Strand",
-        "var": "Rawlins",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (Black Matt PU)\nTop: Carrara (Mirror Buffing)\nDrawer Fascia: Sheesham (Black Distressed/Charcoal)\nDrawer Box: Oak Veneer (Finish TBC)\nDrawer Internal: 16mm Plywood (Finish TBC)\nSkirting: Stainless Steel 304 Gloss (Mirror Buffing)",
-        "sz": "Outer: W24\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
-        "des": "Tanmay Shah",
-        "dl": "01-Nov-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Sunil Marble"
       }
     ],
     "casa_creations": [
@@ -5671,6 +5566,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-25T09:37:24.037Z"
+    "timestamp": "2026-04-25T09:52:25.587Z"
   }
 }
