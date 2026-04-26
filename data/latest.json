@@ -3422,6 +3422,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "042608",
+        "prod": "Burrell",
+        "var": "Jet",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_131122_986300_pasted_image_1776152482019.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W24\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1eYb3n3_5E9c-wAyr3iLNNqarXSVc8naZ",
+        "des": "Arpit Jain",
+        "dl": "14-Apr-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "08-Apr-2026",
+          "a": "",
+          "rm": "metal plate with counter 9\" dia plate in ss matt 3mm, qty= 2 pcs"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "062509",
         "prod": "Baku",
         "var": "Numin",
@@ -5606,6 +5627,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-26T13:37:27.209Z"
+    "timestamp": "2026-04-26T13:54:08.623Z"
   }
 }
