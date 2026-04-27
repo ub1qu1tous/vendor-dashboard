@@ -634,27 +634,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "072515",
-        "prod": "Glint",
-        "var": "Cello",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250802_135030_575287_Screenshot_2025-08-02_135021.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Stainless Steel 304 Matt (SVJ Champagne Gold 102)",
-        "sz": "Outer: W19\" x D18\" x H32\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1I0XxWRw80fM2S4aKaHzp9IUgfj7_m2C8",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "10-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "112520",
         "prod": "Vespera",
         "var": "Aera",
@@ -4737,27 +4716,6 @@
       },
       {
         "op": "122526",
-        "prod": "Gibson",
-        "var": "Ambrosio",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_102954_829314_pasted_image_1773896394166.png",
-        "cat": "Accent Tables",
-        "mat": "Top: HDHMR (Black Matt PU)\nBase: HDHMR (White PU)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1tKBKlpdCHwNPlaAV0lXsvia10gnFbDZU",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "PU Only"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122526",
         "prod": "Hank",
         "var": "Kenji",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
@@ -5543,6 +5501,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-27T09:07:32.242Z"
+    "timestamp": "2026-04-27T09:22:24.726Z"
   }
 }
