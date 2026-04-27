@@ -2239,27 +2239,6 @@
       },
       {
         "op": "062509",
-        "prod": "Dubber",
-        "var": "Novak",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
-        "cat": "Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
-        "des": "Dilip Jangir",
-        "dl": "01-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062509",
         "prod": "Dupont",
         "var": "Fedora",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
@@ -2787,48 +2766,6 @@
       }
     ],
     "vittal_wood_tech": [
-      {
-        "op": "022614",
-        "prod": "Alex",
-        "var": "Kiera",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260221_151053_671185_Screenshot_2026-02-21_151037.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
-        "sz": "Outer: W31.5\" x D33.5\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/13kTairQVwYogufnO-X0gE2FT5kQlT2Nb",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Farma k hisab se bnana hai"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "022614",
-        "prod": "Alex",
-        "var": "Vitara",
-        "url": "https://i.ibb.co/r6w323K/0002-10.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Azco Stripes II AW-304)\nBase: Sheesham (Peca)",
-        "sz": "Outer: W84\" x D34\" x H31.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1mMAiDXpTjIazwqqFv4xwXs96drxni9iB",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Farma k hisab se bnana hai"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
       {
         "op": "022618",
         "prod": "Beness",
@@ -3528,27 +3465,6 @@
       },
       {
         "op": "062509",
-        "prod": "Dolce",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_183515_937866_pasted_image_1770987938289.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 320)\nFrame: Sheesham (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W30\" x D33\" x H32\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1-YwIvhYIUPO7BBkZuO-iCOIJSLdhbR60",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "4 Pc cnc parts"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
         "prod": "Firhouse",
         "var": "Yorker",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_142920_847187_pasted_image_1767689976820.png",
@@ -3562,7 +3478,7 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom (FF) Bed",
         "v": {
-          "c": "",
+          "c": "08-Aug-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4368,7 +4284,7 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom (FF) Bed",
         "v": {
-          "c": "",
+          "c": "08-Aug-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4582,7 +4498,7 @@
         "pm": "Maulik Parmar",
         "cr": "Daughter Bedroom Study Table",
         "v": {
-          "c": "",
+          "c": "08-Aug-2025",
           "a": "",
           "rm": "PU ONLY"
         },
@@ -4666,7 +4582,7 @@
         "pm": "Maulik Parmar",
         "cr": "Parent's Bedroom Study Table",
         "v": {
-          "c": "",
+          "c": "08-Aug-2025",
           "a": "",
           "rm": "PU ONLY"
         },
@@ -5627,6 +5543,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-27T05:08:19.057Z"
+    "timestamp": "2026-04-27T05:24:17.655Z"
   }
 }
