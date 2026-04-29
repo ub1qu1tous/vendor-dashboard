@@ -21,27 +21,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krisha Lights"
-      },
-      {
-        "op": "032607",
-        "prod": "Lavina",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131408_267013_pasted_image_1776411847234.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nFixture: SS Wire Rope ()",
-        "sz": "Outer: W23\" x D23\" x H57\"",
-        "fld": "https://drive.google.com/drive/folders/14esMPv-gi6oNSKC6D_wG6yhEk3bXO-P6",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "3 wire rope for fitting 30\"  long waire"
-        },
-        "vendorDisplayName": "Krisha Lights"
       }
     ],
     "aidan_dudy": [
@@ -1622,7 +1601,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "white powdercoat"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -1753,27 +1732,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "122504",
-        "prod": "Siaran",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172746_679927_pasted_image_1767700682809.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (ICA VMA3030 Satin Copper)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W39\" x D39\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1TN9TuFGoJhNtrxOjVm2gxKRx4_d7ULTJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "23-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "122528",
         "prod": "Dorothy",
         "var": "Bagel",
@@ -1814,27 +1772,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "022613",
-        "prod": "Trevis",
-        "var": "Cenric",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_162822_940305_pasted_image_1772708329122.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Harvest)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W19.7\" x D19.7\" x H31.5\"",
-        "fld": "https://drive.google.com/drive/folders/1IzmmVtew0pQAPqSAifjuVCLOv3dWLZXi",
-        "des": "Dilip Jangir",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "1 Mtr",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "harvest finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -2995,7 +2932,7 @@
         "v": {
           "c": "25-Mar-2026",
           "a": "",
-          "rm": "cap work"
+          "rm": "cap work, and bush fitting for back attach with frame ss matt ROSEGOLD PVD"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4123,92 +4060,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "ashok_polish": [
-      {
-        "op": "032607",
-        "prod": "Espana",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131308_709952_pasted_image_1776411787497.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W23\" x D23\" x H49.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Jb6lTHX0w6WKEqCr3vvCR2mMx-zF9hOr",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "032607",
-        "prod": "Espana",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131203_343368_pasted_image_1776411721849.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)\nSupport: Mild Steel (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W23\" x D23\" x H44\"",
-        "fld": "https://drive.google.com/drive/folders/1iwOnhu8GAfEYutDdKB2SZ2BUyxvcqNHe",
-        "des": "Hetvi Shah",
-        "dl": "27-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "032607",
-        "prod": "Kristos",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_131533_408983_pasted_image_1776411932411.png",
-        "cat": "Display Cabinet",
-        "mat": "Structure: HDHMR (ICA VMA3030 Satin Copper)",
-        "sz": "Outer: W23\" x D23\" x H52.5\"",
-        "fld": "https://drive.google.com/drive/folders/1nEEhjZNigWy20h5gcC0QZ-QtgDYzyLuW",
-        "des": "Hetvi Shah",
-        "dl": "26-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "062509",
-        "prod": "Cremore",
-        "var": "Hilda",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
-        "sz": "Outer: W84\" x D36\" x H29.5\"",
-        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
-        "des": "Hetvi Shah",
-        "dl": "02-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Ashok Polish"
-      }
-    ],
     "vipra": [
       {
         "op": "032607",
@@ -4459,27 +4310,6 @@
           "c": "29-Mar-2026",
           "a": "",
           "rm": "Base: HDHMR (Bottled Grape 8102)\n"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122504",
-        "prod": "Siaran",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_172746_679927_pasted_image_1767700682809.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (ICA VMA3030 Satin Copper)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W39\" x D39\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1TN9TuFGoJhNtrxOjVm2gxKRx4_d7ULTJ",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4842,7 +4672,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "08-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5038,6 +4868,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Chhoturam"
+      }
+    ],
+    "ashok_polish": [
+      {
+        "op": "062509",
+        "prod": "Cremore",
+        "var": "Hilda",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260129_162825_626575_pasted_image_1769684326210.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Matt)\nSupport: 16mm MDF (White PU)",
+        "sz": "Outer: W84\" x D36\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1Zql0Hdm2eHs9HtuU8BzGNiMbDILY9xpE",
+        "des": "Hetvi Shah",
+        "dl": "02-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
       }
     ],
     "vishwakarma_glass": [
@@ -5312,6 +5165,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-29T15:23:56.992Z"
+    "timestamp": "2026-04-29T15:38:58.686Z"
   }
 }
