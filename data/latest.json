@@ -2932,7 +2932,7 @@
         "v": {
           "c": "25-Mar-2026",
           "a": "",
-          "rm": "cap work, and bush fitting for back attach with frame ss matt ROSEGOLD PVD"
+          "rm": "cap work 32 caps, and bush fitting 64 pcs for back attach with frame ss matt ROSEGOLD PVD"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4372,7 +4372,7 @@
         "v": {
           "c": "07-Apr-2026",
           "a": "",
-          "rm": "PU Only"
+          "rm": "Carcass and drawer making with push to open channel  and PU work on whole unit with metal parts"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -5138,6 +5138,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Sunil Marble"
+      },
+      {
+        "op": "122526",
+        "prod": "Strand",
+        "var": "Rawlins",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250920_154040_649167_Screenshot_2025-09-20_154012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Black Matt PU)\nTop: Carrara (Mirror Buffing)\nDrawer Fascia: Sheesham (Black Distressed/Charcoal)\nDrawer Box: Oak Veneer (Finish TBC)\nDrawer Internal: 16mm Plywood (Finish TBC)\nSkirting: Stainless Steel 304 Gloss (Mirror Buffing)",
+        "sz": "Outer: W24\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1LWzVLjdU75Q2TDglt0PhJnKDWkzNjCQ_",
+        "des": "Tanmay Shah",
+        "dl": "01-Nov-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Sunil Marble"
       }
     ],
     "casa_creations": [
@@ -5165,6 +5186,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-04-29T15:38:58.686Z"
+    "timestamp": "2026-04-29T15:52:27.199Z"
   }
 }
