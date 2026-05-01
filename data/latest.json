@@ -298,27 +298,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "032607",
-        "prod": "Arcadia",
-        "var": "Whitley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Libra702)\nOutside Back: Foam Upholstery (Libra703)\nFrame: Stainless Steel 304 Matt (Rose Gold PVD)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W78\" x D30\" x H30\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1KgeBJBDmNVMswf9pR08Q7yFAhyHLcuTM",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "We need to select fabric",
-        "v": {
-          "c": "21-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "042607",
         "prod": "Decker",
         "var": "Voila",
@@ -905,27 +884,6 @@
         "cr": "",
         "v": {
           "c": "25-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "032607",
-        "prod": "Arcadia",
-        "var": "Whitley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Libra702)\nOutside Back: Foam Upholstery (Libra703)\nFrame: Stainless Steel 304 Matt (Rose Gold PVD)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W78\" x D30\" x H30\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1KgeBJBDmNVMswf9pR08Q7yFAhyHLcuTM",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "We need to select fabric",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2580,27 +2538,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "032607",
-        "prod": "Arcadia",
-        "var": "Whitley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Libra702)\nOutside Back: Foam Upholstery (Libra703)\nFrame: Stainless Steel 304 Matt (Rose Gold PVD)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W78\" x D30\" x H30\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1KgeBJBDmNVMswf9pR08Q7yFAhyHLcuTM",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "We need to select fabric",
-        "v": {
-          "c": "21-Mar-2026",
-          "a": "",
-          "rm": "metal ptta ss matt finish as per farma length in to in 1521mm, and legs in ms and caps in ss matt rosegold pvd"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "042510",
         "prod": "Omelle",
         "var": "Gratia",
@@ -3531,28 +3468,347 @@
         "vendorDisplayName": "Client/Fabric"
       }
     ],
-    "aavaran": [
+    "vipra": [
       {
         "op": "032607",
-        "prod": "Arcadia",
-        "var": "Whitley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Libra702)\nOutside Back: Foam Upholstery (Libra703)\nFrame: Stainless Steel 304 Matt (Rose Gold PVD)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W78\" x D30\" x H30\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1KgeBJBDmNVMswf9pR08Q7yFAhyHLcuTM",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
+        "prod": "Rezan",
+        "var": "Jade",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
+        "cat": "Office Desks",
+        "mat": "Top: 16mm MDF (RAL/NCS Matt Polyurethane (PU))\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)\nDrawer: 16mm MDF (RAL 1019 Grey Beige)\nMoulding: 16mm MDF (RAL 7030 Grey Stone)\nLegs: Stainless Steel 304 Matt (Black PVD)",
+        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
+        "fld": "https://drive.google.com/drive/folders/1h_G4S8rA-IYmNASvddPPTDG5BOHpqk1Z",
+        "des": "Readymade",
+        "dl": "14-Apr-2026",
         "q": 1,
         "pm": "Dilip Jangir",
-        "cr": "We need to select fabric",
+        "cr": "",
+        "v": {
+          "c": "09-Apr-2026",
+          "a": "",
+          "rm": "unit copy and take 1600 width ,"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Dublin",
+        "var": "Mousse",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
+        "sz": "Outer: W18\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1XTleXzDEE76ypoaKNUHqlOrtc8BGu98X",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Nightstand",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "ICA VMA3020 + SFCA Antique Gold PU ONLY"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Dublin",
+        "var": "Quitero",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
+        "cat": "Chests",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
+        "sz": "Outer: W60\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/12tb8yR8C37pNFmEv6tK5iNe1fBT3-fEc",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Media Console",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "ICA VMA3020 + SFCA Antique Gold PU ONLY"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Fibbsinn",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_115548_280003_pasted_image_1773901547501.png",
+        "cat": "Study Tables",
+        "mat": "Structure: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)\nInternal Carcass: Laminate (Finish TBC)\nTop: Marble TBC (Mirror Buffing)",
+        "sz": "Outer: W42\" x D24\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1POPAihn7YcQ_WVxCZ6z6bGDm5CwTGYdV",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Study Table",
+        "v": {
+          "c": "08-Aug-2025",
+          "a": "",
+          "rm": "PU ONLY"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Howard",
+        "var": "Yurick",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_111907_652499_pasted_image_1756446550965.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nShutter: Oak Veneer (White Wash)\nShelf: 12mm Plywood (SCS RZ 5129 RS)\nLegs: Black Veneer (Black Matt)\nMounting: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W54\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1Tki2M-SguRkZKoiq152Eel8nvC1QI302",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Media Console",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "Carcass Black Veneer,\nPush to open Shutter,\nAll Shutters Oak veneer, will be Polished by us,\nHDHMR plank with ICA VMA3020 + SFCA Gold will be fixed in bottom (As shown in the image)\nshelf in each of the shutters\nInternal Liner Solid black color"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Leeson",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (SCS RZ 5129 RS)\nDrawer Fascia: HDHMR (White PU)\nDrawer: Laminate (SCS RZ 5129 RS)\nBase: HDHMR (Black Matt PU)\nMounting: Ply & Foam Upholstery (Fabric TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22\" x D16\" x H15.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bdob1tntN-NRp7WziU6yrlfiEe8zU7Ih",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Drawer and PU"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Montjoy",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_162019_396486_pasted_image_1770720641847.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nShutter: HDHMR (ICA VMA3020 + SFCA)\nDrawer Fascia: Black Veneer (Black Matt)\nDrawer Box: 12mm Plywood (SCS RZ 5129 RS)\nBase: HDHMR (ICA VMA3020 + SFCA)",
+        "sz": "Outer: W60\" x D16\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1VwVsrhPaPKfBFpBGILjdpQwvhgWonTln",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Media Console",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "Push To Open 4 Drawers,\nCarcass Black Veneer,\nInternal Liner Solid black color,\nICA VMA3020 + SFCA Gold on HDHMR Shutter (One Adjustable shelf inside),\nBase (Gold on Hdhmr)\n"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
+        "prod": "Roebuck",
+        "var": "Voorp",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_114126_164230_pasted_image_1771049508786.png",
+        "cat": "Study Tables",
+        "mat": "Top: HDHMR (Finish TBC)\nSupport: HDHMR (Finish TBC)\nCarcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: 12mm Plywood (SCS RZ 5129 RS)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W66\" x D24\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/10GfB2qQ_XXxdFQ5p0Sb0ghMvQYYTzwCA",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Study Table",
+        "v": {
+          "c": "08-Aug-2025",
+          "a": "",
+          "rm": "PU ONLY"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "092535",
+        "prod": "Aamon",
+        "var": "Thruhiker",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_121956_665930_WhatsApp_Image_2025-10-03_at_12_19_47.jpeg",
+        "cat": "Reception Counters",
+        "mat": "Carcass: HDHMR (Red Oxide Brown 8024)\nTop (Counter): Banswada White (Mirror Buffing)\nCarcass: 16mm Plywood (Finish TBC)\nDrawer Fascia: 16mm Plywood (Finish TBC)\nStorage: HDHMR ()",
+        "sz": "Outer: W96\" x D24\" x H54\"",
+        "fld": "https://drive.google.com/drive/folders/149XUjyEaNMttjqGi-j_p1qNQB_NBhSCw",
+        "des": "Hetvi Shah",
+        "dl": "11-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Tile Cladding Purchase & Work + Edge PU Finish by Client",
+        "v": {
+          "c": "27-Mar-2026",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "112521",
+        "prod": "Miller",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260119_111627_497632_1.jpg",
+        "cat": "Kitchen Islands",
+        "mat": "Top: Recycled Teak (Natural)\nCarcass: 16mm Plywood (Walnut Laminate)\nInternal Carcass: 16mm Plywood (Walnut Laminate)",
+        "sz": "Outer: W144\" x D144\" x H35\"\nIsland Counter: WTBC\" x DTBC\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/1_riA5ioOREKtASWV50gb9-PChTGc3XAb",
+        "des": "Hetvi Shah",
+        "dl": "28-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Bar Area",
         "v": {
           "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Aavaran"
+        "vendorDisplayName": "Vipra"
       },
+      {
+        "op": "122504",
+        "prod": "Calton",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
+        "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Only Base",
+        "v": {
+          "c": "29-Mar-2026",
+          "a": "",
+          "rm": "Base: HDHMR (Bottled Grape 8102)\n"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122504",
+        "prod": "Calton",
+        "var": "Vama",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
+        "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
+        "des": "Hetvi Shah",
+        "dl": "09-Feb-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Only Base",
+        "v": {
+          "c": "29-Mar-2026",
+          "a": "",
+          "rm": "Base: HDHMR (Bottled Grape 8102)\n"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122523",
+        "prod": "Glick",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_585634_Screenshot_from_2025-12-23_11-58-34.png",
+        "cat": "Storage Cabinets",
+        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "sz": "Outer: W72\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
+        "des": "Hetvi Shah",
+        "dl": "01-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122526",
+        "prod": "Filini",
+        "var": "Tuscany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260316_130254_134975_pasted_image_1773646402611.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (Deluxe-02 Frosty White)\nDrawer Fascia: HDHMR (White PU)",
+        "sz": "Outer: W14\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/14R0JjwoCsc2eufbPT7gEkudqWxOnnman",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "07-Apr-2026",
+          "a": "",
+          "rm": "PU and drawer making, push open channel"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122526",
+        "prod": "Hank",
+        "var": "Kenji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (ICA RAL 3009)\nMounting: Mild Steel (ICA RAL 3009)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
+        "sz": "Outer: W22\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
+        "des": "Hetvi Shah",
+        "dl": "16-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Match Fabric for PU Colour",
+        "v": {
+          "c": "07-Apr-2026",
+          "a": "",
+          "rm": "Carcass and drawer making with push to open channel  and PU work on whole unit with metal parts"
+        },
+        "vendorDisplayName": "Vipra"
+      }
+    ],
+    "fs_sofa_legs": [
+      {
+        "op": "032607",
+        "prod": "Rezan",
+        "var": "Jade",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
+        "cat": "Office Desks",
+        "mat": "Top: 16mm MDF (RAL/NCS Matt Polyurethane (PU))\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)\nDrawer: 16mm MDF (RAL 1019 Grey Beige)\nMoulding: 16mm MDF (RAL 7030 Grey Stone)\nLegs: Stainless Steel 304 Matt (Black PVD)",
+        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
+        "fld": "https://drive.google.com/drive/folders/1h_G4S8rA-IYmNASvddPPTDG5BOHpqk1Z",
+        "des": "Readymade",
+        "dl": "14-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4 readymade legs in grey finish"
+        },
+        "vendorDisplayName": "FS Sofa Legs"
+      }
+    ],
+    "aavaran": [
       {
         "op": "042602",
         "prod": "Beaver",
@@ -3913,27 +4169,6 @@
     ],
     "surat_pvd": [
       {
-        "op": "032607",
-        "prod": "Arcadia",
-        "var": "Whitley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_121448_489862_pasted_image_1770705917341.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Libra702)\nOutside Back: Foam Upholstery (Libra703)\nFrame: Stainless Steel 304 Matt (Rose Gold PVD)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W78\" x D30\" x H30\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1KgeBJBDmNVMswf9pR08Q7yFAhyHLcuTM",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "We need to select fabric",
-        "v": {
-          "c": "21-Mar-2026",
-          "a": "",
-          "rm": "rosegold pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "042607",
         "prod": "Endsville",
         "var": "Marbella",
@@ -4058,346 +4293,6 @@
           "rm": "rosegold PVD"
         },
         "vendorDisplayName": "Surat PVD"
-      }
-    ],
-    "vipra": [
-      {
-        "op": "032607",
-        "prod": "Rezan",
-        "var": "Jade",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
-        "cat": "Office Desks",
-        "mat": "Top: 16mm MDF (RAL/NCS Matt Polyurethane (PU))\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)\nDrawer: 16mm MDF (RAL 1019 Grey Beige)\nMoulding: 16mm MDF (RAL 7030 Grey Stone)\nLegs: Stainless Steel 304 Matt (Black PVD)",
-        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
-        "fld": "https://drive.google.com/drive/folders/1h_G4S8rA-IYmNASvddPPTDG5BOHpqk1Z",
-        "des": "Readymade",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "unit copy and take 1600 width ,"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Dublin",
-        "var": "Mousse",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1XTleXzDEE76ypoaKNUHqlOrtc8BGu98X",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Nightstand",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "ICA VMA3020 + SFCA Antique Gold PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Dublin",
-        "var": "Quitero",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
-        "cat": "Chests",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
-        "sz": "Outer: W60\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/12tb8yR8C37pNFmEv6tK5iNe1fBT3-fEc",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Media Console",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "ICA VMA3020 + SFCA Antique Gold PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Fibbsinn",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260319_115548_280003_pasted_image_1773901547501.png",
-        "cat": "Study Tables",
-        "mat": "Structure: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)\nInternal Carcass: Laminate (Finish TBC)\nTop: Marble TBC (Mirror Buffing)",
-        "sz": "Outer: W42\" x D24\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1POPAihn7YcQ_WVxCZ6z6bGDm5CwTGYdV",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Study Table",
-        "v": {
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Howard",
-        "var": "Yurick",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250829_111907_652499_pasted_image_1756446550965.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nShutter: Oak Veneer (White Wash)\nShelf: 12mm Plywood (SCS RZ 5129 RS)\nLegs: Black Veneer (Black Matt)\nMounting: HDHMR (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W54\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1Tki2M-SguRkZKoiq152Eel8nvC1QI302",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Media Console",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Carcass Black Veneer,\nPush to open Shutter,\nAll Shutters Oak veneer, will be Polished by us,\nHDHMR plank with ICA VMA3020 + SFCA Gold will be fixed in bottom (As shown in the image)\nshelf in each of the shutters\nInternal Liner Solid black color"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Leeson",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (SCS RZ 5129 RS)\nDrawer Fascia: HDHMR (White PU)\nDrawer: Laminate (SCS RZ 5129 RS)\nBase: HDHMR (Black Matt PU)\nMounting: Ply & Foam Upholstery (Fabric TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W22\" x D16\" x H15.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bdob1tntN-NRp7WziU6yrlfiEe8zU7Ih",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Drawer and PU"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Montjoy",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_162019_396486_pasted_image_1770720641847.png",
-        "cat": "Media Consoles",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nShutter: HDHMR (ICA VMA3020 + SFCA)\nDrawer Fascia: Black Veneer (Black Matt)\nDrawer Box: 12mm Plywood (SCS RZ 5129 RS)\nBase: HDHMR (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W60\" x D16\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1VwVsrhPaPKfBFpBGILjdpQwvhgWonTln",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Media Console",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Push To Open 4 Drawers,\nCarcass Black Veneer,\nInternal Liner Solid black color,\nICA VMA3020 + SFCA Gold on HDHMR Shutter (One Adjustable shelf inside),\nBase (Gold on Hdhmr)\n"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Roebuck",
-        "var": "Voorp",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_114126_164230_pasted_image_1771049508786.png",
-        "cat": "Study Tables",
-        "mat": "Top: HDHMR (Finish TBC)\nSupport: HDHMR (Finish TBC)\nCarcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: 12mm Plywood (SCS RZ 5129 RS)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W66\" x D24\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/10GfB2qQ_XXxdFQ5p0Sb0ghMvQYYTzwCA",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Study Table",
-        "v": {
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "092535",
-        "prod": "Aamon",
-        "var": "Thruhiker",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_121956_665930_WhatsApp_Image_2025-10-03_at_12_19_47.jpeg",
-        "cat": "Reception Counters",
-        "mat": "Carcass: HDHMR (Red Oxide Brown 8024)\nTop (Counter): Banswada White (Mirror Buffing)\nCarcass: 16mm Plywood (Finish TBC)\nDrawer Fascia: 16mm Plywood (Finish TBC)\nStorage: HDHMR ()",
-        "sz": "Outer: W96\" x D24\" x H54\"",
-        "fld": "https://drive.google.com/drive/folders/149XUjyEaNMttjqGi-j_p1qNQB_NBhSCw",
-        "des": "Hetvi Shah",
-        "dl": "11-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Tile Cladding Purchase & Work + Edge PU Finish by Client",
-        "v": {
-          "c": "27-Mar-2026",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "112521",
-        "prod": "Miller",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260119_111627_497632_1.jpg",
-        "cat": "Kitchen Islands",
-        "mat": "Top: Recycled Teak (Natural)\nCarcass: 16mm Plywood (Walnut Laminate)\nInternal Carcass: 16mm Plywood (Walnut Laminate)",
-        "sz": "Outer: W144\" x D144\" x H35\"\nIsland Counter: WTBC\" x DTBC\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1_riA5ioOREKtASWV50gb9-PChTGc3XAb",
-        "des": "Hetvi Shah",
-        "dl": "28-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bar Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122504",
-        "prod": "Calton",
-        "var": "Puma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164815_769326_pasted_image_1767698311871.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W84\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1s8mM6N2A8ECWMvH2PJQ5v-M_AmaNFhBs",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Base",
-        "v": {
-          "c": "29-Mar-2026",
-          "a": "",
-          "rm": "Base: HDHMR (Bottled Grape 8102)\n"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122504",
-        "prod": "Calton",
-        "var": "Vama",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_164529_669404_Screenshot_2026-01-06_164310.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: HDHMR (Bottled Grape 8102)\nFixture: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W96\" x D38\" x H29\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1FbccestQfaRYMVCeJhPoX-8nN2qKgo_Y",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Only Base",
-        "v": {
-          "c": "29-Mar-2026",
-          "a": "",
-          "rm": "Base: HDHMR (Bottled Grape 8102)\n"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122523",
-        "prod": "Glick",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_585634_Screenshot_from_2025-12-23_11-58-34.png",
-        "cat": "Storage Cabinets",
-        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
-        "sz": "Outer: W72\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
-        "des": "Hetvi Shah",
-        "dl": "01-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122526",
-        "prod": "Filini",
-        "var": "Tuscany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260316_130254_134975_pasted_image_1773646402611.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (Deluxe-02 Frosty White)\nDrawer Fascia: HDHMR (White PU)",
-        "sz": "Outer: W14\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/14R0JjwoCsc2eufbPT7gEkudqWxOnnman",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "PU and drawer making, push open channel"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA RAL 3009)\nMounting: Mild Steel (ICA RAL 3009)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "Carcass and drawer making with push to open channel  and PU work on whole unit with metal parts"
-        },
-        "vendorDisplayName": "Vipra"
-      }
-    ],
-    "fs_sofa_legs": [
-      {
-        "op": "032607",
-        "prod": "Rezan",
-        "var": "Jade",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
-        "cat": "Office Desks",
-        "mat": "Top: 16mm MDF (RAL/NCS Matt Polyurethane (PU))\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)\nDrawer: 16mm MDF (RAL 1019 Grey Beige)\nMoulding: 16mm MDF (RAL 7030 Grey Stone)\nLegs: Stainless Steel 304 Matt (Black PVD)",
-        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
-        "fld": "https://drive.google.com/drive/folders/1h_G4S8rA-IYmNASvddPPTDG5BOHpqk1Z",
-        "des": "Readymade",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "4 readymade legs in grey finish"
-        },
-        "vendorDisplayName": "FS Sofa Legs"
       }
     ],
     "jain_marble": [
@@ -5186,6 +5081,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-01T06:22:24.001Z"
+    "timestamp": "2026-05-01T06:37:33.900Z"
   }
 }
