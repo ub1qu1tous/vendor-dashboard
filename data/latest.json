@@ -130,6 +130,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "022601",
+        "prod": "Pluto",
+        "var": "Millia",
+        "url": "https://i.ibb.co/fd0JdJT/a0002.jpg",
+        "cat": "Benches",
+        "mat": "Frame: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W41\" x D23\" x H20\"\nSeat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1TNIOYu_rzzvwvn38VYBGuwj7afpjjghM",
+        "des": "Readymade",
+        "dl": "16-Mar-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "022608",
         "prod": "Chelsea",
         "var": "Lux",
@@ -5190,6 +5211,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-02T10:07:24.212Z"
+    "timestamp": "2026-05-02T10:22:29.669Z"
   }
 }
