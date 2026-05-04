@@ -680,27 +680,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "112511",
-        "prod": "Delfit",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251119_160637_480415_pasted_image_1763548607902.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nTop: White Oak (Black Matt)\nLegs: White Oak (Natural)\nLegs: White Oak (Black Matt)",
-        "sz": "Outer: W63\" x D28\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1wgSVWD5wyd2XOeTIo2LzA5aQu1F9MrcC",
-        "des": "Tanmay Shah",
-        "dl": "08-Dec-2025",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "12-Jan-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "112521",
         "prod": "Miller",
         "var": "Xany",
@@ -5043,6 +5022,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-04T05:37:24.736Z"
+    "timestamp": "2026-05-04T06:11:17.108Z"
   }
 }
