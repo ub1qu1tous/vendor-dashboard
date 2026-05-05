@@ -888,6 +888,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
+        "prod": "Danone",
+        "var": "Sandrift",
+        "url": "https://i.ibb.co/QJXk0FX/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Peca)\nBase: Sheesham (Peca)\nDrawer Fascia: Sheesham (Peca)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W21\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1BbTtRm8r9Lv4s3KGibmjnifnpRMJll4p",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "aidan_dudy": [
@@ -3126,6 +3147,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "042618",
+        "prod": "Kempas",
+        "var": "Ewan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_131247_736124_2.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nLegs: American Walnut (Natural)\nPanel: American Walnut (Natural)\nBolster: Foam Upholstery (Soft Rock Sr No. 3214)",
+        "sz": "Outer: W64\" x D31.5\" x H30.5\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1gV2t2C2JDuXNALwhpG_8GDveHevuAVbd",
+        "des": "Maulik Parmar",
+        "dl": "25-Jul-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
       }
     ],
     "kamlesh_jangid": [
@@ -5064,6 +5106,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-05T11:24:51.852Z"
+    "timestamp": "2026-05-05T11:37:27.789Z"
   }
 }
