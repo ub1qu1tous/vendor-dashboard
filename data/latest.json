@@ -2238,6 +2238,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "042618",
+        "prod": "Ayana",
+        "var": "Faani",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_202051_691171_ayana_faani_nightstand_2048.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Rich Tobacco)\nDrawer: Sheesham (Rich Tobacco)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W20\" x D16\" x H19\"",
+        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Repolish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       }
     ],
     "manish_marble_jaipur": [
@@ -5022,6 +5043,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-05T08:52:30.416Z"
+    "timestamp": "2026-05-05T09:07:30.385Z"
   }
 }
