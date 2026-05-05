@@ -867,6 +867,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
+        "prod": "Chelsea",
+        "var": "Cyril",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140903_961056_pasted_image_1763973554316.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Structure: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nLeg-Rest: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
+        "fld": "https://drive.google.com/drive/folders/1JCNJXMG9PsC-Wg_sjN1Tl6oKrr5ycSR6",
+        "des": "Tanmay Shah",
+        "dl": "20-Dec-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "aidan_dudy": [
@@ -5043,6 +5064,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-05T11:07:32.125Z"
+    "timestamp": "2026-05-05T11:24:51.852Z"
   }
 }
