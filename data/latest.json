@@ -2727,6 +2727,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "092535",
+        "prod": "Aamon",
+        "var": "Thruhiker",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_121956_665930_WhatsApp_Image_2025-10-03_at_12_19_47.jpeg",
+        "cat": "Reception Counters",
+        "mat": "Carcass: HDHMR (Red Oxide Brown 8024)\nTop (Counter): Banswada White (Mirror Buffing)\nCarcass: 16mm Plywood (Finish TBC)\nDrawer Fascia: 16mm Plywood (Finish TBC)\nStorage: HDHMR ()",
+        "sz": "Outer: W96\" x D24\" x H54\"",
+        "fld": "https://drive.google.com/drive/folders/149XUjyEaNMttjqGi-j_p1qNQB_NBhSCw",
+        "des": "Hetvi Shah",
+        "dl": "11-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Tile Cladding Purchase & Work + Edge PU Finish by Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "4 rod for fitting 8 inch log shelf pin ms"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "112521",
         "prod": "Miller",
         "var": "Wren",
@@ -3762,29 +3783,6 @@
           "rm": "Carcass and drawer making with push to open channel  and PU work on whole unit with metal parts"
         },
         "vendorDisplayName": "Vipra"
-      }
-    ],
-    "fs_sofa_legs": [
-      {
-        "op": "032607",
-        "prod": "Rezan",
-        "var": "Jade",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
-        "cat": "Office Desks",
-        "mat": "Top: 16mm MDF (RAL/NCS Matt Polyurethane (PU))\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)\nDrawer: 16mm MDF (RAL 1019 Grey Beige)\nMoulding: 16mm MDF (RAL 7030 Grey Stone)\nLegs: Stainless Steel 304 Matt (Black PVD)",
-        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
-        "fld": "https://drive.google.com/drive/folders/1h_G4S8rA-IYmNASvddPPTDG5BOHpqk1Z",
-        "des": "Readymade",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "4 readymade legs in grey finish"
-        },
-        "vendorDisplayName": "FS Sofa Legs"
       }
     ],
     "aarti_steel": [
@@ -5106,6 +5104,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-06T07:22:39.019Z"
+    "timestamp": "2026-05-06T07:37:27.019Z"
   }
 }
