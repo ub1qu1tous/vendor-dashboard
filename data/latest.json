@@ -1107,7 +1107,7 @@
         "var": "Ethel",
         "url": "https://i.ibb.co/QvVKqjJ/a0001IBB.jpg",
         "cat": "Benches",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
         "sz": "Outer: W66\" x D18\" x H18.2\"\nTrunk: W63.5\" x D18\" x H12\"\nSeat Height: 18.2\"",
         "fld": "https://drive.google.com/drive/folders/1HMax8_RFXMOf6HY4oD5df1KKewnHxq0c",
         "des": "Hetvi Shah",
@@ -3305,7 +3305,7 @@
         "var": "Ethel",
         "url": "https://i.ibb.co/QvVKqjJ/a0001IBB.jpg",
         "cat": "Benches",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Oak (Natural)\nInternal Carcass: 12mm Plywood (Oak Laminate)",
         "sz": "Outer: W66\" x D18\" x H18.2\"\nTrunk: W63.5\" x D18\" x H12\"\nSeat Height: 18.2\"",
         "fld": "https://drive.google.com/drive/folders/1HMax8_RFXMOf6HY4oD5df1KKewnHxq0c",
         "des": "Hetvi Shah",
@@ -5104,6 +5104,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-06T07:52:29.916Z"
+    "timestamp": "2026-05-06T08:07:29.532Z"
   }
 }
