@@ -2292,7 +2292,7 @@
         "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
         "des": "Parthsarthi Suthar",
         "dl": "02-Jan-2010",
-        "q": 2,
+        "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Guest Bedroom",
         "v": {
@@ -3166,6 +3166,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "042618",
+        "prod": "Ayana",
+        "var": "Faani",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_202051_691171_ayana_faani_nightstand_2048.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Rich Tobacco)\nDrawer: Sheesham (Rich Tobacco)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W20\" x D16\" x H19\"",
+        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "From Stock"
         },
         "vendorDisplayName": "AWS"
       },
@@ -5104,6 +5125,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-06T10:37:31.732Z"
+    "timestamp": "2026-05-06T10:52:55.133Z"
   }
 }
