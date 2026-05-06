@@ -870,6 +870,27 @@
       },
       {
         "op": "042618",
+        "prod": "Canvas",
+        "var": "George",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250716_144015_898142_0002.jpg",
+        "cat": "Beds",
+        "mat": "Structure: Sheesham (Jacobean)\nHeadboard: Pre-woven Rattan (Clear)\nBed Slat Support: 12mm Plywood (Clear)",
+        "sz": "Outer: W76\" x D75.5\" x H42.5\"\nMattress: W72\" x D78\" x H6\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/14248_vp59uRtl0ZRsa0N3J7Ps15Gpxui",
+        "des": "Parthsarthi Suthar",
+        "dl": "17-Jul-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
         "prod": "Chelsea",
         "var": "Cyril",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140903_961056_pasted_image_1763973554316.png",
@@ -2292,13 +2313,34 @@
         "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
         "des": "Parthsarthi Suthar",
         "dl": "02-Jan-2010",
-        "q": 1,
+        "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Guest Bedroom",
         "v": {
           "c": "",
           "a": "",
           "rm": "Repolish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "042618",
+        "prod": "Swainson",
+        "var": "Kos",
+        "url": "https://i.ibb.co/Kxm8H2YG/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nWeaving: Pre-woven Rattan (Clear Lacquered)\n1 Small Square Kidney Pillow: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W23\" x D24\" x H28\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1I3U-JbUTv2C1cf_YRHVHt8DRlJnznpI5",
+        "des": "Parthsarthi Suthar",
+        "dl": "23-Aug-2023",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       }
@@ -3166,27 +3208,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "042618",
-        "prod": "Ayana",
-        "var": "Faani",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_202051_691171_ayana_faani_nightstand_2048.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Rich Tobacco)\nDrawer: Sheesham (Rich Tobacco)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W20\" x D16\" x H19\"",
-        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "From Stock"
         },
         "vendorDisplayName": "AWS"
       },
@@ -5125,6 +5146,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-06T13:07:35.261Z"
+    "timestamp": "2026-05-06T13:24:08.727Z"
   }
 }
