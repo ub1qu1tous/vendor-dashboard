@@ -407,27 +407,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "022602",
-        "prod": "Margo",
-        "var": "Marbella",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260223_182952_494338_pasted_image_1771851616693.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Acacia (Smoke Grey)\nMounting: Stainless Steel 304 Matt (Brass Transparent Coat)",
-        "sz": "Outer: W18\" x D18\" x H20.5\"",
-        "fld": "https://drive.google.com/drive/folders/1iWfPAspFLdHrpwCRk3_iNZiavFJLw6Ic",
-        "des": "Parthsarthi Suthar",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "match with Facile Dining Table"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "022608",
         "prod": "Chelsea",
         "var": "Lux",
@@ -5060,6 +5039,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-07T05:07:25.005Z"
+    "timestamp": "2026-05-07T05:22:24.442Z"
   }
 }
