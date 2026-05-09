@@ -2475,27 +2475,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "032610",
-        "prod": "Telephone",
-        "var": "Eunio",
-        "url": "https://i.ibb.co/KhZPV73/sq-8.jpg",
-        "cat": "Accent Table Sets",
-        "mat": "Top (Beyaz): Banswada White (Mirror Buffing)\nBase (Beyaz): Mild Steel (Black Powder Coat)\nMounting (Beyaz): Mild Steel (Black Powder Coat)\nSupport (Beyaz): 18mm MDF (White Matt Duco)\nTop (Natsu): Banswada White (Mirror Buffing)\nBase (Natsu): Mild Steel (Black Powder Coat)\nMounting (Natsu): Mild Steel (Black Powder Coat)\nSupport (Natsu): 18mm MDF (White Matt Duco)",
-        "sz": "Beyaz: W18\" x D18\" x H22\"\nNatsu: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1cpcqqiPh-O-5P_9UejdIZLb6CgSVy9hP",
-        "des": "Parth Gada",
-        "dl": "04-Feb-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Ground Floor",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "042510",
         "prod": "Omelle",
         "var": "Gratia",
@@ -4993,6 +4972,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-09T06:37:34.104Z"
+    "timestamp": "2026-05-09T06:52:22.721Z"
   }
 }
