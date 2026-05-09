@@ -3429,6 +3429,27 @@
       },
       {
         "op": "062509",
+        "prod": "Chevara",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260121_123930_606235_Screenshot_2026-01-21_123856.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabricare Comfort IV SRN 420)\nBase: Mild Steel (ICA VMA3020 + SFCA)\nSupport: Black Veneer (Black Matt)",
+        "sz": "Outer: W60\" x D21\" x H17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1mko30ckNpYjdtZRqdltf9gL5Qf1MqQij",
+        "des": "Hetvi Shah",
+        "dl": "15-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Bench",
+        "v": {
+          "c": "08-Aug-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
         "prod": "Dublin",
         "var": "Mousse",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
@@ -4972,6 +4993,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-09T05:37:24.132Z"
+    "timestamp": "2026-05-09T05:52:22.630Z"
   }
 }
