@@ -977,27 +977,6 @@
       },
       {
         "op": "022503",
-        "prod": "Stedika",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251128_160447_389555_pasted_image_1764326100210.png",
-        "cat": "Ottomans",
-        "mat": "Frame: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W19\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1EyksNfsmp0b52FNN_hu_wyr2Yih9Aubc",
-        "des": "Tanmay Shah",
-        "dl": "20-Dec-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric Will Provide By Client 1.5 Meter.\nBar Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022503",
         "prod": "Westcott",
         "var": "Fynn",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251128_160030_496885_pasted_image_1764325842675.png",
@@ -4993,6 +4972,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-10T05:08:29.810Z"
+    "timestamp": "2026-05-10T05:22:58.289Z"
   }
 }
