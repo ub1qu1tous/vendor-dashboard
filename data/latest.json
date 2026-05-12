@@ -1713,27 +1713,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "042618",
-        "prod": "Swainson",
-        "var": "Kos",
-        "url": "https://i.ibb.co/Kxm8H2YG/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nWeaving: Pre-woven Rattan (Clear Lacquered)\n1 Small Square Kidney Pillow: Recron Filling (Choice of Fabric)",
-        "sz": "Outer: W23\" x D24\" x H28\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1I3U-JbUTv2C1cf_YRHVHt8DRlJnznpI5",
-        "des": "Parthsarthi Suthar",
-        "dl": "23-Aug-2023",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "062509",
         "prod": "Artaine",
         "var": "Gypster",
@@ -5100,6 +5079,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-12T13:07:32.521Z"
+    "timestamp": "2026-05-12T13:22:21.457Z"
   }
 }
