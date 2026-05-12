@@ -1562,6 +1562,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112517",
+        "prod": "Miu",
+        "var": "Plover",
+        "url": "https://i.ibb.co/PWbSLwk/v01-1.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nLegs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D28\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1_T3v-H-h6gFKGpqlZETDpvT_IK22ukGa",
+        "des": "Akarsha Jha",
+        "dl": "11-Apr-2023",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Manager Cabin Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112517",
+        "prod": "Flurry",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W29.5\" x D36\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1uEhAh9z5PMgXNiq52LdQsVJOgSYMs60v",
+        "des": "Tanmay Shah",
+        "dl": "28-Jul-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "krishna_furnitech_polish": [
@@ -1963,6 +2005,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "112517",
+        "prod": "Flurry",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W29.5\" x D36\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1uEhAh9z5PMgXNiq52LdQsVJOgSYMs60v",
+        "des": "Tanmay Shah",
+        "dl": "28-Jul-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       }
     ],
     "vittal_wood_tech": [
@@ -2255,6 +2318,27 @@
         "cr": "FF Mirror",
         "v": {
           "c": "10-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112517",
+        "prod": "Flurry",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W29.5\" x D36\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1uEhAh9z5PMgXNiq52LdQsVJOgSYMs60v",
+        "des": "Tanmay Shah",
+        "dl": "28-Jul-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Accent Chair",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3376,6 +3460,48 @@
         "q": 6,
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "112517",
+        "prod": "Miu",
+        "var": "Plover",
+        "url": "https://i.ibb.co/PWbSLwk/v01-1.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nLegs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D28\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1_T3v-H-h6gFKGpqlZETDpvT_IK22ukGa",
+        "des": "Akarsha Jha",
+        "dl": "11-Apr-2023",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Manager Cabin Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "112517",
+        "prod": "Flurry",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250715_155845_465694_WhatsApp_Image_2025-07-15_at_15_32_37_3c526f54.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W29.5\" x D36\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1uEhAh9z5PMgXNiq52LdQsVJOgSYMs60v",
+        "des": "Tanmay Shah",
+        "dl": "28-Jul-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Accent Chair",
         "v": {
           "c": "",
           "a": "",
@@ -4832,6 +4958,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "112517",
+        "prod": "Miu",
+        "var": "Plover",
+        "url": "https://i.ibb.co/PWbSLwk/v01-1.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nLegs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D28\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1_T3v-H-h6gFKGpqlZETDpvT_IK22ukGa",
+        "des": "Akarsha Jha",
+        "dl": "11-Apr-2023",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Manager Cabin Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
     "the_lighting_studio": [
@@ -4972,6 +5119,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-12T07:29:16.471Z"
+    "timestamp": "2026-05-12T07:39:26.925Z"
   }
 }
