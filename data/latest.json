@@ -1601,7 +1601,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Cloaked"
+          "rm": "Backrest fabric should not be stitched before embroidery is done"
         },
         "vendorDisplayName": "Aidan Dudy"
       }
@@ -5163,6 +5163,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-14T08:07:39.340Z"
+    "timestamp": "2026-05-14T08:22:43.042Z"
   }
 }
