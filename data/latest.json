@@ -1376,27 +1376,6 @@
       },
       {
         "op": "112517",
-        "prod": "Melton",
-        "var": "Audus",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Reception Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112517",
         "prod": "Miu",
         "var": "Plover",
         "url": "https://i.ibb.co/PWbSLwk/v01-1.jpg",
@@ -1602,6 +1581,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122523",
+        "prod": "Maylene",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
+        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
+        "des": "Parth Gada",
+        "dl": "10-Jun-2023",
+        "q": 20,
+        "pm": "Dilip Jangir",
+        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Cloaked"
         },
         "vendorDisplayName": "Aidan Dudy"
       }
@@ -3150,6 +3150,27 @@
       },
       {
         "op": "122523",
+        "prod": "Maylene",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
+        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
+        "des": "Parth Gada",
+        "dl": "10-Jun-2023",
+        "q": 20,
+        "pm": "Dilip Jangir",
+        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Embroidery being handled by Grishma"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "122523",
         "prod": "Missi",
         "var": "Morin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
@@ -3385,27 +3406,6 @@
       },
       {
         "op": "112517",
-        "prod": "Melton",
-        "var": "Audus",
-        "url": "",
-        "cat": "",
-        "mat": "",
-        "sz": 0,
-        "fld": 0,
-        "des": "",
-        "dl": "30-Dec-1899",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Reception Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "112517",
         "prod": "Miu",
         "var": "Plover",
         "url": "https://i.ibb.co/PWbSLwk/v01-1.jpg",
@@ -3544,6 +3544,27 @@
         "q": 6,
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "122523",
+        "prod": "Maylene",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
+        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
+        "des": "Parth Gada",
+        "dl": "10-Jun-2023",
+        "q": 20,
+        "pm": "Dilip Jangir",
+        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
         "v": {
           "c": "",
           "a": "",
@@ -5142,6 +5163,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-14T07:52:24.726Z"
+    "timestamp": "2026-05-14T08:07:39.340Z"
   }
 }
