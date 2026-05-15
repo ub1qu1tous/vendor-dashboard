@@ -1271,6 +1271,27 @@
       },
       {
         "op": "112517",
+        "prod": "Pebble",
+        "var": "Aries",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260515_152411_383929_pasted_image_1778838849933.png",
+        "cat": "Ottomans",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W144\" x D36\" x H30\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1THkkxavMFDIFhhf8Qbd6so4uif03CLjP",
+        "des": "Dipen Gada",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112517",
         "prod": "Miu",
         "var": "Plover",
         "url": "https://i.ibb.co/PWbSLwk/v01-1.jpg",
@@ -2490,6 +2511,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Lounge Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "112517",
+        "prod": "Pebble",
+        "var": "Aries",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260515_152411_383929_pasted_image_1778838849933.png",
+        "cat": "Ottomans",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W144\" x D36\" x H30\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1THkkxavMFDIFhhf8Qbd6so4uif03CLjP",
+        "des": "Dipen Gada",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Sofa",
         "v": {
           "c": "",
           "a": "",
@@ -4848,6 +4890,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-15T09:54:16.369Z"
+    "timestamp": "2026-05-15T10:09:17.712Z"
   }
 }
