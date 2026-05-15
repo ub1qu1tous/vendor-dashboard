@@ -3071,27 +3071,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "042510",
-        "prod": "Omelle",
-        "var": "Gratia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251025_152431_713684_Chelsi_s_study_unit.png",
-        "cat": "Study Tables",
-        "mat": "Shelf: Oak Veneer (Natural)",
-        "sz": "Outer: W75\" x D24\" x H2\"",
-        "fld": "https://drive.google.com/drive/folders/1e2hFU3wsBMncyT5SU63msHAaWDw-Ef5y",
-        "des": "Hetvi Shah",
-        "dl": "17-Sept-2025",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Chelsi's Bedroom - Study Table",
-        "v": {
-          "c": "01-Apr-2026",
-          "a": "",
-          "rm": "metal frame in 15x15 sq. pipe and 12mm stud  8 inch long ms"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "042607",
         "prod": "Endsville",
         "var": "Marbella",
@@ -3319,27 +3298,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122504",
-        "prod": "Cordelia",
-        "var": "Quill",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260120_181826_472899_Screenshot_2026-01-20_181806.png",
-        "cat": "Dining Chairs",
-        "mat": "Seat: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Sheesham (Black Matt)\nCap: Stainless Steel 304 Matt (Rose Gold PVD)",
-        "sz": "Outer: W23.75\" x D23.5\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1AH_HQLZREIjvVGmpJ33oIRK6453WCI0-",
-        "des": "Hetvi Shah",
-        "dl": "09-Feb-2026",
-        "q": 8,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "cap work 32 caps, and bush fitting 64 pcs for back attach with frame ss matt ROSEGOLD PVD"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4560,27 +4518,6 @@
     "jain_marble": [
       {
         "op": "062509",
-        "prod": "Artaine",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_150502_793354_pasted_image_1765964117581.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Top: Black Veneer (Black Matt)\nBase: HDHMR (ICA VMA3020 + SFCA)\nSupport: HDHMR (ICA VMA3020 + SFCA)",
-        "sz": "Outer: W25\" x D38\" x H11\"\nAccent: W15.2\" x D36.7\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1hgGJRwVt7SaenvLHG47fzJxb6DsALgVD",
-        "des": "Hetvi Shah",
-        "dl": "28-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Coffee Table Set",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Jain Marble"
-      },
-      {
-        "op": "062509",
         "prod": "Aviva",
         "var": "Helix",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151250_977525_pasted_image_1765964586668.png",
@@ -4911,6 +4848,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-15T05:25:25.200Z"
+    "timestamp": "2026-05-15T05:37:26.893Z"
   }
 }
