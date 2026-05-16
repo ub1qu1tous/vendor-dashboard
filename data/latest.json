@@ -428,27 +428,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "042607",
-        "prod": "Endsville",
-        "var": "Marbella",
-        "url": "https://i.ibb.co/NrHDK4z/dinning-table.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Recycled Teak (Natural)\nBeading: Recycled Teak (Natural)\nSupport: 8mm MDF (White Matt Duco)\nLegs: Banswada White (Mirror Buffing)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W96\" x D48\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1wYsCFmlmr-9s-WTyCujtkU9V1h0TyIyq",
-        "des": "Tarishi Rathore",
-        "dl": "19-Apr-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "042608",
         "prod": "Burrell",
         "var": "Jet",
@@ -1035,27 +1014,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "042607",
-        "prod": "Sloane",
-        "var": "Zaira",
-        "url": "https://i.ibb.co/m87xBvs/0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Ply & Foam Upholstery (NS70151A - 12)\nHeadboard: Ply & Foam Upholstery (NS70151A - 12)\n2 Cushions: Foam Upholstery (Ferrow 24418 Caramel Shade No 15)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W92\" x D86\" x H32\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W79\" x D3\" x H\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/17ANNw6YH2Axm_GjDFGjeRDBIVDoD2rCG",
-        "des": "Maulik Parmar",
-        "dl": "01-Jan-2002",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "headboard"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -4701,6 +4659,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-16T05:37:24.696Z"
+    "timestamp": "2026-05-16T05:55:33.444Z"
   }
 }
