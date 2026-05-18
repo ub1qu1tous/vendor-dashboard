@@ -533,6 +533,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "042618",
+        "prod": "Swainson",
+        "var": "Tafone",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_567531_jpeg-optimizer_rule_d_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Mulberry Concept - Vermont (VT 311))\nWeaving: Pre-woven Rattan (Clear Lacquered)\n1 Small Square Kidney Pillow: Recron Filling (Mulberry Concept - Vermont (VT 311))\nLegs: Sheesham (RAL 1020 Olive Yellow)",
+        "sz": "Outer: W24\" x D32\" x H28\"\nSeat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1se2N71U7WGfoBCMRMJf82-q5GV1hM9dC",
+        "des": "Parthsarthi Suthar",
+        "dl": "23-Aug-2023",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "repair one pc at factory and make one new"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "052508",
         "prod": "Cinnamon",
         "var": "Acer",
@@ -4659,6 +4680,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-18T11:52:24.540Z"
+    "timestamp": "2026-05-18T12:07:32.155Z"
   }
 }
