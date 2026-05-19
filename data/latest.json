@@ -216,6 +216,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "032610",
+        "prod": "Caterpillar",
+        "var": "Hulu",
+        "url": "https://i.ibb.co/5WR22Wft/0002.jpg",
+        "cat": "Daybeds",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nBolster: Ply & Foam Upholstery (Fabric TBC)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W84\" x D31.5\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Kt5ya_J9Ksj0LvPvbV_H5DZSoeYEPT6S",
+        "des": "Hetvi Shah",
+        "dl": "14-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Ground Floor",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "base "
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "042607",
         "prod": "Aruba",
         "var": "Pauli",
@@ -1035,6 +1056,27 @@
           "c": "30-Mar-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "032610",
+        "prod": "Caterpillar",
+        "var": "Hulu",
+        "url": "https://i.ibb.co/5WR22Wft/0002.jpg",
+        "cat": "Daybeds",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nBolster: Ply & Foam Upholstery (Fabric TBC)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W84\" x D31.5\" x H27\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1Kt5ya_J9Ksj0LvPvbV_H5DZSoeYEPT6S",
+        "des": "Hetvi Shah",
+        "dl": "14-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Ground Floor",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "use existing smaller triangle available at godown"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -4722,6 +4764,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-19T12:07:31.334Z"
+    "timestamp": "2026-05-19T12:23:59.278Z"
   }
 }
