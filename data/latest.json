@@ -91,6 +91,27 @@
     "krishna_furnitech": [
       {
         "op": "012623",
+        "prod": "Azela",
+        "var": "Allure",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_153925_814460_pasted_image_1774433361246.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: White Oak (Finish TBC)",
+        "sz": "Outer: W22\" x D22\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1pnD-yEwP_BvzAPILcr25MQYVOQMHF23a",
+        "des": "Hetvi Shah",
+        "dl": "05-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "012623",
         "prod": "Haikiki",
         "var": "Hoor",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260327_164000_832812_pasted_image_1774609798854.png",
@@ -4764,6 +4785,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-19T13:22:36.928Z"
+    "timestamp": "2026-05-19T13:41:17.811Z"
   }
 }
