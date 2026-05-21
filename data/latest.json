@@ -279,27 +279,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "042607",
-        "prod": "Aruba",
-        "var": "Pauli",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_111842_609433_pasted_image_1776145722306.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: Recycled Teak (Natural)",
-        "sz": "Outer: W15.75\" x D17.75\" x H30\"\nSeat Height: 25.5\"",
-        "fld": "https://drive.google.com/drive/folders/143Jeye6gYsL7A1tODPtZqklI3lOMlL9w",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Natural Polish Matching with Endsville Legs"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "042608",
         "prod": "Burrell",
         "var": "Jet",
@@ -1757,27 +1736,6 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
-        "op": "042602",
-        "prod": "Beaver",
-        "var": "Elin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260410_151817_404774_pasted_image_1775814496179.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
-        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
         "op": "042609",
         "prod": "Tauris",
         "var": "Cormac",
@@ -1921,48 +1879,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092520",
-        "prod": "Rosenfeld",
-        "var": "Finch",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Burma Border Teak (Natural)\nLegs: Burma Border Teak (Natural)",
-        "sz": "Outer: W24\" x D16\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Studio Room Nightstand",
-        "v": {
-          "c": "05-Oct-2025",
-          "a": "",
-          "rm": "6 \" clear drawer depth required "
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "122523",
-        "prod": "Dax",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_175306_327974_pasted_image_1774614185689.png",
-        "cat": "Console Tables",
-        "mat": "Structure: White Oak (Natural)\nDrawer: White Oak (Natural)\nHandle: Brass (Antique Brass)",
-        "sz": "Outer: W60\" x D18\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1V_lL5yM54L4Xnt5YXdckCOKme6UhXLBU",
-        "des": "Hetvi Shah",
-        "dl": "29-Mar-2026",
-        "q": 3,
-        "pm": "Dilip Jangir",
-        "cr": "GF Console",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "3 tables"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -2878,6 +2794,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092520",
+        "prod": "Rosenfeld",
+        "var": "Finch",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Burma Border Teak (Natural)\nLegs: Burma Border Teak (Natural)",
+        "sz": "Outer: W24\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Nightstand",
+        "v": {
+          "c": "25-Sept-2025",
+          "a": "",
+          "rm": "Drawer box for telescopic channel\nBox inside sizes:\n575mm width x\n 365mm depth x \n155mm height\n\nQty= 4 pcs \nLaminate preference tahiti tea"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "112521",
         "prod": "Miller",
         "var": "Ethel",
@@ -3448,7 +3385,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "02-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3657,27 +3594,6 @@
         "q": 8,
         "pm": "",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "122523",
-        "prod": "Dax",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_175306_327974_pasted_image_1774614185689.png",
-        "cat": "Console Tables",
-        "mat": "Structure: White Oak (Natural)\nDrawer: White Oak (Natural)\nHandle: Brass (Antique Brass)",
-        "sz": "Outer: W60\" x D18\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1V_lL5yM54L4Xnt5YXdckCOKme6UhXLBU",
-        "des": "Hetvi Shah",
-        "dl": "29-Mar-2026",
-        "q": 3,
-        "pm": "Dilip Jangir",
-        "cr": "GF Console",
         "v": {
           "c": "",
           "a": "",
@@ -4827,6 +4743,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-21T08:52:30.348Z"
+    "timestamp": "2026-05-21T09:07:28.473Z"
   }
 }
