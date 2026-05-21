@@ -237,27 +237,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "022503",
-        "prod": "Westcott",
-        "var": "Fynn",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251128_160030_496885_pasted_image_1764325842675.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Recycled Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\n1 Medium Square Kidney Pillow: Recron Filling (Choice of Fabric)",
-        "sz": "Outer: W24\" x D23.2\" x H33\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1SFDwlZeq-gpgEDJCcdtg76ii6YTN49Wy",
-        "des": "Tanmay Shah",
-        "dl": "10-Mar-2026",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric Will Provide By Client 3.5 Meter.\nMultipurpose Area",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "032610",
         "prod": "Caterpillar",
         "var": "Hulu",
@@ -4743,6 +4722,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-21T12:22:25.835Z"
+    "timestamp": "2026-05-21T12:45:18.905Z"
   }
 }
