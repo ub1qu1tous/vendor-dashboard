@@ -258,27 +258,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "042608",
-        "prod": "Burrell",
-        "var": "Jet",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_131122_986300_pasted_image_1776152482019.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nLegs: White Oak (Natural)",
-        "sz": "Outer: W24\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1eYb3n3_5E9c-wAyr3iLNNqarXSVc8naZ",
-        "des": "Arpit Jain",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Please make Legs solid.\nAgar leg ka dia kam lag raha ho marble ka weight uthane k liye, to dia bdha skte hai."
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "042618",
         "prod": "Canvas",
         "var": "George",
@@ -3008,48 +2987,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "042607",
-        "prod": "Endsville",
-        "var": "Marbella",
-        "url": "https://i.ibb.co/NrHDK4z/dinning-table.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Recycled Teak (Natural)\nBeading: Recycled Teak (Natural)\nSupport: 8mm MDF (White Matt Duco)\nLegs: Banswada White (Mirror Buffing)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W96\" x D48\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1wYsCFmlmr-9s-WTyCujtkU9V1h0TyIyq",
-        "des": "Tarishi Rathore",
-        "dl": "19-Apr-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042608",
-        "prod": "Burrell",
-        "var": "Jet",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_131122_986300_pasted_image_1776152482019.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Artificial White Onyx (Mirror Buffing)\nLegs: White Oak (Natural)",
-        "sz": "Outer: W24\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1eYb3n3_5E9c-wAyr3iLNNqarXSVc8naZ",
-        "des": "Arpit Jain",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "08-Apr-2026",
-          "a": "",
-          "rm": "metal plate with counter 9\" dia plate in ss matt 3mm, qty= 2 pcs"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "042618",
         "prod": "Seoul",
         "var": "Malana",
@@ -3256,27 +3193,6 @@
           "c": "15-Apr-2026",
           "a": "",
           "rm": "Need one sample without handle, then after 19 chair in ss"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA RAL 3009)\nMounting: Mild Steel (ICA RAL 3009)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "Fit kese hoga vo Dilipbhai Discuss/decide krke hi Production start kare"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -4722,6 +4638,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-22T04:37:26.994Z"
+    "timestamp": "2026-05-22T04:55:34.969Z"
   }
 }
