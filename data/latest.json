@@ -1039,7 +1039,7 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "092416",
+        "op": "",
         "prod": "Decker",
         "var": "Yoku",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260415_110155_077955_jpeg-optimizer_patterned_lounge_utility_2.jpeg",
@@ -1050,7 +1050,7 @@
         "des": "Maulik Parmar",
         "dl": "04-Dec-2022",
         "q": 2,
-        "pm": "Maulik Parmar",
+        "pm": "#N/A",
         "cr": "NEEL’S BEDROOM\r",
         "v": {
           "c": "",
@@ -4638,6 +4638,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-23T08:37:24.528Z"
+    "timestamp": "2026-05-23T08:52:43.096Z"
   }
 }
