@@ -1167,27 +1167,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "022618",
-        "prod": "Wolberg",
-        "var": "Paloma",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_120408_793045_pasted_image_1775716447802.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W29.5\" x D31.5\" x H28\"",
-        "fld": "https://drive.google.com/drive/folders/1JvHNBLh__WRZ78HpcIbm3VakTGd-nS8n",
-        "des": "Hetvi Shah",
-        "dl": "07-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "13-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "032522",
         "prod": "Amithi",
         "var": "Ethel",
@@ -4638,6 +4617,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-25T05:52:27.222Z"
+    "timestamp": "2026-05-25T06:08:51.184Z"
   }
 }
