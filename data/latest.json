@@ -1652,6 +1652,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "042618",
+        "prod": "Trevis",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_162822_940305_pasted_image_1772708329122.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W19.7\" x D19.7\" x H31.5\"",
+        "fld": "https://drive.google.com/drive/folders/16CY5Xs8TF2BgoI9SYQaWHI2psGMBV8aq",
+        "des": "Dilip Jangir",
+        "dl": "06-Mar-2026",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
@@ -4512,6 +4533,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-26T07:22:28.336Z"
+    "timestamp": "2026-05-26T07:37:27.538Z"
   }
 }
