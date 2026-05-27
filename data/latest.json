@@ -2813,27 +2813,6 @@
           "rm": "PU and drawer making, push open channel"
         },
         "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122526",
-        "prod": "Hank",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260314_200448_040591_pasted_image_1773498916012.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (ICA RAL 3009)\nMounting: Mild Steel (ICA RAL 3009)\nInternal Carcass: 16mm Plywood (Merino Blush 22084)",
-        "sz": "Outer: W22\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1-Yuj8-JkUrSSzr-vk1aFRqFD2jCNBkIH",
-        "des": "Hetvi Shah",
-        "dl": "16-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Match Fabric for PU Colour",
-        "v": {
-          "c": "07-Apr-2026",
-          "a": "",
-          "rm": "Carcass and drawer making with push to open channel  and PU work on whole unit with metal parts"
-        },
-        "vendorDisplayName": "Vipra"
       }
     ],
     "aarti_steel": [
@@ -4533,6 +4512,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-27T11:52:30.981Z"
+    "timestamp": "2026-05-27T12:23:43.834Z"
   }
 }
