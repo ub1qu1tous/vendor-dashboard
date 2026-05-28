@@ -4311,6 +4311,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "122501",
+        "prod": "Dessa",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260525_121250_291724_Screenshot_2026-05-22_123535.png",
+        "cat": "Lamps",
+        "mat": "Frame: Mild Steel (Finish TBC)\nCanopy: Fabric ()\nLamp Fitting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W45\" x D45\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1JvkXn4p6xtFk0VqHs_iyZUUAuyH7gLI5",
+        "des": "Readymade",
+        "dl": "22-May-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "05-Jun-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
+      },
+      {
+        "op": "122501",
+        "prod": "Dessa",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260525_121300_595477_Screenshot_2026-05-22_124422.png",
+        "cat": "Lamps",
+        "mat": "Frame: Mild Steel (Finish TBC)\nCanopy: Fabric ()\nLamp Fitting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W30\" x D30\" x H10\"",
+        "fld": "https://drive.google.com/drive/folders/1rDc_4wLFrfAA1g4bPMAr5XXkzpmDyQO-",
+        "des": "Readymade",
+        "dl": "22-May-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "05-Jun-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "The Lighting Studio"
       }
     ],
     "lalji_handicrafts": [
@@ -4407,6 +4449,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-28T11:22:35.403Z"
+    "timestamp": "2026-05-28T11:37:29.812Z"
   }
 }
