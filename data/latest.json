@@ -196,27 +196,6 @@
       },
       {
         "op": "022503",
-        "prod": "Tisdale",
-        "var": "Lumia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251204_120418_322489_2.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Natural)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W32\" x D32\" x H15.75\"",
-        "fld": "https://drive.google.com/drive/folders/19KBxk_-TDUPil-VGLLOmaE-hqm-d4WfQ",
-        "des": "Hetvi Shah",
-        "dl": "20-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Multipurpose Hall",
-        "v": {
-          "c": "10-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022503",
         "prod": "Urmson",
         "var": "Gypster",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251124_160343_437799_pasted_image_1763980434515.png",
@@ -4449,6 +4428,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-30T08:37:20.115Z"
+    "timestamp": "2026-05-30T08:52:21.962Z"
   }
 }
