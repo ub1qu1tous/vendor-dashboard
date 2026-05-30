@@ -174,48 +174,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "022503",
-        "prod": "Chelsea",
-        "var": "Avelli",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260505_154204_119206_Screenshot_2026-05-05_153409.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nLeg-Rest: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
-        "fld": "https://drive.google.com/drive/folders/12whYbasYkxQ5fKIs9H3O88-BzhJuynwS",
-        "des": "Tanmay Shah",
-        "dl": "20-Dec-2025",
-        "q": 3,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric Will Provide By Client 1.5 Meter.\nBar Area",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022503",
-        "prod": "Urmson",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_160343_437799_pasted_image_1763980434515.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Recycled Teak (Natural)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W63\" x D63\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1YqNx9MCOskTKz2tbRqJaZziRdhXSL1_6",
-        "des": "Tanmay Shah",
-        "dl": "10-Jan-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Multipurpose Area",
-        "v": {
-          "c": "10-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "022618",
         "prod": "Lambros",
         "var": "Sagrario",
@@ -4428,6 +4386,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-05-30T10:07:25.924Z"
+    "timestamp": "2026-05-30T10:22:24.442Z"
   }
 }
