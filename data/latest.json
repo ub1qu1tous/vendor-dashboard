@@ -1673,6 +1673,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "122522",
+        "prod": "Canopy",
+        "var": "Bliss",
+        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "20-Feb-2026",
+          "a": "",
+          "rm": "1 pc teach wood center support "
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "122523",
         "prod": "Glick",
         "var": "Wren",
@@ -2727,6 +2748,27 @@
         "cr": "",
         "v": {
           "c": "12-May-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "122522",
+        "prod": "Canopy",
+        "var": "Bliss",
+        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4401,6 +4443,29 @@
         "vendorDisplayName": "Shital Glass"
       }
     ],
+    "ashok_polish": [
+      {
+        "op": "122522",
+        "prod": "Canopy",
+        "var": "Bliss",
+        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "concrete finish work"
+        },
+        "vendorDisplayName": "Ashok Polish"
+      }
+    ],
     "casa_creations": [
       {
         "op": "122526",
@@ -4449,6 +4514,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-01T12:52:39.418Z"
+    "timestamp": "2026-06-01T13:07:22.171Z"
   }
 }
