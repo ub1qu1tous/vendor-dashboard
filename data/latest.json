@@ -2736,6 +2736,27 @@
       },
       {
         "op": "032614",
+        "prod": "Banderas",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_103829_841495_Screenshot_2026-05-11_182455.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Sheesham (Black Matt)\nBase: Mild Steel (Black Powder Coat)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)",
+        "sz": "Outer: W30\" x D30\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/1R3iSh6TjXUtDxxj5F8wpHrFb819uApYN",
+        "des": "Tanmay Shah",
+        "dl": "20-May-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "2 set ms sq. pipe aand plates in ms , pipe in ss matt"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "032614",
         "prod": "Gunther",
         "var": "Jade",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260516_151601_940455_Screenshot_2026-05-16_151257.png",
@@ -2990,6 +3011,27 @@
       }
     ],
     "maan_singh": [
+      {
+        "op": "032614",
+        "prod": "Banderas",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_103829_841495_Screenshot_2026-05-11_182455.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Sheesham (Black Matt)\nBase: Mild Steel (Black Powder Coat)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)",
+        "sz": "Outer: W30\" x D30\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/1R3iSh6TjXUtDxxj5F8wpHrFb819uApYN",
+        "des": "Tanmay Shah",
+        "dl": "20-May-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Maan Singh"
+      },
       {
         "op": "032614",
         "prod": "Gunther",
@@ -4386,6 +4428,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-01T08:52:25.464Z"
+    "timestamp": "2026-06-01T09:07:24.889Z"
   }
 }
