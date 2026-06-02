@@ -3050,27 +3050,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "112521",
-        "prod": "Miller",
-        "var": "Xany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260521_190337_176350_pasted_image_1779370415640.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: Recycled Teak (Natural)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W\" x D\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1Y57o-A8GzYc5rhwDkfb37A-b5oklymz_",
-        "des": "Hetvi Shah",
-        "dl": "10-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bar Area Shelving",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "122523",
         "prod": "Maylene",
         "var": "Fynn",
@@ -3371,6 +3350,48 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "092519",
+        "prod": "Muto",
+        "var": "Appriv",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_171020_854697_pasted_image_1774525219105.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: White Oak (Natural)\nSupport: 15mm MDF (White Matt Duco)",
+        "sz": "Outer: W108\" x D48\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1qqrBXkByTx6T2LyIr58Z-sXjWHSfk1Y5",
+        "des": "Hetvi Shah",
+        "dl": "17-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "092519",
+        "prod": "Neenya",
+        "var": "Yancey",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_131350_384314_pasted_image_1774511028780.png",
+        "cat": "Console Tables",
+        "mat": "Top: Sheesham (Black)\nLegs: Sheesham (Black)\nAccessories: Brass (Clear)",
+        "sz": "Outer: W60\" x D15\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1uo_2_les1ETB9Y9Zh1_Q776oJN64vLPl",
+        "des": "Hetvi Shah",
+        "dl": "27-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "122523",
         "prod": "Missi",
         "var": "Morin",
@@ -3650,6 +3671,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "SRK Readymade Legs"
+      }
+    ],
+    "anil_engineers": [
+      {
+        "op": "052619",
+        "prod": "Malahan",
+        "var": "Kaylin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260529_171746_883198_pasted_image_1780055263702.png",
+        "cat": "Swings",
+        "mat": "Structure: Aluminium (Black Powder Coat)\nSeat: Foam Upholstery (Fabric TBC)\n4 Small Round Kidney Pillows: Recron Filling (Fabric TBC)\nWeaving: 8mm Rope (Finish TBC)\nFixture: Stainless Steel 304 Matt (Clear)\nSwing Rope: SS Wire Rope (Fabric TBC)",
+        "sz": "Outer: W54\" x D54\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1XqvyzpZUCliCIPlghpxU-63gESR3_rQg",
+        "des": "Ramesh Panchal",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Anil Engineers"
       }
     ],
     "chhoturam": [
@@ -4556,6 +4600,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-02T05:12:12.936Z"
+    "timestamp": "2026-06-02T05:28:22.468Z"
   }
 }
