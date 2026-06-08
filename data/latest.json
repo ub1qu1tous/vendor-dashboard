@@ -4367,7 +4367,7 @@
         "fld": "https://drive.google.com/drive/folders/1JvkXn4p6xtFk0VqHs_iyZUUAuyH7gLI5",
         "des": "Readymade",
         "dl": "22-May-2026",
-        "q": 2,
+        "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -4388,7 +4388,7 @@
         "fld": "https://drive.google.com/drive/folders/1rDc_4wLFrfAA1g4bPMAr5XXkzpmDyQO-",
         "des": "Readymade",
         "dl": "22-May-2026",
-        "q": 1,
+        "q": 2,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -4516,6 +4516,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-08T06:37:27.104Z"
+    "timestamp": "2026-06-08T06:52:28.238Z"
   }
 }
