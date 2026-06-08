@@ -237,6 +237,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "032610",
+        "prod": "Depp",
+        "var": "Adams",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260525_121020_002454_Screenshot_2026-05-23_120620.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nLegs: Recycled Teak (Black)",
+        "sz": "Outer: W132\" x D48\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1fHwzX9hxEs7vLCjIR0xh6d2ML8bXI7gO",
+        "des": "Hetvi Shah",
+        "dl": "29-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Ground Floor",
+        "v": {
+          "c": "19-May-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "042618",
         "prod": "Canvas",
         "var": "George",
@@ -4495,6 +4516,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-08T05:37:24.652Z"
+    "timestamp": "2026-06-08T05:52:24.912Z"
   }
 }
