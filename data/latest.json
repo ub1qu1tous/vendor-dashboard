@@ -1782,27 +1782,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "042602",
-        "prod": "Beaver",
-        "var": "Elin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260410_151817_404774_pasted_image_1775814496179.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\nSeat: Ply & Foam Upholstery (Best Of Toile SRN GL_75)\n1 Centre Cushion: Foam Upholstery (Best Of Toile SRN GL_75)\nMounting: Leatherette (Fabric TBC)",
-        "sz": "Outer: W28\" x D28\" x H33\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1WFTr9OJXOdhyAeNJY7JRR0q2bRLN2Jiq",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "062604",
         "prod": "Silvera",
         "var": "Hue",
@@ -2500,6 +2479,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "052612",
+        "prod": "Aetheris",
+        "var": "Arley",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_171244_694387_pasted_image_1776512559864.png",
+        "cat": "Bookcases",
+        "mat": "Frame: Mild Steel (Black Powder Coat)\nShelf: HDHMR (Finish TBC)\nNiche: HDHMR (Finish TBC)\nCarcass: HDHMR (Finish TBC)\nInternal Carcass: 16mm Plywood (Finish TBC)\nShutter: 16mm Plywood (RAL 3002 Carmine Red (PU))",
+        "sz": "Outer: W72.5\" x D14\" x H93.5\"",
+        "fld": "https://drive.google.com/drive/folders/1dd2ZFIwEJPjWjYtLSqIxQd2bT2SD-92D",
+        "des": "Hetvi Shah",
+        "dl": "10-Nov-2024",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "062509",
         "prod": "Chevara",
         "var": "Lux",
@@ -2896,7 +2896,7 @@
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom",
         "v": {
-          "c": "",
+          "c": "29-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3131,7 +3131,7 @@
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
         "v": {
-          "c": "",
+          "c": "29-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4579,6 +4579,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-09T12:52:20.927Z"
+    "timestamp": "2026-06-09T13:07:24.231Z"
   }
 }
