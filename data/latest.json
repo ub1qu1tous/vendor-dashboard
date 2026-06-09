@@ -595,27 +595,6 @@
       },
       {
         "op": "122522",
-        "prod": "Poseidon",
-        "var": "Oren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251219_105155_590598_pasted_image_1766121729815.png",
-        "cat": "Sofas",
-        "mat": "Frame: Recycled Teak (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery ( Print (Blue Damask))\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W84\" x D36\" x H32\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/17h0snYkGR17c58a-q4gpUV6OxObWjgDQ",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "GF Sofa\nFabric 7m + 2.5m From Client Each Piece",
-        "v": {
-          "c": "06-Apr-2026",
-          "a": "",
-          "rm": "first handle sample required, then 2 left , 2 right handle"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122522",
         "prod": "Umbrella",
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
@@ -1289,6 +1268,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "122523",
+        "prod": "Kazoichi",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_174133_040904_pasted_image_1774613492634.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery ( Main Body — Taupe Textured)\nBase: White Oak (Natural)\n5 Cushions: Recron Filling (Fabric TBC)\n2 Cushions: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W84\" x D37\" x H33\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bl0bJ1GJ5f8YEW_AGamUHkk3iyB8xI0_",
+        "des": "Hetvi Shah",
+        "dl": "28-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Lounge Sofa\nFabric 10m + 4m + 1.5m From Client Each Piece",
+        "v": {
+          "c": "20-Feb-2026",
+          "a": "",
+          "rm": "natural polish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -2098,48 +2098,6 @@
       },
       {
         "op": "122522",
-        "prod": "Poseidon",
-        "var": "Nova",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250730_104823_415246_0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Recycled Teak (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery ( Print (Blue Damask))\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W30\" x D36\" x H32\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1q_22SoMVaOQA9DgLP5KSMihtJkiJOA1o",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "GF Accent Chair\nFabric 2.5m + 1.5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122522",
-        "prod": "Poseidon",
-        "var": "Oren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251219_105155_590598_pasted_image_1766121729815.png",
-        "cat": "Sofas",
-        "mat": "Frame: Recycled Teak (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery ( Print (Blue Damask))\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W84\" x D36\" x H32\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/17h0snYkGR17c58a-q4gpUV6OxObWjgDQ",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "GF Sofa\nFabric 7m + 2.5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122522",
         "prod": "Umbrella",
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
@@ -2152,6 +2110,27 @@
         "q": 6,
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122523",
+        "prod": "Kazoichi",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_174133_040904_pasted_image_1774613492634.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery ( Main Body — Taupe Textured)\nBase: White Oak (Natural)\n5 Cushions: Recron Filling (Fabric TBC)\n2 Cushions: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W84\" x D37\" x H33\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bl0bJ1GJ5f8YEW_AGamUHkk3iyB8xI0_",
+        "des": "Hetvi Shah",
+        "dl": "28-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Lounge Sofa\nFabric 10m + 4m + 1.5m From Client Each Piece",
         "v": {
           "c": "",
           "a": "",
@@ -2352,27 +2331,6 @@
       },
       {
         "op": "122522",
-        "prod": "Poseidon",
-        "var": "Oren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251219_105155_590598_pasted_image_1766121729815.png",
-        "cat": "Sofas",
-        "mat": "Frame: Recycled Teak (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery ( Print (Blue Damask))\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W84\" x D36\" x H32\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/17h0snYkGR17c58a-q4gpUV6OxObWjgDQ",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "GF Sofa\nFabric 7m + 2.5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122522",
         "prod": "Umbrella",
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
@@ -2385,6 +2343,27 @@
         "q": 6,
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "122523",
+        "prod": "Kazoichi",
+        "var": "Gypster",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_174133_040904_pasted_image_1774613492634.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery ( Main Body — Taupe Textured)\nBase: White Oak (Natural)\n5 Cushions: Recron Filling (Fabric TBC)\n2 Cushions: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W84\" x D37\" x H33\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bl0bJ1GJ5f8YEW_AGamUHkk3iyB8xI0_",
+        "des": "Hetvi Shah",
+        "dl": "28-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "FF Lounge Sofa\nFabric 10m + 4m + 1.5m From Client Each Piece",
         "v": {
           "c": "",
           "a": "",
@@ -3066,7 +3045,7 @@
         "v": {
           "c": "15-Apr-2026",
           "a": "",
-          "rm": "Need one sample without handle, then after 19 chair in ss"
+          "rm": ""
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -3495,6 +3474,27 @@
           "c": "",
           "a": "",
           "rm": "rosegold PVD"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "122523",
+        "prod": "Maylene",
+        "var": "Fynn",
+        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
+        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
+        "des": "Parth Gada",
+        "dl": "10-Jun-2023",
+        "q": 20,
+        "pm": "Dilip Jangir",
+        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "gold"
         },
         "vendorDisplayName": "Surat PVD"
       }
@@ -4579,6 +4579,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-09T13:07:24.231Z"
+    "timestamp": "2026-06-09T13:22:29.889Z"
   }
 }
