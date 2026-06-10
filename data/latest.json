@@ -4079,27 +4079,6 @@
       },
       {
         "op": "112521",
-        "prod": "Miller",
-        "var": "Xany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260521_190337_176350_pasted_image_1779370415640.png",
-        "cat": "Shelvings",
-        "mat": "Shelf: Recycled Teak (Natural)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W\" x D\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/1Y57o-A8GzYc5rhwDkfb37A-b5oklymz_",
-        "des": "Hetvi Shah",
-        "dl": "10-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Bar Area Shelving",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "fitting "
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "112521",
         "prod": "Sinyoret",
         "var": "Lustre",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260305_120450_871731_pasted_image_1772692517519.png",
@@ -4768,6 +4747,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-10T05:52:22.853Z"
+    "timestamp": "2026-06-10T06:07:22.183Z"
   }
 }
