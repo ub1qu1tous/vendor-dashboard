@@ -1614,27 +1614,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "042620",
-        "prod": "Coral",
-        "var": "Coca",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260603_180218_894366_ChatGPT_Image_Jun_3__2026__06_01_41_PM.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Arezzo Sherwood Sr No 06)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W96\" x D32\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1dO4IRs34jRX2GaUoJJ2-vU9KgvEl-D-X?usp=sharing",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "1st floor conference room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
@@ -3694,92 +3673,6 @@
         "vendorDisplayName": "The Art Room"
       }
     ],
-    "srk_readymade_legs": [
-      {
-        "op": "042620",
-        "prod": "Coral",
-        "var": "Coca",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260603_180218_894366_ChatGPT_Image_Jun_3__2026__06_01_41_PM.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Arezzo Sherwood Sr No 06)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W96\" x D32\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1dO4IRs34jRX2GaUoJJ2-vU9KgvEl-D-X?usp=sharing",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "1st floor conference room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "062509",
-        "prod": "Neilston",
-        "var": "Lucia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_124228_110375_pasted_image_1772089974089.png",
-        "cat": "Storage Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Mulberry Concept SRN VT 317)\nPlatform: Ply & Foam Upholstery (Magiclean Turri SRN 12)\nBackrest: Foam Upholstery (Magiclean Turri SRN 12)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W80\" x D85\" x H40\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 20\"",
-        "fld": "https://drive.google.com/drive/folders/1vbC3Qa5VVsgA_HtBj9aJ4yL7NO4F1At5",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "062509",
-        "prod": "Shereen",
-        "var": "Coot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_151523_976752_pasted_image_1767692739962.png",
-        "cat": "Beds",
-        "mat": "Headboard: Sheesham (Black Matt)\nBackrest: Foam Upholstery (Woodstock Midnight SRN 19)\nPlatform: Foam Upholstery (Woodstock Midnight SRN 19)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W86\" x D88\" x H43\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/161Ycwtt_nigZIKYP5tJHptwTJQKgMGaF",
-        "des": "Tanmay Shah",
-        "dl": "02-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "062509",
-        "prod": "Yagher",
-        "var": "Nairobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
-        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Sectional Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
-      }
-    ],
     "anil_engineers": [
       {
         "op": "052619",
@@ -4504,6 +4397,71 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
+    "srk_readymade_legs": [
+      {
+        "op": "062509",
+        "prod": "Neilston",
+        "var": "Lucia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_124228_110375_pasted_image_1772089974089.png",
+        "cat": "Storage Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Mulberry Concept SRN VT 317)\nPlatform: Ply & Foam Upholstery (Magiclean Turri SRN 12)\nBackrest: Foam Upholstery (Magiclean Turri SRN 12)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W80\" x D85\" x H40\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1vbC3Qa5VVsgA_HtBj9aJ4yL7NO4F1At5",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "062509",
+        "prod": "Shereen",
+        "var": "Coot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_151523_976752_pasted_image_1767692739962.png",
+        "cat": "Beds",
+        "mat": "Headboard: Sheesham (Black Matt)\nBackrest: Foam Upholstery (Woodstock Midnight SRN 19)\nPlatform: Foam Upholstery (Woodstock Midnight SRN 19)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W86\" x D88\" x H43\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/161Ycwtt_nigZIKYP5tJHptwTJQKgMGaF",
+        "des": "Tanmay Shah",
+        "dl": "02-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      },
+      {
+        "op": "062509",
+        "prod": "Yagher",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
+        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Sectional Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "SRK Readymade Legs"
+      }
+    ],
     "the_lighting_studio": [
       {
         "op": "092518",
@@ -4663,6 +4621,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-11T11:07:26.925Z"
+    "timestamp": "2026-06-11T11:22:47.539Z"
   }
 }
