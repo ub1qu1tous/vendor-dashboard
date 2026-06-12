@@ -1311,7 +1311,7 @@
         "v": {
           "c": "15-Apr-2026",
           "a": "",
-          "rm": ""
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -1354,27 +1354,6 @@
         "cr": "Rectangle Shape",
         "v": {
           "c": "14-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "042607",
-        "prod": "Dyrroth",
-        "var": "Wadell",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_151702_416929_Screenshot_2026-04-09_151634.png",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Oak (White Distressed)",
-        "sz": "Outer: W22\" x D22\" x H15\"\nSeat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/17AzzqeWPRueTnn_ZLH8DKR3Ihck5LOZc",
-        "des": "Parthsarthi Suthar",
-        "dl": "14-Apr-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2048,7 +2027,7 @@
         "pm": "Dilip Jangir",
         "cr": "SF Meeting Room\nFabric 10m From Client Each Piece",
         "v": {
-          "c": "",
+          "c": "20-Feb-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2370,27 +2349,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "042607",
-        "prod": "Dyrroth",
-        "var": "Wadell",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260409_151702_416929_Screenshot_2026-04-09_151634.png",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Oak (White Distressed)",
-        "sz": "Outer: W22\" x D22\" x H15\"\nSeat Height: 15\"",
-        "fld": "https://drive.google.com/drive/folders/17AzzqeWPRueTnn_ZLH8DKR3Ihck5LOZc",
-        "des": "Parthsarthi Suthar",
-        "dl": "14-Apr-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Get this done in Pune"
         },
         "vendorDisplayName": "AWS"
       },
@@ -4789,6 +4747,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-12T05:37:26.616Z"
+    "timestamp": "2026-06-12T05:55:31.154Z"
   }
 }
