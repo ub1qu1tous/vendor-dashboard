@@ -2032,6 +2032,27 @@
           "rm": "Backrest fabric should not be stitched before embroidery is done"
         },
         "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122523",
+        "prod": "Melton",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_586620_Screenshot_from_2025-12-23_11-50-33.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Finish TBC)\nBackrest: Ply & Foam Upholstery (Finish TBC)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W84\" x D36\" x H30\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1JoT7cqs0oE8ixKturVfu5o85bjycNNmi",
+        "des": "Hetvi Shah",
+        "dl": "06-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room\nFabric 10m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "royal_powder_coat": [
@@ -2958,6 +2979,27 @@
         "q": 20,
         "pm": "Dilip Jangir",
         "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "122523",
+        "prod": "Melton",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_586620_Screenshot_from_2025-12-23_11-50-33.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Finish TBC)\nBackrest: Ply & Foam Upholstery (Finish TBC)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W84\" x D36\" x H30\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1JoT7cqs0oE8ixKturVfu5o85bjycNNmi",
+        "des": "Hetvi Shah",
+        "dl": "06-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room\nFabric 10m From Client Each Piece",
         "v": {
           "c": "",
           "a": "",
@@ -4747,6 +4789,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-12T05:07:27.038Z"
+    "timestamp": "2026-06-12T05:22:26.453Z"
   }
 }
