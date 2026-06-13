@@ -3392,6 +3392,48 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "052618",
+        "prod": "Jawhead",
+        "var": "Cyril",
+        "url": "https://studiopepe.info/wp-content/uploads/2023/06/GallottiRadice_Stami_Bench_frontale_300RGB-2048x1536.jpg",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "052618",
+        "prod": "Roback",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260608_181302_663644_Screenshot_2026-06-08_180820.png",
+        "cat": "Study Tables",
+        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W48\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
@@ -4789,6 +4831,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-13T11:07:25.231Z"
+    "timestamp": "2026-06-13T11:23:38.063Z"
   }
 }
