@@ -552,6 +552,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "062604",
+        "prod": "Silvera",
+        "var": "Xerri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
+        "cat": "Sofas",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Foam Upholstery (Choice of Fabric)\n5 Cushions: Recron Filling (Choice of Fabric)",
+        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/18c_4I9i_ofAtnL0lAE3kMPuhFZ9alEjy",
+        "des": "Tanmay Shah",
+        "dl": "16-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -1274,6 +1295,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "062604",
+        "prod": "Silvera",
+        "var": "Xerri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
+        "cat": "Sofas",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Foam Upholstery (Choice of Fabric)\n5 Cushions: Recron Filling (Choice of Fabric)",
+        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/18c_4I9i_ofAtnL0lAE3kMPuhFZ9alEjy",
+        "des": "Tanmay Shah",
+        "dl": "16-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "handle cap dia 41mmjodhpur, 2 pcs in brass matt with loose 8mm stud"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "122523",
         "prod": "Maylene",
         "var": "Fynn",
@@ -1816,6 +1858,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room Sectional Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062604",
+        "prod": "Silvera",
+        "var": "Xerri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
+        "cat": "Sofas",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Foam Upholstery (Choice of Fabric)\n5 Cushions: Recron Filling (Choice of Fabric)",
+        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/18c_4I9i_ofAtnL0lAE3kMPuhFZ9alEjy",
+        "des": "Tanmay Shah",
+        "dl": "16-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -2727,6 +2790,27 @@
         "q": 8,
         "pm": "Dilip Jangir",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "062604",
+        "prod": "Silvera",
+        "var": "Xerri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251216_144508_784240_pasted_image_1765876522777.png",
+        "cat": "Sofas",
+        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Foam Upholstery (Choice of Fabric)\n5 Cushions: Recron Filling (Choice of Fabric)",
+        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/18c_4I9i_ofAtnL0lAE3kMPuhFZ9alEjy",
+        "des": "Tanmay Shah",
+        "dl": "16-Dec-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -4705,6 +4789,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-13T08:52:23.525Z"
+    "timestamp": "2026-06-13T09:07:28.557Z"
   }
 }
