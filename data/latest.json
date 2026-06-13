@@ -4672,6 +4672,29 @@
         "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
+    "ansar_enterprises": [
+      {
+        "op": "062607",
+        "prod": "Porthoy",
+        "var": "Avelli",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_171013_010072_pasted_image_1781350808131.png",
+        "cat": "Rugs",
+        "mat": "Carpet: Blended Wool (Hand-Tufted)",
+        "sz": "Outer: W35\" x D0.75\" x H93\"",
+        "fld": "https://drive.google.com/drive/folders/1rJ-RC4NAy7Qhzrzud9I-BW08OPvtwXEv",
+        "des": "Aqib Ansari",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ansar Enterprises"
+      }
+    ],
     "the_lighting_studio": [
       {
         "op": "092518",
@@ -4831,6 +4854,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-13T11:37:24.404Z"
+    "timestamp": "2026-06-13T11:52:24.793Z"
   }
 }
