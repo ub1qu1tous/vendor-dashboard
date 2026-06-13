@@ -343,6 +343,27 @@
       },
       {
         "op": "042618",
+        "prod": "Nyxara",
+        "var": "Nova",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_163654_949167_Screenshot_2026-05-12_163624.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Teak Veneer (Suncity)\nMounting: Recycled Teak (Suncity)",
+        "sz": "Outer: W84\" x D39\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1zit-M_G0Ll5LNpA3IjaVZGIZv4SViMm1",
+        "des": "Tanmay Shah",
+        "dl": "04-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
         "prod": "Seoul",
         "var": "Malana",
         "url": "https://i.ibb.co/hRzXBD94/sq-2.jpg",
@@ -4747,6 +4768,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-13T06:22:26.099Z"
+    "timestamp": "2026-06-13T06:37:23.283Z"
   }
 }
