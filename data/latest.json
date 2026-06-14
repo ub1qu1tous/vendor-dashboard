@@ -405,6 +405,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "052618",
+        "prod": "Roback",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260608_181302_663644_Screenshot_2026-06-08_180820.png",
+        "cat": "Study Tables",
+        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W48\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "052619",
         "prod": "Citadel",
         "var": "Voila",
@@ -1015,7 +1036,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
       },
@@ -3408,28 +3429,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "052618",
-        "prod": "Roback",
-        "var": "Groot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260608_181302_663644_Screenshot_2026-06-08_180820.png",
-        "cat": "Study Tables",
-        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W48\" x D16\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
-        "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3880,7 +3880,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Anil Engineers"
       },
@@ -3901,7 +3901,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Anil Engineers"
       }
@@ -4854,6 +4854,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-14T07:52:24.349Z"
+    "timestamp": "2026-06-14T08:07:21.837Z"
   }
 }
