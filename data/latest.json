@@ -1950,27 +1950,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "112521",
-        "prod": "Sinyoret",
-        "var": "Lustre",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_120450_871731_pasted_image_1772692517519.png",
-        "cat": "Sofas",
-        "mat": "Frame: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\n4 Cushions: Foam Upholstery (Fabric TBC)\nSeat: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: WTBC\" x DTBC\" x H29\"\nSeat Height: 15.75\"",
-        "fld": "https://drive.google.com/drive/folders/1PFAiE1yZk-rqzXxjrMep-4P4oWPMKPsB",
-        "des": "Hetvi Shah",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric Will Provide By Client.\nMultipurpose Hall",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Carmine",
@@ -4137,27 +4116,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "112521",
-        "prod": "Sinyoret",
-        "var": "Lustre",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_120450_871731_pasted_image_1772692517519.png",
-        "cat": "Sofas",
-        "mat": "Frame: Recycled Teak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\n4 Cushions: Foam Upholstery (Fabric TBC)\nSeat: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: WTBC\" x DTBC\" x H29\"\nSeat Height: 15.75\"",
-        "fld": "https://drive.google.com/drive/folders/1PFAiE1yZk-rqzXxjrMep-4P4oWPMKPsB",
-        "des": "Hetvi Shah",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric Will Provide By Client.\nMultipurpose Hall",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "fitting "
-        },
-        "vendorDisplayName": "Chhoturam"
       }
     ],
     "jain_marble": [
@@ -4896,6 +4854,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-15T07:07:38.416Z"
+    "timestamp": "2026-06-15T07:22:26.982Z"
   }
 }
