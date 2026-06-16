@@ -3330,7 +3330,7 @@
         "var": "Wren",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260612_130113_086479_pasted_image_1781249470869.png",
         "cat": "Storage Cabinets",
-        "mat": "Carcass: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter: HDHMR (RAL/NCS Matt Polyurethane (PU))\nLegs: HDHMR (RAL/NCS Matt Polyurethane (PU))\nShutter Panel: White Oak (Natural)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "mat": "Carcass: HDHMR (ICA Sabbia 0119)\nShutter: HDHMR (ICA Sabbia Scuro 129)\nLegs: HDHMR (ICA Sabbia 0119)\nDrawer Fascia: HDHMR (ICA Sabbia Scuro 129)\nInternal Carcass: 16mm Plywood (Oak Laminate)",
         "sz": "Outer: W72\" x D21\" x H30\"",
         "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
         "des": "Hetvi Shah",
@@ -4812,6 +4812,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-16T12:52:24.918Z"
+    "timestamp": "2026-06-16T13:07:22.464Z"
   }
 }
