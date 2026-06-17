@@ -385,6 +385,27 @@
       },
       {
         "op": "042618",
+        "prod": "Dubawnt",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260511_155219_788795_Screenshot_2026-05-11_154650.png",
+        "cat": "Beds",
+        "mat": "Structure: Sheesham (Peca)\nBed Slat Support: 12mm Plywood (Oak Laminate)",
+        "sz": "Outer: W64\" x D79\" x H35.5\"\nMattress: W60\" x D78\" x H6\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XnkbFrCJvZlk4Tl_8fsa1kjQRknkWEVh",
+        "des": "Parthsarthi Suthar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
         "prod": "Nyxara",
         "var": "Nova",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260512_163654_949167_Screenshot_2026-05-12_163624.png",
@@ -4833,6 +4854,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-17T12:52:30.541Z"
+    "timestamp": "2026-06-17T13:07:28.821Z"
   }
 }
