@@ -1232,6 +1232,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "052618",
+        "prod": "Roback",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_180305_849284_Screenshot_2026-06-15_180144.png",
+        "cat": "Study Tables",
+        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W48\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "mirror frame in 25mm x 4mm flat bar , 14mm round pipe for frame fitting with top , in pipe bottom 8mm threaded bush to fix with wooden top, 14mm pipe in bottom with 6mm LN bolt fitting bush"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "052619",
         "prod": "Citadel",
         "var": "Voila",
@@ -4812,6 +4833,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-17T06:52:26.183Z"
+    "timestamp": "2026-06-17T07:07:28.267Z"
   }
 }
