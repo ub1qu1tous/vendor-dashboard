@@ -427,6 +427,27 @@
       },
       {
         "op": "042618",
+        "prod": "Reindeer",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_105223_410567_WhatsApp_Image_2026-06-13_at_10_51_30_AM.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
+        "sz": "Outer: W55\" x D16\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
+        "des": "Tanmay Shah",
+        "dl": "16-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area\nON HOLD",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
         "prod": "Seoul",
         "var": "Malana",
         "url": "https://i.ibb.co/hRzXBD94/sq-2.jpg",
@@ -4854,6 +4875,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-18T08:52:31.910Z"
+    "timestamp": "2026-06-18T09:07:38.969Z"
   }
 }
