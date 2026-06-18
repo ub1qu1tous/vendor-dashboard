@@ -788,7 +788,7 @@
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (GM Kyoto 104)\nBackrest: Ply & Foam Upholstery (Artic Bliss 101)\nBase: Sheesham (Black Matt)",
+        "mat": "Structure: Ply & Foam Upholstery (GM Kyoto 104)\nBackrest: Ply & Foam Upholstery (Artic Bliss 101)\nLegs: Sheesham (Black Matt)",
         "sz": "Outer: W60\" x D50\" x H36\"\nSeat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/1IK7uixIRF_V1Uq-uPotVNraroW1-KYyn",
         "des": "Parth Gada",
@@ -2013,6 +2013,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "062610",
+        "prod": "Calibre",
+        "var": "Masika",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260618_131511_310410_pasted_image_1781768709645.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W25\" x D23\" x H31\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VirnRbw9ut2yySOXJeGv5o6LBDAVZlyv",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 8,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Carmine",
@@ -2081,7 +2102,7 @@
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (GM Kyoto 104)\nBackrest: Ply & Foam Upholstery (Artic Bliss 101)\nBase: Sheesham (Black Matt)",
+        "mat": "Structure: Ply & Foam Upholstery (GM Kyoto 104)\nBackrest: Ply & Foam Upholstery (Artic Bliss 101)\nLegs: Sheesham (Black Matt)",
         "sz": "Outer: W60\" x D50\" x H36\"\nSeat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/1IK7uixIRF_V1Uq-uPotVNraroW1-KYyn",
         "des": "Parth Gada",
@@ -3013,7 +3034,7 @@
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (GM Kyoto 104)\nBackrest: Ply & Foam Upholstery (Artic Bliss 101)\nBase: Sheesham (Black Matt)",
+        "mat": "Structure: Ply & Foam Upholstery (GM Kyoto 104)\nBackrest: Ply & Foam Upholstery (Artic Bliss 101)\nLegs: Sheesham (Black Matt)",
         "sz": "Outer: W60\" x D50\" x H36\"\nSeat Height: 18\"",
         "fld": "https://drive.google.com/drive/folders/1IK7uixIRF_V1Uq-uPotVNraroW1-KYyn",
         "des": "Parth Gada",
@@ -4875,6 +4896,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-18T09:07:38.969Z"
+    "timestamp": "2026-06-18T09:22:24.469Z"
   }
 }
