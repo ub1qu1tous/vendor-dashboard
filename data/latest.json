@@ -1118,7 +1118,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "25-Jun-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -1275,6 +1275,27 @@
       },
       {
         "op": "052618",
+        "prod": "Jawhead",
+        "var": "Cyril",
+        "url": "https://studiopepe.info/wp-content/uploads/2023/06/GallottiRadice_Stami_Bench_frontale_300RGB-2048x1536.jpg",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Jun-2026",
+          "a": "",
+          "rm": "gold pvd matt part \nsize 40mm x 40mm x 8mm thick\nqty 8pcs"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "052618",
         "prod": "Roback",
         "var": "Groot",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260615_180305_849284_Screenshot_2026-06-15_180144.png",
@@ -1309,7 +1330,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "25-Jun-2026",
           "a": "",
           "rm": ""
         },
@@ -3795,6 +3816,27 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
+        "op": "052618",
+        "prod": "Jawhead",
+        "var": "Cyril",
+        "url": "https://studiopepe.info/wp-content/uploads/2023/06/GallottiRadice_Stami_Bench_frontale_300RGB-2048x1536.jpg",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Jun-2026",
+          "a": "",
+          "rm": "gold matt pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
         "op": "062509",
         "prod": "Firhouse",
         "var": "Yorker",
@@ -4896,6 +4938,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-19T05:22:21.450Z"
+    "timestamp": "2026-06-19T05:37:23.431Z"
   }
 }
