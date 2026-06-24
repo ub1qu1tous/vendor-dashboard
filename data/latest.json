@@ -322,69 +322,6 @@
       },
       {
         "op": "042618",
-        "prod": "Canvas",
-        "var": "George",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250716_144015_898142_0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Sheesham (Jacobean)\nHeadboard: Pre-woven Rattan (Clear)\nBed Slat Support: 12mm Plywood (Clear)",
-        "sz": "Outer: W76\" x D75.5\" x H42.5\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/14248_vp59uRtl0ZRsa0N3J7Ps15Gpxui",
-        "des": "Parthsarthi Suthar",
-        "dl": "17-Jul-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
-        "prod": "Danone",
-        "var": "Sandrift",
-        "url": "https://i.ibb.co/QJXk0FX/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Peca)\nBase: Sheesham (Peca)\nDrawer Fascia: Sheesham (Peca)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W21\" x D18\" x H21\"",
-        "fld": "https://drive.google.com/drive/folders/1BbTtRm8r9Lv4s3KGibmjnifnpRMJll4p",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
-        "prod": "Dubawnt",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260511_155219_788795_Screenshot_2026-05-11_154650.png",
-        "cat": "Beds",
-        "mat": "Structure: Sheesham (Peca)\nBed Slat Support: 12mm Plywood (Oak Laminate)",
-        "sz": "Outer: W64\" x D79\" x H35.5\"\nMattress: W60\" x D78\" x H6\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XnkbFrCJvZlk4Tl_8fsa1kjQRknkWEVh",
-        "des": "Parthsarthi Suthar",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
         "prod": "Nyxara",
         "var": "Nova",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260512_163654_949167_Screenshot_2026-05-12_163624.png",
@@ -422,48 +359,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
-        "prod": "Seoul",
-        "var": "Malana",
-        "url": "https://i.ibb.co/hRzXBD94/sq-2.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D30\" x H14\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1_VzMKuHCHlEpIyTn0-LA59VRKz0IPYU8",
-        "des": "Akarsha Jha",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
-        "prod": "Swainson",
-        "var": "Tafone",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_567531_jpeg-optimizer_rule_d_plain_background.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Mulberry Concept - Vermont (VT 311))\nWeaving: Pre-woven Rattan (Clear Lacquered)\n1 Small Square Kidney Pillow: Recron Filling (Mulberry Concept - Vermont (VT 311))\nLegs: Sheesham (RAL 1020 Olive Yellow)",
-        "sz": "Outer: W24\" x D32\" x H28\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1se2N71U7WGfoBCMRMJf82-q5GV1hM9dC",
-        "des": "Parthsarthi Suthar",
-        "dl": "23-Aug-2023",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "repair one pc at factory and make one new"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1054,27 +949,6 @@
         "cr": "",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "042618",
-        "prod": "Seoul",
-        "var": "Malana",
-        "url": "https://i.ibb.co/hRzXBD94/sq-2.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D30\" x H14\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1_VzMKuHCHlEpIyTn0-LA59VRKz0IPYU8",
-        "des": "Akarsha Jha",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "29-Apr-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2246,27 +2120,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "042618",
-        "prod": "Seoul",
-        "var": "Malana",
-        "url": "https://i.ibb.co/hRzXBD94/sq-2.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D30\" x H14\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1_VzMKuHCHlEpIyTn0-LA59VRKz0IPYU8",
-        "des": "Akarsha Jha",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "052318",
         "prod": "Delilah",
         "var": "Neymar",
@@ -2471,27 +2324,6 @@
         "q": 1,
         "pm": "Milankumar Mahida",
         "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "042618",
-        "prod": "Kempas",
-        "var": "Ewan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_144003_974919_2_seater_sofa_green_texture.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nLegs: American Walnut (Natural)\nPanel: American Walnut (Natural)\nBolster: Foam Upholstery (Soft Rock Sr No. 3214)",
-        "sz": "Outer: W64\" x D31.5\" x H30.5\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1gV2t2C2JDuXNALwhpG_8GDveHevuAVbd",
-        "des": "Maulik Parmar",
-        "dl": "25-Jul-2024",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3320,7 +3152,7 @@
         "v": {
           "c": "20-Feb-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Drawer push to open, shutter push to open pin"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -3627,6 +3459,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Art Room"
+      }
+    ],
+    "darshan_hardware": [
+      {
+        "op": "042618",
+        "prod": "Danone",
+        "var": "Sandrift",
+        "url": "https://i.ibb.co/QJXk0FX/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Peca)\nBase: Sheesham (Peca)\nDrawer Fascia: Sheesham (Peca)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W21\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1BbTtRm8r9Lv4s3KGibmjnifnpRMJll4p",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Darshan Hardware"
       }
     ],
     "vittal_wood_tech": [
@@ -4791,6 +4646,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-24T11:22:27.494Z"
+    "timestamp": "2026-06-24T11:38:29.965Z"
   }
 }
