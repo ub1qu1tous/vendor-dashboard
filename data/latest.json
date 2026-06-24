@@ -343,27 +343,6 @@
       },
       {
         "op": "042618",
-        "prod": "Chelsea",
-        "var": "Cyril",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_144042_372097_bar_stool_re_upholstered_striped_texture.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nLeg-Rest: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
-        "fld": "https://drive.google.com/drive/folders/1JCNJXMG9PsC-Wg_sjN1Tl6oKrr5ycSR6",
-        "des": "Tanmay Shah",
-        "dl": "20-Dec-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
         "prod": "Danone",
         "var": "Sandrift",
         "url": "https://i.ibb.co/QJXk0FX/0002.jpg",
@@ -4812,6 +4791,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-24T11:07:29.816Z"
+    "timestamp": "2026-06-24T11:22:27.494Z"
   }
 }
