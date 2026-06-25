@@ -806,6 +806,27 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
+        "op": "062604",
+        "prod": "Bearmont",
+        "var": "Iris",
+        "url": "https://i.ibb.co/2NWxnKP/0002.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W18\" x D18\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1QCARXM6fqYO2UChiHhDzipnc4JvBOoWi",
+        "des": "Parth Gada",
+        "dl": "03-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -2353,6 +2374,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "062604",
+        "prod": "Bearmont",
+        "var": "Iris",
+        "url": "https://i.ibb.co/2NWxnKP/0002.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W18\" x D18\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1QCARXM6fqYO2UChiHhDzipnc4JvBOoWi",
+        "des": "Parth Gada",
+        "dl": "03-Aug-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "072409",
         "prod": "Carnival",
         "var": "Turkey",
@@ -3413,6 +3455,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "062604",
+        "prod": "Xylogen",
+        "var": "Sakura",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260422_172344_428352_pasted_image_1776858822954.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Sheesham (Peca)",
+        "sz": "Outer: W16\" x D18\" x H23.5\"",
+        "fld": "https://drive.google.com/drive/folders/16e2cMmD0A78TuJ3ofVQ8iz4u2N-MasiN",
+        "des": "Tarishi Rathore",
+        "dl": "14-Apr-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "One piece in Black Matt Polish"
         },
         "vendorDisplayName": "Mandap"
       },
@@ -4646,6 +4709,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-25T06:07:24.702Z"
+    "timestamp": "2026-06-25T06:22:47.222Z"
   }
 }
