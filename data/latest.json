@@ -3390,48 +3390,6 @@
           "rm": "legs dia 45mm , 8 pcs length 45\" without polish"
         },
         "vendorDisplayName": "Maan Singh"
-      },
-      {
-        "op": "032614",
-        "prod": "Gunther",
-        "var": "Jade",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260516_151601_940455_Screenshot_2026-05-16_151257.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: Acacia (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)",
-        "sz": "Outer: W20\" x D18\" x HTBC\"\nSeat Height: 30\"",
-        "fld": "https://drive.google.com/drive/folders/1Tb0tEq65I-M0b4US4VZcOYf50z3kAG_y",
-        "des": "Maan Singh Rathore",
-        "dl": "NA",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Maan Singh"
-      },
-      {
-        "op": "032614",
-        "prod": "Gunther",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260513_122246_180968_Screenshot_2026-05-13_121942.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Acacia (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W20\" x D18\" x HTBC\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1xKjLSpXnsAYgOTFGmjyOAOAzk1JvWrLE",
-        "des": "Maan Singh Rathore",
-        "dl": "NA",
-        "q": 8,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Maan Singh"
       }
     ],
     "surat_pvd": [
@@ -4856,6 +4814,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-25T07:52:25.379Z"
+    "timestamp": "2026-06-25T08:07:25.473Z"
   }
 }
