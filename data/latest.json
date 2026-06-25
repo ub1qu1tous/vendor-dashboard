@@ -1018,27 +1018,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "032614",
-        "prod": "Gunther",
-        "var": "Jade",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260516_151601_940455_Screenshot_2026-05-16_151257.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: Acacia (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)",
-        "sz": "Outer: W20\" x D18\" x HTBC\"\nSeat Height: 30\"",
-        "fld": "https://drive.google.com/drive/folders/1Tb0tEq65I-M0b4US4VZcOYf50z3kAG_y",
-        "des": "Maan Singh Rathore",
-        "dl": "NA",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "042618",
         "prod": "Reindeer",
         "var": "Otra",
@@ -4814,6 +4793,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-25T08:22:26.232Z"
+    "timestamp": "2026-06-25T08:37:24.938Z"
   }
 }
