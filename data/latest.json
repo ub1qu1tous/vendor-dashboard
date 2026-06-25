@@ -559,7 +559,7 @@
         "cat": "Door Frames",
         "mat": "Frame: White Oak (Olive)",
         "sz": "Outer: W42.5\" x D12\" x H95\"",
-        "fld": "",
+        "fld": "https://drive.google.com/drive/folders/13XCJv84FSs9nB684xFFraae9bBo7HmjK",
         "des": "Parthsarthi Suthar",
         "dl": "02-Jan-2010",
         "q": 1,
@@ -580,12 +580,33 @@
         "cat": "Doors",
         "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)",
         "sz": "Outer: W37.5\" x D2\" x H92.5\"",
-        "fld": "",
+        "fld": "https://drive.google.com/drive/folders/1E2SWSUseLDqAlr7hSMIiKzih0OttW_Yq",
         "des": "Parthsarthi Suthar",
         "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "As per Doors T&C submitted vide 9-6-26",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062613",
+        "prod": "Alpine",
+        "var": "Thyme",
+        "url": "https://i.ibb.co/HXxj9sJ/a0001IBB.jpg",
+        "cat": "Console Tables",
+        "mat": "Legs: Sheesham (Peca)\nTop: Sheesham (Peca)\nFixture: Sheesham (Peca)",
+        "sz": "Outer: W48\" x D14\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/19psiZJN2U4fMa79E2LT7oYQRawsSXxTp",
+        "des": "Hetvi Shah",
+        "dl": "12-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -4835,6 +4856,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-25T06:52:25.867Z"
+    "timestamp": "2026-06-25T07:07:28.050Z"
   }
 }
