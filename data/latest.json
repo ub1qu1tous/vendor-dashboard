@@ -354,11 +354,11 @@
         "dl": "16-Jun-2026",
         "q": 1,
         "pm": "Maulik Parmar",
-        "cr": "Dining Area\nON HOLD",
+        "cr": "Dining Area",
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Pillar, Carcasse and Shutter Printing with Fixing"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -544,6 +544,48 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Lakeston",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181114_297480_PHOTO-2026-06-09-17-08-45.jpg",
+        "cat": "Door Frames",
+        "mat": "Frame: White Oak (Olive)",
+        "sz": "Outer: W42.5\" x D12\" x H95\"",
+        "fld": "",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Lakeston",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181038_434127_pasted_image_1781527232041.png",
+        "cat": "Doors",
+        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)",
+        "sz": "Outer: W37.5\" x D2\" x H92.5\"",
+        "fld": "",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "As per Doors T&C submitted vide 9-6-26",
         "v": {
           "c": "",
           "a": "",
@@ -968,6 +1010,27 @@
         "q": 4,
         "pm": "Dilip Jangir",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "042618",
+        "prod": "Reindeer",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_105223_410567_WhatsApp_Image_2026-06-13_at_10_51_30_AM.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
+        "sz": "Outer: W55\" x D16\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
+        "des": "Tanmay Shah",
+        "dl": "16-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
         "v": {
           "c": "",
           "a": "",
@@ -2141,6 +2204,27 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
+        "op": "042618",
+        "prod": "Reindeer",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_105223_410567_WhatsApp_Image_2026-06-13_at_10_51_30_AM.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
+        "sz": "Outer: W55\" x D16\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
+        "des": "Tanmay Shah",
+        "dl": "16-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
         "op": "052318",
         "prod": "Delilah",
         "var": "Neymar",
@@ -2349,6 +2433,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "042618",
+        "prod": "Reindeer",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_105223_410567_WhatsApp_Image_2026-06-13_at_10_51_30_AM.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
+        "sz": "Outer: W55\" x D16\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
+        "des": "Tanmay Shah",
+        "dl": "16-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Handles and Nano white Top Construction"
         },
         "vendorDisplayName": "AWS"
       },
@@ -3006,6 +3111,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "042618",
+        "prod": "Reindeer",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_105223_410567_WhatsApp_Image_2026-06-13_at_10_51_30_AM.jpeg",
+        "cat": "Bar Cabinets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
+        "sz": "Outer: W55\" x D16\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
+        "des": "Tanmay Shah",
+        "dl": "16-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Shutter Construction as per size"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4709,6 +4835,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-25T06:22:47.222Z"
+    "timestamp": "2026-06-25T06:37:23.737Z"
   }
 }
