@@ -911,28 +911,72 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
-    "arbuda_metal": [
+    "casa_creations": [
       {
         "op": "012623",
-        "prod": "Azela",
-        "var": "Allure",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_153925_814460_pasted_image_1774433361246.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: White Oak (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W22\" x D22\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1pnD-yEwP_BvzAPILcr25MQYVOQMHF23a",
+        "prod": "Everett",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_155059_960792_pasted_image_1774434054538.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure: Sheesham (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
+        "sz": "Outer: W48\" x D36\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1nJBx2LmflchT080n7QkNxzdP-e8G6o4F",
+        "des": "Dilip Jangir",
+        "dl": "13-Apr-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "base"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "012623",
+        "prod": "Grassmarket",
+        "var": "Gul",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260530_121526_975127_everett.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure: White Oak (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
+        "sz": "Outer: W72\" x D36\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/18FzVHHAVo4EVMVIHCgMJe-6LFT99pMWa",
         "des": "Hetvi Shah",
-        "dl": "05-Apr-2026",
+        "dl": "13-Apr-2026",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "25-Mar-2026",
+          "c": "",
           "a": "",
-          "rm": "brass rods 6mm x6mm , 16feet ( 610mm , 8pcs )"
+          "rm": "base"
         },
-        "vendorDisplayName": "Arbuda Metal"
+        "vendorDisplayName": "Casa Creations"
       },
+      {
+        "op": "122526",
+        "prod": "Holt",
+        "var": "Drake",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_185017_368931_pasted_image_1773840015626.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Carrara (Mirror Buffing)\nBase: Stainless Steel 304 Matt (Black PVD)",
+        "sz": "Outer: W60\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1h9TGKWpDw5LUie9DnrGA7PCEsmSG--pI",
+        "des": "Akhilesh Yadav",
+        "dl": "19-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
+      }
+    ],
+    "arbuda_metal": [
       {
         "op": "012623",
         "prod": "Everett",
@@ -1184,71 +1228,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
-      }
-    ],
-    "casa_creations": [
-      {
-        "op": "012623",
-        "prod": "Everett",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_155059_960792_pasted_image_1774434054538.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure: Sheesham (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Outer: W48\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1nJBx2LmflchT080n7QkNxzdP-e8G6o4F",
-        "des": "Dilip Jangir",
-        "dl": "13-Apr-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "base"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "012623",
-        "prod": "Grassmarket",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260530_121526_975127_everett.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure: White Oak (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Outer: W72\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/18FzVHHAVo4EVMVIHCgMJe-6LFT99pMWa",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "base"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "122526",
-        "prod": "Holt",
-        "var": "Drake",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_185017_368931_pasted_image_1773840015626.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Carrara (Mirror Buffing)\nBase: Stainless Steel 304 Matt (Black PVD)",
-        "sz": "Outer: W60\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1h9TGKWpDw5LUie9DnrGA7PCEsmSG--pI",
-        "des": "Akhilesh Yadav",
-        "dl": "19-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
       }
     ],
     "krishna_furnitech_polish": [
@@ -4667,6 +4646,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-26T10:09:15.969Z"
+    "timestamp": "2026-06-26T10:22:29.338Z"
   }
 }
