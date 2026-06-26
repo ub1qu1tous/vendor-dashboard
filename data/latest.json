@@ -238,27 +238,6 @@
       },
       {
         "op": "032610",
-        "prod": "Caterpillar",
-        "var": "Hulu",
-        "url": "https://i.ibb.co/5WR22Wft/0002.jpg",
-        "cat": "Daybeds",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nBolster: Ply & Foam Upholstery (Fabric TBC)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W84\" x D31.5\" x H27\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1Kt5ya_J9Ksj0LvPvbV_H5DZSoeYEPT6S",
-        "des": "Hetvi Shah",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Ground Floor",
-        "v": {
-          "c": "19-May-2026",
-          "a": "",
-          "rm": "base "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "032610",
         "prod": "Depp",
         "var": "Adams",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260525_121020_002454_Screenshot_2026-05-23_120620.png",
@@ -950,49 +929,28 @@
         "v": {
           "c": "25-Mar-2026",
           "a": "",
-          "rm": "brass rod 2 feet length: 8 pcs, matt buffing"
+          "rm": "brass rods 6mm x6mm , 16feet ( 610mm , 8pcs )"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
       {
         "op": "012623",
-        "prod": "Grassmarket",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260530_121526_975127_everett.png",
+        "prod": "Everett",
+        "var": "Ethel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_155059_960792_pasted_image_1774434054538.png",
         "cat": "Coffee Tables",
-        "mat": "Structure: White Oak (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Outer: W72\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/18FzVHHAVo4EVMVIHCgMJe-6LFT99pMWa",
-        "des": "Hetvi Shah",
+        "mat": "Structure: Sheesham (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
+        "sz": "Outer: W48\" x D36\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1nJBx2LmflchT080n7QkNxzdP-e8G6o4F",
+        "des": "Dilip Jangir",
         "dl": "13-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "brass rods 6mm x6mm"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "032614",
-        "prod": "Banderas",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_103829_841495_Screenshot_2026-05-11_182455.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Matt)\nBase: Mild Steel (Black Powder Coat)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)",
-        "sz": "Outer: W36\" x D36\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1R3iSh6TjXUtDxxj5F8wpHrFb819uApYN",
-        "des": "Tanmay Shah",
-        "dl": "20-May-2026",
         "q": 2,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
           "a": "",
-          "rm": "2 set ms sq. pipe aand plates in ms , pipe in ss matt"
+          "rm": "matt biffing and welding work  on each piece"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -1291,92 +1249,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Casa Creations"
-      }
-    ],
-    "aarti_steel": [
-      {
-        "op": "012623",
-        "prod": "Everett",
-        "var": "Ethel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_155059_960792_pasted_image_1774434054538.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure: Sheesham (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Outer: W48\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1nJBx2LmflchT080n7QkNxzdP-e8G6o4F",
-        "des": "Dilip Jangir",
-        "dl": "13-Apr-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "copper laser-cut wotk total 2 sheets"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "042617",
-        "prod": "Grillis",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260516_123712_443218_Screenshot_2026-05-16_123548.png",
-        "cat": "Handles",
-        "mat": "Handle: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W13.78\" x D13.78\" x H1\"",
-        "fld": "https://drive.google.com/drive/folders/1UsaxjwilF3a4TH-JGQDdny6h1GQVL2xw",
-        "des": "Rohan Parmar",
-        "dl": "05-May-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "12-May-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "052619",
-        "prod": "Citadel",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260623_114116_048645_Screenshot_2026-06-22_100954.png",
-        "cat": "Swings",
-        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W72\" x D48\" x H74\"\nSwing Body: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1AHCAGuWaJTsLLiGnBeo4-Qs-bvlZfJAw",
-        "des": "Dilip Jangir",
-        "dl": "09-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122522",
-        "prod": "Canopy",
-        "var": "Bliss",
-        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "krishna_furnitech_polish": [
@@ -1691,7 +1563,7 @@
         "pm": "Dilip Jangir",
         "cr": "Ground Floor",
         "v": {
-          "c": "",
+          "c": "18-Jun-2025",
           "a": "",
           "rm": "use existing smaller triangle available at godown"
         },
@@ -3301,7 +3173,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "348mm dia mdf 17mm"
         },
         "vendorDisplayName": "Nishant CNC"
       }
@@ -3564,6 +3436,71 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "The Art Room"
+      }
+    ],
+    "aarti_steel": [
+      {
+        "op": "042617",
+        "prod": "Grillis",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260516_123712_443218_Screenshot_2026-05-16_123548.png",
+        "cat": "Handles",
+        "mat": "Handle: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W13.78\" x D13.78\" x H1\"",
+        "fld": "https://drive.google.com/drive/folders/1UsaxjwilF3a4TH-JGQDdny6h1GQVL2xw",
+        "des": "Rohan Parmar",
+        "dl": "05-May-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "12-May-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "052619",
+        "prod": "Citadel",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260623_114116_048645_Screenshot_2026-06-22_100954.png",
+        "cat": "Swings",
+        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W72\" x D48\" x H74\"\nSwing Body: W60\" x D24\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1AHCAGuWaJTsLLiGnBeo4-Qs-bvlZfJAw",
+        "des": "Dilip Jangir",
+        "dl": "09-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "25-Jun-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "122522",
+        "prod": "Canopy",
+        "var": "Bliss",
+        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "darshan_hardware": [
@@ -4730,6 +4667,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-26T09:52:29.695Z"
+    "timestamp": "2026-06-26T10:09:15.969Z"
   }
 }
