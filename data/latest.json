@@ -999,27 +999,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "032614",
-        "prod": "ElRodi",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_104142_842050_Screenshot_2026-05-12_104039.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D30\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1EyqCBRdoM8JyvhGowHQUqnYB29E_w1Ir",
-        "des": "Tanmay Shah",
-        "dl": "20-May-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "042618",
         "prod": "Reindeer",
         "var": "Otra",
@@ -1270,6 +1249,27 @@
           "c": "14-Apr-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "052618",
+        "prod": "Jawhead",
+        "var": "Cyril",
+        "url": "https://studiopepe.info/wp-content/uploads/2023/06/GallottiRadice_Stami_Bench_frontale_300RGB-2048x1536.jpg",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -2840,48 +2840,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "032614",
-        "prod": "Banderas",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_103829_841495_Screenshot_2026-05-11_182455.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Matt)\nBase: Mild Steel (Black Powder Coat)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)",
-        "sz": "Outer: W36\" x D36\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1R3iSh6TjXUtDxxj5F8wpHrFb819uApYN",
-        "des": "Tanmay Shah",
-        "dl": "20-May-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Jun-2026",
-          "a": "",
-          "rm": "laminated top"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032614",
-        "prod": "ElRodi",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_104142_842050_Screenshot_2026-05-12_104039.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D30\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1EyqCBRdoM8JyvhGowHQUqnYB29E_w1Ir",
-        "des": "Tanmay Shah",
-        "dl": "20-May-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Jun-2026",
-          "a": "",
-          "rm": "laminated top"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "042517",
         "prod": "Azmira",
         "var": "Hyde",
@@ -3132,52 +3090,6 @@
           "rm": "Drawer push to open, shutter push to open pin"
         },
         "vendorDisplayName": "Vipra"
-      }
-    ],
-    "nishant_cnc": [
-      {
-        "op": "032610",
-        "prod": "Telephone",
-        "var": "Eunio",
-        "url": "https://i.ibb.co/KhZPV73/sq-8.jpg",
-        "cat": "Accent Table Sets",
-        "mat": "Top (Beyaz): Banswada White (Mirror Buffing)\nBase (Beyaz): Mild Steel (Black Powder Coat)\nMounting (Beyaz): Mild Steel (Black Powder Coat)\nSupport (Beyaz): 18mm MDF (White Matt Duco)\nTop (Natsu): Banswada White (Mirror Buffing)\nBase (Natsu): Mild Steel (Black Powder Coat)\nMounting (Natsu): Mild Steel (Black Powder Coat)\nSupport (Natsu): 18mm MDF (White Matt Duco)",
-        "sz": "Beyaz: W18\" x D18\" x H22\"\nNatsu: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1cpcqqiPh-O-5P_9UejdIZLb6CgSVy9hP",
-        "des": "Parth Gada",
-        "dl": "04-Feb-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Ground Floor",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "348mm dia mdf 17mm"
-        },
-        "vendorDisplayName": "Nishant CNC"
-      }
-    ],
-    "maan_singh": [
-      {
-        "op": "032614",
-        "prod": "ElRodi",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_104142_842050_Screenshot_2026-05-12_104039.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)\nLeg-Rest: Stainless Steel 304 Matt (Matt Buffing)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D30\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1EyqCBRdoM8JyvhGowHQUqnYB29E_w1Ir",
-        "des": "Tanmay Shah",
-        "dl": "20-May-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "15-Jun-2026",
-          "a": "",
-          "rm": "legs dia 45mm , 8 pcs length 45\" without polish"
-        },
-        "vendorDisplayName": "Maan Singh"
       }
     ],
     "surat_pvd": [
@@ -4646,6 +4558,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-30T12:55:34.540Z"
+    "timestamp": "2026-06-30T13:07:43.141Z"
   }
 }
