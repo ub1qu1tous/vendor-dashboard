@@ -2267,6 +2267,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "052617",
+        "prod": "Avocado",
+        "var": "Agatha",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_150426_767703_jpeg-optimizer_product_a_small_pedestal_table_rule_a_plain_background.jpeg",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Natural)\nMounting: Mild Steel (Black Powder Coat)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W11.5\" x D11.5\" x H21.5\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ln7zxfz1b5DPHbQSsU_274WCQ2IbhtfY\n\n",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 4,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "062604",
         "prod": "Bearmont",
         "var": "Iris",
@@ -4558,6 +4579,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-06-30T14:43:31.340Z"
+    "timestamp": "2026-06-30T14:53:10.128Z"
   }
 }
