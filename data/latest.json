@@ -2861,27 +2861,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "042517",
-        "prod": "Azmira",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251205_115624_760484_Hyde-1.jpg",
-        "cat": "Dressers",
-        "mat": "Carcass: 16mm Plywood (Oak Laminate)\nInternal Carcass: 16mm Plywood (Oak Laminate)\nShutter: Aluminium Profile (Champagne SM-402)\nShutter: 5mm Glass (Clear)\nLight: LED Light (White)\nDrawer Fascia: HDHMR (RAL 1013 Oyster White)\nDrawer Internal: 16mm Plywood (Oak Laminate)\nMirror: 5mm Glass (Extra Clear)\nKnobs: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W97\" x D25.5\" x H118\"",
-        "fld": "https://drive.google.com/drive/folders/1RR5-ARejQLYzlqasd99AevGfKhelVGcT",
-        "des": "Tanmay Shah",
-        "dl": "04-Dec-2025",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Arpan bhai masterbed room dresser unit",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "042618",
         "prod": "Reindeer",
         "var": "Otra",
@@ -3111,6 +3090,29 @@
           "rm": "Drawer push to open, shutter push to open pin"
         },
         "vendorDisplayName": "Vipra"
+      }
+    ],
+    "baba_marble": [
+      {
+        "op": "042517",
+        "prod": "Azmira",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251205_115624_760484_Hyde-1.jpg",
+        "cat": "Dressers",
+        "mat": "Carcass: 16mm Plywood (Oak Laminate)\nInternal Carcass: 16mm Plywood (Oak Laminate)\nShutter: Aluminium Profile (Champagne SM-402)\nShutter: 5mm Glass (Clear)\nLight: LED Light (White)\nDrawer Fascia: HDHMR (RAL 1013 Oyster White)\nDrawer Internal: 16mm Plywood (Oak Laminate)\nMirror: 5mm Glass (Extra Clear)\nKnobs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W97\" x D25.5\" x H118\"",
+        "fld": "https://drive.google.com/drive/folders/1RR5-ARejQLYzlqasd99AevGfKhelVGcT",
+        "des": "Tanmay Shah",
+        "dl": "04-Dec-2025",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Arpan bhai masterbed room dresser unit",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "nano white cutting work"
+        },
+        "vendorDisplayName": "Baba Marble"
       }
     ],
     "surat_pvd": [
@@ -4579,6 +4581,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-01T12:22:35.573Z"
+    "timestamp": "2026-07-01T12:37:29.900Z"
   }
 }
