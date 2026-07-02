@@ -1014,6 +1014,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "062616",
+        "prod": "Doyen",
+        "var": "JetBlack",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260701_143950_157460_pasted_image_1782896985727.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
+        "sz": "Outer: W41\" x D28\" x H10\"",
+        "fld": "https://drive.google.com/drive/folders/1sLJkbNuDdFd8fF2OtvEAACh8QhgYDBJ6",
+        "des": "Dilip Jangir",
+        "dl": "20-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
     "casa_creations": [
@@ -3216,6 +3237,27 @@
           "rm": "Drawer push to open, shutter push to open pin"
         },
         "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062616",
+        "prod": "Doyen",
+        "var": "JetBlack",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260701_143950_157460_pasted_image_1782896985727.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
+        "sz": "Outer: W41\" x D28\" x H10\"",
+        "fld": "https://drive.google.com/drive/folders/1sLJkbNuDdFd8fF2OtvEAACh8QhgYDBJ6",
+        "des": "Dilip Jangir",
+        "dl": "20-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
       }
     ],
     "baba_marble": [
@@ -4707,6 +4749,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-02T07:38:01.643Z"
+    "timestamp": "2026-07-02T07:52:25.749Z"
   }
 }
