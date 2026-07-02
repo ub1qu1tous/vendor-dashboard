@@ -217,6 +217,27 @@
       },
       {
         "op": "012623",
+        "prod": "Kabra",
+        "var": "Kenji",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260520_184816_542124_10.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Black Matt)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W56\" x D30\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1bWQjAN-Ba_DQT3I8KO2W7kFTmbMJDxMH",
+        "des": "Hetvi Shah",
+        "dl": "30-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "012623",
         "prod": "Tamsin",
         "var": "Tyler",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260526_120811_561952_Screenshot_2026-05-26_120512.png",
@@ -231,6 +252,27 @@
         "cr": "",
         "v": {
           "c": "17-Jun-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "012623",
+        "prod": "Veyra",
+        "var": "Vitara",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260525_143351_459239_pasted_image_1779699829933.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: White Oak (Black Matt)",
+        "sz": "Outer: W17.7\" x D15.7\" x H19.7\"",
+        "fld": "https://drive.google.com/drive/folders/14JMF4KTG0Vv9uVcBeOf9MboGFPxrqR7K",
+        "des": "Hetvi Shah",
+        "dl": "28-Mar-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -300,6 +342,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "042612",
+        "prod": "Larisa",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_131752_182621_pasted_image_1776152871792.png",
+        "cat": "Dining Tables",
+        "mat": "Structure: Baroda Green Marble (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W94\" x D42\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1YY8tjISp_NKnB3MrR70HTY1J_lrpwIMG",
+        "des": "Hetvi Shah",
+        "dl": "21-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "white oak natural base ; marble will come from Jaipur"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "042618",
         "prod": "Nyxara",
         "var": "Nova",
@@ -338,6 +401,27 @@
           "c": "29-Apr-2026",
           "a": "",
           "rm": "Pillar, Carcasse and Shutter Printing with Fixing"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "042618",
+        "prod": "Smallgem",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_143931_227016_swing_re_upholstered_striped_texture.png",
+        "cat": "Swings",
+        "mat": "Structure: Recycled Teak (Suncity)\nSeat: Foam Upholstery (Choice of Fabric)\n1 Left Cushion: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W66\" x D26\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1_e2j7-0pHsiJSow_NJRlPspnqck_Arn4",
+        "des": "Tanmay Shah",
+        "dl": "02-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -806,6 +890,27 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
+        "op": "042612",
+        "prod": "Larisa",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_131752_182621_pasted_image_1776152871792.png",
+        "cat": "Dining Tables",
+        "mat": "Structure: Baroda Green Marble (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W94\" x D42\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1YY8tjISp_NKnB3MrR70HTY1J_lrpwIMG",
+        "des": "Hetvi Shah",
+        "dl": "21-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
         "op": "062509",
         "prod": "Dupont",
         "var": "Fedora",
@@ -850,12 +955,12 @@
       {
         "op": "062604",
         "prod": "Bearmont",
-        "var": "Iris",
-        "url": "https://i.ibb.co/2NWxnKP/0002.jpg",
+        "var": "Fern",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_134651_540710_pasted_image_1776500207590.png",
         "cat": "Accent Tables",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Mild Steel (Black Matt PU)",
         "sz": "Outer: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1QCARXM6fqYO2UChiHhDzipnc4JvBOoWi",
+        "fld": "https://drive.google.com/drive/folders/1Idele6xdKHpvwZVuZJNCP9gXQ-m04GqZ",
         "des": "Parth Gada",
         "dl": "03-Aug-2022",
         "q": 1,
@@ -914,6 +1019,27 @@
     "casa_creations": [
       {
         "op": "012623",
+        "prod": "Aztec",
+        "var": "Gold",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_113321_188793_pasted_image_1776146600760.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Black)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W38\" x D38\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1i5jm-xVdTrIm5uDGLwqDsn28XLQOJQ-B",
+        "des": "Hetvi Shah",
+        "dl": "14-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "base, and top"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "012623",
         "prod": "Everett",
         "var": "Ethel",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260325_155059_960792_pasted_image_1774434054538.png",
@@ -951,6 +1077,27 @@
           "c": "",
           "a": "",
           "rm": "base"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "052616",
+        "prod": "Zayn",
+        "var": "Apex",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260608_181217_356626_Screenshot_2026-06-08_181015.png",
+        "cat": "Dining Table Bases",
+        "mat": "Base: Stainless Steel 304 Matt (Antique Brass)\nBase: Stainless Steel 304 Matt (Black PVD)",
+        "sz": "Outer: W90\" x D42\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1FGnJgmDyXXPvEyRfrgfEmRImrcrxp712",
+        "des": "Dilip Jangir",
+        "dl": "09-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Casa Creations"
       },
@@ -2288,27 +2435,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "062604",
-        "prod": "Bearmont",
-        "var": "Iris",
-        "url": "https://i.ibb.co/2NWxnKP/0002.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Black Marquina (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1QCARXM6fqYO2UChiHhDzipnc4JvBOoWi",
-        "des": "Parth Gada",
-        "dl": "03-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "072409",
         "prod": "Carnival",
         "var": "Turkey",
@@ -3113,6 +3239,27 @@
           "rm": "nano white cutting work"
         },
         "vendorDisplayName": "Baba Marble"
+      },
+      {
+        "op": "062604",
+        "prod": "Plato",
+        "var": "Sheldon",
+        "url": "https://i.ibb.co/fpf65mt/Endear-1.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nBase: Sheesham (Black Distressed/Charcoal)",
+        "sz": "Outer: W36\" x D36\" x H19\"",
+        "fld": "",
+        "des": "Parth Gada",
+        "dl": "20-May-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Baba Marble"
       }
     ],
     "surat_pvd": [
@@ -3283,27 +3430,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "062604",
-        "prod": "Xylogen",
-        "var": "Sakura",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260422_172344_428352_pasted_image_1776858822954.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Sheesham (Peca)",
-        "sz": "Outer: W16\" x D18\" x H23.5\"",
-        "fld": "https://drive.google.com/drive/folders/16e2cMmD0A78TuJ3ofVQ8iz4u2N-MasiN",
-        "des": "Tarishi Rathore",
-        "dl": "14-Apr-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "One piece in Black Matt Polish"
         },
         "vendorDisplayName": "Mandap"
       },
@@ -3705,7 +3831,7 @@
         "sz": "Outer: W54\" x D54\" x H24\"",
         "fld": "https://drive.google.com/drive/folders/1XqvyzpZUCliCIPlghpxU-63gESR3_rQg",
         "des": "Ramesh Panchal",
-        "dl": "NA",
+        "dl": "08-Jun-2026",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -4581,6 +4707,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-02T07:09:14.114Z"
+    "timestamp": "2026-07-02T07:25:44.828Z"
   }
 }
