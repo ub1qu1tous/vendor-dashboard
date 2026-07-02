@@ -3579,6 +3579,48 @@
         "vendorDisplayName": "Baba Marble"
       },
       {
+        "op": "062509",
+        "prod": "Dublin",
+        "var": "Mousse",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
+        "sz": "Outer: W18\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1XTleXzDEE76ypoaKNUHqlOrtc8BGu98X",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Nightstand",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "BLACK MARQUINO AS PER FARMA"
+        },
+        "vendorDisplayName": "Baba Marble"
+      },
+      {
+        "op": "062509",
+        "prod": "Dublin",
+        "var": "Quitero",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
+        "cat": "Chests",
+        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
+        "sz": "Outer: W60\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/12tb8yR8C37pNFmEv6tK5iNe1fBT3-fEc",
+        "des": "Hetvi Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Media Console",
+        "v": {
+          "c": "30-Mar-2026",
+          "a": "",
+          "rm": "BLACK MARQUINO AS PER FARMA"
+        },
+        "vendorDisplayName": "Baba Marble"
+      },
+      {
         "op": "062604",
         "prod": "Plato",
         "var": "Sheldon",
@@ -4281,7 +4323,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "fitting"
         },
         "vendorDisplayName": "Chhoturam"
       },
@@ -4435,50 +4477,6 @@
         "vendorDisplayName": "Jain Marble"
       }
     ],
-    "vishwakarma_glass": [
-      {
-        "op": "062509",
-        "prod": "Ennis",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_162714_445291_pasted_image_1773831433166.png",
-        "cat": "Mirrors",
-        "mat": "Base: Stainless Steel 304 Matt (Gold PVD)\nMounting: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nMirror: 5mm Glass (Extra Clear)\nFrame: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W30\" x D7.5\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1KuhUKLarw8ESVYD7xjJfX7VrLAYLXMJS",
-        "des": "Dilip Jangir",
-        "dl": "06-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "6mm extra clear"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "062509",
-        "prod": "Symphonica",
-        "var": "Vor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250901_120052_672128_pasted_image_1756708255714.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Mild Steel (Blue Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W27\" x D1\" x H75\"",
-        "fld": "https://drive.google.com/drive/folders/1W7UQx_36ENIByFH85iXUyHo1eiTWYuU8",
-        "des": "Dilip Jangir",
-        "dl": "15-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "5mm extra clear"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      }
-    ],
     "srk_readymade_legs": [
       {
         "op": "062509",
@@ -4542,6 +4540,29 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "SRK Readymade Legs"
+      }
+    ],
+    "vishwakarma_glass": [
+      {
+        "op": "062509",
+        "prod": "Symphonica",
+        "var": "Vor",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250901_120052_672128_pasted_image_1756708255714.png",
+        "cat": "Mirrors",
+        "mat": "Frame: Mild Steel (Blue Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W27\" x D1\" x H75\"",
+        "fld": "https://drive.google.com/drive/folders/1W7UQx_36ENIByFH85iXUyHo1eiTWYuU8",
+        "des": "Dilip Jangir",
+        "dl": "15-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Mirror",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "5mm extra clear"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
     "ansar_enterprises": [
@@ -4684,6 +4705,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-02T09:41:40.006Z"
+    "timestamp": "2026-07-02T10:10:03.256Z"
   }
 }
