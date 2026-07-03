@@ -1500,7 +1500,7 @@
         "v": {
           "c": "06-Apr-2026",
           "a": "",
-          "rm": "black matt 2 base only polish"
+          "rm": "black matt 2 base and Trey only polish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -4642,6 +4642,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-03T11:37:19.914Z"
+    "timestamp": "2026-07-03T11:52:25.243Z"
   }
 }
