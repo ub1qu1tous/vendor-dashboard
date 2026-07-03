@@ -1019,7 +1019,7 @@
         "op": "062616",
         "prod": "Doyen",
         "var": "JetBlack",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260701_143950_157460_pasted_image_1782896985727.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_154903_393094_Screenshot_2026-06-11_171330.png",
         "cat": "Coffee Tables",
         "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
         "sz": "Outer: W41\" x D28\" x H10\"",
@@ -3559,7 +3559,7 @@
         "op": "062616",
         "prod": "Doyen",
         "var": "JetBlack",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260701_143950_157460_pasted_image_1782896985727.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_154903_393094_Screenshot_2026-06-11_171330.png",
         "cat": "Coffee Tables",
         "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
         "sz": "Outer: W41\" x D28\" x H10\"",
@@ -4349,6 +4349,48 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092519",
+        "prod": "Hylos",
+        "var": "Pique",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 8,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "18-Mar-2026",
+          "a": "02-Jul-2026",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092519",
+        "prod": "Muto",
+        "var": "Appriv",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260326_171020_854697_pasted_image_1774525219105.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Namibia White (Mirror Buffing)\nBase: White Oak (Black Matt)\nSupport: 15mm MDF (White Matt Duco)",
+        "sz": "Outer: W108\" x D48\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1qqrBXkByTx6T2LyIr58Z-sXjWHSfk1Y5",
+        "des": "Hetvi Shah",
+        "dl": "17-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "18-Mar-2026",
+          "a": "02-Jul-2026",
+          "rm": "marble and base"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "srk_readymade_legs": [
@@ -4600,6 +4642,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-03T10:07:21.956Z"
+    "timestamp": "2026-07-03T10:22:27.439Z"
   }
 }
