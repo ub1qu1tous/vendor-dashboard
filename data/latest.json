@@ -848,48 +848,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "022618",
-        "prod": "Olympia",
-        "var": "Theta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260305_180110_107240_pasted_image_1772713896743.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure (A): Rajasthan Black (Mirror Buffing)\nStructure (B): Jaipur Pink (Mirror Buffing)\nStructure (C): Banswada White (Mirror Buffing)",
-        "sz": "Outer: W54\" x D24\" x H18\"\nRajasthan Black: W54\" x D22\" x H14\"\nJaipur Pink: W33\" x D14\" x H18\"\nBanswada White: W33\" x D12\" x H9\"",
-        "fld": "https://drive.google.com/drive/folders/16ugOtG8yvRaDf4jhxy5NQW7Gh-9w2xaj",
-        "des": "Dilip Jangir",
-        "dl": "15-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "032610",
-        "prod": "Telephone",
-        "var": "Eunio",
-        "url": "https://i.ibb.co/KhZPV73/sq-8.jpg",
-        "cat": "Accent Table Sets",
-        "mat": "Top (Beyaz): Banswada White (Mirror Buffing)\nBase (Beyaz): Mild Steel (Black Powder Coat)\nMounting (Beyaz): Mild Steel (Black Powder Coat)\nSupport (Beyaz): 18mm MDF (White Matt Duco)\nTop (Natsu): Banswada White (Mirror Buffing)\nBase (Natsu): Mild Steel (Black Powder Coat)\nMounting (Natsu): Mild Steel (Black Powder Coat)\nSupport (Natsu): 18mm MDF (White Matt Duco)",
-        "sz": "Beyaz: W18\" x D18\" x H22\"\nNatsu: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1cpcqqiPh-O-5P_9UejdIZLb6CgSVy9hP",
-        "des": "Parth Gada",
-        "dl": "04-Feb-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Ground Floor",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
         "op": "042612",
         "prod": "Larisa",
         "var": "Kos",
@@ -1564,6 +1522,27 @@
           "c": "",
           "a": "",
           "rm": "Repolish: Black krni hai Chair"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "122522",
+        "prod": "Canopy",
+        "var": "Bliss",
+        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -2456,27 +2435,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "042613",
-        "prod": "Bram",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
-        "sz": "Outer: W64\" x D64\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
-        "des": "Dilip Jangir",
-        "dl": "15-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "white powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "042618",
         "prod": "Reindeer",
         "var": "Otra",
@@ -2685,27 +2643,6 @@
           "c": "",
           "a": "",
           "rm": "Handles and Nano white Top Construction"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "052504",
-        "prod": "Crucis",
-        "var": "Theta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260521_113725_948268_wooden_cabinet_03_right_side_three_quarter_white_2048.png",
-        "cat": "Dressers",
-        "mat": "Carcass: White Oak (Olive)\nDrawer: White Oak (Olive)\nBase: White Oak (Olive)\nHandle: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W48\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/17PySo8IjVjd-qXaFAGjqzLhN-GJaTGHq",
-        "des": "Parthsarthi Suthar",
-        "dl": "09-Jul-2025",
-        "q": 1,
-        "pm": "Smruti Saraiya",
-        "cr": "Master Bedroom Chest",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Jewelley unit"
         },
         "vendorDisplayName": "AWS"
       },
@@ -3770,95 +3707,7 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "mandap": [
-      {
-        "op": "042613",
-        "prod": "Bram",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
-        "sz": "Outer: W64\" x D64\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
-        "des": "Dilip Jangir",
-        "dl": "15-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082520",
-        "prod": "Marrion",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W46\" x D28\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      }
-    ],
-    "the_art_room": [
-      {
-        "op": "042613",
-        "prod": "Bram",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_182914_343305_pasted_image_1776171548598.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Chinaberry (White Wash)\nBase: Mild Steel (White Powder Coat)",
-        "sz": "Outer: W64\" x D64\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1NJMobGaeNrhM0qeaAa9PZ676XDPd8Gif",
-        "des": "Dilip Jangir",
-        "dl": "15-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "08-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "The Art Room"
-      }
-    ],
     "aarti_steel": [
-      {
-        "op": "042617",
-        "prod": "Grillis",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260516_123712_443218_Screenshot_2026-05-16_123548.png",
-        "cat": "Handles",
-        "mat": "Handle: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W13.78\" x D13.78\" x H1\"",
-        "fld": "https://drive.google.com/drive/folders/1UsaxjwilF3a4TH-JGQDdny6h1GQVL2xw",
-        "des": "Rohan Parmar",
-        "dl": "05-May-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "12-May-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
       {
         "op": "052619",
         "prod": "Citadel",
@@ -3875,27 +3724,6 @@
         "cr": "",
         "v": {
           "c": "25-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "122522",
-        "prod": "Canopy",
-        "var": "Bliss",
-        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4441,6 +4269,29 @@
         "vendorDisplayName": "Ansar Enterprises"
       }
     ],
+    "mandap": [
+      {
+        "op": "082520",
+        "prod": "Marrion",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W46\" x D28\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
+        "des": "Tanmay Shah",
+        "dl": "03-Sept-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      }
+    ],
     "the_lighting_studio": [
       {
         "op": "092518",
@@ -4558,6 +4409,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-05T13:52:27.350Z"
+    "timestamp": "2026-07-05T14:07:28.340Z"
   }
 }
