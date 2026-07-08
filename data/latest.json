@@ -2959,7 +2959,7 @@
         "v": {
           "c": "08-Aug-2025",
           "a": "",
-          "rm": "Veneer work on ply/blockboard"
+          "rm": "Veneer work on ply/blockboard, separate 2D is uploaded,\nBlack Laminate in bottom will work."
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4002,6 +4002,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-08T09:22:27.291Z"
+    "timestamp": "2026-07-08T09:37:29.785Z"
   }
 }
