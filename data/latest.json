@@ -2922,27 +2922,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "042618",
-        "prod": "Reindeer",
-        "var": "Otra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260707_124732_277056_v02.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
-        "sz": "Outer: W84\" x D16\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
-        "des": "Tanmay Shah",
-        "dl": "16-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "29-Apr-2026",
-          "a": "",
-          "rm": "Shutter Construction as per size"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "052612",
         "prod": "Aetheris",
         "var": "Arley",
@@ -3091,6 +3070,27 @@
       },
       {
         "op": "062509",
+        "prod": "Orovia",
+        "var": "Noel",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_180833_872345_Screenshot_2026-02-10_180745.png",
+        "cat": "Nightstands",
+        "mat": "Top: HDHMR (White PU)\nMounting: Mild Steel (White Powder Coat)\nCarcass: HDHMR (White PU)\nInternal Carcass: HDHMR (Finish TBC)\nSupport: Mild Steel (White Powder Coat)\nBase: Marble TBC (Finish TBC)",
+        "sz": "Outer: W16\" x D16\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1sqNL_09NNGR8huhN-7Vv773QAwi7Tytw",
+        "des": "Tanmay Shah",
+        "dl": "01-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Top and carcass white pu"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "062509",
         "prod": "Roebuck",
         "var": "Voorp",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260214_114126_164230_pasted_image_1771049508786.png",
@@ -3127,7 +3127,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "PU and Drawer only"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4002,6 +4002,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-08T08:22:26.632Z"
+    "timestamp": "2026-07-08T08:37:31.102Z"
   }
 }
