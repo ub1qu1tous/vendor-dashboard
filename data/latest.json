@@ -2986,27 +2986,6 @@
       },
       {
         "op": "052618",
-        "prod": "Jawhead",
-        "var": "Cyril",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_155944_307965_Screenshot_2026-07-03_155650.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W60\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
-        "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Jun-2026",
-          "a": "",
-          "rm": "gold pvd matt part \nsize 40mm x 40mm x 8mm thick\nqty 8pcs"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "052618",
         "prod": "Roback",
         "var": "Groot",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260615_180305_849284_Screenshot_2026-06-15_180144.png",
@@ -3086,27 +3065,6 @@
           "c": "25-Aug-2025",
           "a": "",
           "rm": "handles 2 pcs ssmatt gpvd"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
-        "prod": "Santori",
-        "var": "Kerrie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_145453_877549_pasted_image_1767691509861.png",
-        "cat": "Bookcases",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nShelf: Stainless Steel 304 Matt (Finish TBC)\nMounting: Ply & Foam Upholstery (Magiclean SRN 9)",
-        "sz": "Outer: W18\" x D13.5\" x H104.33\"",
-        "fld": "https://drive.google.com/drive/folders/14ZkFYAtjIDrcfzHfaAInYVmU0_V13fkV",
-        "des": "Hetvi Shah",
-        "dl": "26-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Bookshelf",
-        "v": {
-          "c": "09-Aug-2025",
-          "a": "",
-          "rm": "Ceiling Height: 2650 MM"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -3981,6 +3939,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-09T11:37:26.117Z"
+    "timestamp": "2026-07-09T11:52:29.784Z"
   }
 }
