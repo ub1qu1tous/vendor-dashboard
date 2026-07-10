@@ -909,6 +909,27 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
+        "op": "062616",
+        "prod": "Doyen",
+        "var": "JetBlack",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_154903_393094_Screenshot_2026-06-11_171330.png",
+        "cat": "Coffee Tables",
+        "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
+        "sz": "Outer: W41\" x D28\" x H10\"",
+        "fld": "https://drive.google.com/drive/folders/1sLJkbNuDdFd8fF2OtvEAACh8QhgYDBJ6",
+        "des": "Dilip Jangir",
+        "dl": "20-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "05-Jul-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -945,27 +966,6 @@
         "cr": "Living Room Coffee Table",
         "v": {
           "c": "10-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "062616",
-        "prod": "Doyen",
-        "var": "JetBlack",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_154903_393094_Screenshot_2026-06-11_171330.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
-        "sz": "Outer: W41\" x D28\" x H10\"",
-        "fld": "https://drive.google.com/drive/folders/1sLJkbNuDdFd8fF2OtvEAACh8QhgYDBJ6",
-        "des": "Dilip Jangir",
-        "dl": "20-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "05-Jul-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -2920,27 +2920,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "122523",
-        "prod": "Glick",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260612_130113_086479_pasted_image_1781249470869.png",
-        "cat": "Storage Cabinets",
-        "mat": "Carcass: HDHMR (ICA Sabbia 0119)\nShutter: HDHMR (ICA Sabbia Scuro 129)\nLegs: HDHMR (ICA Sabbia 0119)\nDrawer Fascia: HDHMR (ICA Sabbia Scuro 129)\nInternal Carcass: 16mm Plywood (Oak Laminate)",
-        "sz": "Outer: W72\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
-        "des": "Hetvi Shah",
-        "dl": "01-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room",
-        "v": {
-          "c": "20-Feb-2026",
-          "a": "",
-          "rm": "Drawer push to open, shutter push to open pin"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "062616",
         "prod": "Doyen",
         "var": "JetBlack",
@@ -2958,6 +2937,27 @@
           "c": "06-Jul-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "122523",
+        "prod": "Glick",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260612_130113_086479_pasted_image_1781249470869.png",
+        "cat": "Storage Cabinets",
+        "mat": "Carcass: HDHMR (ICA Sabbia 0119)\nShutter: HDHMR (ICA Sabbia Scuro 129)\nLegs: HDHMR (ICA Sabbia 0119)\nDrawer Fascia: HDHMR (ICA Sabbia Scuro 129)\nInternal Carcass: 16mm Plywood (Oak Laminate)",
+        "sz": "Outer: W72\" x D21\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
+        "des": "Hetvi Shah",
+        "dl": "01-Apr-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "SF Meeting Room",
+        "v": {
+          "c": "20-Feb-2026",
+          "a": "",
+          "rm": "Drawer push to open, shutter push to open pin"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -3939,6 +3939,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-10T05:52:53.390Z"
+    "timestamp": "2026-07-10T06:07:24.034Z"
   }
 }
