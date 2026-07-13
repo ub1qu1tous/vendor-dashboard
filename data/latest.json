@@ -341,27 +341,6 @@
       },
       {
         "op": "042618",
-        "prod": "Nyxara",
-        "var": "Nova",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260512_163654_949167_Screenshot_2026-05-12_163624.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Teak Veneer (Suncity)\nMounting: Recycled Teak (Suncity)",
-        "sz": "Outer: W84\" x D39\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1zit-M_G0Ll5LNpA3IjaVZGIZv4SViMm1",
-        "des": "Tanmay Shah",
-        "dl": "04-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
         "prod": "Reindeer",
         "var": "Otra",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260707_124732_277056_v02.jpg",
@@ -567,27 +546,6 @@
           "c": "25-Mar-2026",
           "a": "",
           "rm": "Without Marble, but with Marble Farma"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062604",
-        "prod": "Silvera",
-        "var": "Xerri",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_144636_702632_pasted_image_1781342191958.png",
-        "cat": "Sofas",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Foam Upholstery (Choice of Fabric)\n5 Cushions: Recron Filling (Choice of Fabric)",
-        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/18c_4I9i_ofAtnL0lAE3kMPuhFZ9alEjy",
-        "des": "Tanmay Shah",
-        "dl": "16-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1331,6 +1289,27 @@
           "c": "18-Jun-2025",
           "a": "",
           "rm": "use existing smaller triangle available at godown"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "042618",
+        "prod": "Trevis",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_143855_374025_dining_chair_re_upholstered_green_texture.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W19.7\" x D19.7\" x H31.5\"",
+        "fld": "https://drive.google.com/drive/folders/16CY5Xs8TF2BgoI9SYQaWHI2psGMBV8aq",
+        "des": "Dilip Jangir",
+        "dl": "06-Mar-2026",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "29-Apr-2026",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -3048,27 +3027,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "062604",
-        "prod": "Silvera",
-        "var": "Xerri",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_144636_702632_pasted_image_1781342191958.png",
-        "cat": "Sofas",
-        "mat": "Structure: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Foam Upholstery (Choice of Fabric)\n5 Cushions: Recron Filling (Choice of Fabric)",
-        "sz": "Outer: W96\" x D36\" x H31\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/18c_4I9i_ofAtnL0lAE3kMPuhFZ9alEjy",
-        "des": "Tanmay Shah",
-        "dl": "16-Dec-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "handle cap dia 41mmjodhpur, 2 pcs in brass matt with loose 8mm stud"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "122523",
         "prod": "Maylene",
         "var": "Fynn",
@@ -3897,6 +3855,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-13T06:52:25.211Z"
+    "timestamp": "2026-07-13T07:07:29.143Z"
   }
 }
