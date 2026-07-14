@@ -2943,6 +2943,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "042618",
+        "prod": "Smallgem",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260613_143931_227016_swing_re_upholstered_striped_texture.png",
+        "cat": "Swings",
+        "mat": "Structure: Recycled Teak (Suncity)\nSeat: Foam Upholstery (Choice of Fabric)\n1 Left Cushion: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W66\" x D26\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1_e2j7-0pHsiJSow_NJRlPspnqck_Arn4",
+        "des": "Tanmay Shah",
+        "dl": "02-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Rope Wire with Fitting Hardware"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "052618",
         "prod": "Roback",
         "var": "Groot",
@@ -3855,6 +3876,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-14T04:52:24.488Z"
+    "timestamp": "2026-07-14T05:07:22.666Z"
   }
 }
