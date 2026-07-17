@@ -2520,27 +2520,6 @@
       },
       {
         "op": "122523",
-        "prod": "Maylene",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
-        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
-        "des": "Parth Gada",
-        "dl": "10-Jun-2023",
-        "q": 20,
-        "pm": "Dilip Jangir",
-        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122523",
         "prod": "Melton",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_586620_Screenshot_from_2025-12-23_11-50-33.png",
@@ -2983,27 +2962,6 @@
           "c": "25-Aug-2025",
           "a": "",
           "rm": "handles 2 pcs ssmatt gpvd"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "122523",
-        "prod": "Maylene",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
-        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
-        "des": "Parth Gada",
-        "dl": "10-Jun-2023",
-        "q": 20,
-        "pm": "Dilip Jangir",
-        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
-        "v": {
-          "c": "15-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       }
@@ -3708,6 +3666,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-17T07:37:24.741Z"
+    "timestamp": "2026-07-17T07:52:28.531Z"
   }
 }
