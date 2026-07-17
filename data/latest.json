@@ -1268,27 +1268,6 @@
           "rm": "base"
         },
         "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "052616",
-        "prod": "Zayn",
-        "var": "Apex",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260608_181217_356626_Screenshot_2026-06-08_181015.png",
-        "cat": "Dining Table Bases",
-        "mat": "Base: Stainless Steel 304 Matt (Antique Brass)\nBase: Stainless Steel 304 Matt (Black PVD)",
-        "sz": "Outer: W90\" x D42\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1FGnJgmDyXXPvEyRfrgfEmRImrcrxp712",
-        "des": "Dilip Jangir",
-        "dl": "09-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
       }
     ],
     "krishna_furnitech_polish": [
@@ -3708,6 +3687,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-17T11:07:31.318Z"
+    "timestamp": "2026-07-17T11:22:23.018Z"
   }
 }
