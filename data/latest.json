@@ -1737,6 +1737,27 @@
       },
       {
         "op": "062509",
+        "prod": "Till",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260518_184604_925726_pasted_image_1779110163305.png",
+        "cat": "Swings",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)",
+        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
+        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
+        "des": "Dilip Jangir",
+        "dl": "19-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Swing",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
         "prod": "Yagher",
         "var": "Nairobi",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
@@ -2985,6 +3006,27 @@
           "rm": "handles 2 pcs ssmatt gpvd"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Till",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260518_184604_925726_pasted_image_1779110163305.png",
+        "cat": "Swings",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)",
+        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
+        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
+        "des": "Dilip Jangir",
+        "dl": "19-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Swing",
+        "v": {
+          "c": "12-Aug-2026",
+          "a": "",
+          "rm": "metal pipe frame and swing wire fitting"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "aarti_steel": [
@@ -3069,6 +3111,27 @@
         "cr": "Daughter Bedroom",
         "v": {
           "c": "29-Jul-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062509",
+        "prod": "Till",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260518_184604_925726_pasted_image_1779110163305.png",
+        "cat": "Swings",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)",
+        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
+        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
+        "des": "Dilip Jangir",
+        "dl": "19-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Swing",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3708,6 +3771,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-19T13:22:35.969Z"
+    "timestamp": "2026-07-19T13:37:32.124Z"
   }
 }
