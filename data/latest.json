@@ -249,7 +249,7 @@
         "v": {
           "c": "06-Jul-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "1 ply veneer box in L shape  and Black matt polish"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -611,27 +611,6 @@
           "c": "",
           "a": "",
           "rm": "white oak natural base ; marble will come from Jaipur"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "042618",
-        "prod": "Reindeer",
-        "var": "Otra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260707_124732_277056_v02.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
-        "sz": "Outer: W84\" x D16\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
-        "des": "Tanmay Shah",
-        "dl": "16-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "29-Apr-2026",
-          "a": "",
-          "rm": "Pillar, Carcasse and Shutter Printing with Fixing"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -2370,27 +2349,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "042618",
-        "prod": "Reindeer",
-        "var": "Otra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260707_124732_277056_v02.jpg",
-        "cat": "Bar Cabinets",
-        "mat": "Top: Banswada White (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nFrame: Mild Steel (Black Powder Coat)\nShutter: 16mm Plywood (Anti-finger White Laminate)\nLegs: Indian Teak (Suncity)",
-        "sz": "Outer: W84\" x D16\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/10VdO1g5zFzihwz_F-Jltck2suzG1MRZi",
-        "des": "Tanmay Shah",
-        "dl": "16-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "052617",
         "prod": "Avocado",
         "var": "Agatha",
@@ -3750,6 +3708,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-19T12:22:33.174Z"
+    "timestamp": "2026-07-19T12:37:25.191Z"
   }
 }
