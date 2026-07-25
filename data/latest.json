@@ -1079,27 +1079,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "122523",
-        "prod": "Kazoichi",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_174133_040904_pasted_image_1774613492634.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery ( Main Body — Taupe Textured)\nBase: White Oak (Natural)\n5 Cushions: Recron Filling (Fabric TBC)\n2 Cushions: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W84\" x D37\" x H33\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bl0bJ1GJ5f8YEW_AGamUHkk3iyB8xI0_",
-        "des": "Hetvi Shah",
-        "dl": "28-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "FF Lounge Sofa\nFabric 10m + 4m + 1.5m From Client Each Piece",
-        "v": {
-          "c": "20-Feb-2026",
-          "a": "",
-          "rm": "natural polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
       }
     ],
     "aidan_dudy": [
@@ -1142,27 +1121,6 @@
           "c": "30-Mar-2026",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "032610",
-        "prod": "Caterpillar",
-        "var": "Hulu",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260710_122647_107009_WhatsApp_Image_2026-07-10_at_11_55_04_AM.jpeg",
-        "cat": "Daybeds",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nBolster: Ply & Foam Upholstery (Fabric TBC)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W84\" x D31.5\" x H27\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1Kt5ya_J9Ksj0LvPvbV_H5DZSoeYEPT6S",
-        "des": "Hetvi Shah",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Ground Floor",
-        "v": {
-          "c": "18-Jun-2025",
-          "a": "",
-          "rm": "use existing smaller triangle available at godown"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -1583,27 +1541,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122523",
-        "prod": "Maylene",
-        "var": "Fynn",
-        "url": "https://i.ibb.co/5XvsfCxv/0002.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Stainless Steel 304 Matt (Rose Gold PVD)\nSeat: Ply & Foam Upholstery (Plain (Sage/Teal) )\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )",
-        "sz": "Outer: W22\" x D24\" x H35\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/19owePYDoP0Za1U68AHeFRt1hUC9TbiQm",
-        "des": "Parth Gada",
-        "dl": "10-Jun-2023",
-        "q": 20,
-        "pm": "Dilip Jangir",
-        "cr": "GF Visitor Chair(7);\nFF Chair(5); SF Chairs(4);\nFabric 1.5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Backrest fabric should not be stitched before embroidery is done"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -3729,6 +3666,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-25T05:53:00.451Z"
+    "timestamp": "2026-07-25T06:07:26.358Z"
   }
 }
