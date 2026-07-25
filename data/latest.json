@@ -955,27 +955,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "052618",
-        "prod": "Jawhead",
-        "var": "Cyril",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_155944_307965_Screenshot_2026-07-03_155650.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W60\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
-        "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "062509",
         "prod": "Dubber",
         "var": "Novak",
@@ -1226,6 +1205,27 @@
           "c": "29-Apr-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052618",
+        "prod": "Jawhead",
+        "var": "Cyril",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_155944_307965_Screenshot_2026-07-03_155650.png",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D18\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
+        "des": "Dilip Jangir",
+        "dl": "13-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "10-Jul-2026",
+          "a": "",
+          "rm": "2 mtr fabric"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -3729,6 +3729,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-25T05:37:24.022Z"
+    "timestamp": "2026-07-25T05:53:00.451Z"
   }
 }
