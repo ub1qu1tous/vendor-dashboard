@@ -550,27 +550,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "062613",
-        "prod": "Alpine",
-        "var": "Thyme",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_160530_526464_Screenshot_2026-07-03_160315.png",
-        "cat": "Console Tables",
-        "mat": "Legs: Sheesham (Peca)\nTop: Sheesham (Peca)\nFixture: Sheesham (Peca)",
-        "sz": "Outer: W48\" x D14\" x H33\"",
-        "fld": "https://drive.google.com/drive/folders/19psiZJN2U4fMa79E2LT7oYQRawsSXxTp",
-        "des": "Hetvi Shah",
-        "dl": "02-Jul-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "24-Jul-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -3666,6 +3645,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-26T07:37:32.648Z"
+    "timestamp": "2026-07-26T07:52:22.623Z"
   }
 }
