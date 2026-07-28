@@ -340,27 +340,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "052618",
-        "prod": "Roback",
-        "var": "Groot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_180305_849284_Screenshot_2026-06-15_180144.png",
-        "cat": "Study Tables",
-        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W48\" x D16\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
-        "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "052619",
         "prod": "Citadel",
         "var": "Voila",
@@ -1142,27 +1121,6 @@
           "c": "29-Apr-2026",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "052618",
-        "prod": "Jawhead",
-        "var": "Cyril",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_155944_307965_Screenshot_2026-07-03_155650.png",
-        "cat": "Benches",
-        "mat": "Structure: Sheesham (Finish TBC)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W60\" x D18\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1egNd2TZsq7gRU7YnEvFWIzyQqyFL5k_P",
-        "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "10-Jul-2026",
-          "a": "",
-          "rm": "2 mtr fabric"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -2689,28 +2647,30 @@
         "vendorDisplayName": "Vipra"
       }
     ],
-    "arbuda_metal": [
+    "aarti_steel": [
       {
-        "op": "052618",
-        "prod": "Roback",
-        "var": "Groot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_180305_849284_Screenshot_2026-06-15_180144.png",
-        "cat": "Study Tables",
-        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W48\" x D16\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
+        "op": "052619",
+        "prod": "Citadel",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260623_114116_048645_Screenshot_2026-06-22_100954.png",
+        "cat": "Swings",
+        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W72\" x D48\" x H74\"\nSwing Body: W60\" x D24\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1AHCAGuWaJTsLLiGnBeo4-Qs-bvlZfJAw",
         "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
+        "dl": "09-Jun-2026",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "25-Jun-2026",
           "a": "",
-          "rm": "mirror frame in 25mm x 4mm flat bar , 14mm round pipe for frame fitting with top , in pipe bottom 8mm threaded bush to fix with wooden top, 14mm pipe in bottom with 6mm LN bolt fitting bush"
+          "rm": "no special instructions"
         },
-        "vendorDisplayName": "Arbuda Metal"
-      },
+        "vendorDisplayName": "Aarti Steel"
+      }
+    ],
+    "arbuda_metal": [
       {
         "op": "052619",
         "prod": "Citadel",
@@ -2794,94 +2754,6 @@
           "rm": "metal pipe frame and swing wire fitting"
         },
         "vendorDisplayName": "Arbuda Metal"
-      }
-    ],
-    "surat_pvd": [
-      {
-        "op": "052618",
-        "prod": "Roback",
-        "var": "Groot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_180305_849284_Screenshot_2026-06-15_180144.png",
-        "cat": "Study Tables",
-        "mat": "Top: White Oak (Finish TBC)\nLegs: White Oak (Finish TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nLeg-Rest: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W48\" x D16\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1uuQ_riVSaNzYAw2A9j3snAIM2fe-EZDb",
-        "des": "Dilip Jangir",
-        "dl": "13-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "gold pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "062509",
-        "prod": "Fairview",
-        "var": "Forrester",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_191040_920882_Screenshot_2026-02-26_190723.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nMounting: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W28.5\" x D33\" x H33\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1w1EBEZtzn57_tN4v9r0iM2XfvAxAPkxm",
-        "des": "Rohan Parmar",
-        "dl": "27-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom",
-        "v": {
-          "c": "30-Jul-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "062509",
-        "prod": "Firhouse",
-        "var": "Yorker",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_142920_847187_pasted_image_1767689976820.png",
-        "cat": "Storage Beds",
-        "mat": "Frame: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Tula Tula023)\nPlatform: Ply & Foam Upholstery (Neutral Bliss Sandra SRN 105)\nFrame: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W81\" x D83\" x H48\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1Og0wONAGCSd7mZnTFwVXC3S-b3oKKQRq",
-        "des": "Hetvi Shah",
-        "dl": "24-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Bed",
-        "v": {
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "gold pvd"
-        },
-        "vendorDisplayName": "Surat PVD"
-      }
-    ],
-    "aarti_steel": [
-      {
-        "op": "052619",
-        "prod": "Citadel",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260623_114116_048645_Screenshot_2026-06-22_100954.png",
-        "cat": "Swings",
-        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W72\" x D48\" x H74\"\nSwing Body: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1AHCAGuWaJTsLLiGnBeo4-Qs-bvlZfJAw",
-        "des": "Dilip Jangir",
-        "dl": "09-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "royal_powder_coat": [
@@ -3442,6 +3314,50 @@
         "vendorDisplayName": "Baba Marble"
       }
     ],
+    "surat_pvd": [
+      {
+        "op": "062509",
+        "prod": "Fairview",
+        "var": "Forrester",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_191040_920882_Screenshot_2026-02-26_190723.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nMounting: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W28.5\" x D33\" x H33\"\nSeat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1w1EBEZtzn57_tN4v9r0iM2XfvAxAPkxm",
+        "des": "Rohan Parmar",
+        "dl": "27-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
+        "v": {
+          "c": "30-Jul-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "062509",
+        "prod": "Firhouse",
+        "var": "Yorker",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_142920_847187_pasted_image_1767689976820.png",
+        "cat": "Storage Beds",
+        "mat": "Frame: Sheesham (Black Matt)\nHeadboard: Ply & Foam Upholstery (Tula Tula023)\nPlatform: Ply & Foam Upholstery (Neutral Bliss Sandra SRN 105)\nFrame: Sheesham (Black Matt)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W81\" x D83\" x H48\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1Og0wONAGCSd7mZnTFwVXC3S-b3oKKQRq",
+        "des": "Hetvi Shah",
+        "dl": "24-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Bed",
+        "v": {
+          "c": "08-Aug-2025",
+          "a": "",
+          "rm": "gold pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      }
+    ],
     "srk_readymade_legs": [
       {
         "op": "062509",
@@ -3645,6 +3561,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-28T05:07:31.332Z"
+    "timestamp": "2026-07-28T05:23:07.929Z"
   }
 }
