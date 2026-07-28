@@ -1862,6 +1862,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "072614",
+        "prod": "Hylos",
+        "var": "Oliver",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "092520",
         "prod": "Kaveri",
         "var": "Numin",
@@ -3249,6 +3270,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "072614",
+        "prod": "Hylos",
+        "var": "Oliver",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092519",
         "prod": "Muto",
         "var": "Appriv",
@@ -3561,6 +3603,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-28T06:37:21.266Z"
+    "timestamp": "2026-07-28T06:52:31.130Z"
   }
 }
