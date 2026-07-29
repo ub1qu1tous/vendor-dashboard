@@ -3486,27 +3486,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "122523",
-        "prod": "Missi",
-        "var": "Morin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260402_180923_931562_pasted_image_1775133562201.png",
-        "cat": "Mirrors",
-        "mat": "Frame: White Oak (White Distressed)\nMirror: 4mm Glass (Extra Clear)\nSupport: Wood Plastic Composite (WPC) (White)",
-        "sz": "Outer: W24\" x D22\" x H66\"",
-        "fld": "https://drive.google.com/drive/folders/1n5Q35lJrzik5l6lsXGkzgZXmtGTWEbH2",
-        "des": "Dilip Jangir",
-        "dl": "30-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "FF Mirror",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "mirror"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
     "ansar_enterprises": [
@@ -3603,6 +3582,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-29T09:07:27.284Z"
+    "timestamp": "2026-07-29T09:22:25.022Z"
   }
 }
