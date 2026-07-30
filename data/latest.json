@@ -674,27 +674,6 @@
           "rm": "30 पीसी पैर बने हैं शीशम की लकड़ी गोल सिलेंडर आकार में और उसमें डिस्टेंपर कलर करना है जिसके पैर का ग्रेन नहीं दिखे सॉलिड कलर में जिसका कोड आप को सेलेक्ट करना है बाद में आप को दूंगा"
         },
         "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122523",
-        "prod": "Cheryl",
-        "var": "Willis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260403_112448_041950_pasted_image_1775195687240.png",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Natural)\nMounting: White Oak (Natural)\nBase: White Oak (Black Matt)",
-        "sz": "Outer: W23\" x D23\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1djlq7b9DMbr5_GVGFDj35cUqiyi1UQgL",
-        "des": "Hetvi Shah",
-        "dl": "08-Apr-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "GF Accent Table",
-        "v": {
-          "c": "19-Apr-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "manish_marble_jaipur": [
@@ -3624,6 +3603,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-30T14:07:28.463Z"
+    "timestamp": "2026-07-30T14:22:21.348Z"
   }
 }
