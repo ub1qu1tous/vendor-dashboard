@@ -529,6 +529,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "072609",
+        "prod": "Dunes",
+        "var": "Ibis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_122013_453033_pasted_image_1770706242619.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Reclaimed Hardwood (Black Distressed/Charcoal)\nLegs: White Ash (Black Matt)",
+        "sz": "Outer: W19\" x D19\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1Dl4P0j4cdooAT6NhWkgTF7yjH8j3QZcC",
+        "des": "Dilip Jangir",
+        "dl": "22-Apr-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -2775,6 +2796,27 @@
           "rm": "metal pipe frame and swing wire fitting"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "072610",
+        "prod": "Susan",
+        "var": "Redcedar",
+        "url": "https://i.ibb.co/YNt9474/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19.5\" x D23.5\" x H34\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1fAQMhVEyEm9FALTyX6bwBGbxhIBfiUA1",
+        "des": "Pradeep Kumar",
+        "dl": "13-Sept-2018",
+        "q": 16,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric Required: 1.5 meters",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "royal_powder_coat": [
@@ -3582,6 +3624,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-07-30T13:37:24.620Z"
+    "timestamp": "2026-07-30T13:52:21.914Z"
   }
 }
