@@ -992,7 +992,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "1 top and base polish work  black distressed"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -1348,6 +1348,27 @@
         "q": 8,
         "pm": "Milankumar Mahida",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072610",
+        "prod": "Susan",
+        "var": "Redcedar",
+        "url": "https://i.ibb.co/YNt9474/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19.5\" x D23.5\" x H34\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1fAQMhVEyEm9FALTyX6bwBGbxhIBfiUA1",
+        "des": "Pradeep Kumar",
+        "dl": "13-Sept-2018",
+        "q": 16,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric Required: 1.5 meters",
         "v": {
           "c": "",
           "a": "",
@@ -2770,7 +2791,7 @@
         "pm": "Maulik Parmar",
         "cr": "Fabric Required: 1.5 meters",
         "v": {
-          "c": "",
+          "c": "09-Aug-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3286,7 +3307,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "1 base he bnana hai or upper chuck fitting dena hai"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3438,6 +3459,27 @@
           "c": "08-Aug-2025",
           "a": "",
           "rm": "gold pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "072610",
+        "prod": "Susan",
+        "var": "Redcedar",
+        "url": "https://i.ibb.co/YNt9474/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19.5\" x D23.5\" x H34\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1fAQMhVEyEm9FALTyX6bwBGbxhIBfiUA1",
+        "des": "Pradeep Kumar",
+        "dl": "13-Sept-2018",
+        "q": 16,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric Required: 1.5 meters",
+        "v": {
+          "c": "11-Aug-2026",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Surat PVD"
       }
@@ -3624,6 +3666,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-01T13:07:26.911Z"
+    "timestamp": "2026-08-01T13:22:22.989Z"
   }
 }
