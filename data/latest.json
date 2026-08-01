@@ -3250,6 +3250,27 @@
       },
       {
         "op": "072608",
+        "prod": "Deakins",
+        "var": "Sylvia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_140115_379885_Screenshot_2026-07-28_135958.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W60\" x D60\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1sTj-Tfo6yTqVhoclXhwtQB9Img06Zlou",
+        "des": "Dilip Jangir",
+        "dl": "01-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "5 feet dia round top with double thickness baswada white, base as per drawing previous"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "072608",
         "prod": "Tauris",
         "var": "Bahama",
         "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
@@ -3603,6 +3624,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-01T05:07:22.384Z"
+    "timestamp": "2026-08-01T05:22:23.195Z"
   }
 }
