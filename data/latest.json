@@ -3265,7 +3265,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "1 pc same as previous"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3603,6 +3603,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-01T04:52:21.185Z"
+    "timestamp": "2026-08-01T05:07:22.384Z"
   }
 }
