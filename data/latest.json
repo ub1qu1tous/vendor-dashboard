@@ -152,27 +152,6 @@
       },
       {
         "op": "012623",
-        "prod": "Haikiki",
-        "var": "Hoor",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260521_101332_122056_pasted_image_1779338610603.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Indian Teak (Black Matt)",
-        "sz": "Outer: W23.6\" x D13.8\" x H17.7\"",
-        "fld": "https://drive.google.com/drive/folders/1ETDMcod2Z7p-IE1cfWn8zP8whtjHuN11",
-        "des": "Hetvi Shah",
-        "dl": "05-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "02-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "012623",
         "prod": "Jonah",
         "var": "Shelby",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260525_142753_560347_pasted_image_1779699471789.png",
@@ -3624,6 +3603,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-01T05:52:20.117Z"
+    "timestamp": "2026-08-01T06:07:23.523Z"
   }
 }
