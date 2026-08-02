@@ -508,6 +508,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "072608",
+        "prod": "Zakk",
+        "var": "Valencia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_145900_682908_pasted_image_1785230938983.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSupport: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W32\" x D34\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1ZqE5kF2ra9dYJVFscFTN4bm6GQ7eS7Ib",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "natural oak chair 2 pcs"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -2689,6 +2710,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "072608",
+        "prod": "Belston",
+        "var": "Yaris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_152026_300790_Screenshot_2026-07-28_133733.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase:  ()",
+        "sz": "Outer: W13\" x D13\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1KdVq4PSQaa50BPxJ4sT4Oayn0WxfCIq8",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Concrete Base ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "top 4mm ms"
+        },
+        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "arbuda_metal": [
@@ -2773,6 +2815,27 @@
           "c": "12-Aug-2026",
           "a": "",
           "rm": "metal pipe frame and swing wire fitting"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "072608",
+        "prod": "Belston",
+        "var": "Yaris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_152026_300790_Screenshot_2026-07-28_133733.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase:  ()",
+        "sz": "Outer: W13\" x D13\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1KdVq4PSQaa50BPxJ4sT4Oayn0WxfCIq8",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Concrete Base ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -2880,6 +2943,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "072608",
+        "prod": "Belston",
+        "var": "Yaris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_152026_300790_Screenshot_2026-07-28_133733.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase:  ()",
+        "sz": "Outer: W13\" x D13\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1KdVq4PSQaa50BPxJ4sT4Oayn0WxfCIq8",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Concrete Base ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black powdercoat"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -3595,6 +3679,29 @@
         "vendorDisplayName": "Ansar Enterprises"
       }
     ],
+    "concrete_shop": [
+      {
+        "op": "072608",
+        "prod": "Belston",
+        "var": "Yaris",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_152026_300790_Screenshot_2026-07-28_133733.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Black Powder Coat)\nBase:  ()",
+        "sz": "Outer: W13\" x D13\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1KdVq4PSQaa50BPxJ4sT4Oayn0WxfCIq8",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Concrete Base ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Concrete Shop"
+      }
+    ],
     "mandap": [
       {
         "op": "082520",
@@ -3666,6 +3773,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-02T11:22:44.125Z"
+    "timestamp": "2026-08-02T11:37:21.833Z"
   }
 }
