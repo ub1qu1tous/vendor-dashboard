@@ -2668,6 +2668,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "072609",
+        "prod": "Alpert",
+        "var": "Elvis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260725_154830_171724_Screenshot_2026-07-25_154238.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: 12mm Plywood (Swank Brown SC 138)\nBase: 12mm Plywood (Black)\nDrawer: 12mm Plywood (Swank Brown SC 138)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W20\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1q5MyymHgv2A6ESk2eVwe4X6Rdx6ZX7kE",
+        "des": "Hetvi Shah",
+        "dl": "03-Aug-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Leg HDHMR, handle selection under process"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122523",
         "prod": "Glick",
         "var": "Wren",
@@ -3702,6 +3723,29 @@
         "vendorDisplayName": "Concrete Shop"
       }
     ],
+    "rajeshbhai_sculpture": [
+      {
+        "op": "072609",
+        "prod": "Arnett",
+        "var": "Travis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
+        "sz": "Outer: W19.5\" x D13\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
+        "des": "Hetvi Shah",
+        "dl": "03-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Rajeshbhai Sculpture"
+      }
+    ],
     "mandap": [
       {
         "op": "082520",
@@ -3773,6 +3817,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-03T12:22:31.412Z"
+    "timestamp": "2026-08-03T12:37:28.892Z"
   }
 }
