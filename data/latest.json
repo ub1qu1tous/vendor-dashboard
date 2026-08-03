@@ -652,7 +652,7 @@
         "v": {
           "c": "05-Jun-2026",
           "a": "",
-          "rm": "Travertine (Mirror Buffing)\n"
+          "rm": "Travertine (Mirror Buffing)\n420mm dia"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
@@ -2710,6 +2710,48 @@
           "rm": "top 4mm ms"
         },
         "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "072608",
+        "prod": "Deakins",
+        "var": "Sylvia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_140115_379885_Screenshot_2026-07-28_135958.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W60\" x D60\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1sTj-Tfo6yTqVhoclXhwtQB9Img06Zlou",
+        "des": "Dilip Jangir",
+        "dl": "01-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "top fixing plate"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "072608",
+        "prod": "Zakk",
+        "var": "Valencia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_145900_682908_pasted_image_1785230938983.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSupport: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W32\" x D34\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1ZqE5kF2ra9dYJVFscFTN4bm6GQ7eS7Ib",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "handle making 2 left 2 right"
+        },
+        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "arbuda_metal": [
@@ -2939,6 +2981,48 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Concrete Base ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "072608",
+        "prod": "Deakins",
+        "var": "Sylvia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_140115_379885_Screenshot_2026-07-28_135958.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W60\" x D60\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1sTj-Tfo6yTqVhoclXhwtQB9Img06Zlou",
+        "des": "Dilip Jangir",
+        "dl": "01-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "072608",
+        "prod": "Zakk",
+        "var": "Valencia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_145900_682908_pasted_image_1785230938983.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSupport: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W32\" x D34\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1ZqE5kF2ra9dYJVFscFTN4bm6GQ7eS7Ib",
+        "des": "Dilip Jangir",
+        "dl": "02-Aug-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -3775,6 +3859,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-03T12:52:28.210Z"
+    "timestamp": "2026-08-03T13:07:25.748Z"
   }
 }
