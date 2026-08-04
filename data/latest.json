@@ -487,48 +487,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "082412",
-        "prod": "Luxient",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
-        "cat": "Credenzas",
-        "mat": "Top: Sheesham (Jacobean)\nCarcass: Sheesham (Jacobean)\nShutter Frame: Sheesham (Jacobean)\nShutter Panel: Pre-woven Rattan (Clear)\nLegs: Sheesham (Jacobean)",
-        "sz": "Outer: W72\" x D16\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092518",
-        "prod": "Steapa",
-        "var": "Rawlins",
-        "url": "https://i.ibb.co/wQfKckM/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: 10mm Glass (Brown Tinted)\nMounting: Sheesham (Jacobean)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nBase: Green Lavante (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1gJGvcNTS_ywlnrDPbYUs4KKIS3-UD7BN",
-        "des": "Parth Gada",
-        "dl": "20-Aug-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Dia: 80 MM\nHeight: 18.5\" \nSheeham Jacobean Cylinder with Polish"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Carmine",
@@ -3880,6 +3838,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-04T11:37:24.366Z"
+    "timestamp": "2026-08-04T11:52:30.453Z"
   }
 }
