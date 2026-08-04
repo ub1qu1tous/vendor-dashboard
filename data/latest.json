@@ -825,6 +825,27 @@
           "rm": "base"
         },
         "vendorDisplayName": "Casa Creations"
+      },
+      {
+        "op": "012623",
+        "prod": "Swindon",
+        "var": "Storr",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260717_182555_416306_Gemini_Generated_Image_maivjwmaivjwmaiv.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Acacia (Natural)\nBase: HDHMR (Clear)\nCladding: Brass (Clear Lacquered)",
+        "sz": "Outer: W168\" x D60\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1Zriak5IfA9jpSJVCO6jBdR3o8A4E8_m4",
+        "des": "Akhilesh Yadav",
+        "dl": "28-Jul-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
       }
     ],
     "krishna_furnitech_polish": [
@@ -3859,6 +3880,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-04T11:22:26.183Z"
+    "timestamp": "2026-08-04T11:37:24.366Z"
   }
 }
