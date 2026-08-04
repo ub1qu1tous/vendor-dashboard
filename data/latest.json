@@ -23,27 +23,6 @@
         "vendorDisplayName": "Divine"
       },
       {
-        "op": "012609",
-        "prod": "Beness",
-        "var": "Yurick",
-        "url": "https://burosys.com/cdn/shop/files/task_images_new_584165_new_1755844796610_9155.jpg?v=1755844884&width=1200",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Ash (Black Matt)",
-        "sz": "Outer: W25\" x D32\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1HIs_sTsZBfGRadmjp1Ak3GDpvkmOSYI4",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "17-Jan-2026",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Divine"
-      },
-      {
         "op": "122414",
         "prod": "Seubert",
         "var": "Drake",
@@ -3880,6 +3859,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-04T10:22:22.644Z"
+    "timestamp": "2026-08-04T10:38:21.480Z"
   }
 }
