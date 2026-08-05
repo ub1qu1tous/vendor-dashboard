@@ -490,27 +490,6 @@
       },
       {
         "op": "122522",
-        "prod": "Irithel",
-        "var": "Carmine",
-        "url": "https://i.ibb.co/j9ryNJnL/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Base: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )\nSeat: Ply & Foam Upholstery (D'Decor Black and Bold II 202)",
-        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1uBSXh9Uu8J7yCgFrbsMQJxriRt9m86PI",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260318_124730_999641_pasted_image_1773818249882.png",
@@ -3307,7 +3286,7 @@
         "v": {
           "c": "14-Jul-2026",
           "a": "",
-          "rm": "natural polish"
+          "rm": "natural polish with ply back and seat same as you sent earlier for all chairs"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3691,6 +3670,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-05T15:37:27.693Z"
+    "timestamp": "2026-08-05T15:52:33.589Z"
   }
 }
