@@ -44,7 +44,7 @@
         "vendorDisplayName": "Divine"
       }
     ],
-    "krishna_furnitech": [
+    "manish_marble_jaipur": [
       {
         "op": "012623",
         "prod": "Abaya",
@@ -62,10 +62,117 @@
         "v": {
           "c": "05-Jun-2026",
           "a": "",
-          "rm": "dirty olive finish sample require , which is done on crimson bench  , with marble whole table with polish to be made after sample confirmation"
+          "rm": "Travertine (Mirror Buffing)\n420mm dia"
         },
-        "vendorDisplayName": "Krishna Furnitech"
+        "vendorDisplayName": "Manish Marble (Jaipur)"
       },
+      {
+        "op": "062509",
+        "prod": "Dupont",
+        "var": "Fedora",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Mirror Buffing)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1jDfN6xOLFcTe0sHJ9lPOGZLIIFpFIdVt",
+        "des": "Jahanvi Bhavsar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Accent Table",
+        "v": {
+          "c": "05-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "072608",
+        "prod": "Zendaya",
+        "var": "Travis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_171015_420433_Screenshot_2026-07-28_162604.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W24\" x D24\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1Jh2CdsBESf4soNdlBCVJalb-Kwfzz53G",
+        "des": "Dilip Jangir",
+        "dl": "01-Aug-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082412",
+        "prod": "Luxient",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
+        "cat": "Credenzas",
+        "mat": "Top: Sheesham (Jacobean)\nCarcass: Sheesham (Jacobean)\nShutter Frame: Sheesham (Jacobean)\nShutter Panel: Pre-woven Rattan (Clear)\nLegs: Sheesham (Jacobean)",
+        "sz": "Outer: W72\" x D16\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
+        "des": "Parthsarthi Suthar",
+        "dl": "04-Oct-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "102411",
+        "prod": "Drakonis",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W39\" x D39\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
+        "des": "Hetvi Shah",
+        "dl": "14-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Coffee Table",
+        "v": {
+          "c": "10-Jun-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      }
+    ],
+    "krishna_furnitech": [
       {
         "op": "012623",
         "prod": "Azela",
@@ -105,111 +212,6 @@
           "c": "26-Mar-2026",
           "a": "",
           "rm": "2 table top 50mm thickness, ss inlay, Mother of pearl inlay"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "012623",
-        "prod": "Grassmarket",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260530_121526_975127_everett.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure: White Oak (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Outer: W72\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/18FzVHHAVo4EVMVIHCgMJe-6LFT99pMWa",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "012623",
-        "prod": "Jonah",
-        "var": "Shelby",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260525_142753_560347_pasted_image_1779699471789.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Indian Teak (Black Matt)",
-        "sz": "Outer: W17.7\" x D15.7\" x H18.1\"",
-        "fld": "https://drive.google.com/drive/folders/1HGc5FZBDsJkx5_4hlQUHPedRCvTlVEd0",
-        "des": "Hetvi Shah",
-        "dl": "05-May-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "02-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "012623",
-        "prod": "Kabra",
-        "var": "Kenji",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260520_184816_542124_10.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Indian Teak (Black Matt)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W56\" x D30\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1bWQjAN-Ba_DQT3I8KO2W7kFTmbMJDxMH",
-        "des": "Hetvi Shah",
-        "dl": "30-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "012623",
-        "prod": "Tamsin",
-        "var": "Tyler",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260526_120811_561952_Screenshot_2026-05-26_120512.png",
-        "cat": "Benches",
-        "mat": "Structure (A): White Oak (Natural)\nStructure (B): White Oak (Black Matt)",
-        "sz": "Outer: W66\" x D16\" x H18\"\nBench: W48\" x D16\" x H15\"\nSide Table: W18\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1EqHNt0t8P87x-mzaZpM2PZtTqqxKx_2f",
-        "des": "Hetvi Shah",
-        "dl": "06-Jul-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "17-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "012623",
-        "prod": "Veyra",
-        "var": "Vitara",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260525_143351_459239_pasted_image_1779699829933.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: White Oak (Black Matt)",
-        "sz": "Outer: W17.7\" x D15.7\" x H19.7\"",
-        "fld": "https://drive.google.com/drive/folders/14JMF4KTG0Vv9uVcBeOf9MboGFPxrqR7K",
-        "des": "Hetvi Shah",
-        "dl": "28-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "17-Jun-2026",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -571,156 +573,7 @@
         "vendorDisplayName": "Krishna Furnitech"
       }
     ],
-    "manish_marble_jaipur": [
-      {
-        "op": "012623",
-        "prod": "Abaya",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_153524_537142_pasted_image_1774433119577.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Travertine (Mirror Buffing)\nStructure: White Oak (Natural)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1PAV3ZDoPGUk_uUhP1fyAEncoGlJyn1uJ",
-        "des": "Hetvi Shah",
-        "dl": "05-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "05-Jun-2026",
-          "a": "",
-          "rm": "Travertine (Mirror Buffing)\n420mm dia"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "062509",
-        "prod": "Dupont",
-        "var": "Fedora",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1jDfN6xOLFcTe0sHJ9lPOGZLIIFpFIdVt",
-        "des": "Jahanvi Bhavsar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Accent Table",
-        "v": {
-          "c": "05-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "062509",
-        "prod": "Sovella",
-        "var": "Swoon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Marble TBC (Finish TBC)",
-        "sz": "Outer: W15.5\" x D12\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
-        "des": "Tanmay Shah",
-        "dl": "15-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "072608",
-        "prod": "Zendaya",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_171015_420433_Screenshot_2026-07-28_162604.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W24\" x D24\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1Jh2CdsBESf4soNdlBCVJalb-Kwfzz53G",
-        "des": "Dilip Jangir",
-        "dl": "01-Aug-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082412",
-        "prod": "Luxient",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
-        "cat": "Credenzas",
-        "mat": "Top: Sheesham (Jacobean)\nCarcass: Sheesham (Jacobean)\nShutter Frame: Sheesham (Jacobean)\nShutter Panel: Pre-woven Rattan (Clear)\nLegs: Sheesham (Jacobean)",
-        "sz": "Outer: W72\" x D16\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "102411",
-        "prod": "Drakonis",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Lassa White (Mirror Buffing)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W39\" x D39\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
-        "des": "Hetvi Shah",
-        "dl": "14-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Coffee Table",
-        "v": {
-          "c": "10-Jun-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      }
-    ],
     "casa_creations": [
-      {
-        "op": "012623",
-        "prod": "Aztec",
-        "var": "Gold",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_113321_188793_pasted_image_1776146600760.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Black)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W38\" x D38\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1i5jm-xVdTrIm5uDGLwqDsn28XLQOJQ-B",
-        "des": "Hetvi Shah",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "base, and top"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
       {
         "op": "012623",
         "prod": "Broderick",
@@ -754,27 +607,6 @@
         "des": "Dilip Jangir",
         "dl": "13-Apr-2026",
         "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "base"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "012623",
-        "prod": "Grassmarket",
-        "var": "Gul",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260530_121526_975127_everett.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure: White Oak (Natural)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Outer: W72\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/18FzVHHAVo4EVMVIHCgMJe-6LFT99pMWa",
-        "des": "Hetvi Shah",
-        "dl": "13-Apr-2026",
-        "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
@@ -2177,6 +2009,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Kamlesh Jangid"
+      },
+      {
+        "op": "052612",
+        "prod": "Aetheris",
+        "var": "Arley",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_171244_694387_pasted_image_1776512559864.png",
+        "cat": "Bookcases",
+        "mat": "Frame: Mild Steel (Black Powder Coat)\nShelf: HDHMR (Finish TBC)\nNiche: HDHMR (Finish TBC)\nCarcass: HDHMR (Finish TBC)\nInternal Carcass: 16mm Plywood (Finish TBC)\nShutter: 16mm Plywood (RAL 3002 Carmine Red (PU))",
+        "sz": "Outer: W72.5\" x D14\" x H93.5\"",
+        "fld": "https://drive.google.com/drive/folders/1dd2ZFIwEJPjWjYtLSqIxQd2bT2SD-92D",
+        "des": "Hetvi Shah",
+        "dl": "10-Nov-2024",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "On site fitting"
         },
         "vendorDisplayName": "Kamlesh Jangid"
       }
@@ -3838,6 +3691,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-05T15:22:30.620Z"
+    "timestamp": "2026-08-05T15:37:27.693Z"
   }
 }
