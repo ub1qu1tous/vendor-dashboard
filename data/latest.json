@@ -1993,27 +1993,6 @@
       },
       {
         "op": "122523",
-        "prod": "Kazoichi",
-        "var": "Gypster",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260327_174133_040904_pasted_image_1774613492634.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery ( Main Body — Taupe Textured)\nBase: White Oak (Natural)\n5 Cushions: Recron Filling (Fabric TBC)\n2 Cushions: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W84\" x D37\" x H33\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bl0bJ1GJ5f8YEW_AGamUHkk3iyB8xI0_",
-        "des": "Hetvi Shah",
-        "dl": "28-Mar-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "FF Lounge Sofa\nFabric 10m + 4m + 1.5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122523",
         "prod": "Melton",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_586620_Screenshot_from_2025-12-23_11-50-33.png",
@@ -3628,6 +3607,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-06T13:37:31.346Z"
+    "timestamp": "2026-08-06T13:52:35.798Z"
   }
 }
