@@ -104,7 +104,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "1 pc same as previous made"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3628,6 +3628,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-08T05:07:24.672Z"
+    "timestamp": "2026-08-08T05:22:22.782Z"
   }
 }
