@@ -293,7 +293,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Leg height: 5\"\n"
+          "rm": "Leg height: 5\"\nPlatform Height: 6\"\nfitting k provision k liye height di hai"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3626,6 +3626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-12T07:07:23.816Z"
+    "timestamp": "2026-08-12T07:22:24.328Z"
   }
 }
