@@ -293,7 +293,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Leg height: 5\"\n"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -314,7 +314,7 @@
         "v": {
           "c": "25-Mar-2026",
           "a": "",
-          "rm": "Without Marble, but with Marble Farma"
+          "rm": "Need table Without Marble, but with Marble Farma"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3626,6 +3626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-12T06:37:21.255Z"
+    "timestamp": "2026-08-12T06:52:22.946Z"
   }
 }
