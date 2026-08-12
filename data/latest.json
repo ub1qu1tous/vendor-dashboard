@@ -939,7 +939,7 @@
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
         "cat": "Swings",
-        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
         "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
         "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
         "des": "Dilip Jangir",
@@ -2486,7 +2486,7 @@
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
         "cat": "Swings",
-        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
         "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
         "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
         "des": "Dilip Jangir",
@@ -2614,7 +2614,7 @@
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
         "cat": "Swings",
-        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
         "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
         "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
         "des": "Dilip Jangir",
@@ -3096,6 +3096,27 @@
           "c": "",
           "a": "",
           "rm": "1 pc same as previous"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "072609",
+        "prod": "Arnett",
+        "var": "Travis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
+        "sz": "Outer: W19.5\" x D17\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
+        "des": "Hetvi Shah",
+        "dl": "03-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Need Sheesham wood logs only\n1. 15x15x3 Inches: 1 pc\n2. 5.5x5.5x9.5: 5 pc\n3. 12.5x12.5x4.5: 1 pc\n(Number 1 and 3 if not possible in single pc, then it can be made by joining planks)"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -3605,6 +3626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-12T05:22:24.128Z"
+    "timestamp": "2026-08-12T05:37:21.113Z"
   }
 }
