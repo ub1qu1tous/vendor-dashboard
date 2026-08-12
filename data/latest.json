@@ -2502,6 +2502,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "062509",
+        "prod": "Yagher",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
+        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Sectional Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Leg Height: 125mm\nRound Pipe: 25mm\nMaterial: MS\nL patti leg: 9 Pc\nCenter leg: 3 Pc"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "072608",
         "prod": "Belston",
         "var": "Yaris",
@@ -2626,6 +2647,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062509",
+        "prod": "Yagher",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
+        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Sectional Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black Legs 12 pcs"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -3463,27 +3505,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "SRK Readymade Legs"
-      },
-      {
-        "op": "062509",
-        "prod": "Yagher",
-        "var": "Nairobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
-        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Sectional Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
     "vishwakarma_glass": [
@@ -3626,6 +3647,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-12T11:37:29.207Z"
+    "timestamp": "2026-08-12T11:52:23.130Z"
   }
 }
