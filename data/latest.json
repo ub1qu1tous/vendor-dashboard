@@ -461,7 +461,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "legs qty 12 pcs"
+          "rm": "legs qty 12 pcs, "
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -3479,6 +3479,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-17T07:22:21.735Z"
+    "timestamp": "2026-08-17T07:37:21.276Z"
   }
 }
