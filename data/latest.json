@@ -1018,6 +1018,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "082608",
+        "prod": "Panache",
+        "var": "Savio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_103520_982940_pasted_image_1770613543604.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Jackpot Colour: M500)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W60\" x D34\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1umVN_UPxdyj0qLYdoAMjdHx8n8BUkE8l?usp=sharing",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Reception Sofa - fabric change required, 9m",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Fabric Change"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "082609",
         "prod": "Argos",
         "var": "Nairobi",
@@ -1606,6 +1627,48 @@
           "c": "",
           "a": "",
           "rm": "Smruti is working with a new vendor"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "082608",
+        "prod": "Disso",
+        "var": "Ciaz",
+        "url": "https://i.ibb.co/n6Lsz9x/0002.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Passion 2421 Velvet)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W72\" x D34\" x H34\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1VC0RnT-N4khK5WCQcmIqnE5elqSKe6kQ?usp=sharing",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Main Office Sofa - fabric as it is",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "082608",
+        "prod": "Panache",
+        "var": "Savio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_103520_982940_pasted_image_1770613543604.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Jackpot Colour: M500)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W60\" x D34\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1umVN_UPxdyj0qLYdoAMjdHx8n8BUkE8l?usp=sharing",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Reception Sofa - fabric change required, 9m",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
       },
@@ -2391,6 +2454,27 @@
           "c": "",
           "a": "",
           "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "082608",
+        "prod": "Panache",
+        "var": "Savio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_103520_982940_pasted_image_1770613543604.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Jackpot Colour: M500)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W60\" x D34\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1umVN_UPxdyj0qLYdoAMjdHx8n8BUkE8l?usp=sharing",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Reception Sofa - fabric change required, 9m",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "legs re coating"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -3500,6 +3584,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-18T06:37:21.284Z"
+    "timestamp": "2026-08-18T06:52:24.386Z"
   }
 }
