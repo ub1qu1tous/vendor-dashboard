@@ -383,6 +383,27 @@
       },
       {
         "op": "122522",
+        "prod": "Irithel",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_130106_988718_pasted_image_1787124664398.png",
+        "cat": "Accent Chairs",
+        "mat": "Base: Sheesham (Finish TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
+        "fld": "",
+        "des": "Tanmay Shah",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Fabric 5m From Client Each Piece",
+        "v": {
+          "c": "28-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260318_124730_999641_pasted_image_1773818249882.png",
@@ -1094,6 +1115,27 @@
         "q": 2,
         "pm": "Dilip Jangir",
         "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
+        "v": {
+          "c": "31-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122522",
+        "prod": "Irithel",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_130106_988718_pasted_image_1787124664398.png",
+        "cat": "Accent Chairs",
+        "mat": "Base: Sheesham (Finish TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
+        "fld": "",
+        "des": "Tanmay Shah",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Fabric 5m From Client Each Piece",
         "v": {
           "c": "31-Mar-2026",
           "a": "",
@@ -1963,6 +2005,27 @@
         "q": 2,
         "pm": "Dilip Jangir",
         "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "122522",
+        "prod": "Irithel",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_130106_988718_pasted_image_1787124664398.png",
+        "cat": "Accent Chairs",
+        "mat": "Base: Sheesham (Finish TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
+        "fld": "",
+        "des": "Tanmay Shah",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Fabric 5m From Client Each Piece",
         "v": {
           "c": "",
           "a": "",
@@ -3584,6 +3647,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-19T13:07:32.021Z"
+    "timestamp": "2026-08-19T13:22:28.735Z"
   }
 }
