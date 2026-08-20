@@ -3335,6 +3335,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "082617",
+        "prod": "Kaji",
+        "var": "Accent",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122558_028290_pasted_image_1787122554476.png",
+        "cat": "Swings",
+        "mat": "Structure: Indian Teak (Suncity)\nSwing Pedestal: Indian Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W56.5\" x D37.5\" x H81\"",
+        "fld": "",
+        "des": "Vikas Jangir",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092519",
         "prod": "Hylos",
         "var": "Pique",
@@ -3647,6 +3668,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-20T09:52:23.341Z"
+    "timestamp": "2026-08-20T10:11:47.570Z"
   }
 }
