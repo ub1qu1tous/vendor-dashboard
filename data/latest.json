@@ -3336,27 +3336,6 @@
       },
       {
         "op": "092519",
-        "prod": "Hylos",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_134242_254038_pasted_image_1785226360454.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: White Oak (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 7,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "14-Jul-2026",
-          "a": "",
-          "rm": "natural polish with ply back and seat same as you sent earlier for all chairs"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092519",
         "prod": "Muto",
         "var": "Appriv",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260728_134915_714987_pasted_image_1785226753795.png",
@@ -3647,6 +3626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-20T14:52:33.055Z"
+    "timestamp": "2026-08-20T15:07:30.546Z"
   }
 }
