@@ -193,6 +193,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "062413",
+        "prod": "Solstice",
+        "var": "Urban",
+        "url": "https://i.ibb.co/BKBPN57L/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: HDHMR (Black Matt PU)\nFrame: Mango (Black Matt)\nLegs: Mango (Black Matt)\nLegs: Mango (Finish TBC)",
+        "sz": "Outer: W42\" x D42\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1AujyCgYiD1FN7pvAkRcDhvNv0NoPEavD",
+        "des": "Dilip Jangir",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "Hoome Theater Table",
+        "v": {
+          "c": "29-Aug-2026",
+          "a": "",
+          "rm": "Solid wood black matt Top Only with Printing as per sample"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "062509",
         "prod": "Dolce",
         "var": "Quizzy",
@@ -315,48 +336,6 @@
           "c": "25-Mar-2026",
           "a": "",
           "rm": "Need table Without Marble, but with Marble Farma"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062608",
-        "prod": "Lakeston",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181114_297480_PHOTO-2026-06-09-17-08-45.jpg",
-        "cat": "Door Frames",
-        "mat": "Frame: White Oak (Olive)",
-        "sz": "Outer: W42.5\" x D12\" x H95\"",
-        "fld": "https://drive.google.com/drive/folders/13XCJv84FSs9nB684xFFraae9bBo7HmjK",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062608",
-        "prod": "Lakeston",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181038_434127_pasted_image_1781527232041.png",
-        "cat": "Doors",
-        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)",
-        "sz": "Outer: W37.5\" x D2\" x H92.5\"",
-        "fld": "https://drive.google.com/drive/folders/1E2SWSUseLDqAlr7hSMIiKzih0OttW_Yq",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "As per Doors T&C submitted vide 9-6-26",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3668,6 +3647,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-20T10:11:47.570Z"
+    "timestamp": "2026-08-20T10:22:27.561Z"
   }
 }
