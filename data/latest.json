@@ -459,9 +459,9 @@
         "pm": "Dilip Jangir",
         "cr": "SF Meeting Room\nFabric 10m From Client Each Piece",
         "v": {
-          "c": "",
+          "c": "15-Jul-2026",
           "a": "",
-          "rm": "legs qty 12 pcs, 2.5\" dia x 3\" height without polish"
+          "rm": "legs qty 12 pcs, 2.5\" dia x 3\" height, polish jo me aap ko irithel k liye colour bhejunga vahi krna hai isk leg pe bhi"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -3601,31 +3601,10 @@
           "rm": "concrete finish work"
         },
         "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "122523",
-        "prod": "Melton",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_586620_Screenshot_from_2025-12-23_11-50-33.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Finish TBC)\nBackrest: Ply & Foam Upholstery (Finish TBC)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W84\" x D36\" x H30\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1JoT7cqs0oE8ixKturVfu5o85bjycNNmi",
-        "des": "Hetvi Shah",
-        "dl": "06-Apr-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room\nFabric 10m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "RAL 8028 Terra Brown PU on 12pcs legs"
-        },
-        "vendorDisplayName": "Ashok Polish"
       }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-21T10:52:27.689Z"
+    "timestamp": "2026-08-21T11:07:47.604Z"
   }
 }
