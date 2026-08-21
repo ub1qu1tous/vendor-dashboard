@@ -2323,9 +2323,9 @@
         "pm": "Dilip Jangir",
         "cr": "SF Meeting Room;\nHOLD FROM DV",
         "v": {
-          "c": "20-Feb-2026",
+          "c": "14-Aug-2026",
           "a": "",
-          "rm": "Drawer push to open, shutter push to open pin"
+          "rm": "Drawer push to open, shutter push to open pin,\ninternal laminate oak"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -3626,6 +3626,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-21T10:07:34.066Z"
+    "timestamp": "2026-08-21T10:22:31.771Z"
   }
 }
