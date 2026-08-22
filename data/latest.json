@@ -2330,6 +2330,50 @@
         "vendorDisplayName": "Vipra"
       }
     ],
+    "mandap": [
+      {
+        "op": "052603",
+        "prod": "Marifer",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/nn9bg1V/Whats-App-Image-2021-08-23-at-11-48-09-AM.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Seat: Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nArmrest: Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Peca)",
+        "sz": "Outer: W24.5\" x D27\" x H39.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1qsUREhD2ssCW93aq7gOhqSerLUADAcOn",
+        "des": "Maan Singh Rathore",
+        "dl": "01-Jan-2010",
+        "q": 32,
+        "pm": "Dilip Jangir",
+        "cr": "1.25 m Each Chair Fabric, Exact Qty to be given after selection",
+        "v": {
+          "c": "04-Sept-2026",
+          "a": "",
+          "rm": "Please fastrack to send one chair for sample piece approval"
+        },
+        "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "082520",
+        "prod": "Marrion",
+        "var": "Kylar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W46\" x D28\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
+        "des": "Tanmay Shah",
+        "dl": "03-Sept-2025",
+        "q": 1,
+        "pm": "Amish Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
+      }
+    ],
     "royal_powder_coat": [
       {
         "op": "052619",
@@ -3557,29 +3601,6 @@
         "vendorDisplayName": "Rajeshbhai Sculpture"
       }
     ],
-    "mandap": [
-      {
-        "op": "082520",
-        "prod": "Marrion",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W46\" x D28\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
-      }
-    ],
     "lalji_handicrafts": [
       {
         "op": "092525",
@@ -3628,6 +3649,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-22T07:37:24.284Z"
+    "timestamp": "2026-08-22T07:53:46.142Z"
   }
 }
