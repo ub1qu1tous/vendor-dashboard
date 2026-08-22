@@ -361,6 +361,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "082616",
+        "prod": "Epidote",
+        "var": "Strata",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260702_165017_769812_square-crop.jpg",
+        "cat": "Beds",
+        "mat": "Structure: White Ash (Suncity)\nHeadboard: Ply & Foam Upholstery (D'Decor ALLURE 22 Grey)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nFrame (Side Table): Stainless Steel 304 Matt (Gold PVD)\nTop: 8mm Glass (Brown Tinted)",
+        "sz": "Outer: W108\" x D83\" x H45\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.25\" x H45\"\nSeat Height: 22\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ACskoCPhejWx3KqeVqYyecnVvWBbUe1O",
+        "des": "Hetvi Shah",
+        "dl": "09-Jan-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 5.5m per Bed from Client; Integrated Side Tables Removed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Integrated Side Tables Removed; SB Cut out as per Architect"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Justo",
@@ -462,27 +483,6 @@
           "c": "15-Jul-2026",
           "a": "",
           "rm": "legs qty 12 pcs, 2.5\" dia x 3\" height, polish jo me aap ko irithel k liye colour bhejunga vahi krna hai isk leg pe bhi"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "082616",
-        "prod": "Epidote",
-        "var": "Strata",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260702_165017_769812_square-crop.jpg",
-        "cat": "Beds",
-        "mat": "Structure: White Ash (Suncity)\nHeadboard: Ply & Foam Upholstery (D'Decor ALLURE 22 Grey)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nFrame (Side Table): Stainless Steel 304 Matt (Gold PVD)\nTop: 8mm Glass (Brown Tinted)",
-        "sz": "Outer: W108\" x D83\" x H45\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.25\" x H45\"\nSeat Height: 22\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1ACskoCPhejWx3KqeVqYyecnVvWBbUe1O",
-        "des": "Hetvi Shah",
-        "dl": "09-Jan-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 5.5m per Bed from Client; Integrated Side Tables Removed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Integrated Side Tables Removed; SB Cut out as per Architect"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -3670,6 +3670,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-22T12:07:39.921Z"
+    "timestamp": "2026-08-22T12:23:28.270Z"
   }
 }
