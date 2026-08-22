@@ -477,12 +477,12 @@
         "des": "Hetvi Shah",
         "dl": "09-Jan-2025",
         "q": 2,
-        "pm": "",
-        "cr": "",
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 5.5m per Bed from Client; Integrated Side Tables Removed",
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Integrated Side Tables Removed; SB Cut out as per Architect"
         },
         "vendorDisplayName": "Krishna Furnitech"
       }
@@ -1157,27 +1157,6 @@
         "q": 6,
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082616",
-        "prod": "Ireni",
-        "var": "Java",
-        "url": "https://i.ibb.co/tmCjQN4/0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Ply & Foam Upholstery (D'Decor VELOUR 16 Grey)\nLegs: Stainless Steel 304 Matt (Brass Transparent Coat)",
-        "sz": "Outer: W70\" x D88\" x H38\"\nMattress: W60\" x D78\" x H8\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/12O4Sm0-Sa5DiwNpQGLQ4uFPEzgzWoh4Z",
-        "des": "Tarishi Rathore",
-        "dl": "10-Mar-2022",
-        "q": 1,
-        "pm": "",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -3691,6 +3670,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-22T11:07:25.956Z"
+    "timestamp": "2026-08-22T11:37:27.766Z"
   }
 }
