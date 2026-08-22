@@ -680,6 +680,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "072608",
+        "prod": "Tauris",
+        "var": "Bahama",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Ash (Harvest)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W48\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1HA5izcPIWFYLWq1cSKEQjg8WHws5CO5S",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "polish work"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "072609",
         "prod": "Dunes",
         "var": "Ibis",
@@ -3670,6 +3691,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-22T12:52:23.220Z"
+    "timestamp": "2026-08-22T13:09:17.236Z"
   }
 }
