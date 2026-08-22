@@ -464,6 +464,27 @@
           "rm": "legs qty 12 pcs, 2.5\" dia x 3\" height, polish jo me aap ko irithel k liye colour bhejunga vahi krna hai isk leg pe bhi"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "082616",
+        "prod": "Epidote",
+        "var": "Strata",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260702_165017_769812_square-crop.jpg",
+        "cat": "Beds",
+        "mat": "Structure: White Ash (Suncity)\nHeadboard: Ply & Foam Upholstery (D'Decor ALLURE 22 Grey)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nFrame (Side Table): Stainless Steel 304 Matt (Gold PVD)\nTop: 8mm Glass (Brown Tinted)",
+        "sz": "Outer: W108\" x D83\" x H45\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.25\" x H45\"\nSeat Height: 22\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ACskoCPhejWx3KqeVqYyecnVvWBbUe1O",
+        "des": "Hetvi Shah",
+        "dl": "09-Jan-2025",
+        "q": 2,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "casa_creations": [
@@ -1136,6 +1157,27 @@
         "q": 6,
         "pm": "Dilip Jangir",
         "cr": "SF DISPLAY AREA (3); FF DISPLAY AREA (3)\nFabric 4m + 2m + 2m From Client Each Piece",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082616",
+        "prod": "Ireni",
+        "var": "Java",
+        "url": "https://i.ibb.co/tmCjQN4/0002.jpg",
+        "cat": "Beds",
+        "mat": "Structure: Ply & Foam Upholstery (D'Decor VELOUR 16 Grey)\nLegs: Stainless Steel 304 Matt (Brass Transparent Coat)",
+        "sz": "Outer: W70\" x D88\" x H38\"\nMattress: W60\" x D78\" x H8\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/12O4Sm0-Sa5DiwNpQGLQ4uFPEzgzWoh4Z",
+        "des": "Tarishi Rathore",
+        "dl": "10-Mar-2022",
+        "q": 1,
+        "pm": "",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -3649,6 +3691,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-22T08:52:27.071Z"
+    "timestamp": "2026-08-22T09:07:52.510Z"
   }
 }
