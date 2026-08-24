@@ -21,27 +21,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Divine"
-      },
-      {
-        "op": "122414",
-        "prod": "Seubert",
-        "var": "Drake",
-        "url": "https://cdn3.evostore.io/productimages/dams/l/pcs800-o.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Pre-Laminated  MDF (Pluto Texture Shutter PLT-235 Antique Pine)\nBase: Stainless Steel 304 Satin (Matt Buffing)",
-        "sz": "Outer: W40\" x D30\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1T8zmuAqPUjT4RBirTMwCGGSz5FqGBB3T",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "SS Base"
-        },
-        "vendorDisplayName": "Divine"
       }
     ],
     "krishna_furnitech": [
@@ -3691,6 +3670,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-24T05:23:36.519Z"
+    "timestamp": "2026-08-24T05:37:26.564Z"
   }
 }
