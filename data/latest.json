@@ -724,6 +724,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "022622",
+        "prod": "Osaka",
+        "var": "Indiana",
+        "url": "https://i.ibb.co/ZVy9JQm/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1vjx1x3K6JaYMoTW7y_Qj3-vqdh_1X7ih",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Fabric Change only"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "032522",
         "prod": "Amithi",
         "var": "Ethel",
@@ -1184,6 +1205,27 @@
           "c": "25-Mar-2026",
           "a": "",
           "rm": ""
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "022622",
+        "prod": "Osaka",
+        "var": "Indiana",
+        "url": "https://i.ibb.co/ZVy9JQm/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1vjx1x3K6JaYMoTW7y_Qj3-vqdh_1X7ih",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "26-8: ordered 3 Mtr"
         },
         "vendorDisplayName": "Aavaran"
       },
@@ -3842,6 +3884,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-26T06:07:24.182Z"
+    "timestamp": "2026-08-26T06:22:24.326Z"
   }
 }
