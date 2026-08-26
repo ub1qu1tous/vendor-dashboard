@@ -727,9 +727,9 @@
         "op": "082623",
         "prod": "Osaka",
         "var": "Lustre",
-        "url": "https://i.ibb.co/ggGkHh8/0002.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_184154_892863_pasted_image_1787749913494.png",
         "cat": "Accent Chairs",
-        "mat": "Frame: White Ash (Suncity)\nSeat: Ply & Foam Upholstery ()\nBackrest: Ply & Foam Upholstery ()",
+        "mat": "Frame: White Ash (Suncity)\nSeat: Ply & Foam Upholstery (FabriCare Comfort II Cascina)\nBackrest: Ply & Foam Upholstery (FabriCare Comfort II Cascina)",
         "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1fIyfxmRoO2VcJEJnw6hjZf1tIUaZBTTX?usp=sharing",
         "des": "Parth Gada",
@@ -1212,9 +1212,9 @@
         "op": "082623",
         "prod": "Osaka",
         "var": "Lustre",
-        "url": "https://i.ibb.co/ggGkHh8/0002.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_184154_892863_pasted_image_1787749913494.png",
         "cat": "Accent Chairs",
-        "mat": "Frame: White Ash (Suncity)\nSeat: Ply & Foam Upholstery ()\nBackrest: Ply & Foam Upholstery ()",
+        "mat": "Frame: White Ash (Suncity)\nSeat: Ply & Foam Upholstery (FabriCare Comfort II Cascina)\nBackrest: Ply & Foam Upholstery (FabriCare Comfort II Cascina)",
         "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
         "fld": "https://drive.google.com/drive/folders/1fIyfxmRoO2VcJEJnw6hjZf1tIUaZBTTX?usp=sharing",
         "des": "Parth Gada",
@@ -1622,6 +1622,27 @@
         "dl": "20-Dec-2022",
         "q": 1,
         "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "082623",
+        "prod": "Osaka",
+        "var": "Lustre",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_184154_892863_pasted_image_1787749913494.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Ash (Suncity)\nSeat: Ply & Foam Upholstery (FabriCare Comfort II Cascina)\nBackrest: Ply & Foam Upholstery (FabriCare Comfort II Cascina)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1fIyfxmRoO2VcJEJnw6hjZf1tIUaZBTTX?usp=sharing",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -3884,6 +3905,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-26T13:08:01.105Z"
+    "timestamp": "2026-08-26T13:22:27.184Z"
   }
 }
