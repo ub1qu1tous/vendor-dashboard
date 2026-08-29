@@ -1103,6 +1103,27 @@
       },
       {
         "op": "082616",
+        "prod": "Epidote",
+        "var": "Strata",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260702_165017_769812_square-crop.jpg",
+        "cat": "Beds",
+        "mat": "Structure: White Ash (Suncity)\nHeadboard: Ply & Foam Upholstery (D'Decor ALLURE 22 Grey)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nFrame (Side Table): Stainless Steel 304 Matt (Gold PVD)\nTop: 8mm Glass (Brown Tinted)",
+        "sz": "Outer: W108\" x D83\" x H45\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.25\" x H45\"\nSeat Height: 22\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1ACskoCPhejWx3KqeVqYyecnVvWBbUe1O",
+        "des": "Hetvi Shah",
+        "dl": "09-Jan-2025",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 5.5m per Bed from Client; Integrated Side Tables Removed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Headboard Work"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082616",
         "prod": "Ireni",
         "var": "Kaula",
         "url": "https://i.ibb.co/tmCjQN4/0002.jpg",
@@ -2414,6 +2435,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "082622",
+        "prod": "Carnival",
+        "var": "Justo",
+        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
+        "cat": "Credenzas",
+        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
+        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
+        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122523",
         "prod": "Glick",
         "var": "Wren",
@@ -3568,6 +3610,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "082622",
+        "prod": "Carnival",
+        "var": "Justo",
+        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
+        "cat": "Credenzas",
+        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
+        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
+        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092519",
         "prod": "Muto",
         "var": "Appriv",
@@ -3926,6 +3989,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-29T13:07:26.908Z"
+    "timestamp": "2026-08-29T13:22:26.129Z"
   }
 }
