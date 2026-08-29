@@ -1102,6 +1102,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "082616",
+        "prod": "Ireni",
+        "var": "Kaula",
+        "url": "https://i.ibb.co/tmCjQN4/0002.jpg",
+        "cat": "Beds",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nLegs: Stainless Steel 304 Matt (Brass Transparent Coat)",
+        "sz": "Outer: W82\" x D88\" x H38\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 18.5\"",
+        "fld": "",
+        "des": "Tarishi Rathore",
+        "dl": "10-Mar-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092519",
         "prod": "Hylos",
         "var": "Pique",
@@ -3905,6 +3926,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-08-29T12:37:30.434Z"
+    "timestamp": "2026-08-29T12:52:24.796Z"
   }
 }
