@@ -912,27 +912,6 @@
       },
       {
         "op": "082608",
-        "prod": "Disso",
-        "var": "Ciaz",
-        "url": "https://i.ibb.co/n6Lsz9x/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Passion 2421 Velvet)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72\" x D34\" x H34\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1VC0RnT-N4khK5WCQcmIqnE5elqSKe6kQ?usp=sharing",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Main Office Sofa - fabric as it is",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "082608",
         "prod": "Panache",
         "var": "Savio",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260209_103520_982940_pasted_image_1770613543604.png",
@@ -4115,6 +4094,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-02T09:07:28.582Z"
+    "timestamp": "2026-09-02T09:22:28.377Z"
   }
 }
