@@ -1545,27 +1545,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "082609",
-        "prod": "Argos",
-        "var": "Nairobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_101210_489041_pasted_image_1771303355668.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (D'decor Ballard Plain Sr 27)\nLegs: Stainless Steel 304 Gloss (Gold PVD)",
-        "sz": "Outer: W70\" x D16.5\" x H19\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1uNC6wmFtkHuXaFC53AYNyMDLnu_kJrX-",
-        "des": "Tarishi Rathore",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "2.5 meters fabric provided by client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "fabric change work"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "082616",
         "prod": "Epidote",
         "var": "Strata",
@@ -4262,6 +4241,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-02T06:37:26.769Z"
+    "timestamp": "2026-09-02T06:52:26.685Z"
   }
 }
