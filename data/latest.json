@@ -3539,6 +3539,27 @@
           "rm": "polish work"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "092601",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
       }
     ],
     "baba_marble": [
@@ -3663,6 +3684,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "092601",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -3946,6 +3988,27 @@
           "rm": "recoating"
         },
         "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "092601",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
       }
     ],
     "srk_readymade_legs": [
@@ -4208,6 +4271,27 @@
           "rm": ""
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092601",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "tunes_hardware": [
@@ -4371,6 +4455,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-03T11:07:32.009Z"
+    "timestamp": "2026-09-03T11:37:38.917Z"
   }
 }
