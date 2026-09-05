@@ -1671,27 +1671,6 @@
       {
         "op": "122522",
         "prod": "Irithel",
-        "var": "Carmine",
-        "url": "https://i.ibb.co/j9ryNJnL/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Base: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )\nSeat: Ply & Foam Upholstery (D'Decor Black and Bold II 202)",
-        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1uBSXh9Uu8J7yCgFrbsMQJxriRt9m86PI",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
-        "v": {
-          "c": "31-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122522",
-        "prod": "Irithel",
         "var": "Justo",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260819_130106_988718_pasted_image_1787124664398.png",
         "cat": "Accent Chairs",
@@ -2744,27 +2723,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122522",
-        "prod": "Irithel",
-        "var": "Carmine",
-        "url": "https://i.ibb.co/j9ryNJnL/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Base: Sheesham (Black Matt)\nBackrest: Ply & Foam Upholstery (Plain (Sage/Teal) )\nSeat: Ply & Foam Upholstery (D'Decor Black and Bold II 202)",
-        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1uBSXh9Uu8J7yCgFrbsMQJxriRt9m86PI",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room\nFabric 5m From Client Each Piece",
         "v": {
           "c": "",
           "a": "",
@@ -4455,6 +4413,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-05T12:37:27.453Z"
+    "timestamp": "2026-09-05T12:52:23.778Z"
   }
 }
