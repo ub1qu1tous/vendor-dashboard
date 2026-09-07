@@ -2513,6 +2513,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "082413",
+        "prod": "Dragonheart",
+        "var": "Neymar",
+        "url": "https://i.ibb.co/V4xSgFJ/0002.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nMounting: Sheesham (ICA VMA3010 + SFCA)\nSeat: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 305)\nBackrest: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 320)",
+        "sz": "Outer: W19.25\" x D25\" x H34\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1uSlnmI0smy4WHmkUqveRy7E0il3V6nNN",
+        "des": "Hetvi Shah",
+        "dl": "24-Nov-2024",
+        "q": 8,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "1 Chair patta ICA Gold PU.\nColor Code: ICA VMA3010 + SFCA"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082622",
         "prod": "Carnival",
         "var": "Justo",
@@ -4413,6 +4434,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-07T13:22:20.724Z"
+    "timestamp": "2026-09-07T13:37:23.129Z"
   }
 }
