@@ -173,6 +173,27 @@
       },
       {
         "op": "052306",
+        "prod": "Mexico",
+        "var": "Pendula",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
+        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052306",
         "prod": "Wharf",
         "var": "Indiana",
         "url": "https://i.ibb.co/BPDWB2F/1.jpg",
@@ -571,6 +592,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "052306",
+        "prod": "Mexico",
+        "var": "Pendula",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
+        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "brass inlay"
         },
         "vendorDisplayName": "AWS"
       },
@@ -1161,6 +1203,27 @@
           "c": "30-Mar-2026",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052306",
+        "prod": "Mexico",
+        "var": "Pendula",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
+        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Fabric at Shop"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -4329,6 +4392,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-07T08:52:20.288Z"
+    "timestamp": "2026-09-07T09:07:23.617Z"
   }
 }
