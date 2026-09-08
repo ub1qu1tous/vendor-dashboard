@@ -340,27 +340,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "082622",
-        "prod": "Bara",
-        "var": "Lux",
-        "url": "https://i.ibb.co/9NCPZJb/0002.jpg",
-        "cat": "Nightstands",
-        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W22\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
-        "des": "Tarishi Rathore",
-        "dl": "04-Jan-2022",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "082623",
         "prod": "Osaka",
         "var": "Lustre",
@@ -4253,6 +4232,27 @@
       },
       {
         "op": "082622",
+        "prod": "Bara",
+        "var": "Lux",
+        "url": "https://i.ibb.co/9NCPZJb/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W22\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
+        "des": "Tarishi Rathore",
+        "dl": "04-Jan-2022",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Base"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082622",
         "prod": "Carnival",
         "var": "Justo",
         "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
@@ -4455,6 +4455,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-08T06:37:27.849Z"
+    "timestamp": "2026-09-08T06:52:27.511Z"
   }
 }
