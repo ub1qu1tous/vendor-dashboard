@@ -340,6 +340,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "082622",
+        "prod": "Bara",
+        "var": "Lux",
+        "url": "https://i.ibb.co/9NCPZJb/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W22\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
+        "des": "Tarishi Rathore",
+        "dl": "04-Jan-2022",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082623",
         "prod": "Osaka",
         "var": "Lustre",
@@ -995,23 +1016,23 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "082623",
-        "prod": "Osaka",
-        "var": "Lustre",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_184154_892863_pasted_image_1787749913494.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Natural)\nSeat: Ply & Foam Upholstery (FabriCare Comfort II Cascina)\nBackrest: Ply & Foam Upholstery (FabriCare Comfort II Cascina)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1fIyfxmRoO2VcJEJnw6hjZf1tIUaZBTTX?usp=sharing",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
+        "op": "082622",
+        "prod": "Bara",
+        "var": "Lux",
+        "url": "https://i.ibb.co/9NCPZJb/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W22\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
+        "des": "Tarishi Rathore",
+        "dl": "04-Jan-2022",
+        "q": 2,
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Knobs (Dilipbhai)"
         },
         "vendorDisplayName": "AWS"
       },
@@ -1643,7 +1664,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Fabric Change only"
+          "rm": ""
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -2133,27 +2154,6 @@
         "vendorDisplayName": "Aavaran"
       },
       {
-        "op": "082623",
-        "prod": "Osaka",
-        "var": "Lustre",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_184154_892863_pasted_image_1787749913494.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Natural)\nSeat: Ply & Foam Upholstery (FabriCare Comfort II Cascina)\nBackrest: Ply & Foam Upholstery (FabriCare Comfort II Cascina)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1fIyfxmRoO2VcJEJnw6hjZf1tIUaZBTTX?usp=sharing",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "02-Sept-2026",
-          "a": "",
-          "rm": "26/8: Fabric ordered 3 Mtrs"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
         "op": "082624",
         "prod": "Keegan",
         "var": "Karson",
@@ -2530,6 +2530,27 @@
           "c": "",
           "a": "",
           "rm": "1 Chair patta ICA Gold PU.\nColor Code: ICA VMA3010 + SFCA"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "082622",
+        "prod": "Bara",
+        "var": "Lux",
+        "url": "https://i.ibb.co/9NCPZJb/0002.jpg",
+        "cat": "Nightstands",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "sz": "Outer: W22\" x D16\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
+        "des": "Tarishi Rathore",
+        "dl": "04-Jan-2022",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4434,6 +4455,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-08T05:52:22.444Z"
+    "timestamp": "2026-09-08T06:07:21.467Z"
   }
 }
