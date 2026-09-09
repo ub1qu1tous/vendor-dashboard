@@ -2429,27 +2429,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "062616",
-        "prod": "Doyen",
-        "var": "JetBlack",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260703_154903_393094_Screenshot_2026-06-11_171330.png",
-        "cat": "Coffee Tables",
-        "mat": "Structure (A): Oak Veneer (Black)\nStructure (B): Baroda Green Marble (Matt Buffing)",
-        "sz": "Outer: W41\" x D28\" x H10\"",
-        "fld": "https://drive.google.com/drive/folders/1sLJkbNuDdFd8fF2OtvEAACh8QhgYDBJ6",
-        "des": "Dilip Jangir",
-        "dl": "20-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "14-Jul-2026",
-          "a": "",
-          "rm": "1 ply oak veneer box in L shape  and Black matt polish, 1 rectangular box in 12mm ply 1 side open, sizes are 525mm x 881mm x 228mm with any laminate "
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "072603",
         "prod": "Pluckrose",
         "var": "Kos",
@@ -4455,6 +4434,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-09T05:22:23.485Z"
+    "timestamp": "2026-09-09T05:37:26.950Z"
   }
 }
