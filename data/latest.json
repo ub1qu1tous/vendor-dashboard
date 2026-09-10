@@ -1648,27 +1648,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "082624",
-        "prod": "Keegan",
-        "var": "Karson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_162526_339422_pasted_image_1774436121526.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Ash (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W25\" x D25\" x H35\"",
-        "fld": "https://drive.google.com/drive/folders/1wUpT-VMcPsCFjbccMCf6CGWnGI1DyuCy",
-        "des": "Hetvi Shah",
-        "dl": "14-Apr-2026",
-        "q": 12,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "Ready made chairs fabric change"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "092519",
         "prod": "Hylos",
         "var": "Pique",
@@ -2129,27 +2108,6 @@
           "c": "",
           "a": "28-May-2025",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "082624",
-        "prod": "Keegan",
-        "var": "Karson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_162526_339422_pasted_image_1774436121526.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Ash (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W25\" x D25\" x H35\"",
-        "fld": "https://drive.google.com/drive/folders/1wUpT-VMcPsCFjbccMCf6CGWnGI1DyuCy",
-        "des": "Hetvi Shah",
-        "dl": "14-Apr-2026",
-        "q": 12,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": ""
         },
         "vendorDisplayName": "Aavaran"
       },
@@ -3441,7 +3399,7 @@
         "var": "Bahama",
         "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
         "cat": "Coffee Tables",
-        "mat": "Top: White Ash (Harvest)\nBase: Sheesham (Black Matt)",
+        "mat": "Top: White Ash (Natural)\nBase: Sheesham (Black Matt)",
         "sz": "Outer: W48\" x D30\" x H15\"",
         "fld": "https://drive.google.com/drive/folders/1HA5izcPIWFYLWq1cSKEQjg8WHws5CO5S",
         "des": "Vikas Jangir",
@@ -3474,27 +3432,6 @@
           "c": "",
           "a": "",
           "rm": "1 top and base polish work  black distressed"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "082624",
-        "prod": "Keegan",
-        "var": "Karson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_162526_339422_pasted_image_1774436121526.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: White Ash (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W25\" x D25\" x H35\"",
-        "fld": "https://drive.google.com/drive/folders/1wUpT-VMcPsCFjbccMCf6CGWnGI1DyuCy",
-        "des": "Hetvi Shah",
-        "dl": "14-Apr-2026",
-        "q": 12,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "25-Mar-2026",
-          "a": "",
-          "rm": "polish work"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -4434,6 +4371,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-10T09:52:33.062Z"
+    "timestamp": "2026-09-10T10:08:40.190Z"
   }
 }
