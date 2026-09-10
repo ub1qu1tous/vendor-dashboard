@@ -2096,7 +2096,7 @@
         "var": "Oliver",
         "url": "https://galleryplus.sulfur.one/media/public_images/20251124_140355_919087_pasted_image_1763973247085.png",
         "cat": "Dining Chairs",
-        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
         "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
         "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
         "des": "Maulik Parmar",
@@ -4434,6 +4434,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-10T09:37:24.408Z"
+    "timestamp": "2026-09-10T09:52:33.062Z"
   }
 }
