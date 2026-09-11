@@ -341,27 +341,6 @@
       },
       {
         "op": "122522",
-        "prod": "Irithel",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_130106_988718_pasted_image_1787124664398.png",
-        "cat": "Accent Chairs",
-        "mat": "Base: Sheesham (Finish TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1dMAPdC_eXOZwr21M4rJnWnIkF2SsrFs9",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric 5m From Client Each Piece",
-        "v": {
-          "c": "28-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260318_124730_999641_pasted_image_1773818249882.png",
@@ -2732,27 +2711,6 @@
       },
       {
         "op": "122522",
-        "prod": "Irithel",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_130106_988718_pasted_image_1787124664398.png",
-        "cat": "Accent Chairs",
-        "mat": "Base: Sheesham (Finish TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W28.5\" x D25\" x H30.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1dMAPdC_eXOZwr21M4rJnWnIkF2SsrFs9",
-        "des": "Tanmay Shah",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Fabric 5m From Client Each Piece",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "122522",
         "prod": "Umbrella",
         "var": "Insignia",
         "url": "https://i.ibb.co/J2rkrJh/Whats-App-Image-2024-12-28-at-7-13-47-PM-1.jpg",
@@ -3881,6 +3839,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "082622",
+        "prod": "Denver",
+        "var": "Lagom",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_142915_106290_Screenshot_2026-08-26_142840.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Structure (Coffee): Mild Steel (Black Powdercoat (Textured))\nStructure (Accent): Mild Steel (Black Powdercoat (Textured))",
+        "sz": "Coffee: W36\" x D36\" x H16\"\nAccent: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1aKIH3wzjGzhqhqLJ-X_WjeCdqXZvGCcv",
+        "des": "Hetvi Shah",
+        "dl": "11-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "surat_pvd": [
@@ -4384,27 +4363,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Ashok Polish"
-      },
-      {
-        "op": "122522",
-        "prod": "Canopy",
-        "var": "Bliss",
-        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "concrete finish work"
-        },
-        "vendorDisplayName": "Ashok Polish"
       }
     ],
     "smit_enterprise": [
@@ -4428,29 +4386,6 @@
           "rm": "lock 2 pcs"
         },
         "vendorDisplayName": "Smit Enterprise"
-      }
-    ],
-    "rohan_parmar": [
-      {
-        "op": "082622",
-        "prod": "Denver",
-        "var": "Lagom",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_142915_106290_Screenshot_2026-08-26_142840.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Structure (Coffee): Mild Steel (Black Powdercoat (Textured))\nStructure (Accent): Mild Steel (Black Powdercoat (Textured))",
-        "sz": "Coffee: W36\" x D36\" x H16\"\nAccent: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1aKIH3wzjGzhqhqLJ-X_WjeCdqXZvGCcv",
-        "des": "Hetvi Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Rohan Parmar"
       }
     ],
     "lalji_handicrafts": [
@@ -4478,6 +4413,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-11T10:37:31.724Z"
+    "timestamp": "2026-09-11T10:52:52.208Z"
   }
 }
