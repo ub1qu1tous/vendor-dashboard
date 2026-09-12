@@ -4252,6 +4252,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "092520",
+        "prod": "Rosenfeld",
+        "var": "Finch",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Burma Border Teak (Natural)\nLegs: Burma Border Teak (Natural)",
+        "sz": "Outer: W24\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "6 \" clear drawer depth required "
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092601",
         "prod": "Canopy",
         "var": "Adi",
@@ -4363,6 +4384,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Ashok Polish"
+      },
+      {
+        "op": "092520",
+        "prod": "Rosenfeld",
+        "var": "Finch",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250922_164654_572539_pasted_image_1758539819298.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Burma Border Teak (Natural)\nLegs: Burma Border Teak (Natural)",
+        "sz": "Outer: W24\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1grRYpp4hqpZ608VeXSQcn9lGQPHsz9yZ",
+        "des": "Hetvi Shah",
+        "dl": "30-Sept-2025",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "Studio Room Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Ashok Polish"
       }
     ],
     "smit_enterprise": [
@@ -4413,6 +4455,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-12T10:52:24.935Z"
+    "timestamp": "2026-09-12T11:07:24.477Z"
   }
 }
