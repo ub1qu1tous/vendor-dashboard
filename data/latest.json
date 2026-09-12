@@ -1585,6 +1585,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "082618",
+        "prod": "Treena",
+        "var": "Aries",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_105444_492047_Screenshot_2026-08-26_105241.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nSwivel Tray: Mild Steel (Black)",
+        "sz": "Outer: W38\" x D35\" x H28\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1PWE4OqWTAm3DgI82Ucg-jz-tyWb69LAf",
+        "des": "Hetvi Shah",
+        "dl": "08-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "082622",
         "prod": "Darlin",
         "var": "Bogen",
@@ -4455,6 +4476,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-12T12:52:27.280Z"
+    "timestamp": "2026-09-12T13:07:38.330Z"
   }
 }
