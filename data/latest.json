@@ -298,27 +298,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "082616",
-        "prod": "Epidote",
-        "var": "Strata",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260702_165017_769812_square-crop.jpg",
-        "cat": "Beds",
-        "mat": "Structure: White Ash (Suncity)\nHeadboard: Ply & Foam Upholstery (D'Decor ALLURE 22 Grey)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nFrame (Side Table): Stainless Steel 304 Matt (Gold PVD)\nTop: 8mm Glass (Brown Tinted)",
-        "sz": "Outer: W108\" x D83\" x H45\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.25\" x H45\"\nSeat Height: 22\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1ACskoCPhejWx3KqeVqYyecnVvWBbUe1O",
-        "des": "Hetvi Shah",
-        "dl": "09-Jan-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 5.5m per Bed from Client; Integrated Side Tables Removed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Integrated Side Tables Removed; SB Cut out as per Architect"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "082623",
         "prod": "Osaka",
         "var": "Lustre",
@@ -1560,48 +1539,6 @@
           "c": "",
           "a": "",
           "rm": "Fabric Change"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082616",
-        "prod": "Epidote",
-        "var": "Strata",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260702_165017_769812_square-crop.jpg",
-        "cat": "Beds",
-        "mat": "Structure: White Ash (Suncity)\nHeadboard: Ply & Foam Upholstery (D'Decor ALLURE 22 Grey)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nFrame (Side Table): Stainless Steel 304 Matt (Gold PVD)\nTop: 8mm Glass (Brown Tinted)",
-        "sz": "Outer: W108\" x D83\" x H45\"\nMattress: W72\" x D78\" x H8\"\nHeadboard: W108\" x D3.25\" x H45\"\nSeat Height: 22\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1ACskoCPhejWx3KqeVqYyecnVvWBbUe1O",
-        "des": "Hetvi Shah",
-        "dl": "09-Jan-2025",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 5.5m per Bed from Client; Integrated Side Tables Removed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Headboard Work"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "082616",
-        "prod": "Ireni",
-        "var": "Kaula",
-        "url": "https://i.ibb.co/tmCjQN4/0002.jpg",
-        "cat": "Beds",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nLegs: Stainless Steel 304 Matt (Brass Transparent Coat)",
-        "sz": "Outer: W82\" x D88\" x H38\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/15pWeKNMwiqr7TeAAcjqVX2jleLflcj4i",
-        "des": "Tarishi Rathore",
-        "dl": "10-Mar-2022",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -4497,6 +4434,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-14T08:07:25.508Z"
+    "timestamp": "2026-09-14T08:22:23.479Z"
   }
 }
