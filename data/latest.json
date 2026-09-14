@@ -427,27 +427,6 @@
       },
       {
         "op": "082624",
-        "prod": "Broderick",
-        "var": "Zuri",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260718_120104_566540_Screenshot_2026-07-18_115856.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Top: Crystal Quartz (Mirror Buffing)\nBase: Stainless Steel 304 Gloss (Antique Brass)",
-        "sz": "Coffee: W64\" x D32\" x H16\"\nAccent: W50\" x D27\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1GxG4DxnjThYljuVDLTH4uZmVtg1zlU3F",
-        "des": "Akhilesh Yadav",
-        "dl": "04-Jul-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "19-Jul-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "082624",
         "prod": "Swindon",
         "var": "Storr",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260717_182555_416306_Gemini_Generated_Image_maivjwmaivjwmaiv.png",
@@ -4434,6 +4413,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-14T08:52:32.328Z"
+    "timestamp": "2026-09-14T09:07:27.280Z"
   }
 }
