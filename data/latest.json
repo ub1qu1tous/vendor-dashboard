@@ -2345,27 +2345,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "072603",
-        "prod": "Pluckrose",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260717_165802_371344_Screenshot_2026-07-17_165723.png",
-        "cat": "Benches",
-        "mat": "Structure: Oak Veneer (Finish TBC)\nLegs: Oak Veneer (Finish TBC)\nSupport: Oak Veneer (Finish TBC)",
-        "sz": "Outer: W84\" x D18\" x H16\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1XqDnm-q8nAnfgT-nAvWvLJCBHjI0yKs3",
-        "des": "Dilip Jangir",
-        "dl": "17-Jul-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "BENCH MAKING IN VENEER AND PLY , POLISH AS PER SAMPLE GIVEN"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "072609",
         "prod": "Alpert",
         "var": "Elvis",
@@ -4413,6 +4392,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-16T07:52:26.591Z"
+    "timestamp": "2026-09-16T08:07:35.699Z"
   }
 }
