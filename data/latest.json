@@ -3715,6 +3715,27 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
+        "op": "072612",
+        "prod": "Rezan",
+        "var": "Lumia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
+        "cat": "Credenzas",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)",
+        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
+        "fld": "https://drive.google.com/drive/folders/1gtfCsMSTK3zn585aCNTPOZYCRovQEH9O",
+        "des": "Readymade",
+        "dl": "14-Apr-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Buffet Unit",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "metal base"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
         "op": "082601",
         "prod": "Velexia",
         "var": "Stylus",
@@ -4392,6 +4413,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-16T11:37:25.166Z"
+    "timestamp": "2026-09-16T11:52:26.811Z"
   }
 }
