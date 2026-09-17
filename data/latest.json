@@ -256,6 +256,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "072608",
+        "prod": "Nanda",
+        "var": "Wren",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260917_113419_405915_pasted_image_1789625058344.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: White Oak (Black)",
+        "sz": "Outer: W18\" x D18\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1wMafLYxr4MBDk_3h57uJxIq6Q8wPdMfK",
+        "des": "Dilip Jangir",
+        "dl": "17-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "21-Sept-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "082623",
         "prod": "Osaka",
         "var": "Lustre",
@@ -4285,6 +4306,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-17T19:37:38.808Z"
+    "timestamp": "2026-09-17T19:52:32.738Z"
   }
 }
