@@ -1122,6 +1122,27 @@
       },
       {
         "op": "062509",
+        "prod": "Baku",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_132458_360754_pasted_image_1767686114200.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Carbon Velvet SRN VT312)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nHandle: Sheesham (Black Matt)",
+        "sz": "Outer: W26.5\" x D32.5\" x H35\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1A-vtG80XEgNtYnJFXj0QRAIa9O5H36qS",
+        "des": "Dilip Jangir",
+        "dl": "12-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
         "prod": "Deetoo",
         "var": "Justo",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
@@ -4264,6 +4285,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-17T06:22:20.458Z"
+    "timestamp": "2026-09-17T06:37:23.122Z"
   }
 }
