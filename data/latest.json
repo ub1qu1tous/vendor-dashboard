@@ -3457,6 +3457,27 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
+        "op": "082611",
+        "prod": "Armaan",
+        "var": "Neptune",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260915_124449_982522_pasted_image_1789456488089.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Boto Chino (Mirror Buffing)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W36\" x D36\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1IfYr0VQsv5MYWhiMKJSi4uYV9rzQAMew",
+        "des": "Saniya Deshpande",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
         "op": "092601",
         "prod": "Canopy",
         "var": "Adi",
@@ -3472,27 +3493,6 @@
         "cr": "",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "102411",
-        "prod": "Drakonis",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Lassa White (Mirror Buffing)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W39\" x D39\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
-        "des": "Hetvi Shah",
-        "dl": "14-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Coffee Table",
-        "v": {
-          "c": "10-Jun-2025",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4348,6 +4348,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-19T08:22:40.234Z"
+    "timestamp": "2026-09-19T08:37:31.992Z"
   }
 }
