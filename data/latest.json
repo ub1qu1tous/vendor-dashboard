@@ -1016,6 +1016,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "082624",
+        "prod": "Swindon",
+        "var": "Storr",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260717_182555_416306_Gemini_Generated_Image_maivjwmaivjwmaiv.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Acacia (Natural)\nBase: HDHMR (Clear)\nCladding: Brass (Clear Lacquered)",
+        "sz": "Outer: W168\" x D60\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1Zriak5IfA9jpSJVCO6jBdR3o8A4E8_m4",
+        "des": "Akhilesh Yadav",
+        "dl": "28-Jul-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "23-Sept-2026",
+          "a": "",
+          "rm": "Base understructure"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
@@ -4348,6 +4369,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-21T05:37:25.639Z"
+    "timestamp": "2026-09-21T05:52:25.548Z"
   }
 }
