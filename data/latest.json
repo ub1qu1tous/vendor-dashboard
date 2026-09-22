@@ -1569,7 +1569,7 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260909_115114_586783_pasted_image_1788934872910.png",
         "cat": "Nightstands",
-        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (RAL 5008)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
         "sz": "Outer: W22\" x D16\" x H20\"",
         "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
         "des": "Tarishi Rathore",
@@ -1618,6 +1618,27 @@
         "dl": "16-Aug-2025",
         "q": 2,
         "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092616",
+        "prod": "Avocado",
+        "var": "Iris",
+        "url": "https://i.ibb.co/K0D2v0p/v13-square.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: Sheesham (Jacobean)\nMounting: Stainless Steel 304 Matt (Rose Gold PVD)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W11.5\" x D11.5\" x H21.5\"",
+        "fld": "https://drive.google.com/drive/folders/1w5E6r52U90mL51i6RsKOmLJi1wF7ToSN",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
         "cr": "",
         "v": {
           "c": "",
@@ -2497,7 +2518,7 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260909_115114_586783_pasted_image_1788934872910.png",
         "cat": "Nightstands",
-        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (RAL 5008)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
         "sz": "Outer: W22\" x D16\" x H20\"",
         "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
         "des": "Tarishi Rathore",
@@ -3002,6 +3023,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092426",
+        "prod": "Sedona",
+        "var": "Elyss",
+        "url": "https://i.ibb.co/LCw3q2h/AWS0002.jpg",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "Frame: Stainless Steel 304 Matt (Black PVD)\nWeaving: 8mm Rope (Cement Grey)\nTop: Marble TBC (Mirror Buffing)",
+        "sz": "Outer: W30\" x D30\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1Uv5H7E2B9dH0yWcjTD1LvxrwkJCdjdts",
+        "des": "Parth Gada",
+        "dl": "15-Aug-2023",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Sedona Base MS + 6\" than previous 4 pc in Black PC"
         },
         "vendorDisplayName": "Royal Powder Coat"
       }
@@ -3942,6 +3984,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092426",
+        "prod": "Sedona",
+        "var": "Elyss",
+        "url": "https://i.ibb.co/LCw3q2h/AWS0002.jpg",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "Frame: Stainless Steel 304 Matt (Black PVD)\nWeaving: 8mm Rope (Cement Grey)\nTop: Marble TBC (Mirror Buffing)",
+        "sz": "Outer: W30\" x D30\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1Uv5H7E2B9dH0yWcjTD1LvxrwkJCdjdts",
+        "des": "Parth Gada",
+        "dl": "15-Aug-2023",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Sedona Base MS + 6\" than previous 4 pc in Black PC"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "srk_readymade_legs": [
@@ -4173,7 +4236,7 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260909_115114_586783_pasted_image_1788934872910.png",
         "cat": "Nightstands",
-        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (Finish TBC)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
+        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (RAL 5008)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
         "sz": "Outer: W22\" x D16\" x H20\"",
         "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
         "des": "Tarishi Rathore",
@@ -4390,6 +4453,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-22T10:37:33.190Z"
+    "timestamp": "2026-09-22T10:52:29.801Z"
   }
 }
