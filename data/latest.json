@@ -36,7 +36,7 @@
         "des": "Shivani Oza",
         "dl": "02-Jan-2010",
         "q": 1,
-        "pm": "",
+        "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -122,7 +122,7 @@
         "des": "Shivani Oza",
         "dl": "02-Jan-2010",
         "q": 1,
-        "pm": "",
+        "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
@@ -2429,6 +2429,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092608",
+        "prod": "Peru",
+        "var": "Vancouver",
+        "url": "https://i.ibb.co/XyN6LtW/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: 18mm MDF (Stylam TouchMe Chamoise Brown 8204 AFP)\nBase: Mild Steel (Black Powder Coat)\nSupport: 18mm MDF (Black Matt Duco)",
+        "sz": "Outer: W11.5\" x D11.5\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1waIYFSGJY7forFu6ZEnvZCaUxchncEsT",
+        "des": "",
+        "dl": "01-Jan-2010",
+        "q": 2,
+        "pm": "Gagandeep Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Top PU"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082413",
         "prod": "Dragonheart",
         "var": "Neymar",
@@ -2834,6 +2855,27 @@
           "c": "",
           "a": "",
           "rm": "black powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092608",
+        "prod": "Peru",
+        "var": "Vancouver",
+        "url": "https://i.ibb.co/XyN6LtW/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: 18mm MDF (Stylam TouchMe Chamoise Brown 8204 AFP)\nBase: Mild Steel (Black Powder Coat)\nSupport: 18mm MDF (Black Matt Duco)",
+        "sz": "Outer: W11.5\" x D11.5\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1waIYFSGJY7forFu6ZEnvZCaUxchncEsT",
+        "des": "",
+        "dl": "01-Jan-2010",
+        "q": 2,
+        "pm": "Gagandeep Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Base"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -4306,6 +4348,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-22T06:07:28.107Z"
+    "timestamp": "2026-09-22T06:22:21.860Z"
   }
 }
