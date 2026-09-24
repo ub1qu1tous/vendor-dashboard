@@ -3686,7 +3686,7 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "072609",
+        "op": "092606",
         "prod": "Dunes",
         "var": "Ibis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260210_122013_453033_pasted_image_1770706242619.png",
@@ -3697,7 +3697,7 @@
         "des": "Dilip Jangir",
         "dl": "22-Apr-2025",
         "q": 2,
-        "pm": "Maulik Parmar",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -4166,7 +4166,7 @@
     ],
     "rajeshbhai_sculpture": [
       {
-        "op": "072609",
+        "op": "092606",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -4177,7 +4177,7 @@
         "des": "Hetvi Shah",
         "dl": "03-Aug-2026",
         "q": 1,
-        "pm": "Maulik Parmar",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -4189,7 +4189,7 @@
     ],
     "vittal_wood_tech": [
       {
-        "op": "072609",
+        "op": "092606",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -4200,7 +4200,7 @@
         "des": "Hetvi Shah",
         "dl": "03-Aug-2026",
         "q": 1,
-        "pm": "Maulik Parmar",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -4432,6 +4432,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-24T13:07:28.916Z"
+    "timestamp": "2026-09-24T13:22:47.317Z"
   }
 }
