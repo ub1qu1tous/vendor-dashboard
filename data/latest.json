@@ -235,6 +235,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "062612",
+        "prod": "Aykermann",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
+        "cat": "Accessories",
+        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
+        "sz": "Outer: W14\" x D14\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
+        "des": "Dilip Jangir",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "white oak natural parts, 2 balls with 6mm dnut fixed in side and 2 other part "
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "072608",
         "prod": "Nanda",
         "var": "Wren",
@@ -3902,27 +3923,6 @@
         "vendorDisplayName": "Surat PVD"
       },
       {
-        "op": "062612",
-        "prod": "Aykermann",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
-        "cat": "Accessories",
-        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
-        "sz": "Outer: W14\" x D14\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "gold pvd matt"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
         "op": "072610",
         "prod": "Susan",
         "var": "Redcedar",
@@ -4432,6 +4432,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-24T09:52:23.637Z"
+    "timestamp": "2026-09-24T10:07:26.331Z"
   }
 }
