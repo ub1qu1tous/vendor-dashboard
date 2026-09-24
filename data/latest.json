@@ -2134,6 +2134,27 @@
       },
       {
         "op": "062509",
+        "prod": "Friston",
+        "var": "Jet",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260207_112642_155497_pasted_image_1770443824672.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer: Laminate (Finish TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22.5\" x D18\" x H22\"",
+        "fld": "https://drive.google.com/drive/folders/1i9CKQRk-5Bxc7RIVJ-i2ZmEMTcNFrZaJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Nightstand",
+        "v": {
+          "c": "30-Sept-2026",
+          "a": "",
+          "rm": "4 handle"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
         "prod": "Leeson",
         "var": "Voila",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
@@ -4432,6 +4453,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-24T13:37:25.074Z"
+    "timestamp": "2026-09-24T13:52:28.314Z"
   }
 }
