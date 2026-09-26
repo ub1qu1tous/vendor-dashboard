@@ -1056,27 +1056,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "082622",
-        "prod": "Bara",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260909_115114_586783_pasted_image_1788934872910.png",
-        "cat": "Nightstands",
-        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (RAL 5008)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W22\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
-        "des": "Tarishi Rathore",
-        "dl": "04-Jan-2022",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Knobs ready with (Dilipbhai)"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "092522",
         "prod": "Poseidon",
         "var": "Lacie",
@@ -2861,28 +2840,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082622",
-        "prod": "Denver",
-        "var": "Lagom",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_142915_106290_Screenshot_2026-08-26_142840.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Structure (Coffee): Mild Steel (Black Powdercoat (Textured))\nStructure (Accent): Mild Steel (Black Powdercoat (Textured))",
-        "sz": "Coffee: W36\" x D36\" x H16\"\nAccent: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1aKIH3wzjGzhqhqLJ-X_WjeCdqXZvGCcv",
-        "des": "Hetvi Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
+          "c": "19-Sept-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4122,7 +4080,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -4143,7 +4101,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "black matt texture "
         },
         "vendorDisplayName": "Royal Powder Coat"
       },
@@ -4838,92 +4796,6 @@
         "vendorDisplayName": "Rajeshbhai Sculpture"
       }
     ],
-    "vittal_wood_tech": [
-      {
-        "op": "092606",
-        "prod": "Arnett",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
-        "sz": "Outer: W19.5\" x D17\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
-        "des": "Hetvi Shah",
-        "dl": "03-Aug-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Need Sheesham wood logs only\n1. 15x15x3 Inches: 1 pc\n2. 5.5x5.5x9.5: 5 pc\n3. 12.5x12.5x4.5: 1 pc\n(Number 1 and 3 if not possible in single pc, then it can be made by joining planks)"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082622",
-        "prod": "Bara",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260909_115114_586783_pasted_image_1788934872910.png",
-        "cat": "Nightstands",
-        "mat": "Structure: HDHMR (RAL 5008)\nBase: White Ash (RAL 5008)\nKnobs: Aluminium (Antique Brass)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)",
-        "sz": "Outer: W22\" x D16\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1ONw4JrO7Egb1dVH78orTlA6l1Yl-QdJi",
-        "des": "Tarishi Rathore",
-        "dl": "04-Jan-2022",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "18-Sept-2026",
-          "a": "",
-          "rm": "Base"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "082622",
-        "prod": "Carnival",
-        "var": "Justo",
-        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
-        "cat": "Credenzas",
-        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
-        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
-        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092601",
-        "prod": "Canopy",
-        "var": "Adi",
-        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      }
-    ],
     "nishant_cnc": [
       {
         "op": "082601",
@@ -5038,9 +4910,32 @@
         },
         "vendorDisplayName": "Lalji Handicrafts"
       }
+    ],
+    "vittal_wood_tech": [
+      {
+        "op": "092601",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-26T08:37:22.950Z"
+    "timestamp": "2026-09-26T08:52:35.189Z"
   }
 }
