@@ -1919,6 +1919,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "122217",
+        "prod": "Nimbus",
+        "var": "Oliver",
+        "url": "https://i.ibb.co/0CwD3Nr/Screenshot-2024-09-13-151143.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Hera Sh No.114)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W29\" x D31\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1fsTmnyqpHIbZ2k3RBH2PfAyt57DjT572",
+        "des": "Hetvi Shah",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "MD Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Structure seat height: 6.5\"\nMake based on farma\nOther images are there to make structure"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "122522",
         "prod": "Irithel",
         "var": "Justo",
@@ -4936,6 +4957,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-26T10:37:25.770Z"
+    "timestamp": "2026-09-26T10:52:27.727Z"
   }
 }
