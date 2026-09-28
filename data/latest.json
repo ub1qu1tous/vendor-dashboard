@@ -783,6 +783,69 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092604",
+        "prod": "Holland",
+        "var": "Quanta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_135807_953357_pasted_image_1790065686128.png",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Natural)\nBase: White Oak (Natural)",
+        "sz": "Outer: W15.75\" x D15.75\" x H19.7\"",
+        "fld": "https://drive.google.com/drive/folders/1LlwMUsz5h3koRcHha5Ed8alPLOE1acQu",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jul-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "05-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092604",
+        "prod": "Hylos",
+        "var": "Oliver",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142924_273196_dark_chair_pure_white_background_final.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 5,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "05-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092604",
+        "prod": "Xylogen",
+        "var": "Java",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_135920_128825_accent_table_white_background.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: White Oak (Natural)",
+        "sz": "Outer: W16\" x D18\" x H23.5\"",
+        "fld": "https://drive.google.com/drive/folders/1sBMpqbgwhWBl2g5OgrEcLbqiM5E-O_h5",
+        "des": "Tarishi Rathore",
+        "dl": "14-Apr-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "05-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
@@ -2124,7 +2187,7 @@
         "pm": "Maulik Parmar",
         "cr": "Fabric Change",
         "v": {
-          "c": "",
+          "c": "05-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4636,6 +4699,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-28T07:37:29.124Z"
+    "timestamp": "2026-09-28T07:52:32.262Z"
   }
 }
