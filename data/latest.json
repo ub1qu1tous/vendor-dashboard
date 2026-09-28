@@ -1426,7 +1426,7 @@
         "des": "Lavanya Nagpal",
         "dl": "02-Jan-2010",
         "q": 1,
-        "pm": "",
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -2194,6 +2194,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092604",
+        "prod": "Treena",
+        "var": "Aries",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142610_360230_chair_pure_white_background_final.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nSwivel Tray: Mild Steel (Black)",
+        "sz": "Outer: W38\" x D35\" x H28\"\nSeat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1PWE4OqWTAm3DgI82Ucg-jz-tyWb69LAf",
+        "des": "Hetvi Shah",
+        "dl": "08-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092612",
         "prod": "Helio",
         "var": "Oceania",
@@ -2860,6 +2881,27 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Studio Room Panel",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092604",
+        "prod": "Treena",
+        "var": "Aries",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142610_360230_chair_pure_white_background_final.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nSwivel Tray: Mild Steel (Black)",
+        "sz": "Outer: W38\" x D35\" x H28\"\nSeat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1PWE4OqWTAm3DgI82Ucg-jz-tyWb69LAf",
+        "des": "Hetvi Shah",
+        "dl": "08-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -4699,6 +4741,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-28T09:22:28.591Z"
+    "timestamp": "2026-09-28T09:37:29.499Z"
   }
 }
