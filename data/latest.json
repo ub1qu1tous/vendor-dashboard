@@ -273,6 +273,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092608",
+        "prod": "Peru",
+        "var": "Vancouver",
+        "url": "https://i.ibb.co/XyN6LtW/0001.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: 18mm MDF (Stylam TouchMe Chamoise Brown 8204 AFP)\nBase: Mild Steel (Black Powder Coat)\nSupport: 18mm MDF (Black Matt Duco)",
+        "sz": "Outer: W11.5\" x D11.5\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1waIYFSGJY7forFu6ZEnvZCaUxchncEsT",
+        "des": "",
+        "dl": "01-Jan-2010",
+        "q": 2,
+        "pm": "Gagandeep Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "buffers 8 pcs"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "divine": [
@@ -3378,27 +3399,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "092608",
-        "prod": "Peru",
-        "var": "Vancouver",
-        "url": "https://i.ibb.co/XyN6LtW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: 18mm MDF (Stylam TouchMe Chamoise Brown 8204 AFP)\nBase: Mild Steel (Black Powder Coat)\nSupport: 18mm MDF (Black Matt Duco)",
-        "sz": "Outer: W11.5\" x D11.5\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1waIYFSGJY7forFu6ZEnvZCaUxchncEsT",
-        "des": "",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Gagandeep Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Top PU"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "122523",
         "prod": "Glick",
         "var": "Wren",
@@ -4494,27 +4494,6 @@
           "rm": "Sedona Base MS + 6\" than previous 4 pc in Black PC"
         },
         "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "092608",
-        "prod": "Peru",
-        "var": "Vancouver",
-        "url": "https://i.ibb.co/XyN6LtW/0001.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: 18mm MDF (Stylam TouchMe Chamoise Brown 8204 AFP)\nBase: Mild Steel (Black Powder Coat)\nSupport: 18mm MDF (Black Matt Duco)",
-        "sz": "Outer: W11.5\" x D11.5\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1waIYFSGJY7forFu6ZEnvZCaUxchncEsT",
-        "des": "",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Gagandeep Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Base"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "concrete_shop": [
@@ -4657,6 +4636,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-28T06:52:24.952Z"
+    "timestamp": "2026-09-28T07:07:35.704Z"
   }
 }
