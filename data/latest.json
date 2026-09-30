@@ -4776,27 +4776,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "082622",
-        "prod": "Denver",
-        "var": "Lagom",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_142915_106290_Screenshot_2026-08-26_142840.png",
-        "cat": "Coffee Table Sets",
-        "mat": "Structure (Coffee): Mild Steel (Black Powdercoat (Textured))\nStructure (Accent): Mild Steel (Black Powdercoat (Textured))",
-        "sz": "Coffee: W36\" x D36\" x H16\"\nAccent: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1aKIH3wzjGzhqhqLJ-X_WjeCdqXZvGCcv",
-        "des": "Hetvi Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black matt texture "
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "092416",
         "prod": "Decker",
         "var": "Yoku",
@@ -4963,27 +4942,6 @@
           "c": "",
           "a": "",
           "rm": ""
-        },
-        "vendorDisplayName": "Kamlesh Jangid"
-      },
-      {
-        "op": "072608",
-        "prod": "Zakk",
-        "var": "Valencia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_145900_682908_pasted_image_1785230938983.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nSupport: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W32\" x D34\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1ZqE5kF2ra9dYJVFscFTN4bm6GQ7eS7Ib",
-        "des": "Dilip Jangir",
-        "dl": "02-Aug-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "fitting"
         },
         "vendorDisplayName": "Kamlesh Jangid"
       }
@@ -5374,27 +5332,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "082622",
-        "prod": "Carnival",
-        "var": "Justo",
-        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
-        "cat": "Credenzas",
-        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
-        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
-        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "harvest polish and 20mm x 50mm x 2 feet long sheesham wood without polish plank for handle work"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "092601",
         "prod": "Canopy",
         "var": "Adi",
@@ -5479,6 +5416,27 @@
           "c": "08-Aug-2025",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      },
+      {
+        "op": "082622",
+        "prod": "Carnival",
+        "var": "Justo",
+        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
+        "cat": "Credenzas",
+        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
+        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
+        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black tinted glass 12mm beveled"
         },
         "vendorDisplayName": "Vishwakarma Glass"
       }
@@ -5623,6 +5581,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-30T13:52:39.629Z"
+    "timestamp": "2026-09-30T14:07:27.640Z"
   }
 }
