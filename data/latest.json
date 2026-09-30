@@ -1580,22 +1580,64 @@
       },
       {
         "op": "082611",
-        "prod": "Alfonso",
-        "var": "Cormora",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195223_167771_WhatsApp_Image_2026-04-14_at_19_51_35.jpeg",
-        "cat": "Sectional Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nLegs: Stainless Steel 304 Matt (Gold PVD)\n4 Medium Rectangular Kidney Pillows: Recron Filling (Rasaya Mehraan_T-1927 No 20)\n5 Medium Square Kidney Pillows: Recron Filling (Rasaya Mehraan_T-1927 No 20)",
-        "sz": "Outer: W141\" x D89\" x H29\"\nLeft Arm Chaise: W37\" x D89\" x H29\"\nRight Arm End Section: W104\" x D37\" x H29\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1tokiAhYp64jnRz1892rQURNwnz7PoCZa",
+        "prod": "Impala",
+        "var": "Ginger",
+        "url": "https://i.ibb.co/0ZGYWcN/0001.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Jacobean)\nSeat: Ply & Foam Upholstery (AZCO EDEN 40)",
+        "sz": "Outer: W28\" x D26\" x H25\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1n8ExxlaOjXuKXLFQyxJeSRqs_onE-qsW",
+        "des": "Atharva Kelkar",
+        "dl": "19-Aug-2020",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "FABRIC CHANGE"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082611",
+        "prod": "Oasis",
+        "var": "Dostar",
+        "url": "https://i.ibb.co/VMtBPyz/Dostar-3-2.jpg",
+        "cat": "Dining Chairs",
+        "mat": "Base: Sheesham (Peca)\nStructure: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20.5\" x D22\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/15n_rQaTdnh83K-vECABfUYEQtOwehVrR",
         "des": "Shivani Oza",
-        "dl": "24-Nov-2020",
+        "dl": "06-Oct-2019",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "PLY STRUCTURE WAS GIVEN, FOAM AND FABRIC WORK"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "082611",
+        "prod": "Ronin",
+        "var": "Beyaz",
+        "url": "https://i.ibb.co/gvzrCYf/0002-11.jpg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Benette Blush 109929_T-1641)\nLegs: Stainless Steel 304 Matt (Gold PVD)\n2 Medium Rectangular Kidney Pillows: Recron Filling (Benette Blush 109929_T-1641)",
+        "sz": "Outer: W82\" x D36\" x H30\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1F3hR0ccsF5EkVhxhRqgGnwRlvHtX0gvd",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "FABRIC CHANGE"
         },
         "vendorDisplayName": "Aidan Dudy"
       },
@@ -2965,6 +3007,69 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Reception Sofa - fabric change required, 9m",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "082611",
+        "prod": "Aruba",
+        "var": "Sylvie",
+        "url": "https://i.ibb.co/f0yHG4L/0002.jpg",
+        "cat": "Bar & Counter Stools",
+        "mat": "Structure: Sheesham (Jacobean)",
+        "sz": "Outer: W15.75\" x D17.75\" x H30\"\nSeat Height: 25.5\"",
+        "fld": "https://drive.google.com/drive/folders/1dEndhuwGDfLJzb5j-zXBz__3Dv0_wHJg",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "082611",
+        "prod": "Ethera",
+        "var": "Carat",
+        "url": "https://i.ibb.co/f2jLqJy/0001.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nLegs: Sheesham (Black Distressed/Charcoal)",
+        "sz": "Outer: W42\" x D42\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1-BEp1Thb7aPFA9utoH3cVx4JxIB8BQC9",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "082611",
+        "prod": "Impala",
+        "var": "Ginger",
+        "url": "https://i.ibb.co/0ZGYWcN/0001.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Jacobean)\nSeat: Ply & Foam Upholstery (AZCO EDEN 40)",
+        "sz": "Outer: W28\" x D26\" x H25\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1n8ExxlaOjXuKXLFQyxJeSRqs_onE-qsW",
+        "des": "Atharva Kelkar",
+        "dl": "19-Aug-2020",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -5539,6 +5644,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-30T11:07:25.856Z"
+    "timestamp": "2026-09-30T11:22:26.102Z"
   }
 }
