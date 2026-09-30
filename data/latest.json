@@ -3985,27 +3985,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "072608",
-        "prod": "Zendaya",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_171015_420433_Screenshot_2026-07-28_162604.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W24\" x D24\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1Jh2CdsBESf4soNdlBCVJalb-Kwfzz53G",
-        "des": "Dilip Jangir",
-        "dl": "01-Aug-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
         "op": "082412",
         "prod": "Luxient",
         "var": "Kos",
@@ -5644,6 +5623,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-09-30T13:37:44.195Z"
+    "timestamp": "2026-09-30T13:52:39.629Z"
   }
 }
