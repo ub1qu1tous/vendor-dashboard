@@ -297,6 +297,27 @@
       },
       {
         "op": "022622",
+        "prod": "Parton",
+        "var": "Zuri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141447_936312_Screenshot_2026-08-26_141411.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W51\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/16PVApS8MUqmlAfi8QGQIlmu3Ifj_Cj6r",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "022622",
         "prod": "Richy",
         "var": "Venus",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_140549_541663_Screenshot_2026-08-26_140522.png",
@@ -1109,6 +1130,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
+        "prod": "Parton",
+        "var": "Zuri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141447_936312_Screenshot_2026-08-26_141411.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W51\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/16PVApS8MUqmlAfi8QGQIlmu3Ifj_Cj6r",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -2014,6 +2056,48 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022622",
+        "prod": "Moritz",
+        "var": "Marbella",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135022_537877_Screenshot_2026-08-26_133846.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSupport: 12mm MDF (White Matt Duco)",
+        "sz": "Outer: W63.5\" x D38\" x H18\"\nOval Accent: W20.5\" x D12\" x H12\"\nRound Accent: W20\" x D\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/12u54yK2Ps3vYVEHURg-QY3MsS4SEjXg7",
+        "des": "Tanmay Shah",
+        "dl": "19-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022622",
+        "prod": "Parton",
+        "var": "Zuri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141447_936312_Screenshot_2026-08-26_141411.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W51\" x D18\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/16PVApS8MUqmlAfi8QGQIlmu3Ifj_Cj6r",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3985,6 +4069,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "022622",
+        "prod": "Moritz",
+        "var": "Marbella",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135022_537877_Screenshot_2026-08-26_133846.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSupport: 12mm MDF (White Matt Duco)",
+        "sz": "Outer: W63.5\" x D38\" x H18\"\nOval Accent: W20.5\" x D12\" x H12\"\nRound Accent: W20\" x D\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/12u54yK2Ps3vYVEHURg-QY3MsS4SEjXg7",
+        "des": "Tanmay Shah",
+        "dl": "19-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "032607",
         "prod": "Rezan",
         "var": "Jade",
@@ -4548,6 +4653,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "022622",
+        "prod": "Moritz",
+        "var": "Marbella",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135022_537877_Screenshot_2026-08-26_133846.png",
+        "cat": "Coffee Table Sets",
+        "mat": "Top: Banswada White (Mirror Buffing)\nLegs: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSupport: 12mm MDF (White Matt Duco)",
+        "sz": "Outer: W63.5\" x D38\" x H18\"\nOval Accent: W20.5\" x D12\" x H12\"\nRound Accent: W20\" x D\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/12u54yK2Ps3vYVEHURg-QY3MsS4SEjXg7",
+        "des": "Tanmay Shah",
+        "dl": "19-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -5644,6 +5770,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-01T09:37:22.111Z"
+    "timestamp": "2026-10-01T09:52:27.933Z"
   }
 }
