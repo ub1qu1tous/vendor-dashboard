@@ -1981,6 +1981,27 @@
       },
       {
         "op": "022622",
+        "prod": "Cardena",
+        "var": "Urban",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135441_771872_Screenshot_2026-08-26_121422.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W24\" x D16\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1qNZCGLudmoGXfiq29DSh7GQluel8aw2v",
+        "des": "Tanmay Shah",
+        "dl": "27-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022622",
         "prod": "Columbia",
         "var": "Vanessa",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141520_574271_pasted_image_1787733918495.png",
@@ -3899,221 +3920,28 @@
         "vendorDisplayName": "Krishna Furnitech"
       }
     ],
-    "manish_marble_jaipur": [
-      {
-        "op": "022622",
-        "prod": "Chao",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103627_225032_pasted_image_1787634385990.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H23\"",
-        "fld": "https://drive.google.com/drive/folders/1l-FmAdGg_YDe3e-q8yyYjGf8bOEtcsuU",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "022622",
-        "prod": "Chao",
-        "var": "Zany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103455_753102_pasted_image_1787634294119.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W21\" x D21\" x H23\"",
-        "fld": "https://drive.google.com/drive/folders/1ezKK3LeNq8V14VpLXAG3DRU6z8ex1uvT",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "022622",
-        "prod": "Columbia",
-        "var": "Vanessa",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141520_574271_pasted_image_1787733918495.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSwivel Tray: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W63\" x D63\" x H30\"\nSwivel Tray: W28\" x D28\" x H0.75\"",
-        "fld": "https://drive.google.com/drive/folders/1oGMRhZLa1jR53SXEFYeiEQ7IfXyY2xkJ",
-        "des": "Tanmay Shah",
-        "dl": "15-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "062509",
-        "prod": "Dupont",
-        "var": "Fedora",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Black Panda Marble (Mirror Buffing)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1jDfN6xOLFcTe0sHJ9lPOGZLIIFpFIdVt",
-        "des": "Jahanvi Bhavsar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Accent Table",
-        "v": {
-          "c": "05-Mar-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "062509",
-        "prod": "Sovella",
-        "var": "Swoon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Black Panda Marble (Finish TBC)",
-        "sz": "Outer: W15.5\" x D12\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
-        "des": "Tanmay Shah",
-        "dl": "15-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082412",
-        "prod": "Luxient",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
-        "cat": "Credenzas",
-        "mat": "Top: Sheesham (Jacobean)\nCarcass: Sheesham (Jacobean)\nShutter Frame: Sheesham (Jacobean)\nShutter Panel: Pre-woven Rattan (Clear)\nLegs: Sheesham (Jacobean)",
-        "sz": "Outer: W72\" x D16\" x H32\"",
-        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
-        "des": "Parthsarthi Suthar",
-        "dl": "04-Oct-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "082611",
-        "prod": "Armaan",
-        "var": "Neptune",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_144741_225336_coffee_table_dark_wood_base_mirror_marble_top.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Boto Chino (Mirror Buffing)\nBase: Sheesham (Peca)",
-        "sz": "Outer: W36\" x D36\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1IfYr0VQsv5MYWhiMKJSi4uYV9rzQAMew",
-        "des": "Saniya Deshpande",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
-        "op": "092601",
-        "prod": "Canopy",
-        "var": "Adi",
-        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      }
-    ],
-    "aarti_steel": [
-      {
-        "op": "022622",
-        "prod": "Columbia",
-        "var": "Vanessa",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141520_574271_pasted_image_1787733918495.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSwivel Tray: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W63\" x D63\" x H30\"\nSwivel Tray: W28\" x D28\" x H0.75\"",
-        "fld": "https://drive.google.com/drive/folders/1oGMRhZLa1jR53SXEFYeiEQ7IfXyY2xkJ",
-        "des": "Tanmay Shah",
-        "dl": "15-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "062612",
-        "prod": "Aykermann",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
-        "cat": "Accessories",
-        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
-        "sz": "Outer: W14\" x D14\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "laser-cut plate"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      }
-    ],
     "vipra": [
+      {
+        "op": "022622",
+        "prod": "Cardena",
+        "var": "Urban",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135441_771872_Screenshot_2026-08-26_121422.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W24\" x D16\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1qNZCGLudmoGXfiq29DSh7GQluel8aw2v",
+        "des": "Tanmay Shah",
+        "dl": "27-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
       {
         "op": "022622",
         "prod": "Columbia",
@@ -4472,6 +4300,411 @@
         "vendorDisplayName": "Vipra"
       }
     ],
+    "royal_powder_coat": [
+      {
+        "op": "022622",
+        "prod": "Cardena",
+        "var": "Urban",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135441_771872_Screenshot_2026-08-26_121422.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (Finish TBC)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W24\" x D16\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1qNZCGLudmoGXfiq29DSh7GQluel8aw2v",
+        "des": "Tanmay Shah",
+        "dl": "27-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "022622",
+        "prod": "Vitez",
+        "var": "Valentina",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134835_594858_Screenshot_2026-08-26_134529.png",
+        "cat": "Ottomans",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Leatherette (Fabric TBC)",
+        "sz": "Outer: W21\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1jfd9uJ2RN0f2hINeXYy9ja4V75nJ9oq_",
+        "des": "Shrutika Joshi",
+        "dl": "15-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062509",
+        "prod": "Till",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
+        "cat": "Swings",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
+        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
+        "des": "Dilip Jangir",
+        "dl": "19-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Swing",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062612",
+        "prod": "Aykermann",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
+        "cat": "Accessories",
+        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
+        "sz": "Outer: W14\" x D14\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
+        "des": "Dilip Jangir",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black matt powdercoat"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "062612",
+        "prod": "Sherbeck",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_143949_185931_Screenshot_2026-09-22_130453.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (RAL/NCS Gloss Polyurethane (PU))\nDrawer Fascia: HDHMR (RAL/NCS Gloss Polyurethane (PU))\nHandle: Mild Steel (Black Powder Coat)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W22\" x D18\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1JCd1xsnfgheixMt2LRW2Aq5qM-BTGRLq",
+        "des": "Dilip Jangir",
+        "dl": "22-Sept-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "082608",
+        "prod": "Panache",
+        "var": "Savio",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_103520_982940_pasted_image_1770613543604.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Jackpot Colour: M500)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W60\" x D34\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1umVN_UPxdyj0qLYdoAMjdHx8n8BUkE8l?usp=sharing",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Reception Sofa - fabric change required, 9m",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "legs re coating"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "082622",
+        "prod": "Darlin",
+        "var": "Bogen",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_143611_039174_pasted_image_1787735169099.png",
+        "cat": "Daybeds",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nArmrest: Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W77\" x D38\" x H26.5\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1-6cSkU5pzEy5ucgKDeIj1Ur9DDV_wSd_",
+        "des": "Tanmay Shah",
+        "dl": "11-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black matt"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092416",
+        "prod": "Decker",
+        "var": "Yoku",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_110155_077955_jpeg-optimizer_patterned_lounge_utility_2.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Pure Adali Pebble 110920)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W37\" x D33\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
+        "des": "Maulik Parmar",
+        "dl": "04-Dec-2022",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "092426",
+        "prod": "Sedona",
+        "var": "Elyss",
+        "url": "https://i.ibb.co/LCw3q2h/AWS0002.jpg",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "Frame: Stainless Steel 304 Matt (Black PVD)\nWeaving: 8mm Rope (Cement Grey)\nTop: Marble TBC (Mirror Buffing)",
+        "sz": "Outer: W30\" x D30\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1Uv5H7E2B9dH0yWcjTD1LvxrwkJCdjdts",
+        "des": "Parth Gada",
+        "dl": "15-Aug-2023",
+        "q": 2,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Sedona Base MS + 6\" than previous 4 pc in Black PC"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      }
+    ],
+    "manish_marble_jaipur": [
+      {
+        "op": "022622",
+        "prod": "Chao",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103627_225032_pasted_image_1787634385990.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W18\" x D18\" x H23\"",
+        "fld": "https://drive.google.com/drive/folders/1l-FmAdGg_YDe3e-q8yyYjGf8bOEtcsuU",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "022622",
+        "prod": "Chao",
+        "var": "Zany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103455_753102_pasted_image_1787634294119.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W21\" x D21\" x H23\"",
+        "fld": "https://drive.google.com/drive/folders/1ezKK3LeNq8V14VpLXAG3DRU6z8ex1uvT",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "022622",
+        "prod": "Columbia",
+        "var": "Vanessa",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141520_574271_pasted_image_1787733918495.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSwivel Tray: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W63\" x D63\" x H30\"\nSwivel Tray: W28\" x D28\" x H0.75\"",
+        "fld": "https://drive.google.com/drive/folders/1oGMRhZLa1jR53SXEFYeiEQ7IfXyY2xkJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "062509",
+        "prod": "Dupont",
+        "var": "Fedora",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251218_145348_823908_pasted_image_1766049843313.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Black Panda Marble (Mirror Buffing)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H24\"",
+        "fld": "https://drive.google.com/drive/folders/1jDfN6xOLFcTe0sHJ9lPOGZLIIFpFIdVt",
+        "des": "Jahanvi Bhavsar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Accent Table",
+        "v": {
+          "c": "05-Mar-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "062509",
+        "prod": "Sovella",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_121830_395353_pasted_image_1772088536322.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: Laminate (SCS RZ 5129 RS)\nMounting: Black Panda Marble (Finish TBC)",
+        "sz": "Outer: W15.5\" x D12\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1TlsLm5v_JXRHzO9wICwYPtosYtFi8-it",
+        "des": "Tanmay Shah",
+        "dl": "15-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082412",
+        "prod": "Luxient",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_152106_937472_pasted_image_1758880272170.png",
+        "cat": "Credenzas",
+        "mat": "Top: Sheesham (Jacobean)\nCarcass: Sheesham (Jacobean)\nShutter Frame: Sheesham (Jacobean)\nShutter Panel: Pre-woven Rattan (Clear)\nLegs: Sheesham (Jacobean)",
+        "sz": "Outer: W72\" x D16\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1yTY9jC0wAPsiWaVeBTPpicc934lHzMqs",
+        "des": "Parthsarthi Suthar",
+        "dl": "04-Oct-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "082611",
+        "prod": "Armaan",
+        "var": "Neptune",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_144741_225336_coffee_table_dark_wood_base_mirror_marble_top.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Boto Chino (Mirror Buffing)\nBase: Sheesham (Peca)",
+        "sz": "Outer: W36\" x D36\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1IfYr0VQsv5MYWhiMKJSi4uYV9rzQAMew",
+        "des": "Saniya Deshpande",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "092601",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      }
+    ],
+    "aarti_steel": [
+      {
+        "op": "022622",
+        "prod": "Columbia",
+        "var": "Vanessa",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141520_574271_pasted_image_1787733918495.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nBase: Mild Steel (ICA VMA 3010 Creativa Antique Satin Metal)\nSwivel Tray: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W63\" x D63\" x H30\"\nSwivel Tray: W28\" x D28\" x H0.75\"",
+        "fld": "https://drive.google.com/drive/folders/1oGMRhZLa1jR53SXEFYeiEQ7IfXyY2xkJ",
+        "des": "Tanmay Shah",
+        "dl": "15-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      },
+      {
+        "op": "062612",
+        "prod": "Aykermann",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
+        "cat": "Accessories",
+        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
+        "sz": "Outer: W14\" x D14\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
+        "des": "Dilip Jangir",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "laser-cut plate"
+        },
+        "vendorDisplayName": "Aarti Steel"
+      }
+    ],
     "clientfabric": [
       {
         "op": "022622",
@@ -4646,176 +4879,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Shital Glass"
-      }
-    ],
-    "royal_powder_coat": [
-      {
-        "op": "022622",
-        "prod": "Vitez",
-        "var": "Valentina",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134835_594858_Screenshot_2026-08-26_134529.png",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Leatherette (Fabric TBC)",
-        "sz": "Outer: W21\" x D15\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1jfd9uJ2RN0f2hINeXYy9ja4V75nJ9oq_",
-        "des": "Shrutika Joshi",
-        "dl": "15-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062509",
-        "prod": "Till",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
-        "cat": "Swings",
-        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
-        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
-        "des": "Dilip Jangir",
-        "dl": "19-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Swing",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062612",
-        "prod": "Aykermann",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
-        "cat": "Accessories",
-        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
-        "sz": "Outer: W14\" x D14\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black matt powdercoat"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "062612",
-        "prod": "Sherbeck",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_143949_185931_Screenshot_2026-09-22_130453.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (RAL/NCS Gloss Polyurethane (PU))\nDrawer Fascia: HDHMR (RAL/NCS Gloss Polyurethane (PU))\nHandle: Mild Steel (Black Powder Coat)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W22\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1JCd1xsnfgheixMt2LRW2Aq5qM-BTGRLq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "082608",
-        "prod": "Panache",
-        "var": "Savio",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260209_103520_982940_pasted_image_1770613543604.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Jackpot Colour: M500)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W60\" x D34\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1umVN_UPxdyj0qLYdoAMjdHx8n8BUkE8l?usp=sharing",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Reception Sofa - fabric change required, 9m",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "legs re coating"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "082622",
-        "prod": "Darlin",
-        "var": "Bogen",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_143611_039174_pasted_image_1787735169099.png",
-        "cat": "Daybeds",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nArmrest: Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W77\" x D38\" x H26.5\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1-6cSkU5pzEy5ucgKDeIj1Ur9DDV_wSd_",
-        "des": "Tanmay Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black matt"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "092416",
-        "prod": "Decker",
-        "var": "Yoku",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_110155_077955_jpeg-optimizer_patterned_lounge_utility_2.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Pure Adali Pebble 110920)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W37\" x D33\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1XO79a2Yw8U1wkBXbxaFmhitE3cU0KESV",
-        "des": "Maulik Parmar",
-        "dl": "04-Dec-2022",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "NEEL’S BEDROOM\r",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
-        "op": "092426",
-        "prod": "Sedona",
-        "var": "Elyss",
-        "url": "https://i.ibb.co/LCw3q2h/AWS0002.jpg",
-        "cat": "Outdoor Coffee Tables",
-        "mat": "Frame: Stainless Steel 304 Matt (Black PVD)\nWeaving: 8mm Rope (Cement Grey)\nTop: Marble TBC (Mirror Buffing)",
-        "sz": "Outer: W30\" x D30\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1Uv5H7E2B9dH0yWcjTD1LvxrwkJCdjdts",
-        "des": "Parth Gada",
-        "dl": "15-Aug-2023",
-        "q": 2,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Sedona Base MS + 6\" than previous 4 pc in Black PC"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
       }
     ],
     "kamlesh_jangid": [
@@ -5581,6 +5644,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-01T09:07:36.655Z"
+    "timestamp": "2026-10-01T09:22:25.818Z"
   }
 }
