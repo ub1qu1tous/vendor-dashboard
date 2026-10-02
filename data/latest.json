@@ -4531,6 +4531,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "072612",
+        "prod": "Jiamaya",
+        "var": "Puma",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260824_160503_721126_pasted_image_1787567702365.png",
+        "cat": "Media Consoles",
+        "mat": "Carcass: HDHMR (Black Matt PU)\nInternal Carcass: 16mm Plywood (Deluxe-02 Frosty White)\nDrawer Fascia: HDHMR (Black Matt PU)\nLegs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W63\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/129ZmAxcHddAu5qhcRBaUtMSmPRCxghCk",
+        "des": "Usine Studio",
+        "dl": "27-Feb-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Media Console",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082413",
         "prod": "Dragonheart",
         "var": "Neymar",
@@ -6045,6 +6066,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-02T11:37:27.108Z"
+    "timestamp": "2026-10-02T11:52:25.964Z"
   }
 }
