@@ -570,6 +570,27 @@
       },
       {
         "op": "062509",
+        "prod": "Hayatsu",
+        "var": "Destin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
+        "des": "Tanmay Shah",
+        "dl": "20-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "062509",
         "prod": "Leeds",
         "var": "Xerri",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260127_171327_067251_1.jpg",
@@ -1529,6 +1550,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Master Bedroom (FF) Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Hayatsu",
+        "var": "Destin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
+        "des": "Tanmay Shah",
+        "dl": "20-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -3963,6 +4005,27 @@
       },
       {
         "op": "062509",
+        "prod": "Hayatsu",
+        "var": "Destin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
+        "des": "Tanmay Shah",
+        "dl": "20-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062509",
         "prod": "Shereen",
         "var": "Coot",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260106_151523_976752_pasted_image_1767692739962.png",
@@ -6066,6 +6129,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-03T10:22:30.135Z"
+    "timestamp": "2026-10-03T10:37:35.878Z"
   }
 }
