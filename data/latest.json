@@ -800,27 +800,6 @@
         "vendorDisplayName": "Aavaran"
       },
       {
-        "op": "082622",
-        "prod": "Darlin",
-        "var": "Bogen",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_143611_039174_pasted_image_1787735169099.png",
-        "cat": "Daybeds",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nArmrest: Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W77\" x D38\" x H26.5\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1-6cSkU5pzEy5ucgKDeIj1Ur9DDV_wSd_",
-        "des": "Tanmay Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
         "op": "092519",
         "prod": "Hylos",
         "var": "Pique",
@@ -2459,27 +2438,6 @@
           "c": "05-Oct-2026",
           "a": "",
           "rm": "metal base"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "082622",
-        "prod": "Darlin",
-        "var": "Bogen",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_143611_039174_pasted_image_1787735169099.png",
-        "cat": "Daybeds",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nArmrest: Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W77\" x D38\" x H26.5\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1-6cSkU5pzEy5ucgKDeIj1Ur9DDV_wSd_",
-        "des": "Tanmay Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "19-Sept-2026",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -5253,27 +5211,6 @@
         "vendorDisplayName": "Royal Powder Coat"
       },
       {
-        "op": "082622",
-        "prod": "Darlin",
-        "var": "Bogen",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_143611_039174_pasted_image_1787735169099.png",
-        "cat": "Daybeds",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nArmrest: Foam Upholstery (Fabric TBC)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W77\" x D38\" x H26.5\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1-6cSkU5pzEy5ucgKDeIj1Ur9DDV_wSd_",
-        "des": "Tanmay Shah",
-        "dl": "11-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black matt"
-        },
-        "vendorDisplayName": "Royal Powder Coat"
-      },
-      {
         "op": "092416",
         "prod": "Decker",
         "var": "Yoku",
@@ -6169,6 +6106,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-05T13:37:29.135Z"
+    "timestamp": "2026-10-05T13:53:23.578Z"
   }
 }
