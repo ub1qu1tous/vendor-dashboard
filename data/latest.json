@@ -5123,27 +5123,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "062612",
-        "prod": "Aykermann",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
-        "cat": "Accessories",
-        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
-        "sz": "Outer: W14\" x D14\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "laser-cut plate"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "clientfabric": [
@@ -6081,29 +6060,6 @@
         "vendorDisplayName": "Casa Creations"
       }
     ],
-    "lalji_handicrafts": [
-      {
-        "op": "092525",
-        "prod": "Reyari",
-        "var": "Felipe",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250926_162834_754044_Screenshot_2025-09-26_162518.png",
-        "cat": "Storage Cabinets",
-        "mat": "Carcass: Reclaimed Hardwood (Antique Blue)\nInternal Carcass: Reclaimed Hardwood (Antique Blue)\nShutter: Reclaimed Hardwood (Antique Blue)\nDrawer: Reclaimed Hardwood (Antique Blue)\nAccessories: Knobs (Finish TBC)",
-        "sz": "Outer: W33\" x D22\" x H60\"",
-        "fld": "https://drive.google.com/drive/folders/1zvl8uWB307d0rg-QyBmUQOglKwBsvZYg",
-        "des": "Hetvi Shah",
-        "dl": "30-Sept-2025",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "04-Oct-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Lalji Handicrafts"
-      }
-    ],
     "vittal_wood_tech": [
       {
         "op": "092601",
@@ -6129,6 +6085,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-05T04:37:32.260Z"
+    "timestamp": "2026-10-05T04:52:23.279Z"
   }
 }
