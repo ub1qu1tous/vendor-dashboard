@@ -3732,6 +3732,27 @@
       },
       {
         "op": "022622",
+        "prod": "Halcyona",
+        "var": "Vassilli",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260715_164804_473262_Screenshot_2026-07-15_154434.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Recycled Teak (Suncity)\nDrawer Fascia: Pre-woven Rattan (Natural)",
+        "sz": "Outer: W20\" x D14\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1YSpT6pXnuGk9qnAvX16ZaD5u1JdZZDwx",
+        "des": "Parthsarthi Suthar",
+        "dl": "01-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
         "prod": "Hylos",
         "var": "Venus",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135547_071111_Screenshot_2026-08-26_135529.png",
@@ -6064,6 +6085,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-05T06:07:21.026Z"
+    "timestamp": "2026-10-05T06:22:25.197Z"
   }
 }
