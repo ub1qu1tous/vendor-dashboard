@@ -4491,6 +4491,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "072608",
+        "prod": "Tauris",
+        "var": "Cormac",
+        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W48\" x D30\" x H15\"",
+        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
+        "des": "Vikas Jangir",
+        "dl": "06-Oct-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "1 pc "
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "092601",
         "prod": "Canopy",
         "var": "Adi",
@@ -6106,6 +6127,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-06T04:52:49.533Z"
+    "timestamp": "2026-10-06T05:07:27.340Z"
   }
 }
