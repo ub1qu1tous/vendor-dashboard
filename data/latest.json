@@ -2183,9 +2183,9 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "15-Oct-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Refurbish all sheetmetal"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4320,6 +4320,27 @@
       },
       {
         "op": "092604",
+        "prod": "Deakins",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_141053_091185_pasted_image_1790066450766.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Boto Chino (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W48\" x D48\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1AirwDhj9GSEf0ZkVwLVPH_u21QKY-ZfM",
+        "des": "Parthsarthi Suthar",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092604",
         "prod": "Holland",
         "var": "Quanta",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260922_135807_953357_pasted_image_1790065686128.png",
@@ -4739,6 +4760,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "092604",
+        "prod": "Deakins",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_141053_091185_pasted_image_1790066450766.png",
+        "cat": "Dining Tables",
+        "mat": "Top: Boto Chino (Mirror Buffing)\nBase: White Oak (Natural)",
+        "sz": "Outer: W48\" x D48\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1AirwDhj9GSEf0ZkVwLVPH_u21QKY-ZfM",
+        "des": "Parthsarthi Suthar",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
       }
     ],
     "vipra": [
@@ -4757,7 +4799,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "15-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6507,6 +6549,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-06T07:08:12.907Z"
+    "timestamp": "2026-10-06T07:22:25.826Z"
   }
 }
