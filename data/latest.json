@@ -737,6 +737,27 @@
         "vendorDisplayName": "Aavaran"
       },
       {
+        "op": "062509",
+        "prod": "Youhall",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
+        "des": "Maulik Parmar",
+        "dl": "22-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
         "op": "072420",
         "prod": "Lantana",
         "var": "Purcell",
@@ -1768,6 +1789,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "062509",
+        "prod": "Youhall",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
+        "des": "Maulik Parmar",
+        "dl": "22-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "082608",
         "prod": "Panache",
         "var": "Savio",
@@ -2459,6 +2501,27 @@
           "c": "12-Aug-2026",
           "a": "",
           "rm": "metal pipe frame and swing wire fitting"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "062509",
+        "prod": "Youhall",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
+        "des": "Maulik Parmar",
+        "dl": "22-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4231,6 +4294,27 @@
           "c": "",
           "a": "",
           "rm": "Leg height: 5\"\nPlatform Height: 6\"\nfitting k provision k liye height di hai"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062509",
+        "prod": "Youhall",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
+        "des": "Maulik Parmar",
+        "dl": "22-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -6528,6 +6612,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-06T07:58:51.032Z"
+    "timestamp": "2026-10-06T08:07:44.253Z"
   }
 }
