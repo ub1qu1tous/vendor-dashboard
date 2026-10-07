@@ -5185,6 +5185,27 @@
       },
       {
         "op": "072611",
+        "prod": "Tollefson",
+        "var": "Voorp",
+        "url": "https://ibb.co/b5PTY8Wk",
+        "cat": "Wardrobes",
+        "mat": ":  ()",
+        "sz": "Outer: W113\" x D24\" x H87\"",
+        "fld": "https://drive.google.com/drive/folders/1MEy9p8UJLboVLNVz89KTr0d9C477Rm3H",
+        "des": "Shrutika Joshi",
+        "dl": "06-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Daughter Bedroom Wardrobe",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Shutter: PU RAL 1013, RAL 6021\nDrawers: RAL 1013\nInternal Laminate: ORZ 139\nGroove: 6mm x 6mm Groove with RAL 6021\nPtti: 14mm width x 7mm height D ptti both end capsule round with RAL 6021\nClear Glass: In all 6 drawers"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072611",
         "prod": "Vardalos",
         "var": "Voila",
         "url": "https://i.ibb.co/dw1pfPzQ/IMG-20260924-WA0184.jpg",
@@ -6612,6 +6633,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-07T09:37:25.818Z"
+    "timestamp": "2026-10-07T09:52:25.465Z"
   }
 }
