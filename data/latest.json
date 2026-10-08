@@ -2317,6 +2317,27 @@
       },
       {
         "op": "022622",
+        "prod": "Izabal",
+        "var": "Zaira",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135158_354424_Screenshot_2026-08-26_124829.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W54\" x D38\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/14vwHxdSwkKTZJlzB50fRqZJWgmP8g1qX",
+        "des": "Tanmay Shah",
+        "dl": "07-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022622",
         "prod": "Milano",
         "var": "Woodstock",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260708_184928_440994_pasted_image_1783516766522.png",
@@ -2711,6 +2732,27 @@
         "cr": "",
         "v": {
           "c": "07-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "022622",
+        "prod": "Izabal",
+        "var": "Zaira",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135158_354424_Screenshot_2026-08-26_124829.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W54\" x D38\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/14vwHxdSwkKTZJlzB50fRqZJWgmP8g1qX",
+        "des": "Tanmay Shah",
+        "dl": "07-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4017,6 +4059,27 @@
         "q": 6,
         "pm": "Maulik Parmar",
         "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Izabal",
+        "var": "Zaira",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135158_354424_Screenshot_2026-08-26_124829.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W54\" x D38\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/14vwHxdSwkKTZJlzB50fRqZJWgmP8g1qX",
+        "des": "Tanmay Shah",
+        "dl": "07-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
         "v": {
           "c": "",
           "a": "",
@@ -6633,6 +6696,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-08T05:52:26.600Z"
+    "timestamp": "2026-10-08T06:07:30.519Z"
   }
 }
