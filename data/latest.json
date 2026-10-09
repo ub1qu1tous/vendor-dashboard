@@ -2216,7 +2216,7 @@
         "var": "Airston",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260514_123724_344506_PHOTO-2026-05-14-12-31-28.jpg",
         "cat": "Archived",
-        "mat": "Frame: Mild Steel (Finish TBC)\nPanel: Walnut Veneer (Natural)\nCarcass: HDHMR (Finish TBC)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "mat": "Frame: Mild Steel (Black Powdercoat (Textured))\nPanel: Walnut Veneer (Natural)\nCarcass: HDHMR (Finish TBC)\nInternal Carcass: 16mm Plywood (Finish TBC)",
         "sz": "Outer: W101.5\" x D16\" x H163\"",
         "fld": "https://drive.google.com/drive/folders/1xBM7iePMNkU1bKMkMznzVO4298zO7-jk",
         "des": "Darshan Desai",
@@ -3758,7 +3758,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
         "cat": "Doors",
         "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
-        "sz": "Outer: W\" x D12\" x H\"",
+        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
         "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
         "des": "IK Architects",
         "dl": "02-Jan-2010",
@@ -4917,7 +4917,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
         "cat": "Doors",
         "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
-        "sz": "Outer: W\" x D12\" x H\"",
+        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
         "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
         "des": "IK Architects",
         "dl": "02-Jan-2010",
@@ -4940,7 +4940,7 @@
         "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
         "cat": "Doors",
         "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
-        "sz": "Outer: W\" x D12\" x H\"",
+        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
         "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
         "des": "IK Architects",
         "dl": "02-Jan-2010",
@@ -5004,7 +5004,7 @@
         "var": "Airston",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260514_123724_344506_PHOTO-2026-05-14-12-31-28.jpg",
         "cat": "Archived",
-        "mat": "Frame: Mild Steel (Finish TBC)\nPanel: Walnut Veneer (Natural)\nCarcass: HDHMR (Finish TBC)\nInternal Carcass: 16mm Plywood (Finish TBC)",
+        "mat": "Frame: Mild Steel (Black Powdercoat (Textured))\nPanel: Walnut Veneer (Natural)\nCarcass: HDHMR (Finish TBC)\nInternal Carcass: 16mm Plywood (Finish TBC)",
         "sz": "Outer: W101.5\" x D16\" x H163\"",
         "fld": "https://drive.google.com/drive/folders/1xBM7iePMNkU1bKMkMznzVO4298zO7-jk",
         "des": "Darshan Desai",
@@ -6740,6 +6740,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-09T06:52:22.673Z"
+    "timestamp": "2026-10-09T07:07:29.301Z"
   }
 }
