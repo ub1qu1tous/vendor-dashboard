@@ -593,27 +593,6 @@
       },
       {
         "op": "062509",
-        "prod": "Shereen",
-        "var": "Coot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_151523_976752_pasted_image_1767692739962.png",
-        "cat": "Beds",
-        "mat": "Headboard: Sheesham (Black Matt)\nBackrest: Foam Upholstery (Woodstock Midnight SRN 19)\nPlatform: Foam Upholstery (Woodstock Midnight SRN 19)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W86\" x D88\" x H43\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/161Ycwtt_nigZIKYP5tJHptwTJQKgMGaF",
-        "des": "Tanmay Shah",
-        "dl": "02-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Leg height: 5\"\nPlatform Height: 6\"\nfitting k provision k liye height di hai"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062509",
         "prod": "Youhall",
         "var": "Helix",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
@@ -2827,7 +2806,7 @@
         "op": "092618",
         "prod": "Waltz",
         "var": "Groove",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261006_131436_823129_pasted_image_1791272674590.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_131118_680468_pasted_image_1791531676572.png",
         "cat": "Sofas",
         "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: 12mm Plywood (Black Matt Laminate)",
         "sz": "Outer: W48\" x D48\" x H\"",
@@ -6717,6 +6696,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-09T07:37:34.731Z"
+    "timestamp": "2026-10-09T07:52:30.280Z"
   }
 }
