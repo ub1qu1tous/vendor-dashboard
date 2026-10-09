@@ -3752,6 +3752,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "102607",
+        "prod": "Perla",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
+        "cat": "Doors",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
+        "sz": "Outer: W\" x D12\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
+        "des": "IK Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "092618",
         "prod": "Osaka",
         "var": "Indiana",
@@ -4886,6 +4907,94 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Manish Marble (Jaipur)"
+      }
+    ],
+    "smit_enterprise": [
+      {
+        "op": "102607",
+        "prod": "Perla",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
+        "cat": "Doors",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
+        "sz": "Outer: W\" x D12\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
+        "des": "IK Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Smit Enterprise"
+      }
+    ],
+    "vishwakarma_glass": [
+      {
+        "op": "102607",
+        "prod": "Perla",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
+        "cat": "Doors",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
+        "sz": "Outer: W\" x D12\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
+        "des": "IK Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      },
+      {
+        "op": "062509",
+        "prod": "Santori",
+        "var": "Kerrie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_145453_877549_pasted_image_1767691509861.png",
+        "cat": "Bookcases",
+        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nShelf: Stainless Steel 304 Matt (Finish TBC)\nMounting: Ply & Foam Upholstery (Magiclean SRN 9)",
+        "sz": "Outer: W18\" x D13.5\" x H104.33\"",
+        "fld": "https://drive.google.com/drive/folders/14ZkFYAtjIDrcfzHfaAInYVmU0_V13fkV",
+        "des": "Hetvi Shah",
+        "dl": "26-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Bookshelf",
+        "v": {
+          "c": "08-Aug-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      },
+      {
+        "op": "082622",
+        "prod": "Carnival",
+        "var": "Justo",
+        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
+        "cat": "Credenzas",
+        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
+        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
+        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
+        "des": "Atharva Kelkar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black tinted glass 12mm beveled"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
     "vipra": [
@@ -6537,50 +6646,6 @@
         "vendorDisplayName": "SRK Readymade Legs"
       }
     ],
-    "vishwakarma_glass": [
-      {
-        "op": "062509",
-        "prod": "Santori",
-        "var": "Kerrie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_145453_877549_pasted_image_1767691509861.png",
-        "cat": "Bookcases",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nShelf: Stainless Steel 304 Matt (Finish TBC)\nMounting: Ply & Foam Upholstery (Magiclean SRN 9)",
-        "sz": "Outer: W18\" x D13.5\" x H104.33\"",
-        "fld": "https://drive.google.com/drive/folders/14ZkFYAtjIDrcfzHfaAInYVmU0_V13fkV",
-        "des": "Hetvi Shah",
-        "dl": "26-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Bookshelf",
-        "v": {
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      },
-      {
-        "op": "082622",
-        "prod": "Carnival",
-        "var": "Justo",
-        "url": "https://i.ibb.co/LPCMDjy/v09.jpg",
-        "cat": "Credenzas",
-        "mat": "Top: 10mm Glass (Black Matt)\nShutter Internal: Sheesham (Harvest)\nShutter Panel: 18mm MDF (Black Matt)\nDrawer Fascia: HDHMR (Black Matt)\nInternal Carcass: 16mm Plywood (Tan-Fabric Laminate)\nCarcass: HDHMR (Black Matt)\nBase: Sheesham (Harvest)",
-        "sz": "Outer: W78\" x D14.5\" x H30.25\"",
-        "fld": "https://drive.google.com/drive/folders/1kE2tVSooNNGa-Gm89hn3z8hUdr7zLzn4",
-        "des": "Atharva Kelkar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black tinted glass 12mm beveled"
-        },
-        "vendorDisplayName": "Vishwakarma Glass"
-      }
-    ],
     "concrete_shop": [
       {
         "op": "072608",
@@ -6675,6 +6740,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-09T06:37:28.151Z"
+    "timestamp": "2026-10-09T06:52:22.673Z"
   }
 }
