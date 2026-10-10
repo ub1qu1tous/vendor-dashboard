@@ -4736,7 +4736,7 @@
         "pm": "Maulik Parmar",
         "cr": "Son's Bedroom",
         "v": {
-          "c": "",
+          "c": "19-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4778,7 +4778,7 @@
         "pm": "Maulik Parmar",
         "cr": "Son's Bedroom",
         "v": {
-          "c": "",
+          "c": "19-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4883,7 +4883,7 @@
         "pm": "Maulik Parmar",
         "cr": "Guest Bedroom Nightstand",
         "v": {
-          "c": "",
+          "c": "19-Oct-2026",
           "a": "",
           "rm": "Drawer and PU"
         },
@@ -4904,7 +4904,7 @@
         "pm": "Maulik Parmar",
         "cr": "Guest Bedroom Media Console",
         "v": {
-          "c": "20-Jun-2026",
+          "c": "19-Oct-2026",
           "a": "",
           "rm": "Push To Open 4 Drawers,\nCarcass Black Veneer,\nInternal Liner Solid black color,\nICA VMA3020 + SFCA Gold on HDHMR Shutter (One Adjustable shelf inside),\nBase (Gold on Hdhmr)\n"
         },
@@ -4925,7 +4925,7 @@
         "pm": "Maulik Parmar",
         "cr": "Parent's Bedroom Nightstand",
         "v": {
-          "c": "",
+          "c": "19-Oct-2026",
           "a": "",
           "rm": "Top and carcass white pu"
         },
@@ -4967,7 +4967,7 @@
         "pm": "Maulik Parmar",
         "cr": "Son Bedroom Media Console",
         "v": {
-          "c": "",
+          "c": "19-Oct-2026",
           "a": "",
           "rm": "PU and Drawer only"
         },
@@ -5072,7 +5072,7 @@
         "pm": "Maulik Parmar",
         "cr": "Guest Bedroom Media Console",
         "v": {
-          "c": "",
+          "c": "30-Nov-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6579,27 +6579,6 @@
         "vendorDisplayName": "Chhoturam"
       },
       {
-        "op": "062509",
-        "prod": "Orovia",
-        "var": "Noel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_180833_872345_Screenshot_2026-02-10_180745.png",
-        "cat": "Nightstands",
-        "mat": "Top: HDHMR (White PU)\nMounting: Mild Steel (White Powder Coat)\nCarcass: HDHMR (White PU)\nInternal Carcass: HDHMR (Finish TBC)\nSupport: Mild Steel (White Powder Coat)\nBase: Black Panda Marble (Finish TBC)",
-        "sz": "Outer: W16\" x D16\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1sqNL_09NNGR8huhN-7Vv773QAwi7Tytw",
-        "des": "Tanmay Shah",
-        "dl": "01-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "fitting"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
         "op": "092522",
         "prod": "Avocado",
         "var": "Iris",
@@ -6996,6 +6975,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-10T09:37:27.677Z"
+    "timestamp": "2026-10-10T10:14:00.050Z"
   }
 }
