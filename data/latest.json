@@ -2300,6 +2300,27 @@
       },
       {
         "op": "022622",
+        "prod": "Monroy",
+        "var": "Alita",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_144913_543064_pasted_image_1786353552184.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nFrame: HDHMR (Finish TBC)\nStorage: 12mm Plywood (Deluxe-02 Frosty White)\nPlatform: HDHMR (Finish TBC)",
+        "sz": "Outer: W68\" x D80\" x H42\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/138SKL4hHi-vxoLdEJ1utwExhDLUzCOOa",
+        "des": "Tanmay Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
         "prod": "Osaka",
         "var": "Indiana",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260829_170933_763385_pasted_image_1788003567878.png",
@@ -2869,7 +2890,7 @@
         "op": "082611",
         "prod": "Oasis",
         "var": "Dostar",
-        "url": "https://i.ibb.co/VMtBPyz/Dostar-3-2.jpg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_163726_682689_pasted_image_1791630444904.png",
         "cat": "Dining Chairs",
         "mat": "Base: Sheesham (Peca)\nStructure: Ply & Foam Upholstery (Fabric TBC)",
         "sz": "Outer: W20.5\" x D22\" x H32\"\nSeat Height: 18\"",
@@ -3144,8 +3165,8 @@
         "var": "Groove",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261009_131118_680468_pasted_image_1791531676572.png",
         "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nBase: 12mm Plywood (Black Matt Laminate)",
-        "sz": "Outer: W48\" x D48\" x H\"",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nBase: 12mm Plywood (Black Matt Laminate)\nTop: Indian Teak (Suncity)",
+        "sz": "Outer: W48\" x D48\" x H17.5\"\nSeat Height: 17.5\"",
         "fld": "https://drive.google.com/drive/folders/1vPJSter8DRx86A7YI0N6rkMIh5c0GV7M",
         "des": "Parth Gada",
         "dl": "07-Nov-2024",
@@ -3532,6 +3553,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "022622",
+        "prod": "Monroy",
+        "var": "Alita",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_144913_543064_pasted_image_1786353552184.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nFrame: HDHMR (Finish TBC)\nStorage: 12mm Plywood (Deluxe-02 Frosty White)\nPlatform: HDHMR (Finish TBC)",
+        "sz": "Outer: W68\" x D80\" x H42\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/138SKL4hHi-vxoLdEJ1utwExhDLUzCOOa",
+        "des": "Tanmay Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
         "v": {
           "c": "",
           "a": "",
@@ -5080,6 +5122,27 @@
       },
       {
         "op": "022622",
+        "prod": "Debra",
+        "var": "Vitara",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_111413_619518_pasted_image_1788241451691.png",
+        "cat": "Nightstands",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)",
+        "sz": "Outer: W21\" x D16\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1yK_tJ4BbShelVUpZGllm227xN0j6k_Oa",
+        "des": "Hardik Katariya",
+        "dl": "06-Oct-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "19-Oct-2026",
+          "a": "",
+          "rm": "We will provide carcass\n\nVipra will do PU, Drawer and channel work only"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "022622",
         "prod": "Espinoza",
         "var": "Sylvia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_142719_142286_Screenshot_2026-08-26_142703.png",
@@ -5117,6 +5180,27 @@
           "c": "19-Oct-2026",
           "a": "",
           "rm": "Vipra need to make Rectangle cube of ply and laminate,\n\nwe will do corian clading and glass work"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "022622",
+        "prod": "Monroy",
+        "var": "Alita",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_144913_543064_pasted_image_1786353552184.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nFrame: HDHMR (Finish TBC)\nStorage: 12mm Plywood (Deluxe-02 Frosty White)\nPlatform: HDHMR (Finish TBC)",
+        "sz": "Outer: W68\" x D80\" x H42\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/138SKL4hHi-vxoLdEJ1utwExhDLUzCOOa",
+        "des": "Tanmay Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "19-Oct-2026",
+          "a": "",
+          "rm": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nStructure: HDHMR\nStorage: 12mm Plywood\nPlatform: HDHMR\nInternal: Frosty White laminate\nPU: (Finish TBC)"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6116,6 +6200,199 @@
         "vendorDisplayName": "Ashok Polish"
       }
     ],
+    "chhoturam": [
+      {
+        "op": "022622",
+        "prod": "Debra",
+        "var": "Vitara",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_111413_619518_pasted_image_1788241451691.png",
+        "cat": "Nightstands",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)",
+        "sz": "Outer: W21\" x D16\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1yK_tJ4BbShelVUpZGllm227xN0j6k_Oa",
+        "des": "Hardik Katariya",
+        "dl": "06-Oct-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "062508",
+        "prod": "Ayana",
+        "var": "Faani",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_202051_691171_ayana_faani_nightstand_2048.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: Sheesham (Rich Tobacco)\nDrawer: Sheesham (Rich Tobacco)\nHandle: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W20\" x D16\" x H19\"",
+        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Fitting of Knob and Buffer"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "062509",
+        "prod": "Eduardia",
+        "var": "Koan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
+        "cat": "Ottomans",
+        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W16\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Ottoman",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "062509",
+        "prod": "Leeson",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (SCS RZ 5129 RS)\nDrawer Fascia: HDHMR (White PU)\nDrawer: Laminate (SCS RZ 5129 RS)\nBase: HDHMR (Black Matt PU)\nMounting: Ply & Foam Upholstery (Fabric TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22\" x D16\" x H15.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bdob1tntN-NRp7WziU6yrlfiEe8zU7Ih",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "PU and Drawer ONLY"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "092522",
+        "prod": "Avocado",
+        "var": "Iris",
+        "url": "https://i.ibb.co/K0D2v0p/v13-square.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: Sheesham (Jacobean)\nMounting: Stainless Steel 304 Matt (Rose Gold PVD)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W11.5\" x D11.5\" x H21.5\"",
+        "fld": "https://drive.google.com/drive/folders/1w5E6r52U90mL51i6RsKOmLJi1wF7ToSN",
+        "des": "Lavanya Nagpal",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Smruti Saraiya",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Avocado - Base, Rod and top assembly."
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "102411",
+        "prod": "Drakonis",
+        "var": "Kiera",
+        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Lassa White (Mirror Buffing)\nBase: Recycled Teak (Natural)",
+        "sz": "Outer: W39\" x D39\" x H14\"",
+        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
+        "des": "Hetvi Shah",
+        "dl": "14-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Living Room Coffee Table",
+        "v": {
+          "c": "05-Sept-2025",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      },
+      {
+        "op": "102411",
+        "prod": "Ethereon",
+        "var": "Onism",
+        "url": "https://i.ibb.co/Kvs0f8k/0002.jpg",
+        "cat": "Dining Tables",
+        "mat": "Top: Recycled Teak (Natural)\nLegs: Recycled Teak (Natural)",
+        "sz": "Outer: W96\" x D42\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1bEnGZmxcmNoszhp4yEzRw5kcY8FNZmCi",
+        "des": "Hetvi Shah",
+        "dl": "18-Dec-2024",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Dinning Room Dining Table; Eight-seater dining table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Chhoturam"
+      }
+    ],
+    "baba_marble": [
+      {
+        "op": "022622",
+        "prod": "Debra",
+        "var": "Vitara",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_111413_619518_pasted_image_1788241451691.png",
+        "cat": "Nightstands",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)",
+        "sz": "Outer: W21\" x D16\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1yK_tJ4BbShelVUpZGllm227xN0j6k_Oa",
+        "des": "Hardik Katariya",
+        "dl": "06-Oct-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Baba Marble"
+      },
+      {
+        "op": "022622",
+        "prod": "Efrin",
+        "var": "Tara",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135316_829310_Screenshot_2026-08-26_123645.png",
+        "cat": "Nightstands",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nDrawer Fascia: Recycled Teak (Suncity)",
+        "sz": "Outer: W24\" x D17\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1bUPlvZNwitrgFOtN6XTOWyra0HHoTRkC",
+        "des": "Tanmay Shah",
+        "dl": "15-Aug-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Baba Marble"
+      }
+    ],
     "clientfabric": [
       {
         "op": "022622",
@@ -6242,29 +6519,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Client/Fabric"
-      }
-    ],
-    "baba_marble": [
-      {
-        "op": "022622",
-        "prod": "Efrin",
-        "var": "Tara",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135316_829310_Screenshot_2026-08-26_123645.png",
-        "cat": "Nightstands",
-        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: Recycled Teak (Suncity)\nDrawer Fascia: Recycled Teak (Suncity)",
-        "sz": "Outer: W24\" x D17\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1bUPlvZNwitrgFOtN6XTOWyra0HHoTRkC",
-        "des": "Tanmay Shah",
-        "dl": "15-Aug-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Baba Marble"
       }
     ],
     "tunes_hardware": [
@@ -6871,134 +7125,6 @@
         "vendorDisplayName": "Mandap"
       }
     ],
-    "chhoturam": [
-      {
-        "op": "062508",
-        "prod": "Ayana",
-        "var": "Faani",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260216_202051_691171_ayana_faani_nightstand_2048.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Sheesham (Rich Tobacco)\nDrawer: Sheesham (Rich Tobacco)\nHandle: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W20\" x D16\" x H19\"",
-        "fld": "https://drive.google.com/drive/folders/1pfIc9MgpZ-ds-mjoS7LyshLMLemZ7EXJ",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Fitting of Knob and Buffer"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "062509",
-        "prod": "Eduardia",
-        "var": "Koan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
-        "cat": "Ottomans",
-        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W16\" x D16\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
-        "des": "Hetvi Shah",
-        "dl": "16-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Ottoman",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "062509",
-        "prod": "Leeson",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (SCS RZ 5129 RS)\nDrawer Fascia: HDHMR (White PU)\nDrawer: Laminate (SCS RZ 5129 RS)\nBase: HDHMR (Black Matt PU)\nMounting: Ply & Foam Upholstery (Fabric TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W22\" x D16\" x H15.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bdob1tntN-NRp7WziU6yrlfiEe8zU7Ih",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "PU and Drawer ONLY"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "092522",
-        "prod": "Avocado",
-        "var": "Iris",
-        "url": "https://i.ibb.co/K0D2v0p/v13-square.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: Sheesham (Jacobean)\nMounting: Stainless Steel 304 Matt (Rose Gold PVD)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W11.5\" x D11.5\" x H21.5\"",
-        "fld": "https://drive.google.com/drive/folders/1w5E6r52U90mL51i6RsKOmLJi1wF7ToSN",
-        "des": "Lavanya Nagpal",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Smruti Saraiya",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Avocado - Base, Rod and top assembly."
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
-        "prod": "Drakonis",
-        "var": "Kiera",
-        "url": "https://i.ibb.co/xqrjtdjT/0001.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Lassa White (Mirror Buffing)\nBase: Recycled Teak (Natural)",
-        "sz": "Outer: W39\" x D39\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1gQ6Smy4PCfiLcII07L6Et-eathRYhoiJ",
-        "des": "Hetvi Shah",
-        "dl": "14-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Living Room Coffee Table",
-        "v": {
-          "c": "05-Sept-2025",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      },
-      {
-        "op": "102411",
-        "prod": "Ethereon",
-        "var": "Onism",
-        "url": "https://i.ibb.co/Kvs0f8k/0002.jpg",
-        "cat": "Dining Tables",
-        "mat": "Top: Recycled Teak (Natural)\nLegs: Recycled Teak (Natural)",
-        "sz": "Outer: W96\" x D42\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1bEnGZmxcmNoszhp4yEzRw5kcY8FNZmCi",
-        "des": "Hetvi Shah",
-        "dl": "18-Dec-2024",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Dinning Room Dining Table; Eight-seater dining table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Chhoturam"
-      }
-    ],
     "jain_marble": [
       {
         "op": "062509",
@@ -7353,6 +7479,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-10T11:07:22.815Z"
+    "timestamp": "2026-10-10T11:22:23.500Z"
   }
 }
