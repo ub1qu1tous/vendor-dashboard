@@ -4738,7 +4738,7 @@
         "v": {
           "c": "19-Oct-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Carcass: HDHMR\nInternal: Dark grey solid color laminate\nFascia has groove: No need to do push to open\nLegs: Mild Steel (Black Powder Coat)"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4780,7 +4780,7 @@
         "v": {
           "c": "19-Oct-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Vipra need to make Rectangle cube of ply and laminate,\n\nwe will do corian clading and glass work"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6975,6 +6975,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-10T10:14:00.050Z"
+    "timestamp": "2026-10-10T10:23:43.244Z"
   }
 }
