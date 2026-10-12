@@ -776,7 +776,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "15\" height legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -797,7 +797,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "19\" height legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -7311,6 +7311,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-12T06:22:34.069Z"
+    "timestamp": "2026-10-12T06:37:24.974Z"
   }
 }
