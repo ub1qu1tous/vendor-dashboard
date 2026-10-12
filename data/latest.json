@@ -970,6 +970,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "102612",
+        "prod": "Schuster",
+        "var": "Chantilly",
+        "url": "https://i.ibb.co/vjQqdQg/0003.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Mild Steel (Black Powder Coat)\nLegs: White Ash (Suncity)",
+        "sz": "Outer: W34\" x D34\" x H14\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1DqXmlp9F90NuLDUcsjfYBCLGaIJfBIHo",
+        "des": "Parthsarthi Suthar",
+        "dl": "08-Jun-2021",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
@@ -1978,6 +1999,27 @@
           "c": "",
           "a": "",
           "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "092606",
+        "prod": "Sumruss",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_172942_566900_pasted_image_1791547180793.png",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Peca)",
+        "sz": "Outer: W48\" x D18\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
+        "des": "Hetvi Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -4930,6 +4972,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "092606",
+        "prod": "Sumruss",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_172942_566900_pasted_image_1791547180793.png",
+        "cat": "Benches",
+        "mat": "Structure: Sheesham (Peca)",
+        "sz": "Outer: W48\" x D18\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
+        "des": "Hetvi Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "092618",
         "prod": "Canopy",
         "var": "Adi",
@@ -7311,6 +7374,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-12T07:22:29.659Z"
+    "timestamp": "2026-10-12T07:37:22.885Z"
   }
 }
