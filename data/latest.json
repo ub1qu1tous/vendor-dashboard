@@ -3014,6 +3014,27 @@
       },
       {
         "op": "092618",
+        "prod": "Lantana",
+        "var": "Purcell",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_193541_161822_WhatsApp_Image_2026-04-14_at_19_14_52__1_.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Indian Teak (Black Distressed/Charcoal)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W25\" x D25\" x H34\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1FzV5Oj36eqb1k8aPliMy3Qrgi5LbD__y",
+        "des": "Readymade",
+        "dl": "01-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "We have one in stock and one have to make",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092618",
         "prod": "Osaka",
         "var": "Indiana",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260829_170933_763385_pasted_image_1788003567878.png",
@@ -7374,6 +7395,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-12T08:07:25.449Z"
+    "timestamp": "2026-10-12T08:22:24.589Z"
   }
 }
