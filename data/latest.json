@@ -7108,29 +7108,6 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
-    "concrete_shop": [
-      {
-        "op": "072608",
-        "prod": "Belston",
-        "var": "Yaris",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_152026_300790_Screenshot_2026-07-28_133733.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Mild Steel (Black Powder Coat)\nBase: Pigmented GFRC (Cement Grey)",
-        "sz": "Outer: W13\" x D13\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1KdVq4PSQaa50BPxJ4sT4Oayn0WxfCIq8",
-        "des": "Dilip Jangir",
-        "dl": "02-Aug-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Concrete Base ",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Concrete Shop"
-      }
-    ],
     "fs_sofa_legs": [
       {
         "op": "072612",
@@ -7246,6 +7223,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-13T09:37:48.216Z"
+    "timestamp": "2026-10-13T09:52:44.528Z"
   }
 }
