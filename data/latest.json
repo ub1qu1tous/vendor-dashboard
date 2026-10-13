@@ -1119,6 +1119,27 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "022622",
+        "prod": "Kokopo",
+        "var": "Zucchini",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_124541_869610_pasted_image_1788246939407.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Aluminium (Munshell Grey (G321-HB) Powdercoat)\nWeaving: 4mm Rope (Cement Grey)\nHandle: Recycled Teak (Suncity)",
+        "sz": "Outer: W24\" x D30\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1QNHu8kHKZ54RqHbyHYgxnnTBQsbHq_kH",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom Balcony",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Ajay"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "022623",
         "prod": "Seoul",
         "var": "Haine",
@@ -6655,29 +6676,6 @@
         "vendorDisplayName": "Surat PVD"
       }
     ],
-    "anil_engineers": [
-      {
-        "op": "022622",
-        "prod": "Kokopo",
-        "var": "Zucchini",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_124541_869610_pasted_image_1788246939407.png",
-        "cat": "Outdoor Coffee Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Aluminium (Munshell Grey (G321-HB) Powdercoat)\nWeaving: 4mm Rope (Cement Grey)\nHandle: Recycled Teak (Suncity)",
-        "sz": "Outer: W24\" x D30\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1QNHu8kHKZ54RqHbyHYgxnnTBQsbHq_kH",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Master Bedroom Balcony",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Anil Engineers"
-      }
-    ],
     "aarti_steel": [
       {
         "op": "022622",
@@ -7248,6 +7246,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-13T08:52:35.470Z"
+    "timestamp": "2026-10-13T09:07:28.373Z"
   }
 }
