@@ -698,48 +698,6 @@
       },
       {
         "op": "092604",
-        "prod": "Holland",
-        "var": "Quanta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_135807_953357_pasted_image_1790065686128.png",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Natural)\nBase: White Oak (Natural)",
-        "sz": "Outer: W15.75\" x D15.75\" x H19.7\"",
-        "fld": "https://drive.google.com/drive/folders/1LlwMUsz5h3koRcHha5Ed8alPLOE1acQu",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jul-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "05-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092604",
-        "prod": "Hylos",
-        "var": "Oliver",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142924_273196_dark_chair_pure_white_background_final.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 5,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "05-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092604",
         "prod": "Xylogen",
         "var": "Java",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260919_135920_128825_accent_table_white_background.png",
@@ -1739,6 +1697,27 @@
         "des": "Vikas Jangir",
         "dl": "02-Jan-2010",
         "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092606",
+        "prod": "Janine",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_114758_787377_jpeg-optimizer_wooden_chair_grey_cement_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Recycled Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\nSeat: Ply & Foam Upholstery (Harmel Home H1620 236-3)\n1 Centre Cushion: Foam Upholstery (Harmel Home H1620 236-3)",
+        "sz": "Outer: W31\" x D30\" x H48\"\nSeat Height: 19.5\"",
+        "fld": "https://drive.google.com/drive/folders/125CRDRJdP4dlNudZSqVv0IxWkZw9bEty",
+        "des": "Kapil Grover",
+        "dl": "02-Jan-2010",
+        "q": 2,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
@@ -3056,16 +3035,16 @@
       },
       {
         "op": "092604",
-        "prod": "Treena",
-        "var": "Aries",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142610_360230_chair_pure_white_background_final.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nSwivel Tray: Mild Steel (Black)",
-        "sz": "Outer: W38\" x D35\" x H28\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1PWE4OqWTAm3DgI82Ucg-jz-tyWb69LAf",
-        "des": "Hetvi Shah",
-        "dl": "08-Sept-2026",
-        "q": 1,
+        "prod": "Hylos",
+        "var": "Oliver",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142924_273196_dark_chair_pure_white_background_final.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 5,
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
@@ -4204,27 +4183,6 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Studio Room Panel",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "092604",
-        "prod": "Treena",
-        "var": "Aries",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142610_360230_chair_pure_white_background_final.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nSwivel Tray: Mild Steel (Black)",
-        "sz": "Outer: W38\" x D35\" x H28\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1PWE4OqWTAm3DgI82Ucg-jz-tyWb69LAf",
-        "des": "Hetvi Shah",
-        "dl": "08-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -5986,27 +5944,6 @@
         "vendorDisplayName": "Manish Marble (Jaipur)"
       },
       {
-        "op": "092604",
-        "prod": "Deakins",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_141053_091185_pasted_image_1790066450766.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Boto Chino (Mirror Buffing)\nBase: White Oak (Natural)",
-        "sz": "Outer: W48\" x D48\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1AirwDhj9GSEf0ZkVwLVPH_u21QKY-ZfM",
-        "des": "Parthsarthi Suthar",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Manish Marble (Jaipur)"
-      },
-      {
         "op": "092613",
         "prod": "Fantasis",
         "var": "Junior",
@@ -6366,6 +6303,27 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Living Room",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "092604",
+        "prod": "Hylos",
+        "var": "Oliver",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260919_142924_273196_dark_chair_pure_white_background_final.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Natural)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/1KYGoYanLQCjr57pFbPSyPovNQk6fFjPk",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 5,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -7307,6 +7265,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-14T10:22:32.425Z"
+    "timestamp": "2026-10-14T10:37:43.897Z"
   }
 }
