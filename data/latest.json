@@ -803,27 +803,6 @@
       },
       {
         "op": "092606",
-        "prod": "Akita",
-        "var": "June",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_453720_PHOTO-2026-10-04-22-13-26.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: 6mm Glass (Extra Clear)\nFrame: Recycled Teak (Suncity)\nAccessories: Recycled Teak (Suncity)\nLegs: Recycled Teak (Suncity)\nInlay: Sheesham (Black)",
-        "sz": "Outer: W60.5\" x D52.5\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/105SYAgCmbwYzR-YiUOeJ9pbc8oFl4Q6h",
-        "des": "Canna Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092606",
         "prod": "Ethera",
         "var": "Brume",
         "url": "https://i.ibb.co/symByL4/Brume-3.jpg",
@@ -1703,27 +1682,6 @@
           "c": "",
           "a": "",
           "rm": "Rotary CNC"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092606",
-        "prod": "Akita",
-        "var": "June",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_453720_PHOTO-2026-10-04-22-13-26.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: 6mm Glass (Extra Clear)\nFrame: Recycled Teak (Suncity)\nAccessories: Recycled Teak (Suncity)\nLegs: Recycled Teak (Suncity)\nInlay: Sheesham (Black)",
-        "sz": "Outer: W60.5\" x D52.5\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/105SYAgCmbwYzR-YiUOeJ9pbc8oFl4Q6h",
-        "des": "Canna Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "MDF and Metal"
         },
         "vendorDisplayName": "AWS"
       },
@@ -7304,27 +7262,6 @@
     "rajeshbhai_sculpture": [
       {
         "op": "092606",
-        "prod": "Akita",
-        "var": "June",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_453720_PHOTO-2026-10-04-22-13-26.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: 6mm Glass (Extra Clear)\nFrame: Recycled Teak (Suncity)\nAccessories: Recycled Teak (Suncity)\nLegs: Recycled Teak (Suncity)\nInlay: Sheesham (Black)",
-        "sz": "Outer: W60.5\" x D52.5\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/105SYAgCmbwYzR-YiUOeJ9pbc8oFl4Q6h",
-        "des": "Canna Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Rajeshbhai Sculpture"
-      },
-      {
-        "op": "092606",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -7370,6 +7307,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-14T09:07:28.978Z"
+    "timestamp": "2026-10-14T09:22:24.963Z"
   }
 }
