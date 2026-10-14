@@ -886,6 +886,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092618",
+        "prod": "Umbrella",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261006_131359_289490_pasted_image_1791272632364.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nStructure: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W60\" x D50\" x H36\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1U-26Mdi5NOnzy5UdB4ZGooIwDdhKHTvX",
+        "des": "Parth Gada",
+        "dl": "07-Nov-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "legs 5 legs in beidge colour"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "092620",
         "prod": "Sooth",
         "var": "Wattage",
@@ -7265,6 +7286,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-14T13:22:29.562Z"
+    "timestamp": "2026-10-14T13:37:31.866Z"
   }
 }
