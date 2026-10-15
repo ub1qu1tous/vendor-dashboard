@@ -1033,6 +1033,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "122217",
+        "prod": "Minsitthar",
+        "var": "Legends",
+        "url": "https://i.ibb.co/PNB95XQ/0002.jpg",
+        "cat": "Office Desks",
+        "mat": "Frame: Hammered Wrought Iron (Grey Powder Coat)\nCarcass: Oak Veneer (Smoke Grey)\nInternal Carcass: 16mm Plywood (Deluxe-100 Gothic Grey)\nKnobs: Hammered Wrought Iron (Grey Powder Coat)",
+        "sz": "Outer: W72\" x D27\" x H29.5\"",
+        "fld": "https://drive.google.com/drive/folders/1fU-q5U7sJ7GEZC0B8WNZJoCfTuhuqVqL",
+        "des": "Tanmay Shah",
+        "dl": "23-Sept-2024",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Admin Cabin",
+        "v": {
+          "c": "20-Oct-2026",
+          "a": "",
+          "rm": "table with Hammered Wrought Iron base"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
@@ -7433,6 +7454,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-15T10:22:27.953Z"
+    "timestamp": "2026-10-15T10:37:36.640Z"
   }
 }
