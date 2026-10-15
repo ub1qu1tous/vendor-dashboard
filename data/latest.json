@@ -949,6 +949,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "102614",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "102607",
         "prod": "Perla",
         "var": "Kos",
@@ -3370,6 +3391,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "102614",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "122217",
         "prod": "Nimbus",
         "var": "Oliver",
@@ -4353,6 +4395,48 @@
         "cr": "",
         "v": {
           "c": "07-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092622",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "102614",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6374,27 +6458,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "092622",
-        "prod": "Osaka",
-        "var": "Voorp",
-        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "TBC"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "122522",
         "prod": "Umbrella",
         "var": "Insignia",
@@ -7286,6 +7349,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-15T06:22:28.732Z"
+    "timestamp": "2026-10-15T06:38:13.274Z"
   }
 }
