@@ -1012,6 +1012,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "102613",
+        "prod": "Abellera",
+        "var": "Dyson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261012_112209_415205_pasted_image_1791784329408.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Indian Teak (Black Matt)",
+        "sz": "Outer: W20\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/18oa7AXL3kAFpXc3zKHzesAK_Eio2yWPH",
+        "des": "Dilip Jangir",
+        "dl": "15-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Black Matte open grain"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "122522",
         "prod": "Irusu",
         "var": "Xany",
@@ -7079,6 +7100,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Mandap"
+      },
+      {
+        "op": "102613",
+        "prod": "Abellera",
+        "var": "Dyson",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261012_112209_415205_pasted_image_1791784329408.png",
+        "cat": "Accent Tables",
+        "mat": "Structure: Indian Teak (Black Matt)",
+        "sz": "Outer: W20\" x D15\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/18oa7AXL3kAFpXc3zKHzesAK_Eio2yWPH",
+        "des": "Dilip Jangir",
+        "dl": "15-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Mandap"
       }
     ],
     "jain_marble": [
@@ -7391,6 +7433,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-15T09:07:28.810Z"
+    "timestamp": "2026-10-15T09:22:54.765Z"
   }
 }
