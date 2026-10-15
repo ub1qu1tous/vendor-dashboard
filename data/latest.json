@@ -949,27 +949,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
-        "op": "102614",
-        "prod": "Osaka",
-        "var": "Voorp",
-        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
         "op": "102607",
         "prod": "Perla",
         "var": "Kos",
@@ -1029,6 +1008,27 @@
           "c": "",
           "a": "",
           "rm": "Black Matte open grain"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102614",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1876,6 +1876,27 @@
       },
       {
         "op": "092618",
+        "prod": "Eowyn",
+        "var": "Thyme",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_114454_563725_jpeg-optimizer_red_single_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (RAL 3002 Carmine Red (PU))\nSeat: Ply & Foam Upholstery (Azco Carbon RF209)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22\" x D31\" x H41.8\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t5fG-PgLaCqD_9C3Yi_B2yRr4pgXmpgJ",
+        "des": "Parth Gada",
+        "dl": "14-Jun-2023",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "From Stock"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092618",
         "prod": "Eugene",
         "var": "Embrace",
         "url": "https://i.ibb.co/9km7Cnt1/0001.jpg",
@@ -1913,27 +1934,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092618",
-        "prod": "Eowyn",
-        "var": "Thyme",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_114454_563725_jpeg-optimizer_red_single_plain_background.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (RAL 3002 Carmine Red (PU))\nSeat: Ply & Foam Upholstery (Azco Carbon RF209)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W22\" x D31\" x H41.8\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1t5fG-PgLaCqD_9C3Yi_B2yRr4pgXmpgJ",
-        "des": "Parth Gada",
-        "dl": "14-Jun-2023",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "From Stock"
         },
         "vendorDisplayName": "AWS"
       },
@@ -7475,6 +7475,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-15T12:07:29.008Z"
+    "timestamp": "2026-10-15T12:26:25.817Z"
   }
 }
