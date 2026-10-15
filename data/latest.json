@@ -1876,6 +1876,27 @@
       },
       {
         "op": "092618",
+        "prod": "Eowyn",
+        "var": "Thyme",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_114454_563725_jpeg-optimizer_red_single_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (RAL 3002 Carmine Red (PU))\nSeat: Ply & Foam Upholstery (Azco Carbon RF209)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22\" x D31\" x H41.8\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t5fG-PgLaCqD_9C3Yi_B2yRr4pgXmpgJ",
+        "des": "Parth Gada",
+        "dl": "14-Jun-2023",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "From Stock"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092618",
         "prod": "Triton",
         "var": "Bliss",
         "url": "https://i.ibb.co/zTTFwzq4/0002.jpg",
@@ -5625,6 +5646,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092618",
+        "prod": "Eowyn",
+        "var": "Thyme",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_114454_563725_jpeg-optimizer_red_single_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (RAL 3002 Carmine Red (PU))\nSeat: Ply & Foam Upholstery (Azco Carbon RF209)\nBackrest: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22\" x D31\" x H41.8\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1t5fG-PgLaCqD_9C3Yi_B2yRr4pgXmpgJ",
+        "des": "Parth Gada",
+        "dl": "14-Jun-2023",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Pu Touchup"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122523",
         "prod": "Glick",
         "var": "Wren",
@@ -7349,6 +7391,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-15T06:38:13.274Z"
+    "timestamp": "2026-10-15T06:52:30.505Z"
   }
 }
