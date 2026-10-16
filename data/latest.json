@@ -5207,27 +5207,6 @@
       {
         "op": "062509",
         "prod": "Dublin",
-        "var": "Mousse",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251003_131918_493267_pasted_image_1759477764872.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H22\"",
-        "fld": "https://drive.google.com/drive/folders/1XTleXzDEE76ypoaKNUHqlOrtc8BGu98X",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Nightstand",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Drawer making, ICA VMA3020 + SFCA Antique Gold PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Dublin",
         "var": "Quitero",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
         "cat": "Chests",
@@ -7202,6 +7181,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-16T16:37:31.924Z"
+    "timestamp": "2026-10-16T16:52:26.692Z"
   }
 }
