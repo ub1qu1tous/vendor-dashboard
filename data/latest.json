@@ -881,7 +881,7 @@
         "v": {
           "c": "14-Oct-2026",
           "a": "",
-          "rm": "\"Frame: Recycled Teak (Suncity)"
+          "rm": "black matt"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1007,7 +1007,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "Black Matte open grain"
+          "rm": "Black Matt open grain"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -5261,7 +5261,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "black distresswd finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       }
@@ -7160,7 +7160,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "raw piece"
         },
         "vendorDisplayName": "Mandap"
       }
@@ -7475,6 +7475,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-16T08:07:27.364Z"
+    "timestamp": "2026-10-16T08:22:24.848Z"
   }
 }
