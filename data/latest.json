@@ -3161,6 +3161,27 @@
       },
       {
         "op": "092618",
+        "prod": "Jasper",
+        "var": "Genesis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_104524_836167_pasted_image_1771305354452.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Sarom Apache 909)\nFrame: Mild Steel (Black Powder Coat)\nTop: White Oak (Natural)",
+        "sz": "Outer: W62\" x D17\" x H21.5\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1_AEJtwxkOSGDjNGUZht2EesrJ-mNX-z7",
+        "des": "Darshan Desai",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092618",
         "prod": "Lantana",
         "var": "Purcell",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260414_193541_161822_WhatsApp_Image_2026-04-14_at_19_14_52__1_.jpeg",
@@ -4945,6 +4966,27 @@
           "c": "15-Oct-2026",
           "a": "",
           "rm": "Refurbish all sheetmetal"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "092618",
+        "prod": "Jasper",
+        "var": "Genesis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_104524_836167_pasted_image_1771305354452.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Sarom Apache 909)\nFrame: Mild Steel (Black Powder Coat)\nTop: White Oak (Natural)",
+        "sz": "Outer: W62\" x D17\" x H21.5\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1_AEJtwxkOSGDjNGUZht2EesrJ-mNX-z7",
+        "des": "Darshan Desai",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -7433,6 +7475,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-16T07:22:24.392Z"
+    "timestamp": "2026-10-16T07:37:24.416Z"
   }
 }
