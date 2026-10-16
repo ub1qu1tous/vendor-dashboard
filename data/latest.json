@@ -4530,6 +4530,27 @@
       },
       {
         "op": "022622",
+        "prod": "Elwood",
+        "var": "Sweetpea",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135301_921940_Screenshot_2026-08-26_123851.png",
+        "cat": "Storage Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
+        "sz": "Outer: W75\" x D82\" x H44\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/158eY3et4sUqL2rAEupeFvduJnCJA4gJK",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "022622",
         "prod": "Espinoza",
         "var": "Sylvia",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_142719_142286_Screenshot_2026-08-26_142703.png",
@@ -6411,7 +6432,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "Marble"
         },
         "vendorDisplayName": "Client/Fabric"
       },
@@ -7412,6 +7433,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-16T06:52:28.315Z"
+    "timestamp": "2026-10-16T07:07:39.727Z"
   }
 }
