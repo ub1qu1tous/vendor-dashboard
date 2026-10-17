@@ -3034,27 +3034,6 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
-        "op": "092612",
-        "prod": "Helio",
-        "var": "Oceania",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260918_120254_234503_pasted_image_1789713171916.png",
-        "cat": "Outdoor Swings",
-        "mat": "Weaving: 8mm Rope (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)\nSeat: Foam Upholstery (Fabric TBC)\n2 Cushions: Foam Upholstery (Fabric TBC)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72\" x D50\" x H74\"",
-        "fld": "https://drive.google.com/drive/folders/1ph3KYM-mZGNI48X4vaFABHy93_kIjAwn",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
         "op": "092618",
         "prod": "Jasper",
         "var": "Genesis",
@@ -6332,27 +6311,6 @@
         "vendorDisplayName": "Client/Fabric"
       },
       {
-        "op": "092612",
-        "prod": "Helio",
-        "var": "Oceania",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260918_120254_234503_pasted_image_1789713171916.png",
-        "cat": "Outdoor Swings",
-        "mat": "Weaving: 8mm Rope (Finish TBC)\nFrame: Mild Steel (Black Powder Coat)\nSeat: Foam Upholstery (Fabric TBC)\n2 Cushions: Foam Upholstery (Fabric TBC)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W72\" x D50\" x H74\"",
-        "fld": "https://drive.google.com/drive/folders/1ph3KYM-mZGNI48X4vaFABHy93_kIjAwn",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
         "op": "122522",
         "prod": "Umbrella",
         "var": "Insignia",
@@ -7286,6 +7244,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-17T11:22:26.707Z"
+    "timestamp": "2026-10-17T11:37:24.027Z"
   }
 }
