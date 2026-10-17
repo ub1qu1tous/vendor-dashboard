@@ -1708,6 +1708,27 @@
       },
       {
         "op": "092618",
+        "prod": "Jasper",
+        "var": "Genesis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261017_123624_235447_Screenshot_2026-10-17_123434.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Sarom Apache 909)\nFrame: Mild Steel (Black Powder Coat)\nTop: White Oak (Natural)",
+        "sz": "Outer: W62\" x D17\" x H21.5\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1_AEJtwxkOSGDjNGUZht2EesrJ-mNX-z7",
+        "des": "Darshan Desai",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "top plate disk in white oak black matt"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092618",
         "prod": "Minsitthar",
         "var": "Legends",
         "url": "https://i.ibb.co/PNB95XQ/0002.jpg",
@@ -1850,27 +1871,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "102613",
-        "prod": "Abellera",
-        "var": "Dyson",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261016_164134_147607_pasted_image_1792149091811.png",
-        "cat": "Accent Tables",
-        "mat": "Structure: Indian Teak (Black Matt)",
-        "sz": "Outer: W20\" x D15\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/18oa7AXL3kAFpXc3zKHzesAK_Eio2yWPH",
-        "des": "Dilip Jangir",
-        "dl": "15-Oct-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Black Matt open grain"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -2974,7 +2974,7 @@
         "op": "092618",
         "prod": "Jasper",
         "var": "Genesis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_104524_836167_pasted_image_1771305354452.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261017_123624_235447_Screenshot_2026-10-17_123434.png",
         "cat": "Benches",
         "mat": "Seat: Ply & Foam Upholstery (Sarom Apache 909)\nFrame: Mild Steel (Black Powder Coat)\nTop: White Oak (Natural)",
         "sz": "Outer: W62\" x D17\" x H21.5\"\nSeat Height: 16\"",
@@ -4784,7 +4784,7 @@
         "op": "092618",
         "prod": "Jasper",
         "var": "Genesis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260217_104524_836167_pasted_image_1771305354452.png",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261017_123624_235447_Screenshot_2026-10-17_123434.png",
         "cat": "Benches",
         "mat": "Seat: Ply & Foam Upholstery (Sarom Apache 909)\nFrame: Mild Steel (Black Powder Coat)\nTop: White Oak (Natural)",
         "sz": "Outer: W62\" x D17\" x H21.5\"\nSeat Height: 16\"",
@@ -4797,7 +4797,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
+          "rm": "ready round tappered ball leg"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -7202,6 +7202,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-17T06:52:25.364Z"
+    "timestamp": "2026-10-17T07:10:28.717Z"
   }
 }
