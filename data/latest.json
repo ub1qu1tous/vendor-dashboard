@@ -1786,7 +1786,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "top plate disk in white oak black matt"
+          "rm": "top plate disk in white oak natural"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -4824,27 +4824,6 @@
       },
       {
         "op": "092618",
-        "prod": "Canopy",
-        "var": "Adi",
-        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092618",
         "prod": "Cloaked",
         "var": "Airston",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260514_123724_344506_PHOTO-2026-05-14-12-31-28.jpg",
@@ -6781,27 +6760,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Aarti Steel"
-      },
-      {
-        "op": "092618",
-        "prod": "Canopy",
-        "var": "Adi",
-        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
       }
     ],
     "kamlesh_jangid": [
@@ -7349,6 +7307,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-17T07:37:22.609Z"
+    "timestamp": "2026-10-17T07:52:25.232Z"
   }
 }
