@@ -5499,6 +5499,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092620",
+        "prod": "Luz",
+        "var": "Pauli",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260416_164950_445077_jpeg-optimizer_product_1_plain_background.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Arezzo Logan Fluff Beige)\nBase: Sheesham (RAL 1001 Beige)",
+        "sz": "Outer: W26\" x D25\" x H31.5\"\nSeat Height: 20\"",
+        "fld": "https://drive.google.com/drive/folders/1Sy7qjcXFPNes6HVNaIlYpmsJ6K0QGqHW",
+        "des": "Readymade",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Repaint base PU finish with RAL 1001"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "122523",
         "prod": "Glick",
         "var": "Wren",
@@ -7181,6 +7202,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-17T05:52:23.202Z"
+    "timestamp": "2026-10-17T06:08:35.266Z"
   }
 }
