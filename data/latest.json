@@ -1259,7 +1259,7 @@
         "pm": "Maulik Parmar",
         "cr": "G.F. Family Sitting",
         "v": {
-          "c": "",
+          "c": "18-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4375,9 +4375,9 @@
         "pm": "Maulik Parmar",
         "cr": "F.F. Master Bedroom",
         "v": {
-          "c": "",
+          "c": "18-Oct-2026",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "bed back pipe in ss gold pvd"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4440,7 +4440,7 @@
         "v": {
           "c": "15-Oct-2026",
           "a": "",
-          "rm": "BRASS / SS"
+          "rm": "BRASS / SS pipe with 6mm tapping both side"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4461,7 +4461,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "415mm round 12mm dia ss rod with 6mm tapping , 20mm dia 2 washer with 2mm thickness 8mm free hole in washer"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -6417,7 +6417,7 @@
         "pm": "Maulik Parmar",
         "cr": "G.F. Family Sitting",
         "v": {
-          "c": "",
+          "c": "18-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6439,6 +6439,27 @@
         "cr": "F.F. Dining Area",
         "v": {
           "c": "16-Oct-2026",
+          "a": "",
+          "rm": "gold pvd"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "022622",
+        "prod": "Milano",
+        "var": "Woodstock",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260708_184928_440994_pasted_image_1783516766522.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Recycled Teak (Suncity)\nAccessories: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W18.5\" x D23\" x H33.5\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1sMOUzoanTh1njxzKNmoGyhxZYCdqhhH3",
+        "des": "Parthsarthi Suthar",
+        "dl": "08-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Pooja Area",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "gold pvd"
         },
@@ -7202,6 +7223,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-17T07:10:28.717Z"
+    "timestamp": "2026-10-17T07:22:24.795Z"
   }
 }
