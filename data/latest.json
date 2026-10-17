@@ -1987,7 +1987,7 @@
         "var": "Groot",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261012_173416_829833_Screenshot_2026-10-12_163917.png",
         "cat": "Benches",
-        "mat": "Structure: Recycled Teak (Jacobean)",
+        "mat": "Structure: Indian Teak (Jacobean)",
         "sz": "Outer: W48\" x D18\" x H28\"",
         "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
         "des": "Hetvi Shah",
@@ -3023,7 +3023,7 @@
         "fld": "https://drive.google.com/drive/folders/1X1Fuy6PwkdSC0RnvS48JiZ35RdIWbjBv",
         "des": "Akarsha Jha",
         "dl": "25-Dec-2022",
-        "q": 1,
+        "q": 2,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
@@ -4138,7 +4138,7 @@
         "fld": "https://drive.google.com/drive/folders/1X1Fuy6PwkdSC0RnvS48JiZ35RdIWbjBv",
         "des": "Akarsha Jha",
         "dl": "25-Dec-2022",
-        "q": 1,
+        "q": 2,
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
@@ -5019,7 +5019,7 @@
         "var": "Groot",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261012_173416_829833_Screenshot_2026-10-12_163917.png",
         "cat": "Benches",
-        "mat": "Structure: Recycled Teak (Jacobean)",
+        "mat": "Structure: Indian Teak (Jacobean)",
         "sz": "Outer: W48\" x D18\" x H28\"",
         "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
         "des": "Hetvi Shah",
@@ -7181,6 +7181,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-17T05:07:25.010Z"
+    "timestamp": "2026-10-17T05:22:22.548Z"
   }
 }
