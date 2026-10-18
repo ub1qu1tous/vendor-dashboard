@@ -1708,6 +1708,27 @@
       },
       {
         "op": "092606",
+        "prod": "Roon",
+        "var": "Zucchini",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_452797_PHOTO-2026-10-09-18-11-17.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: White Oak (Natural)",
+        "sz": "Outer: W24\" x D20\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1wNEpprP5pOY_39WLOyacpCJTImYI9Vb-",
+        "des": "Parthsarthi Suthar",
+        "dl": "06-Oct-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092606",
         "prod": "Saffi",
         "var": "Asphalt",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_562295_jpeg-optimizer_rule_a_perspective_plain_background.jpeg",
@@ -7307,6 +7328,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-18T08:37:24.428Z"
+    "timestamp": "2026-10-18T08:52:22.924Z"
   }
 }
