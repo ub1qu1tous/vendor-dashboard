@@ -1707,6 +1707,27 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "092606",
+        "prod": "Saffi",
+        "var": "Asphalt",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_562295_jpeg-optimizer_rule_a_perspective_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Benette Coriander 109912)\nSupport: Mild Steel (Black Powder Coat)\nBackrest: Foam Upholstery (Fabric TBC)\n1 Centre Cushion: Recron Filling (Fabric TBC)\nMounting:  ()",
+        "sz": "Outer: W29\" x D29\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1C8Har6WZN_g_HWe83irbWQyBdAHt8iyP",
+        "des": "Akarsha Jha",
+        "dl": "11-Oct-2022",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "repair and polish after diwali is fine"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "092613",
         "prod": "Fantasis",
         "var": "Junior",
@@ -3034,6 +3055,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "092606",
+        "prod": "Saffi",
+        "var": "Asphalt",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_562295_jpeg-optimizer_rule_a_perspective_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Benette Coriander 109912)\nSupport: Mild Steel (Black Powder Coat)\nBackrest: Foam Upholstery (Fabric TBC)\n1 Centre Cushion: Recron Filling (Fabric TBC)\nMounting:  ()",
+        "sz": "Outer: W29\" x D29\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1C8Har6WZN_g_HWe83irbWQyBdAHt8iyP",
+        "des": "Akarsha Jha",
+        "dl": "11-Oct-2022",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Low priotity before diwali"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "092618",
         "prod": "Jasper",
         "var": "Genesis",
@@ -4183,6 +4225,27 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "Studio Room Panel",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092606",
+        "prod": "Saffi",
+        "var": "Asphalt",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_562295_jpeg-optimizer_rule_a_perspective_plain_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Benette Coriander 109912)\nSupport: Mild Steel (Black Powder Coat)\nBackrest: Foam Upholstery (Fabric TBC)\n1 Centre Cushion: Recron Filling (Fabric TBC)\nMounting:  ()",
+        "sz": "Outer: W29\" x D29\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/1C8Har6WZN_g_HWe83irbWQyBdAHt8iyP",
+        "des": "Akarsha Jha",
+        "dl": "11-Oct-2022",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -7244,6 +7307,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-18T08:22:26.776Z"
+    "timestamp": "2026-10-18T08:37:24.428Z"
   }
 }
