@@ -1623,6 +1623,69 @@
         "vendorDisplayName": "Krishna Furnitech"
       },
       {
+        "op": "062608",
+        "prod": "Lakeston",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181114_297480_PHOTO-2026-06-09-17-08-45.jpg",
+        "cat": "Door Frames",
+        "mat": "Frame: White Oak (Olive)",
+        "sz": "Outer: W42.5\" x D12\" x H95\"",
+        "fld": "https://drive.google.com/drive/folders/13XCJv84FSs9nB684xFFraae9bBo7HmjK",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 14,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Frames as per schedule"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Lakeston",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181038_434127_pasted_image_1781527232041.png",
+        "cat": "Doors",
+        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)",
+        "sz": "Outer: W37.5\" x D2\" x H92.5\"",
+        "fld": "https://drive.google.com/drive/folders/1E2SWSUseLDqAlr7hSMIiKzih0OttW_Yq",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 16,
+        "pm": "Dilip Jangir",
+        "cr": "As per Doors T&C submitted vide 9-6-26",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Doors as per schedule"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Thom",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261019_152947_912231_pasted_image_1792403987138.png",
+        "cat": "Doors",
+        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)\nFrame: White Oak (Olive)\nPanel: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W53.5\" x D3\" x H117\"",
+        "fld": "https://drive.google.com/drive/folders/1kEaMwS04B1GpfZ_ZgYaeGaMRTOdGlHsB",
+        "des": "Dilip Jangir",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Drawings In Folder",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Door and Frame set as per schedule"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
         "op": "062612",
         "prod": "Aykermann",
         "var": "Hyde",
@@ -7383,6 +7446,27 @@
     ],
     "casa_creations": [
       {
+        "op": "062608",
+        "prod": "Thom",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261019_152947_912231_pasted_image_1792403987138.png",
+        "cat": "Doors",
+        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)\nFrame: White Oak (Olive)\nPanel: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W53.5\" x D3\" x H117\"",
+        "fld": "https://drive.google.com/drive/folders/1kEaMwS04B1GpfZ_ZgYaeGaMRTOdGlHsB",
+        "des": "Dilip Jangir",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Drawings In Folder",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Casa Creations"
+      },
+      {
         "op": "062612",
         "prod": "Aztec",
         "var": "Avelli",
@@ -7626,6 +7710,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-19T10:23:04.202Z"
+    "timestamp": "2026-10-19T10:37:33.618Z"
   }
 }
