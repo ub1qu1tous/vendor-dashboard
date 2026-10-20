@@ -656,6 +656,27 @@
       },
       {
         "op": "092606",
+        "prod": "Albatross",
+        "var": "Oscar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_130759_150727_pasted_image_1760600285262.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Recycled Teak (Natural)\nStructure: Ply & Foam Upholstery (Marvin Nappa Leather 1321 Jetblack)",
+        "sz": "Outer: W32\" x D31\" x H30\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "ready in stock "
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092606",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -3212,7 +3233,7 @@
         "fld": "https://drive.google.com/drive/folders/1QhYNF0lJ4OWs_L8x-hJl9T-XQEr1Lu_N",
         "des": "Atharva Kelkar",
         "dl": "30-Oct-2020",
-        "q": 1,
+        "q": 2,
         "pm": "Dilip Jangir",
         "cr": "Dicey for Thursday",
         "v": {
@@ -5318,7 +5339,7 @@
         "fld": "https://drive.google.com/drive/folders/1QhYNF0lJ4OWs_L8x-hJl9T-XQEr1Lu_N",
         "des": "Atharva Kelkar",
         "dl": "30-Oct-2020",
-        "q": 1,
+        "q": 2,
         "pm": "Dilip Jangir",
         "cr": "Dicey for Thursday",
         "v": {
@@ -7710,6 +7731,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-20T11:22:22.239Z"
+    "timestamp": "2026-10-20T11:37:24.112Z"
   }
 }
