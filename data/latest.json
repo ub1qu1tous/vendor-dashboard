@@ -531,13 +531,13 @@
       {
         "op": "082611",
         "prod": "Ethera",
-        "var": "Carat",
-        "url": "https://i.ibb.co/f2jLqJy/0001.jpg",
+        "var": "Bullion",
+        "url": "https://i.ibb.co/6wJLGvR/Bullion-4.jpg",
         "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nLegs: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W42\" x D42\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1-BEp1Thb7aPFA9utoH3cVx4JxIB8BQC9",
-        "des": "Parthsarthi Suthar",
+        "mat": "Top: Sheesham (Peca)\nLegs: Sheesham (Peca)",
+        "sz": "Outer: W36\" x D36\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1oQLUmIOo-Tt5A71sKDQStYP6QGEOv5Ej",
+        "des": "Shivani Oza",
         "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Maulik Parmar",
@@ -7794,6 +7794,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T12:37:30.823Z"
+    "timestamp": "2026-10-21T12:52:27.834Z"
   }
 }
