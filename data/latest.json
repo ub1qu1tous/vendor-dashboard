@@ -5563,27 +5563,6 @@
       },
       {
         "op": "062509",
-        "prod": "Dublin",
-        "var": "Quitero",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260318_132441_347455_pasted_image_1773820480031.png",
-        "cat": "Chests",
-        "mat": "Carcass: Black Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (SCS RZ 5129 RS)\nMounting: HDHMR (ICA VMA3020 + SFCA)\nTop: Black Marquina (Mirror Buffing)",
-        "sz": "Outer: W60\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/12tb8yR8C37pNFmEv6tK5iNe1fBT3-fEc",
-        "des": "Hetvi Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Media Console",
-        "v": {
-          "c": "30-Mar-2026",
-          "a": "",
-          "rm": "Drawer making, ICA VMA3020 + SFCA Antique Gold PU ONLY"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
         "prod": "Howard",
         "var": "Yurick",
         "url": "https://galleryplus.sulfur.one/media/public_images/20250829_111907_652499_pasted_image_1756446550965.png",
@@ -5663,27 +5642,6 @@
           "c": "19-Oct-2026",
           "a": "",
           "rm": "Top and carcass white pu"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "062509",
-        "prod": "Roebuck",
-        "var": "Voorp",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260214_114126_164230_pasted_image_1771049508786.png",
-        "cat": "Study Tables",
-        "mat": "Top: HDHMR (White PU)\nSupport: HDHMR (White PU)\nCarcass: Sheesham (Black Matt)\nDrawer Fascia: Sheesham (Black Matt)\nDrawer Box: 12mm Plywood (SCS RZ 5129 RS)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W66\" x D24\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/10GfB2qQ_XXxdFQ5p0Sb0ghMvQYYTzwCA",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Study Table",
-        "v": {
-          "c": "08-Aug-2025",
-          "a": "",
-          "rm": "PU ONLY"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -5894,27 +5852,6 @@
           "c": "",
           "a": "",
           "rm": "Repaint base PU finish with RAL 1001"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "122523",
-        "prod": "Glick",
-        "var": "Wren",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260612_130113_086479_pasted_image_1781249470869.png",
-        "cat": "Storage Cabinets",
-        "mat": "Carcass: HDHMR (ICA Sabbia 0119)\nShutter: HDHMR (ICA Sabbia Scuro 129)\nLegs: HDHMR (ICA Sabbia 0119)\nDrawer Fascia: HDHMR (ICA Sabbia Scuro 129)\nInternal Carcass: 16mm Plywood (Oak Laminate)",
-        "sz": "Outer: W72\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1QCZB06pSL0LEBaZ9PIRRAE4GiJGLvfTl",
-        "des": "Hetvi Shah",
-        "dl": "01-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "SF Meeting Room",
-        "v": {
-          "c": "14-Aug-2026",
-          "a": "",
-          "rm": "Drawer push to open, shutter push to open pin,\ninternal laminate oak"
         },
         "vendorDisplayName": "Vipra"
       }
@@ -7773,6 +7710,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T09:07:31.741Z"
+    "timestamp": "2026-10-21T09:22:23.433Z"
   }
 }
