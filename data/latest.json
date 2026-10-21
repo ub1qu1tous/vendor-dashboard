@@ -1834,27 +1834,6 @@
       },
       {
         "op": "092606",
-        "prod": "Ethera",
-        "var": "Brume",
-        "url": "https://i.ibb.co/symByL4/Brume-3.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Black Distressed/Charcoal)\nLegs: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W36\" x D36\" x H16\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1fE_MbmNeRXbhRYxRcVh5qMIwf6krhpgA",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092606",
         "prod": "Lurell",
         "var": "Ostler",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260728_181622_831964_bed_real_oak_leather.jpg",
@@ -7794,6 +7773,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T13:07:22.146Z"
+    "timestamp": "2026-10-21T13:22:28.519Z"
   }
 }
