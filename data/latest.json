@@ -887,6 +887,27 @@
       },
       {
         "op": "092618",
+        "prod": "Poseidon",
+        "var": "Malana",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_134943_893811_pasted_image_1776500379974.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Burma Border Teak (Natural)\nBackrest: Ply & Foam Upholstery (Beyond Black SRN 134)\nBackrest: Ply & Foam Upholstery (Beyond Black SRN 130)\nSeat: Ply & Foam Upholstery (Beyond Black SRN 134)\nSeat: Ply & Foam Upholstery (Beyond Black SRN 130)",
+        "sz": "Outer: W30\" x D36\" x H33.5\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
+        "des": "Hetvi Shah",
+        "dl": "16-Aug-2025",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "14-Oct-2026",
+          "a": "",
+          "rm": "2 pc from showroom"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092618",
         "prod": "Triton",
         "var": "Bliss",
         "url": "https://i.ibb.co/zTTFwzq4/0002.jpg",
@@ -5833,27 +5854,6 @@
           "rm": "PU rework"
         },
         "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "092620",
-        "prod": "Luz",
-        "var": "Pauli",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260416_164950_445077_jpeg-optimizer_product_1_plain_background.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Arezzo Logan Fluff Beige)\nBase: Sheesham (RAL 1001 Beige)",
-        "sz": "Outer: W26\" x D25\" x H31.5\"\nSeat Height: 20\"",
-        "fld": "https://drive.google.com/drive/folders/1Sy7qjcXFPNes6HVNaIlYpmsJ6K0QGqHW",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Repaint base PU finish with RAL 1001"
-        },
-        "vendorDisplayName": "Vipra"
       }
     ],
     "royal_powder_coat": [
@@ -7710,6 +7710,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T10:22:21.741Z"
+    "timestamp": "2026-10-21T10:37:26.536Z"
   }
 }
