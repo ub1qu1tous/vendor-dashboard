@@ -4929,27 +4929,6 @@
       },
       {
         "op": "062509",
-        "prod": "Orovia",
-        "var": "Noel",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_180833_872345_Screenshot_2026-02-10_180745.png",
-        "cat": "Nightstands",
-        "mat": "Top: HDHMR (White PU)\nMounting: Mild Steel (White Powder Coat)\nCarcass: HDHMR (White PU)\nInternal Carcass: HDHMR (Finish TBC)\nSupport: Mild Steel (White Powder Coat)\nBase: Black Panda Marble (Finish TBC)",
-        "sz": "Outer: W16\" x D16\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1sqNL_09NNGR8huhN-7Vv773QAwi7Tytw",
-        "des": "Tanmay Shah",
-        "dl": "01-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Nightstand",
-        "v": {
-          "c": "25-Apr-2026",
-          "a": "",
-          "rm": "pipe 3\"x 3\" section 80mm height, 4 free hole both end closed pipe ,total 4 pipe ms"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "062509",
         "prod": "Till",
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
@@ -5027,27 +5006,6 @@
         "cr": "Lounge Corner Table",
         "v": {
           "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092613",
-        "prod": "Fantasis",
-        "var": "Junior",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261005_133852_708079_pasted_image_1791187732244.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Statuario (Mirror Buffing)\nSupport: Mild Steel (Finish TBC)\nBase: White Oak (White Wash)",
-        "sz": "Outer: W66\" x D36\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/1Z6hLDGqdTh9EGyrYp8cLuXNl70QJGzWR",
-        "des": "Parth Gada",
-        "dl": "15-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "05-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -7731,6 +7689,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T06:22:28.717Z"
+    "timestamp": "2026-10-21T06:37:27.919Z"
   }
 }
