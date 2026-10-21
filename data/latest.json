@@ -656,27 +656,6 @@
       },
       {
         "op": "092606",
-        "prod": "Albatross",
-        "var": "Oscar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251016_130759_150727_pasted_image_1760600285262.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Recycled Teak (Natural)\nStructure: Ply & Foam Upholstery (Marvin Nappa Leather 1321 Jetblack)",
-        "sz": "Outer: W32\" x D31\" x H30\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/17N7o6M0wUW5Xi4zuSO7cON9CDGPIbHo-",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "ready in stock "
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092606",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -728,27 +707,6 @@
         "fld": "https://drive.google.com/drive/folders/1u24FsiDFNUC84Px_ji2nRfl4pkggFK6H?usp=sharing",
         "des": "Tarishi Rathore",
         "dl": "26-May-2022",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092606",
-        "prod": "Gregory",
-        "var": "Danbolt",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260416_160054_650783_product_1_plain_background.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Rich Tobacco)\nSeat: Foam Upholstery (ALURR 38 TREVI)\n1 Centre Cushion: Recron Filling (ALURR 38 TREVI)",
-        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1ahVlBruCLoMQ3wW0gWRbjMDBHnmaZuEi",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -3235,6 +3193,27 @@
         "dl": "02-Jan-2010",
         "q": 5,
         "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092606",
+        "prod": "Janine",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_114758_787377_jpeg-optimizer_wooden_chair_grey_cement_background.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Recycled Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\nSeat: Ply & Foam Upholstery (Harmel Home H1620 236-3)\n1 Centre Cushion: Foam Upholstery (Harmel Home H1620 236-3)",
+        "sz": "Outer: W31\" x D30\" x H48\"\nSeat Height: 19.5\"",
+        "fld": "https://drive.google.com/drive/folders/125CRDRJdP4dlNudZSqVv0IxWkZw9bEty",
+        "des": "Kapil Grover",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
         "cr": "",
         "v": {
           "c": "",
@@ -7773,6 +7752,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T13:22:28.519Z"
+    "timestamp": "2026-10-21T13:37:25.267Z"
   }
 }
