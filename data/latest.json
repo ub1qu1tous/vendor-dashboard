@@ -1939,6 +1939,27 @@
       },
       {
         "op": "092618",
+        "prod": "Calliope",
+        "var": "Pelican",
+        "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Lama Kita001)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W132\" x D109.75\" x H30.75\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1PgdmbduMF2hTXBN4k9_vdWcnoiSdVpAw",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "teak/oak legs - discuss"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092618",
         "prod": "Darius",
         "var": "Atrica",
         "url": "https://i.ibb.co/SVtb58J/c0001IBB.jpg",
@@ -3329,6 +3350,27 @@
       },
       {
         "op": "092618",
+        "prod": "Calliope",
+        "var": "Pelican",
+        "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Lama Kita001)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W132\" x D109.75\" x H30.75\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1PgdmbduMF2hTXBN4k9_vdWcnoiSdVpAw",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092618",
         "prod": "Jasper",
         "var": "Genesis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261017_123624_235447_Screenshot_2026-10-17_123434.png",
@@ -4507,6 +4549,27 @@
       },
       {
         "op": "092618",
+        "prod": "Calliope",
+        "var": "Pelican",
+        "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Lama Kita001)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W132\" x D109.75\" x H30.75\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1PgdmbduMF2hTXBN4k9_vdWcnoiSdVpAw",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aavaran"
+      },
+      {
+        "op": "092618",
         "prod": "Loraine",
         "var": "Elide",
         "url": "https://i.ibb.co/k3F0Dgm/0002.jpg",
@@ -5402,6 +5465,27 @@
         "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
         "des": "Hetvi Shah",
         "dl": "05-Sept-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "092618",
+        "prod": "Calliope",
+        "var": "Pelican",
+        "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Lama Kita001)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W132\" x D109.75\" x H30.75\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1PgdmbduMF2hTXBN4k9_vdWcnoiSdVpAw",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -7710,6 +7794,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T10:37:26.536Z"
+    "timestamp": "2026-10-21T10:54:45.895Z"
   }
 }
