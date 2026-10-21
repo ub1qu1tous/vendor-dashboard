@@ -5898,6 +5898,27 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "092613",
+        "prod": "Fantasis",
+        "var": "Junior",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261005_133852_708079_pasted_image_1791187732244.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Statuario (Mirror Buffing)\nSupport: Mild Steel (Finish TBC)\nBase: White Oak (White Wash)",
+        "sz": "Outer: W66\" x D36\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/1Z6hLDGqdTh9EGyrYp8cLuXNl70QJGzWR",
+        "des": "Parth Gada",
+        "dl": "15-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "12-Oct-2026",
+          "a": "",
+          "rm": "ica"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "092618",
         "prod": "Cloaked",
         "var": "Airston",
@@ -7794,6 +7815,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T10:54:45.895Z"
+    "timestamp": "2026-10-21T11:07:23.100Z"
   }
 }
