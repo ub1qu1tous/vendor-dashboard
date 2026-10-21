@@ -782,6 +782,27 @@
       },
       {
         "op": "092606",
+        "prod": "Okinawa",
+        "var": "Fern",
+        "url": "https://i.ibb.co/SmFc1Hm/Okinawa-2.jpg",
+        "cat": "Archived",
+        "mat": "Frame: Indian Teak (Peca)\nSeat: Ply & Foam Upholstery (Arezzo Logan Fluff Beige)\nBackrest: Foam Upholstery (Arezzo Logan Fluff Beige)\nCap: Brass (Matt Buffing)",
+        "sz": "Outer: W20\" x D21\" x H31\"\nSeat Height: 17.71\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1q31Q3VZgAIKwf75PIXdFRV_e6zfD5Vor",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "092606",
         "prod": "Rieger",
         "var": "Bawra",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260209_143508_467197_pasted_image_1770627930836.png",
@@ -2209,27 +2230,6 @@
           "c": "15-Oct-2026",
           "a": "",
           "rm": "recycle teak without polish"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "072608",
-        "prod": "Tauris",
-        "var": "Cormac",
-        "url": "https://i.ibb.co/GW4vSyV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W48\" x D30\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1Xu6bkydbez0AOtgiPlweJ2vnuManhSZ5",
-        "des": "Vikas Jangir",
-        "dl": "06-Oct-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "14-Oct-2026",
-          "a": "",
-          "rm": "1 pc "
         },
         "vendorDisplayName": "Vittal Wood-tech"
       },
@@ -7675,27 +7675,6 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "092618",
-        "prod": "Zayn",
-        "var": "Klingon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_173354_371212_Screenshot_2026-10-09_173234.png",
-        "cat": "Console Tables",
-        "mat": "Top: Avocado Quartzite (Mirror Buffing)\nBase: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W60\" x D18\" x H29.52\"",
-        "fld": "https://drive.google.com/drive/folders/1dOZREaU5FsPYMds5yJmxqgLuF1N8Sehk",
-        "des": "Hardik Katariya",
-        "dl": "10-Oct-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
       }
     ],
     "fs_sofa_legs": [
@@ -7815,6 +7794,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-21T11:52:23.421Z"
+    "timestamp": "2026-10-21T12:09:41.107Z"
   }
 }
