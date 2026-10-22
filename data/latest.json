@@ -655,7 +655,7 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "092606",
+        "op": "052306",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -666,7 +666,7 @@
         "des": "Hetvi Shah",
         "dl": "03-Aug-2026",
         "q": 1,
-        "pm": "Dilip Jangir",
+        "pm": "Rohan Parmar",
         "cr": "Dicey for Thursday",
         "v": {
           "c": "",
@@ -676,7 +676,7 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "092606",
+        "op": "052306",
         "prod": "Dichotomy",
         "var": "Pi",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260415_181029_683321_jpeg-optimizer_lifestyle_setup_2.jpeg",
@@ -687,7 +687,7 @@
         "des": "PS Design",
         "dl": "02-Jan-2010",
         "q": 1,
-        "pm": "Dilip Jangir",
+        "pm": "Rohan Parmar",
         "cr": "Dicey for Thursday",
         "v": {
           "c": "",
@@ -5308,7 +5308,7 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "092606",
+        "op": "052306",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -5319,7 +5319,7 @@
         "des": "Hetvi Shah",
         "dl": "03-Aug-2026",
         "q": 1,
-        "pm": "Dilip Jangir",
+        "pm": "Rohan Parmar",
         "cr": "Dicey for Thursday",
         "v": {
           "c": "",
@@ -7639,7 +7639,7 @@
     ],
     "rajeshbhai_sculpture": [
       {
-        "op": "092606",
+        "op": "052306",
         "prod": "Arnett",
         "var": "Travis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
@@ -7650,7 +7650,7 @@
         "des": "Hetvi Shah",
         "dl": "03-Aug-2026",
         "q": 1,
-        "pm": "Dilip Jangir",
+        "pm": "Rohan Parmar",
         "cr": "Dicey for Thursday",
         "v": {
           "c": "",
@@ -7731,6 +7731,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T07:07:23.493Z"
+    "timestamp": "2026-10-22T07:22:19.975Z"
   }
 }
