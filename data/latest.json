@@ -1994,7 +1994,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "16-Oct-2026",
           "a": "",
           "rm": "legs 5 legs in beidge colour"
         },
@@ -2209,27 +2209,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "102617",
-        "prod": "Canopy",
-        "var": "Bliss",
-        "url": "https://i.ibb.co/PGR8WmGK/0002.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: HDHMR (Asian Paints Royale Play Archi Concrete Muted Grey 8231)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Suncity)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MRIdfJEbLSmbveQh5kzWV8VZ7Q0vnMEF",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "20-Feb-2026",
-          "a": "",
-          "rm": "2 pc teak wood center support , HEIGHT 375MM"
         },
         "vendorDisplayName": "Vittal Wood-tech"
       }
@@ -3447,7 +3426,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "16-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4541,7 +4520,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "16-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5471,7 +5450,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "suncity"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       }
@@ -7731,6 +7710,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T07:37:22.817Z"
+    "timestamp": "2026-10-22T07:52:22.036Z"
   }
 }
