@@ -152,6 +152,48 @@
       },
       {
         "op": "052306",
+        "prod": "Arnett",
+        "var": "Travis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
+        "sz": "Outer: W19.5\" x D17\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
+        "des": "Hetvi Shah",
+        "dl": "03-Aug-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Dicey for Thursday",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "marble top"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "052306",
+        "prod": "Dichotomy",
+        "var": "Pi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_181029_683321_jpeg-optimizer_lifestyle_setup_2.jpeg",
+        "cat": "Accent Tables",
+        "mat": "Top: Mild Steel (Brass Transparent Coat)\nBase: Mild Steel (Brass Transparent Coat)\nMounting: Sandstone (Riversand)",
+        "sz": "Outer: W15\" x D15\" x H21.8\"",
+        "fld": "https://drive.google.com/drive/folders/1djA58HojEx9YsLz2krD6C16cUY9ZPEdm",
+        "des": "PS Design",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Dicey for Thursday",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "052306",
         "prod": "Mexico",
         "var": "Pendula",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
@@ -651,48 +693,6 @@
           "c": "",
           "a": "",
           "rm": "Rotary CNC"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "052306",
-        "prod": "Arnett",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
-        "sz": "Outer: W19.5\" x D17\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
-        "des": "Hetvi Shah",
-        "dl": "03-Aug-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "marble top"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "052306",
-        "prod": "Dichotomy",
-        "var": "Pi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_181029_683321_jpeg-optimizer_lifestyle_setup_2.jpeg",
-        "cat": "Accent Tables",
-        "mat": "Top: Mild Steel (Brass Transparent Coat)\nBase: Mild Steel (Brass Transparent Coat)\nMounting: Sandstone (Riversand)",
-        "sz": "Outer: W15\" x D15\" x H21.8\"",
-        "fld": "https://drive.google.com/drive/folders/1djA58HojEx9YsLz2krD6C16cUY9ZPEdm",
-        "des": "PS Design",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "AWS"
       },
@@ -3119,27 +3119,6 @@
       },
       {
         "op": "092606",
-        "prod": "Polo",
-        "var": "Caitlin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_104403_696968_jpeg-optimizer_edited_light_oak_lounge_wood_match.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Ash (Olive)\nSeat: Foam Upholstery (Fabric TBC)\n1 Centre Cushion: Recron Filling (Fabric TBC)\nMembrane: Canvas Upholstery (Fabric TBC)",
-        "sz": "Outer: W30\" x D38\" x H26.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1QhYNF0lJ4OWs_L8x-hJl9T-XQEr1Lu_N",
-        "des": "Atharva Kelkar",
-        "dl": "30-Oct-2020",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092606",
         "prod": "Warner",
         "var": "Gul",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261015_173904_418615_WhatsApp_Image_2026-10-15_at_17_33_15.jpeg",
@@ -5119,6 +5098,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "052306",
+        "prod": "Arnett",
+        "var": "Travis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
+        "sz": "Outer: W19.5\" x D17\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
+        "des": "Hetvi Shah",
+        "dl": "03-Aug-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Dicey for Thursday",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "062509",
         "prod": "Friston",
         "var": "Jet",
@@ -5203,48 +5203,6 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
-        "op": "052306",
-        "prod": "Arnett",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
-        "sz": "Outer: W19.5\" x D17\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
-        "des": "Hetvi Shah",
-        "dl": "03-Aug-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "092606",
-        "prod": "Polo",
-        "var": "Caitlin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260417_104403_696968_jpeg-optimizer_edited_light_oak_lounge_wood_match.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Ash (Olive)\nSeat: Foam Upholstery (Fabric TBC)\n1 Centre Cushion: Recron Filling (Fabric TBC)\nMembrane: Canvas Upholstery (Fabric TBC)",
-        "sz": "Outer: W30\" x D38\" x H26.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1QhYNF0lJ4OWs_L8x-hJl9T-XQEr1Lu_N",
-        "des": "Atharva Kelkar",
-        "dl": "30-Oct-2020",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
         "op": "092606",
         "prod": "Yuki",
         "var": "Dwight",
@@ -5267,15 +5225,15 @@
       },
       {
         "op": "092618",
-        "prod": "Canopy",
-        "var": "Adi",
-        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
+        "prod": "Calliope",
+        "var": "Pelican",
+        "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Lama Kita001)\nLegs: White Oak (Natural)",
+        "sz": "Outer: W132\" x D109.75\" x H30.75\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1PgdmbduMF2hTXBN4k9_vdWcnoiSdVpAw",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -5288,15 +5246,15 @@
       },
       {
         "op": "092618",
-        "prod": "Calliope",
-        "var": "Pelican",
-        "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
-        "cat": "Sectional Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Lama Kita001)\nLegs: White Oak (Natural)",
-        "sz": "Outer: W132\" x D109.75\" x H30.75\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1PgdmbduMF2hTXBN4k9_vdWcnoiSdVpAw",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
+        "prod": "Canopy",
+        "var": "Adi",
+        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
+        "cat": "Console Tables",
+        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
+        "sz": "Outer: W72\" x D21\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
+        "des": "Hetvi Shah",
+        "dl": "05-Sept-2024",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -7079,6 +7037,29 @@
         "vendorDisplayName": "Kamlesh Jangid"
       }
     ],
+    "rajeshbhai_sculpture": [
+      {
+        "op": "052306",
+        "prod": "Arnett",
+        "var": "Travis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
+        "sz": "Outer: W19.5\" x D17\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
+        "des": "Hetvi Shah",
+        "dl": "03-Aug-2026",
+        "q": 1,
+        "pm": "Rohan Parmar",
+        "cr": "Dicey for Thursday",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Rajeshbhai Sculpture"
+      }
+    ],
     "mandap": [
       {
         "op": "052603",
@@ -7490,29 +7471,6 @@
         "vendorDisplayName": "FS Sofa Legs"
       }
     ],
-    "rajeshbhai_sculpture": [
-      {
-        "op": "052306",
-        "prod": "Arnett",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260727_143042_690383_Screenshot_2026-07-27_142955.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Marble TBC (Finish TBC)\nBase: Sheesham (Black)",
-        "sz": "Outer: W19.5\" x D17\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
-        "des": "Hetvi Shah",
-        "dl": "03-Aug-2026",
-        "q": 1,
-        "pm": "Rohan Parmar",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Rajeshbhai Sculpture"
-      }
-    ],
     "v9_home_decor": [
       {
         "op": "092606",
@@ -7561,6 +7519,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T12:52:27.776Z"
+    "timestamp": "2026-10-22T13:07:25.159Z"
   }
 }
