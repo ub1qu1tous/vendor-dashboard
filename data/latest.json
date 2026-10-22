@@ -656,27 +656,6 @@
       },
       {
         "op": "092606",
-        "prod": "Akita",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_452316_PHOTO-2026-10-09-19-27-00.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nSupport: 15mm MDF (Black Matt Duco)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W78\" x D48\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1JQKX9FK2bSlTzNa8h5Gg8NY5FyyMTveE",
-        "des": "Canna Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "MDF and Metal"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092606",
         "prod": "Rieger",
         "var": "Bawra",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260209_143508_467197_pasted_image_1770627930836.png",
@@ -1619,27 +1598,6 @@
           "c": "03-Oct-2026",
           "a": "",
           "rm": "wooden frame qty= 2"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092606",
-        "prod": "Akita",
-        "var": "August",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_452316_PHOTO-2026-10-09-19-27-00.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nSupport: 15mm MDF (Black Matt Duco)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W78\" x D48\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1JQKX9FK2bSlTzNa8h5Gg8NY5FyyMTveE",
-        "des": "Canna Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "15\" height legs"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -6594,27 +6552,6 @@
         "vendorDisplayName": "Aarti Steel"
       },
       {
-        "op": "092606",
-        "prod": "Akita",
-        "var": "Indiana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_154339_451046_PHOTO-2026-10-09-19-59-20.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Marble TBC (Mirror Buffing)\nSupport: 15mm MDF (Black Matt Duco)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W24\" x D24\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1Pz7H6q8L3uDXpoN-gXiusQyTbtJ5CVpD",
-        "des": "Canna Shah",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aarti Steel"
-      },
-      {
         "op": "102617",
         "prod": "Canopy",
         "var": "Bliss",
@@ -7050,48 +6987,6 @@
       },
       {
         "op": "062612",
-        "prod": "Aztec",
-        "var": "Avelli",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_103401_137927_pasted_image_1791522239151.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Black)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W48\" x D16\" x H12\"",
-        "fld": "https://drive.google.com/drive/folders/1AjZsNvzLIxq60ppa7cLiv-tAlIVrpxSN",
-        "des": "Akhilesh Yadav",
-        "dl": "07-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "062612",
-        "prod": "Aztec",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_102837_135044_pasted_image_1791521915396.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Travertine (Mirror PU Lamination)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W46\" x D19\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1uzkfhAkNpK04md6w9Zy2uPjc1Z_i1WT-",
-        "des": "Akhilesh Yadav",
-        "dl": "07-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "062612",
         "prod": "Highrose",
         "var": "Rusts",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261006_101917_340578_Highrose_Rusts.jpg",
@@ -7108,48 +7003,6 @@
           "c": "03-Oct-2026",
           "a": "",
           "rm": "metal part with antique brass matt finish for 2 chairs"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "062612",
-        "prod": "Zayn",
-        "var": "Benito",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260608_181217_356626_Screenshot_2026-06-08_181015.png",
-        "cat": "Dining Table Bases",
-        "mat": "Base: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W90\" x D42\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/17RiH5l4dZmgR4Qms0-tPAKcLMwDhTxRQ",
-        "des": "Dilip Jangir",
-        "dl": "09-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Casa Creations"
-      },
-      {
-        "op": "082624",
-        "prod": "Swindon",
-        "var": "Storr",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260717_182555_416306_Gemini_Generated_Image_maivjwmaivjwmaiv.png",
-        "cat": "Dining Tables",
-        "mat": "Top: Acacia (Natural)\nBase: HDHMR (Clear)\nCladding: Brass (Clear Lacquered)",
-        "sz": "Outer: W168\" x D60\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1Zriak5IfA9jpSJVCO6jBdR3o8A4E8_m4",
-        "des": "Akhilesh Yadav",
-        "dl": "28-Jul-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
         },
         "vendorDisplayName": "Casa Creations"
       }
@@ -7179,6 +7032,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T14:53:15.769Z"
+    "timestamp": "2026-10-22T15:07:34.102Z"
   }
 }
