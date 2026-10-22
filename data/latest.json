@@ -2148,27 +2148,6 @@
           "rm": "recycle teak without polish"
         },
         "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "092601",
-        "prod": "Canopy",
-        "var": "Adi",
-        "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
-        "cat": "Console Tables",
-        "mat": "Top: Mild Steel (Weathered)\nSupport: Sandstone (Mirror Buffing)\nLegs: Stainless Steel 304 Matt (Gold PVD)\nMounting: Recycled Teak (Natural)",
-        "sz": "Outer: W72\" x D21\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1MVJFgYLb0ArI-LxmLFShRpC-2IoBIrjP",
-        "des": "Hetvi Shah",
-        "dl": "05-Sept-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "aidan_dudy": [
@@ -7600,32 +7579,9 @@
         },
         "vendorDisplayName": "Gujarat Handicrafts"
       }
-    ],
-    "smit_enterprise": [
-      {
-        "op": "102607",
-        "prod": "Perla",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261007_114705_206326_pasted_image_1791353824893.png",
-        "cat": "Doors",
-        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
-        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
-        "des": "IK Architects",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Smit Enterprise"
-      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T09:52:22.515Z"
+    "timestamp": "2026-10-22T10:07:25.405Z"
   }
 }
