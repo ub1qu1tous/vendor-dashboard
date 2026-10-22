@@ -1435,27 +1435,6 @@
       },
       {
         "op": "022622",
-        "prod": "Osaka",
-        "var": "Indiana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261016_131457_517869_WhatsApp_Image_2026-10-16_at_1_07_19_PM.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1vjx1x3K6JaYMoTW7y_Qj3-vqdh_1X7ih",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
         "prod": "Urbe",
         "var": "Zuri",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134922_529503_Screenshot_2026-08-26_134218.png",
@@ -7582,6 +7561,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T12:22:26.340Z"
+    "timestamp": "2026-10-22T12:37:26.466Z"
   }
 }
