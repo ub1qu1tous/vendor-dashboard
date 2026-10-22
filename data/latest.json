@@ -928,27 +928,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "092618",
-        "prod": "Zayn",
-        "var": "Klingon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_173354_371212_Screenshot_2026-10-09_173234.png",
-        "cat": "Console Tables",
-        "mat": "Top: Avocado Quartzite (Mirror Buffing)\nBase: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W60\" x D18\" x H29.52\"",
-        "fld": "https://drive.google.com/drive/folders/1dOZREaU5FsPYMds5yJmxqgLuF1N8Sehk",
-        "des": "Hardik Katariya",
-        "dl": "10-Oct-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Marble From Stock avocado marble"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "092620",
         "prod": "Luz",
         "var": "Pauli",
@@ -7752,6 +7731,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-22T06:37:22.002Z"
+    "timestamp": "2026-10-22T06:52:21.054Z"
   }
 }
