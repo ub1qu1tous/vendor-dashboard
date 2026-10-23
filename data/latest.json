@@ -4423,7 +4423,7 @@
         "v": {
           "c": "15-Oct-2026",
           "a": "",
-          "rm": "Shutter: PU RAL 1013, RAL 6021\nDrawers: RAL 1013\nInternal Laminate: ORZ 139\nGroove: 6mm x 6mm Groove with RAL 6021\nPtti: 14mm width x 7mm height D ptti both end capsule round with RAL 6021\nClear Glass: In all 6 drawers"
+          "rm": "Shutter: PU RAL 1013, RAL 6021\nDrawers Fascia: RAL 1013\nInternal Laminate: ORZ 139\nGroove: 6mm x 6mm Groove with RAL 6021\nPtti: 14mm width x 7mm height D ptti both end capsule round with RAL 6021\nClear Glass: In all 6 drawers"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -6106,6 +6106,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-23T11:37:22.579Z"
+    "timestamp": "2026-10-23T11:52:30.156Z"
   }
 }
