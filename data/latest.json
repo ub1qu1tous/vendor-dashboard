@@ -1036,27 +1036,6 @@
       },
       {
         "op": "022622",
-        "prod": "Lyric",
-        "var": "Vivienne",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135059_910422_Screenshot_2026-08-26_125314.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W23\" x D23\" x H40\"\nSeat Height: 30\"",
-        "fld": "https://drive.google.com/drive/folders/1R1nT8kDzM0CbeLaiHn6NGVtahdqmSI6N",
-        "des": "Hetvi Shah",
-        "dl": "11-Sept-2024",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
         "prod": "Marwa",
         "var": "Zamora",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135041_136862_Screenshot_2026-08-26_130831.png",
@@ -1066,69 +1045,6 @@
         "fld": "https://drive.google.com/drive/folders/1PQWXqfeNA4zsYrwPOlNEY3M1ZyT7eCvo",
         "des": "Parthsarthi Suthar",
         "dl": "08-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Milano",
-        "var": "Woodstock",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260708_184928_440994_pasted_image_1783516766522.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Recycled Teak (Suncity)\nAccessories: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W18.5\" x D23\" x H33.5\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1sMOUzoanTh1njxzKNmoGyhxZYCdqhhH3",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Pooja Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Urbe",
-        "var": "Zuri",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134922_529503_Screenshot_2026-08-26_134218.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nStructure: Recycled Teak (Suncity)",
-        "sz": "Outer: W72\" x D21\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1LBiEN_vpKHHTghItJVGT4bU3IWtrz65k",
-        "des": "Parthsarthi Suthar",
-        "dl": "06-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Foyer ",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Vasut",
-        "var": "Vesta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134905_754230_Screenshot_2026-08-26_134437.png",
-        "cat": "Ottomans",
-        "mat": "Seat: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nMounting: PVC (Teak Laminate)",
-        "sz": "Outer: W18\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1s2kLolAlSCCzSSZ5V7eUOEmrXo2pn7Dv",
-        "des": "Shrutika Joshi",
-        "dl": "15-Sept-2026",
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "Daughter's Bedroom",
@@ -1199,27 +1115,6 @@
           "c": "",
           "a": "",
           "rm": ""
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062413",
-        "prod": "Solstice",
-        "var": "Urban",
-        "url": "https://i.ibb.co/BKBPN57L/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: HDHMR (Black Matt PU)\nFrame: Mango (Black Matt)\nLegs: Mango (Black Matt)\nLegs: Mango (Finish TBC)",
-        "sz": "Outer: W42\" x D42\" x H14\"",
-        "fld": "https://drive.google.com/drive/folders/1AujyCgYiD1FN7pvAkRcDhvNv0NoPEavD",
-        "des": "Dilip Jangir",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "Hoome Theater Table",
-        "v": {
-          "c": "29-Aug-2026",
-          "a": "",
-          "rm": "Solid wood black matt Top Only with Printing as per sample"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -1500,7 +1395,7 @@
         "op": "092618",
         "prod": "Osaka",
         "var": "Indiana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261016_131457_517869_WhatsApp_Image_2026-10-16_at_1_07_19_PM.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261023_152859_591027_chair_suncity_pure_white_background.png",
         "cat": "Accent Chairs",
         "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
         "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
@@ -1903,7 +1798,7 @@
         "op": "022622",
         "prod": "Osaka",
         "var": "Indiana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261016_131457_517869_WhatsApp_Image_2026-10-16_at_1_07_19_PM.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261023_152859_591027_chair_suncity_pure_white_background.png",
         "cat": "Accent Chairs",
         "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
         "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
@@ -2491,7 +2386,7 @@
         "op": "092618",
         "prod": "Osaka",
         "var": "Indiana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261016_131457_517869_WhatsApp_Image_2026-10-16_at_1_07_19_PM.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261023_152859_591027_chair_suncity_pure_white_background.png",
         "cat": "Accent Chairs",
         "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
         "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
@@ -2829,7 +2724,7 @@
         "op": "022622",
         "prod": "Osaka",
         "var": "Indiana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261016_131457_517869_WhatsApp_Image_2026-10-16_at_1_07_19_PM.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261023_152859_591027_chair_suncity_pure_white_background.png",
         "cat": "Accent Chairs",
         "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
         "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
@@ -6211,6 +6106,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-23T09:52:33.543Z"
+    "timestamp": "2026-10-23T10:09:47.290Z"
   }
 }
