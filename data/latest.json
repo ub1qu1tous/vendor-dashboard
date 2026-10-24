@@ -1481,7 +1481,7 @@
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261024_172120_190692_pasted_image_1792842678641.png",
         "cat": "Doors",
-        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)\nHandle: Stainless Steel 304 Matt (Gold PVD)",
         "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
         "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
         "des": "IK Architects",
@@ -3939,6 +3939,27 @@
           "rm": "ss matt gold pvd legs, 8 pcs L shape ptti on top"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "102607",
+        "prod": "Perla",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261024_172120_190692_pasted_image_1792842678641.png",
+        "cat": "Doors",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)\nHandle: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
+        "des": "IK Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "krishna_furnitech_polish": [
@@ -6021,7 +6042,7 @@
         "var": "Kos",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261024_172120_190692_pasted_image_1792842678641.png",
         "cat": "Doors",
-        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)\nHandle: Stainless Steel 304 Matt (Gold PVD)",
         "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
         "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
         "des": "IK Architects",
@@ -6106,6 +6127,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-24T12:22:29.483Z"
+    "timestamp": "2026-10-24T12:37:31.126Z"
   }
 }
