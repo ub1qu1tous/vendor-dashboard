@@ -1015,27 +1015,6 @@
       },
       {
         "op": "022622",
-        "prod": "Kokopo",
-        "var": "Zucchini",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_124541_869610_pasted_image_1788246939407.png",
-        "cat": "Outdoor Coffee Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Aluminium (Munshell Grey (G321-HB) Powdercoat)\nWeaving: 4mm Rope (Cement Grey)\nHandle: Recycled Teak (Suncity)",
-        "sz": "Outer: W24\" x D30\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1QNHu8kHKZ54RqHbyHYgxnnTBQsbHq_kH",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Master Bedroom Balcony",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
         "prod": "Marwa",
         "var": "Zamora",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135041_136862_Screenshot_2026-08-26_130831.png",
@@ -3880,6 +3859,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "022622",
+        "prod": "Kokopo",
+        "var": "Zucchini",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260901_124541_869610_pasted_image_1788246939407.png",
+        "cat": "Outdoor Coffee Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Aluminium (Munshell Grey (G321-HB) Powdercoat)\nWeaving: 4mm Rope (Cement Grey)\nHandle: Recycled Teak (Suncity)",
+        "sz": "Outer: W24\" x D30\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1QNHu8kHKZ54RqHbyHYgxnnTBQsbHq_kH",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom Balcony",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "052306",
         "prod": "Arnett",
         "var": "Travis",
@@ -5980,6 +5980,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-26T07:07:30.329Z"
+    "timestamp": "2026-10-26T07:22:23.555Z"
   }
 }
