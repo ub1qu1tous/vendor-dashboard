@@ -3879,48 +3879,6 @@
       },
       {
         "op": "092620",
-        "prod": "Blain",
-        "var": "Drake",
-        "url": "https://i.ibb.co/WxZMCpb/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nBackrest: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nArmrest: Leatherette (D'Decor Aura new skin Sr No.8)\nBase: Stainless Steel 304 Matt (Gold PVD)\n3 Medium Square Kidney Pillows: Recron Filling (D'Decor Aura new skin Sr No.8)",
-        "sz": "Outer: W60\" x D36\" x H32.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i8CZZm_-DGoX1GyQELu6jGwHXH62nyoo",
-        "des": "Parth Gada",
-        "dl": "26-Aug-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2026",
-          "a": "",
-          "rm": "ss gold matt pvd frame size from maulik bhai in to in"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092620",
-        "prod": "Blain",
-        "var": "Greene",
-        "url": "https://i.ibb.co/TvbCbff/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nBackrest: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nArmrest: Leatherette (D'Decor Aura new skin Sr No.8)\nBase: Stainless Steel 304 Matt (Gold PVD)\n3 Medium Square Kidney Pillows: Recron Filling (D'Decor Aura new skin Sr No.8)",
-        "sz": "Outer: W96\" x D36\" x H32.5\"",
-        "fld": "https://drive.google.com/drive/folders/1s2dkglsCZI9a538-kIxZYGqv9lEx9UuN",
-        "des": "Parth Gada",
-        "dl": "26-Aug-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2026",
-          "a": "",
-          "rm": "ss gold matt pvd frame size from maulik bhai in to in"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092620",
         "prod": "Sansa",
         "var": "Justo",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260928_124141_684886_pasted_image_1790579499810.png",
@@ -5562,48 +5520,6 @@
       },
       {
         "op": "092620",
-        "prod": "Blain",
-        "var": "Drake",
-        "url": "https://i.ibb.co/WxZMCpb/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nBackrest: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nArmrest: Leatherette (D'Decor Aura new skin Sr No.8)\nBase: Stainless Steel 304 Matt (Gold PVD)\n3 Medium Square Kidney Pillows: Recron Filling (D'Decor Aura new skin Sr No.8)",
-        "sz": "Outer: W60\" x D36\" x H32.5\"",
-        "fld": "https://drive.google.com/drive/folders/1i8CZZm_-DGoX1GyQELu6jGwHXH62nyoo",
-        "des": "Parth Gada",
-        "dl": "26-Aug-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "092620",
-        "prod": "Blain",
-        "var": "Greene",
-        "url": "https://i.ibb.co/TvbCbff/0002.jpg",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nBackrest: Ply & Foam Upholstery (D'Decor Aura new skin Sr No.8)\nArmrest: Leatherette (D'Decor Aura new skin Sr No.8)\nBase: Stainless Steel 304 Matt (Gold PVD)\n3 Medium Square Kidney Pillows: Recron Filling (D'Decor Aura new skin Sr No.8)",
-        "sz": "Outer: W96\" x D36\" x H32.5\"",
-        "fld": "https://drive.google.com/drive/folders/1s2dkglsCZI9a538-kIxZYGqv9lEx9UuN",
-        "des": "Parth Gada",
-        "dl": "26-Aug-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "07-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Surat PVD"
-      },
-      {
-        "op": "092620",
         "prod": "Sansa",
         "var": "Justo",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260928_124141_684886_pasted_image_1790579499810.png",
@@ -6127,6 +6043,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-26T06:07:23.590Z"
+    "timestamp": "2026-10-26T06:22:21.914Z"
   }
 }
