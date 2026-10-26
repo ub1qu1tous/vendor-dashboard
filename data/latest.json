@@ -3543,27 +3543,6 @@
       },
       {
         "op": "022622",
-        "prod": "Jussi",
-        "var": "Whitley",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_105514_469114_pasted_image_1787635512644.png",
-        "cat": "Benches",
-        "mat": "Structure: Recycled Teak (Suncity)\nShelf: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W49\" x D16\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/17u7ZLIm5NYhizWYTE3IeyvaYOufsoZX-",
-        "des": "Parthsarthi Suthar",
-        "dl": "05-Oct-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Dining Area",
-        "v": {
-          "c": "15-Oct-2026",
-          "a": "",
-          "rm": "BRASS / SS pipe with 6mm tapping both side"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "022622",
         "prod": "Milano",
         "var": "Woodstock",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260708_184928_440994_pasted_image_1783516766522.png",
@@ -3832,48 +3811,6 @@
           "c": "20-Oct-2026",
           "a": "",
           "rm": "ready round tappered ball leg"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092618",
-        "prod": "Susan",
-        "var": "Audus",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261008_155020_260267_suzan3.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Brass Transparent Coat)",
-        "sz": "Outer: W19.5\" x D23.5\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1rvBtS771PeTUAzz4d_lylGOSvGLU2sBJ",
-        "des": "Dipen Gada",
-        "dl": "09-Oct-2026",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "16-Oct-2026",
-          "a": "",
-          "rm": "4 chair with gold matt pvd, as per DGA blue seat chair sample"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "092618",
-        "prod": "Susan",
-        "var": "Jet",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261008_155056_643198_suzan4.jpg",
-        "cat": "Dining Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Mild Steel (Brass Transparent Coat)",
-        "sz": "Outer: W19.5\" x D23.5\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1ONfogMcF9Wilj0Wl544fBDYM3U7ptaLH",
-        "des": "Dipen Gada",
-        "dl": "09-Oct-2026",
-        "q": 4,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "16-Oct-2026",
-          "a": "",
-          "rm": "4 chair with gold matt pvd, as per DGA blue seat chair sample"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -5491,7 +5428,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "18-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5512,7 +5449,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "18-Oct-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -6043,6 +5980,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-26T06:22:21.914Z"
+    "timestamp": "2026-10-26T06:37:25.761Z"
   }
 }
