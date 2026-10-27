@@ -635,27 +635,6 @@
       },
       {
         "op": "092618",
-        "prod": "Poseidon",
-        "var": "Malana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_134943_893811_pasted_image_1776500379974.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Burma Border Teak (Natural)\nBackrest: Ply & Foam Upholstery (Beyond Black SRN 134)\nBackrest: Ply & Foam Upholstery (Beyond Black SRN 130)\nSeat: Ply & Foam Upholstery (Beyond Black SRN 134)\nSeat: Ply & Foam Upholstery (Beyond Black SRN 130)",
-        "sz": "Outer: W30\" x D36\" x H33.5\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1J85SpZ5-OHV0K7UKcjTP2yuqq2RKLLO9",
-        "des": "Hetvi Shah",
-        "dl": "16-Aug-2025",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "14-Oct-2026",
-          "a": "",
-          "rm": "2 pc from showroom"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
-        "op": "092618",
         "prod": "Triton",
         "var": "Bliss",
         "url": "https://i.ibb.co/zTTFwzq4/0002.jpg",
@@ -6045,6 +6024,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-27T09:22:23.522Z"
+    "timestamp": "2026-10-27T09:37:37.339Z"
   }
 }
