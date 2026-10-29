@@ -3818,6 +3818,27 @@
       },
       {
         "op": "092618",
+        "prod": "Aynar",
+        "var": "Raxia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_175425_548002_edited_nightstand_knobs_fascia_proportion.jpg",
+        "cat": "Nightstands",
+        "mat": "Carcass: 16mm Plywood (21066 BR Black VNR Laminate)\nBase: Mild Steel (Red Powder Coat)\nDrawer Fascia: HDHMR (RAL 3005 Wine Red)",
+        "sz": "Outer: W15\" x D15\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1-kJaKTDhYjTpzn54YfmD5m6l7JlZmiQG",
+        "des": "Tanmay Shah",
+        "dl": "10-May-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black distresswd finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "092618",
         "prod": "Canopy",
         "var": "Adi",
         "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
@@ -3834,27 +3855,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "092618",
-        "prod": "Yuri",
-        "var": "Elide",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_153204_039275_WhatsApp_Image_2026-10-29_at_3_30_36_PM.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W25.5\" x D32.75\" x H44.5\"\nSeat Height: 21\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1eYDSfc76gjSY462HsZlZKtAdCiq2936G",
-        "des": "Vikas Jangir",
-        "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black distresswd finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -3881,15 +3881,15 @@
       },
       {
         "op": "092618",
-        "prod": "Aynar",
-        "var": "Raxia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_164105_135765_pasted_image_1793272259522.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: 16mm Plywood (21066 BR Black VNR Laminate)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W15\" x D15\" x H21\"",
-        "fld": "https://drive.google.com/drive/folders/1-kJaKTDhYjTpzn54YfmD5m6l7JlZmiQG",
-        "des": "Tanmay Shah",
-        "dl": "10-May-2024",
+        "prod": "Yuri",
+        "var": "Elide",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_153204_039275_WhatsApp_Image_2026-10-29_at_3_30_36_PM.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black Distressed/Charcoal)",
+        "sz": "Outer: W25.5\" x D32.75\" x H44.5\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1eYDSfc76gjSY462HsZlZKtAdCiq2936G",
+        "des": "Vikas Jangir",
+        "dl": "01-Jan-2010",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -4750,7 +4750,7 @@
         "op": "092618",
         "prod": "Verso",
         "var": "Sunville",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260422_165413_405555_jpeg-optimizer_product_b_round_dining_table_antique_bronze_avocado_quartzite_plain_background_prominent.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_175425_550088_table_reference_marble.jpg",
         "cat": "Console Tables",
         "mat": "Top: Black Panda Marble (Mirror Buffing)\nFrame: Mild Steel (Satin Metallic PU)",
         "sz": "Outer: W30\" x D30\" x H27\"",
@@ -5654,7 +5654,7 @@
         "op": "092618",
         "prod": "Verso",
         "var": "Sunville",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260422_165413_405555_jpeg-optimizer_product_b_round_dining_table_antique_bronze_avocado_quartzite_plain_background_prominent.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_175425_550088_table_reference_marble.jpg",
         "cat": "Console Tables",
         "mat": "Top: Black Panda Marble (Mirror Buffing)\nFrame: Mild Steel (Satin Metallic PU)",
         "sz": "Outer: W30\" x D30\" x H27\"",
@@ -5962,7 +5962,7 @@
         "op": "092618",
         "prod": "Verso",
         "var": "Sunville",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260422_165413_405555_jpeg-optimizer_product_b_round_dining_table_antique_bronze_avocado_quartzite_plain_background_prominent.jpeg",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_175425_550088_table_reference_marble.jpg",
         "cat": "Console Tables",
         "mat": "Top: Black Panda Marble (Mirror Buffing)\nFrame: Mild Steel (Satin Metallic PU)",
         "sz": "Outer: W30\" x D30\" x H27\"",
@@ -5982,6 +5982,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-29T12:22:30.567Z"
+    "timestamp": "2026-10-29T12:41:36.320Z"
   }
 }
