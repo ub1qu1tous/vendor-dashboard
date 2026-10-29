@@ -1246,27 +1246,6 @@
       },
       {
         "op": "092618",
-        "prod": "Darius",
-        "var": "Atrica",
-        "url": "https://i.ibb.co/SVtb58J/c0001IBB.jpg",
-        "cat": "Vanity Counters",
-        "mat": "Carcass: Sheesham (Black Distressed/Charcoal)\nTop: Black Marquina (Mirror PU Lamination)\nKnobs: Mild Steel (Brass Transparent Coat)\nLegs: Sheesham (Black Distressed/Charcoal)",
-        "sz": "Outer: W59\" x D21\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1UPR_AxtLv8kxK0e5bgvyR0OJqa2Lpp0_",
-        "des": "Parthsarthi Suthar",
-        "dl": "03-Sept-2023",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092618",
         "prod": "Jasper",
         "var": "Genesis",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261017_123624_235447_Screenshot_2026-10-17_123434.png",
@@ -3864,11 +3843,32 @@
         "var": "Elide",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260417_154923_568186_jpeg-optimizer_rule_d_rocking_chair_solid_dark_premium.jpeg",
         "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Rich Tobacco)",
+        "mat": "Structure: Sheesham (Black Distressed/Charcoal)",
         "sz": "Outer: W25.5\" x D32.75\" x H44.5\"\nSeat Height: 21\"",
         "fld": "https://drive.google.com/drive/u/0/folders/1eYDSfc76gjSY462HsZlZKtAdCiq2936G",
         "des": "Vikas Jangir",
         "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black distresswd finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "092618",
+        "prod": "Melton",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251223_120010_586620_Screenshot_from_2025-12-23_11-50-33.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Finish TBC)\nBackrest: Ply & Foam Upholstery (Finish TBC)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W84\" x D36\" x H30\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1JoT7cqs0oE8ixKturVfu5o85bjycNNmi",
+        "des": "Hetvi Shah",
+        "dl": "06-Apr-2026",
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
@@ -4731,7 +4731,7 @@
         "var": "Sunville",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260422_165413_405555_jpeg-optimizer_product_b_round_dining_table_antique_bronze_avocado_quartzite_plain_background_prominent.jpeg",
         "cat": "Console Tables",
-        "mat": "Top: Avocado Quartzite (River)\nFrame: Mild Steel (Satin Metallic PU)",
+        "mat": "Top: Black Panda Marble (Mirror Buffing)\nFrame: Mild Steel (Satin Metallic PU)",
         "sz": "Outer: W30\" x D30\" x H27\"",
         "fld": "https://drive.google.com/drive/u/1/folders/11cF5RFrHd6B11uFE3KNPygXx7hClwWm-",
         "des": "Dilip Jangir",
@@ -5635,7 +5635,7 @@
         "var": "Sunville",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260422_165413_405555_jpeg-optimizer_product_b_round_dining_table_antique_bronze_avocado_quartzite_plain_background_prominent.jpeg",
         "cat": "Console Tables",
-        "mat": "Top: Avocado Quartzite (River)\nFrame: Mild Steel (Satin Metallic PU)",
+        "mat": "Top: Black Panda Marble (Mirror Buffing)\nFrame: Mild Steel (Satin Metallic PU)",
         "sz": "Outer: W30\" x D30\" x H27\"",
         "fld": "https://drive.google.com/drive/u/1/folders/11cF5RFrHd6B11uFE3KNPygXx7hClwWm-",
         "des": "Dilip Jangir",
@@ -5943,7 +5943,7 @@
         "var": "Sunville",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260422_165413_405555_jpeg-optimizer_product_b_round_dining_table_antique_bronze_avocado_quartzite_plain_background_prominent.jpeg",
         "cat": "Console Tables",
-        "mat": "Top: Avocado Quartzite (River)\nFrame: Mild Steel (Satin Metallic PU)",
+        "mat": "Top: Black Panda Marble (Mirror Buffing)\nFrame: Mild Steel (Satin Metallic PU)",
         "sz": "Outer: W30\" x D30\" x H27\"",
         "fld": "https://drive.google.com/drive/u/1/folders/11cF5RFrHd6B11uFE3KNPygXx7hClwWm-",
         "des": "Dilip Jangir",
@@ -5961,6 +5961,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-29T08:22:28.854Z"
+    "timestamp": "2026-10-29T08:37:27.564Z"
   }
 }
