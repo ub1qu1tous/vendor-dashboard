@@ -3880,6 +3880,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "092618",
+        "prod": "Aynar",
+        "var": "Raxia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_164105_135765_pasted_image_1793272259522.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: 16mm Plywood (21066 BR Black VNR Laminate)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W15\" x D15\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1-kJaKTDhYjTpzn54YfmD5m6l7JlZmiQG",
+        "des": "Tanmay Shah",
+        "dl": "10-May-2024",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "black distresswd finish"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "102617",
         "prod": "Canopy",
         "var": "Bliss",
@@ -5961,6 +5982,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-29T10:52:36.780Z"
+    "timestamp": "2026-10-29T11:22:33.301Z"
   }
 }
