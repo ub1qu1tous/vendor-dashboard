@@ -1204,27 +1204,6 @@
       },
       {
         "op": "092618",
-        "prod": "Abaya",
-        "var": "June",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260325_153524_537142_pasted_image_1774433119577.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Travertine (Mirror Buffing)\nStructure: White Oak (Olive)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1aXeAb9FbCKEVud28QgpPHSkzGMTgtF01",
-        "des": "Hetvi Shah",
-        "dl": "05-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Olive finish",
-        "v": {
-          "c": "13-Oct-2026",
-          "a": "",
-          "rm": "Olive finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092618",
         "prod": "Calliope",
         "var": "Pelican",
         "url": "https://i.ibb.co/Msrfq6v/9589252-4.jpg",
@@ -3818,27 +3797,6 @@
       },
       {
         "op": "092618",
-        "prod": "Aynar",
-        "var": "Raxia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261029_175425_548002_edited_nightstand_knobs_fascia_proportion.jpg",
-        "cat": "Nightstands",
-        "mat": "Carcass: 16mm Plywood (21066 BR Black VNR Laminate)\nBase: Mild Steel (Red Powder Coat)\nDrawer Fascia: HDHMR (RAL 3005 Wine Red)",
-        "sz": "Outer: W15\" x D15\" x H21\"",
-        "fld": "https://drive.google.com/drive/folders/1-kJaKTDhYjTpzn54YfmD5m6l7JlZmiQG",
-        "des": "Tanmay Shah",
-        "dl": "10-May-2024",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "black distresswd finish"
-        },
-        "vendorDisplayName": "Krishna Furnitech - Polish"
-      },
-      {
-        "op": "092618",
         "prod": "Canopy",
         "var": "Adi",
         "url": "https://i.ibb.co/JWysGYqw/0001.jpg",
@@ -5934,29 +5892,6 @@
         "vendorDisplayName": "FS Sofa Legs"
       }
     ],
-    "rajeshbhai_sculpture": [
-      {
-        "op": "092618",
-        "prod": "Arnett",
-        "var": "Travis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261026_163507_479043_pasted_image_1793012705429.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Rosso Fossil (Mirror Buffing)\nBase: Sheesham (Black)",
-        "sz": "Outer: W19.5\" x D17\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1YG42HmdFYzdN9WBsVRHU0fK8EpDhNY4r",
-        "des": "Hetvi Shah",
-        "dl": "03-Aug-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Dicey for Thursday",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Rajeshbhai Sculpture"
-      }
-    ],
     "nishant_cnc": [
       {
         "op": "092618",
@@ -5982,6 +5917,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-10-31T03:07:44.373Z"
+    "timestamp": "2026-10-31T03:23:41.535Z"
   }
 }
