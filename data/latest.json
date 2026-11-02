@@ -23,6 +23,27 @@
         "vendorDisplayName": "Aidan Dudy"
       },
       {
+        "op": "112605",
+        "prod": "Osaka",
+        "var": "Verdana",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261026_164649_550035_pasted_image_1793013407350.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Recycled Teak (Black Matt)\nSeat: Ply & Foam Upholstery (Highland SRN BN 29)\nBackrest: Ply & Foam Upholstery (Highland SRN BN 80)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/19Cmo5g5guDlToTxgQuzJDnUiy4TiCde0",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio) - Same Fabric As Silverleaf",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
         "op": "022622",
         "prod": "Asperula",
         "var": "Bliss",
@@ -5285,6 +5306,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-02T10:37:29.251Z"
+    "timestamp": "2026-11-02T10:52:26.287Z"
   }
 }
