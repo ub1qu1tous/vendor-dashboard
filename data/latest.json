@@ -1310,6 +1310,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "072605",
+        "prod": "Colbert",
+        "var": "Sylvia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_151727_068947_pasted_image_1791625645648.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Sheesham (Peca)",
+        "sz": "Outer: W18\" x D18\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1tCLVSCMU6ck3eo0rQOFlh99kOs0oL-uY",
+        "des": "Dilip Jangir",
+        "dl": "03-Nov-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "banswada marble top and wood"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "082617",
         "prod": "Vilem",
         "var": "Delta",
@@ -3460,6 +3481,27 @@
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
       {
+        "op": "072605",
+        "prod": "Colbert",
+        "var": "Sylvia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_151727_068947_pasted_image_1791625645648.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Sheesham (Peca)",
+        "sz": "Outer: W18\" x D18\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1tCLVSCMU6ck3eo0rQOFlh99kOs0oL-uY",
+        "des": "Dilip Jangir",
+        "dl": "03-Nov-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "peca"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
         "op": "072608",
         "prod": "Tauris",
         "var": "Cormac",
@@ -5327,6 +5369,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-03T12:07:27.176Z"
+    "timestamp": "2026-11-03T12:22:25.326Z"
   }
 }
