@@ -1308,6 +1308,48 @@
           "rm": "recycle teak without polish"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082617",
+        "prod": "Vilem",
+        "var": "Delta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261015_174148_083770_pasted_image_1792066307553.png",
+        "cat": "Pedestals",
+        "mat": "Structure: Indian Teak (Suncity)",
+        "sz": "Outer: W10\" x D10\" x H26.5\"",
+        "fld": "https://drive.google.com/drive/folders/15MVBgL3kyeVi-3IsLWztbcynSDRp9kSe",
+        "des": "Dilip Jangir",
+        "dl": "03-Nov-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "10-Oct-2024",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "082617",
+        "prod": "Vilem",
+        "var": "Fynn",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261015_174148_083770_pasted_image_1792066307553.png",
+        "cat": "Pedestals",
+        "mat": "Structure: Indian Teak (Suncity)",
+        "sz": "Outer: W10\" x D10\" x H27.5\"",
+        "fld": "https://drive.google.com/drive/folders/1YlGYW4d2ECOpK99WTnjL9e9gL3UcmdzJ",
+        "des": "Dilip Jangir",
+        "dl": "03-Nov-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "10-Oct-2024",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "aidan_dudy": [
@@ -5306,6 +5348,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-03T06:37:27.407Z"
+    "timestamp": "2026-11-03T06:52:23.441Z"
   }
 }
