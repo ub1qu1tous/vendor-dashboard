@@ -767,7 +767,7 @@
         "var": "Voila",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103627_225032_pasted_image_1787634385990.png",
         "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "mat": "",
         "sz": "Outer: W18\" x D18\" x H23\"",
         "fld": "https://drive.google.com/drive/folders/1l-FmAdGg_YDe3e-q8yyYjGf8bOEtcsuU",
         "des": "Hetvi Shah",
@@ -788,7 +788,7 @@
         "var": "Zany",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103455_753102_pasted_image_1787634294119.png",
         "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "mat": "",
         "sz": "Outer: W21\" x D21\" x H23\"",
         "fld": "https://drive.google.com/drive/folders/1ezKK3LeNq8V14VpLXAG3DRU6z8ex1uvT",
         "des": "Hetvi Shah",
@@ -4122,7 +4122,7 @@
         "var": "Voila",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103627_225032_pasted_image_1787634385990.png",
         "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "mat": "",
         "sz": "Outer: W18\" x D18\" x H23\"",
         "fld": "https://drive.google.com/drive/folders/1l-FmAdGg_YDe3e-q8yyYjGf8bOEtcsuU",
         "des": "Hetvi Shah",
@@ -4143,7 +4143,7 @@
         "var": "Zany",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103455_753102_pasted_image_1787634294119.png",
         "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "mat": "",
         "sz": "Outer: W21\" x D21\" x H23\"",
         "fld": "https://drive.google.com/drive/folders/1ezKK3LeNq8V14VpLXAG3DRU6z8ex1uvT",
         "des": "Hetvi Shah",
@@ -5411,6 +5411,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-04T10:22:37.517Z"
+    "timestamp": "2026-11-04T10:39:41.691Z"
   }
 }
