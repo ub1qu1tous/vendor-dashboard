@@ -2195,6 +2195,27 @@
       },
       {
         "op": "112604",
+        "prod": "Silverleaf",
+        "var": "Justo",
+        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112604",
         "prod": "Yuki",
         "var": "Dwight",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261015_173904_422308_WhatsApp_Image_2026-10-15_at_17_33_15__1_.jpeg",
@@ -3414,6 +3435,27 @@
           "rm": "1 pc handle making  ss matt gold pvd, handle drawing in the 2D folder"
         },
         "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112604",
+        "prod": "Silverleaf",
+        "var": "Justo",
+        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
       }
     ],
     "krishna_furnitech_polish": [
@@ -4107,6 +4149,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "NEEL’S BEDROOM\r",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "112604",
+        "prod": "Silverleaf",
+        "var": "Justo",
+        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
         "v": {
           "c": "",
           "a": "",
@@ -5408,9 +5471,32 @@
         },
         "vendorDisplayName": "FS Sofa Legs"
       }
+    ],
+    "v9_home_decor": [
+      {
+        "op": "112604",
+        "prod": "Silverleaf",
+        "var": "Justo",
+        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Received: 10 mtr ordered\nOrdered another 8 Mtr"
+        },
+        "vendorDisplayName": "V9 Home Decor"
+      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-12T06:07:25.500Z"
+    "timestamp": "2026-11-12T06:22:23.711Z"
   }
 }
