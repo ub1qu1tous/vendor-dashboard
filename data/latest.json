@@ -214,27 +214,6 @@
         "vendorDisplayName": "AWS"
       },
       {
-        "op": "072605",
-        "prod": "Holl",
-        "var": "Dwight",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_162404_748415_Screenshot_2026-10-09_161149.png",
-        "cat": "Mirrors",
-        "mat": "Frame: Mild Steel (Black Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
-        "sz": "Outer: W30\" x D1\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1yVHQLuTK0n0pRBX_E5-QArkPYg0qI39Y",
-        "des": "Dilip Jangir",
-        "dl": "17-Nov-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "AWS"
-      },
-      {
         "op": "072612",
         "prod": "Almond",
         "var": "Ureta",
@@ -3346,7 +3325,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "20-Nov-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4234,7 +4213,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "20-Nov-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5503,7 +5482,7 @@
         "pm": "Dilip Jangir",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "20-Nov-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -5596,6 +5575,29 @@
         "vendorDisplayName": "Casa Creations"
       }
     ],
+    "nishant_cnc": [
+      {
+        "op": "072605",
+        "prod": "Holl",
+        "var": "Dwight",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_162404_748415_Screenshot_2026-10-09_161149.png",
+        "cat": "Mirrors",
+        "mat": "Frame: Mild Steel (Black Powder Coat)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W30\" x D1\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1yVHQLuTK0n0pRBX_E5-QArkPYg0qI39Y",
+        "des": "Dilip Jangir",
+        "dl": "17-Nov-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "20-Nov-2026",
+          "a": "",
+          "rm": "12mm mdf round"
+        },
+        "vendorDisplayName": "Nishant CNC"
+      }
+    ],
     "fs_sofa_legs": [
       {
         "op": "072612",
@@ -5644,6 +5646,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-17T10:53:10.754Z"
+    "timestamp": "2026-11-17T11:07:33.187Z"
   }
 }
