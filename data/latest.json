@@ -2238,6 +2238,27 @@
       {
         "op": "112609",
         "prod": "Winkit",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 22 m from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112609",
+        "prod": "Winkit",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181340_912859_Screenshot_2026-11-13_180417.png",
         "cat": "Ottomans",
@@ -3454,6 +3475,27 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Arbuda Metal"
+      },
+      {
+        "op": "112609",
+        "prod": "Winkit",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 22 m from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "metal base in 50mm x 25mm ss pipe section"
         },
         "vendorDisplayName": "Arbuda Metal"
       },
@@ -4885,6 +4927,27 @@
       {
         "op": "112609",
         "prod": "Winkit",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 22 m from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "112609",
+        "prod": "Winkit",
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181340_912859_Screenshot_2026-11-13_180417.png",
         "cat": "Ottomans",
@@ -5112,6 +5175,27 @@
         "q": 1,
         "pm": "Dilip Jangir",
         "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Surat PVD"
+      },
+      {
+        "op": "112609",
+        "prod": "Winkit",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 22 m from Client",
         "v": {
           "c": "",
           "a": "",
@@ -5730,6 +5814,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-17T12:22:41.009Z"
+    "timestamp": "2026-11-17T12:38:02.875Z"
   }
 }
