@@ -3904,6 +3904,69 @@
       },
       {
         "op": "072611",
+        "prod": "Rozner",
+        "var": "Walmsley",
+        "url": "",
+        "cat": "Wardrobes",
+        "mat": "Carcass: 18mm Plywood,\nShutter: 18 mm HDHMR PU RAL 1013\nDrawer : 18 mm Plywood \nDrawer Fascia : 18 mm HDHMR PU NCS S 3005 Y20 R",
+        "sz": "Outer: W63\" x D24\" x H87\"",
+        "fld": "https://drive.google.com/drive/folders/14WnNN6c3AKoqZoD35xMl_U39lH4qcDOB",
+        "des": "Shrutika Joshi",
+        "dl": "06-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Baa Bathroom Wardrobe",
+        "v": {
+          "c": "15-Oct-2026",
+          "a": "",
+          "rm": "RAL 1013 shutters, NCS 3005Y2oR Drawers, Drawer lock not required, Internal Laminate same as baa bedroom wardrobe"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072611",
+        "prod": "Semler",
+        "var": "Wadell",
+        "url": "https://ibb.co/8gs11H1v",
+        "cat": "Wardrobes",
+        "mat": "Carcass: 18mm Plywood\nShutter: NCS S 3005 Y20 R & Decorative laminate\nDrawer : 18 mm Plywood \nDrawer Fascia : 18 mm HDHMR PU NCS S 3005 Y20 R",
+        "sz": "Outer: W90\" x D24\" x H87\"",
+        "fld": "https://drive.google.com/drive/folders/170P5PI6tpWzWYRMVa-YWh7HszrTbBfgY",
+        "des": "Shrutika Joshi",
+        "dl": "06-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Baa Bedroom Wardrobe",
+        "v": {
+          "c": "15-Oct-2026",
+          "a": "",
+          "rm": "NCS S 3005 Y20 R shutters, NCS 3005 Y20 R Drawers, Drawer lock required, Internal Laminate select after decorative laminate select, 4k light, left side visible"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072611",
+        "prod": "Tatiana",
+        "var": "Vor",
+        "url": "https://ibb.co/bgm9RjPP",
+        "cat": "Wardrobes",
+        "mat": "Carcass: 18mm Plywood \nShutter: 18mm HDHMR [PU RAL 1013]\nInternal Carcass: 18mm Plywood  [laminate ORZ 139]\nDrawer Fascia: 18 mm HDHMR [RAL 1013]\nOpen Shelf: 18 mm HDHMR [NCS 3060 R]",
+        "sz": "Outer: W72\" x D24\" x H96\"",
+        "fld": "https://drive.google.com/drive/folders/1hTVhTsHGKYwCsbXjYHu3wbwU8jUGTJf5",
+        "des": "Shrutika Joshi",
+        "dl": "06-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Daughter Bathroom Wardrobe",
+        "v": {
+          "c": "15-Oct-2026",
+          "a": "",
+          "rm": "Shutter PU: RAL 1013, \nInternal Laminate: ORZ- 139\nLight: 4k 10mm thick\nOpen Shelves PU finish NCS 3060 R\nFiller on both side Pu finish with PU RAL 1013"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072611",
         "prod": "Tollefson",
         "var": "Voorp",
         "url": "https://ibb.co/SwH5TBSc",
@@ -5455,6 +5518,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-17T07:07:27.538Z"
+    "timestamp": "2026-11-17T07:22:44.074Z"
   }
 }
