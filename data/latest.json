@@ -1607,27 +1607,6 @@
       },
       {
         "op": "022622",
-        "prod": "Osaka",
-        "var": "Bahama",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_162939_766206_Seamless_Gray_Boucl___Lounge_Chair.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1-wFcnLEFPAcGy8D0_odnkfrLAtAWkebl",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
         "prod": "Parton",
         "var": "Zuri",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_141447_936312_Screenshot_2026-08-26_141411.png",
@@ -2419,27 +2398,6 @@
         "q": 1,
         "pm": "Maulik Parmar",
         "cr": "F.F. Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aavaran"
-      },
-      {
-        "op": "022622",
-        "prod": "Osaka",
-        "var": "Bahama",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_162939_766206_Seamless_Gray_Boucl___Lounge_Chair.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1-wFcnLEFPAcGy8D0_odnkfrLAtAWkebl",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
         "v": {
           "c": "",
           "a": "",
@@ -5497,6 +5455,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-17T05:07:33.446Z"
+    "timestamp": "2026-11-17T05:22:23.961Z"
   }
 }
