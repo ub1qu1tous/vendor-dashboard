@@ -3472,7 +3472,7 @@
         "pm": "Maulik Parmar",
         "cr": "",
         "v": {
-          "c": "",
+          "c": "25-Nov-2026",
           "a": "",
           "rm": "no special instructions"
         },
@@ -3493,7 +3493,7 @@
         "pm": "Maulik Parmar",
         "cr": "Fabric 22 m from Client",
         "v": {
-          "c": "",
+          "c": "25-Nov-2026",
           "a": "",
           "rm": "metal base in 50mm x 25mm ss pipe section"
         },
@@ -3514,7 +3514,7 @@
         "pm": "Maulik Parmar",
         "cr": "Fabric 4 m from Client",
         "v": {
-          "c": "25-Oct-2026",
+          "c": "25-Nov-2026",
           "a": "",
           "rm": "381mm dia ring, 65mm x 3mm ptta ss matt"
         },
@@ -5814,6 +5814,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-17T12:38:02.875Z"
+    "timestamp": "2026-11-17T12:52:37.034Z"
   }
 }
