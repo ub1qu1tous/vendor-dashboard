@@ -3904,6 +3904,27 @@
       },
       {
         "op": "072611",
+        "prod": "Ramirez",
+        "var": "Wattage",
+        "url": "https://i.ibb.co/6RYMGHDY/p13-Guest-Bedroom-1.jpg | https://i.ibb.co/BYWF7vZ/p13-Guest-Bedroom-2.jpg",
+        "cat": "Mirrors",
+        "mat": "Carcass: Oak Veneer (Natural)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W24\" x D12\" x H60\"",
+        "fld": "https://drive.google.com/drive/folders/15rmPOw1k1mBsIpG335q-TCvVI3vyZaeV",
+        "des": "Shrutika Joshi",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072611",
         "prod": "Rozner",
         "var": "Walmsley",
         "url": "https://i.ibb.co/Pv6JJ0FZ/Baa-Bathroom-Wardrobe-1-jpg.jpg",
@@ -5405,6 +5426,27 @@
         "vendorDisplayName": "Vishwakarma Glass"
       },
       {
+        "op": "072611",
+        "prod": "Ramirez",
+        "var": "Wattage",
+        "url": "https://i.ibb.co/6RYMGHDY/p13-Guest-Bedroom-1.jpg | https://i.ibb.co/BYWF7vZ/p13-Guest-Bedroom-2.jpg",
+        "cat": "Mirrors",
+        "mat": "Carcass: Oak Veneer (Natural)\nMirror: 5mm Glass (Extra Clear)",
+        "sz": "Outer: W24\" x D12\" x H60\"",
+        "fld": "https://drive.google.com/drive/folders/15rmPOw1k1mBsIpG335q-TCvVI3vyZaeV",
+        "des": "Shrutika Joshi",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vishwakarma Glass"
+      },
+      {
         "op": "082622",
         "prod": "Carnival",
         "var": "Justo",
@@ -5518,6 +5560,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-17T09:22:26.466Z"
+    "timestamp": "2026-11-17T09:37:22.885Z"
   }
 }
