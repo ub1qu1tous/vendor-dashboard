@@ -1285,6 +1285,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112603",
+        "prod": "Trevossa",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261102_150152_755933_pasted_image_1793611911566.png",
+        "cat": "Console Tables",
+        "mat": "Top: Sheesham (Black)\nCarcass: Sheesham (Black)\nLegs: Sheesham (Black)\nDrawer: Sheesham (Black)\nKnobs: Mild Steel (Brass Transparent Coat)",
+        "sz": "Outer: W34\" x D14\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/1-48r3Avl-0Lnht6uLC3JqOB3-V2M6Xqs",
+        "des": "Parthsarthi Suthar",
+        "dl": "18-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Please Note that Height has been increased to 42\""
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "vittal_wood_tech": [
@@ -5768,6 +5789,29 @@
         "vendorDisplayName": "FS Sofa Legs"
       }
     ],
+    "darshan_hardware": [
+      {
+        "op": "112603",
+        "prod": "Trevossa",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261102_150152_755933_pasted_image_1793611911566.png",
+        "cat": "Console Tables",
+        "mat": "Top: Sheesham (Black)\nCarcass: Sheesham (Black)\nLegs: Sheesham (Black)\nDrawer: Sheesham (Black)\nKnobs: Mild Steel (Brass Transparent Coat)",
+        "sz": "Outer: W34\" x D14\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/1-48r3Avl-0Lnht6uLC3JqOB3-V2M6Xqs",
+        "des": "Parthsarthi Suthar",
+        "dl": "18-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Darshan Hardware"
+      }
+    ],
     "v9_home_decor": [
       {
         "op": "112604",
@@ -5793,6 +5837,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-18T12:07:27.771Z"
+    "timestamp": "2026-11-18T12:22:36.048Z"
   }
 }
