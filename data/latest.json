@@ -5481,27 +5481,6 @@
           "rm": "Please fastrack to send one chair for sample piece approval"
         },
         "vendorDisplayName": "Mandap"
-      },
-      {
-        "op": "082520",
-        "prod": "Marrion",
-        "var": "Kylar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20250909_162957_729403_pasted_image_1757415602188.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nLegs: White Oak (Natural)\nFixture: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W46\" x D28\" x H15\"",
-        "fld": "https://drive.google.com/drive/folders/1kyl-eWf0ZGOFDjr7Dj4bldeEwbI24YcX",
-        "des": "Tanmay Shah",
-        "dl": "03-Sept-2025",
-        "q": 1,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Mandap"
       }
     ],
     "jain_marble": [
@@ -5814,6 +5793,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-18T06:37:30.687Z"
+    "timestamp": "2026-11-18T06:52:28.327Z"
   }
 }
