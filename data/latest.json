@@ -826,27 +826,6 @@
       },
       {
         "op": "022622",
-        "prod": "Delaney",
-        "var": "Venus",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261001_153848_651424_Screenshot_2026-10-01_153714.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Recycled Teak (Suncity)",
-        "sz": "Outer: W115\" x D32\" x H31\"",
-        "fld": "https://drive.google.com/drive/folders/1La9028Ew22263yblSEHwr7xFPAHsu_Jf",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
         "prod": "Doyle",
         "var": "Tintin",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260826_150202_084038_pasted_image_1787736719774.png",
@@ -1451,69 +1430,6 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Delaney",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135426_315485_Screenshot_2026-08-26_122143.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Recycled Teak (Suncity)",
-        "sz": "Outer: W37\" x D32\" x H31\"",
-        "fld": "https://drive.google.com/drive/folders/13G0RvBGLaL2CHQUg-ipXR-gIhzM9acSK",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jul-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Delaney",
-        "var": "Venus",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261001_153848_651424_Screenshot_2026-10-01_153714.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Recycled Teak (Suncity)",
-        "sz": "Outer: W115\" x D32\" x H31\"",
-        "fld": "https://drive.google.com/drive/folders/1La9028Ew22263yblSEHwr7xFPAHsu_Jf",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Living Room",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Delaney",
-        "var": "Weber",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261001_153633_030045_Screenshot_2026-10-01_153449.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Choice of Fabric)\nFrame: Recycled Teak (Suncity)",
-        "sz": "Outer: W73\" x D32\" x H31\"",
-        "fld": "https://drive.google.com/drive/folders/1oWOM96rSjji1v0ud8inVovTF_90oqMSV",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Living Room",
         "v": {
           "c": "",
           "a": "",
@@ -5837,6 +5753,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-19T12:07:32.628Z"
+    "timestamp": "2026-11-19T12:22:26.441Z"
   }
 }
