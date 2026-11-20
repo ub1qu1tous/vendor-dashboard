@@ -3194,7 +3194,7 @@
         "var": "Vitara",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260901_111413_619518_pasted_image_1788241451691.png",
         "cat": "Nightstands",
-        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (RAL 7044 Silk Grey)\nDrawer Fascia: HDHMR (RAL 7044 Silk Grey)",
         "sz": "Outer: W21\" x D16\" x H17\"",
         "fld": "https://drive.google.com/drive/folders/1yK_tJ4BbShelVUpZGllm227xN0j6k_Oa",
         "des": "Hardik Katariya",
@@ -3205,7 +3205,7 @@
         "v": {
           "c": "19-Oct-2026",
           "a": "",
-          "rm": "We will provide carcass\n\nVipra will do PU, Drawer and channel work only"
+          "rm": "We will provide carcass\nSilk grey RAL 7044\nVipra will do PU, Drawer and channel work only"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -3269,27 +3269,6 @@
           "c": "19-Oct-2026",
           "a": "",
           "rm": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nStructure: HDHMR\nStorage: 12mm Plywood\nPlatform: HDHMR\nInternal: Frosty White laminate\nPU: (Finish TBC)"
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
-        "op": "032607",
-        "prod": "Rezan",
-        "var": "Jade",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260421_110941_314097_pasted_image_1776749977697.png",
-        "cat": "Office Desks",
-        "mat": "Top: 16mm MDF (RAL/NCS Matt Polyurethane (PU))\nLegs: Mild Steel (Chrome Plating)\nCarcass: 16mm MDF (RAL 1019 Grey Beige)\nShutter: 16mm MDF (RAL 1019 Grey Beige)\nDrawer: 16mm MDF (RAL 1019 Grey Beige)\nMoulding: 16mm MDF (RAL 7030 Grey Stone)\nLegs: Stainless Steel 304 Matt (Black PVD)",
-        "sz": "Outer: W78.74\" x D66.92\" x H29.52\"",
-        "fld": "https://drive.google.com/drive/folders/1h_G4S8rA-IYmNASvddPPTDG5BOHpqk1Z",
-        "des": "Readymade",
-        "dl": "14-Apr-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "09-Apr-2026",
-          "a": "",
-          "rm": "unit copy and take 1600 width ,"
         },
         "vendorDisplayName": "Vipra"
       },
@@ -4086,7 +4065,7 @@
         "var": "Vitara",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260901_111413_619518_pasted_image_1788241451691.png",
         "cat": "Nightstands",
-        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (RAL 7044 Silk Grey)\nDrawer Fascia: HDHMR (RAL 7044 Silk Grey)",
         "sz": "Outer: W21\" x D16\" x H17\"",
         "fld": "https://drive.google.com/drive/folders/1yK_tJ4BbShelVUpZGllm227xN0j6k_Oa",
         "des": "Hardik Katariya",
@@ -4235,7 +4214,7 @@
         "var": "Vitara",
         "url": "https://galleryplus.sulfur.one/media/public_images/20260901_111413_619518_pasted_image_1788241451691.png",
         "cat": "Nightstands",
-        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (Finish TBC)\nDrawer Fascia: HDHMR (Finish TBC)",
+        "mat": "Top: Uneven Grey Marble (Mirror Buffing)\nCarcass: HDHMR (RAL 7044 Silk Grey)\nDrawer Fascia: HDHMR (RAL 7044 Silk Grey)",
         "sz": "Outer: W21\" x D16\" x H17\"",
         "fld": "https://drive.google.com/drive/folders/1yK_tJ4BbShelVUpZGllm227xN0j6k_Oa",
         "des": "Hardik Katariya",
@@ -4246,7 +4225,7 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": "no special instructions"
+          "rm": "marble from site"
         },
         "vendorDisplayName": "Baba Marble"
       },
@@ -5123,6 +5102,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-20T10:22:55.611Z"
+    "timestamp": "2026-11-20T10:37:24.414Z"
   }
 }
