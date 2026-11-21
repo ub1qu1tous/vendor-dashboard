@@ -1392,6 +1392,27 @@
           "rm": "banswada marble top and wood"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112615",
+        "prod": "Silvana",
+        "var": "Avatar",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261121_141106_943608_pasted_image_1795250466790.png",
+        "cat": "Accessories",
+        "mat": ":  ()",
+        "sz": "Outer: W16\" x D18\" x H28.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bJy9hgMdEBUWwa0V7wc6SGDe1v9WF57q",
+        "des": "Devansh Vora",
+        "dl": "21-Nov-2026",
+        "q": 1,
+        "pm": "Devansh Vora",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "aidan_dudy": [
@@ -5309,9 +5330,32 @@
         },
         "vendorDisplayName": "V9 Home Decor"
       }
+    ],
+    "rajeshbhai_sculpture": [
+      {
+        "op": "112615",
+        "prod": "Ila",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261121_141049_454535_pasted_image_1795250448960.png",
+        "cat": "Accent Chairs",
+        "mat": ":  ()",
+        "sz": "Outer: W\" x D\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/1McYep0kHhQ-CaFd-shwVReU9bWonH87v",
+        "des": "Devansh Vora",
+        "dl": "21-Nov-2026",
+        "q": 1,
+        "pm": "Devansh Vora",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Rajeshbhai Sculpture"
+      }
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-21T08:39:42.908Z"
+    "timestamp": "2026-11-21T08:55:45.991Z"
   }
 }
