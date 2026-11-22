@@ -2975,48 +2975,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "112609",
-        "prod": "Winkit",
-        "var": "Fusion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
-        "cat": "Sectional Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
-        "des": "",
-        "dl": "14-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 22 m from Client",
-        "v": {
-          "c": "25-Nov-2026",
-          "a": "",
-          "rm": "metal base in 50mm x 25mm ss pipe section"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
-        "op": "112609",
-        "prod": "Winkit",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181340_912859_Screenshot_2026-11-13_180417.png",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nBase: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W20\" x D18.5\" x H24\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1NO4DtHJqoCiBOGkJqz_zBhwjDFI6RSSE",
-        "des": "",
-        "dl": "14-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 4 m from Client",
-        "v": {
-          "c": "25-Nov-2026",
-          "a": "",
-          "rm": "381mm dia ring, 65mm x 3mm ptta ss matt"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "122217",
         "prod": "Abuja",
         "var": "Leben",
@@ -5356,6 +5314,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-22T06:52:29.991Z"
+    "timestamp": "2026-11-22T07:07:24.527Z"
   }
 }
