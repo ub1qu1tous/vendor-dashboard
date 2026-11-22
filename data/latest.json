@@ -1394,6 +1394,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "112609",
+        "prod": "Rowena",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261111_114028_704062_pasted_image_1794377427619.png",
+        "cat": "Study Tables",
+        "mat": "Top: HDHMR (Finish TBC)\nLegs: Mango (Finish TBC)\nCap: Mild Steel (Brass Transparent Coat)\nDrawer Box: HDHMR (Finish TBC)\nDrawer Fascia: White Ash (White Wash)\nKnobs: Mild Steel (Brass Transparent Coat)",
+        "sz": "Outer: W48\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QdHKMU81FaQNkMD5o6RG0Zi03kwwq7cD",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "PU Colour Code from Client",
+        "v": {
+          "c": "25-Nov-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "112615",
         "prod": "Silvana",
         "var": "Avatar",
@@ -4547,6 +4568,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Tunes Hardware"
+      },
+      {
+        "op": "112609",
+        "prod": "Rowena",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261111_114028_704062_pasted_image_1794377427619.png",
+        "cat": "Study Tables",
+        "mat": "Top: HDHMR (Finish TBC)\nLegs: Mango (Finish TBC)\nCap: Mild Steel (Brass Transparent Coat)\nDrawer Box: HDHMR (Finish TBC)\nDrawer Fascia: White Ash (White Wash)\nKnobs: Mild Steel (Brass Transparent Coat)",
+        "sz": "Outer: W48\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QdHKMU81FaQNkMD5o6RG0Zi03kwwq7cD",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "PU Colour Code from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "knobs gold"
+        },
+        "vendorDisplayName": "Tunes Hardware"
       }
     ],
     "shital_glass": [
@@ -5241,6 +5283,27 @@
           "rm": "ready made 100mm antique grey leg"
         },
         "vendorDisplayName": "FS Sofa Legs"
+      },
+      {
+        "op": "112609",
+        "prod": "Rowena",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261111_114028_704062_pasted_image_1794377427619.png",
+        "cat": "Study Tables",
+        "mat": "Top: HDHMR (Finish TBC)\nLegs: Mango (Finish TBC)\nCap: Mild Steel (Brass Transparent Coat)\nDrawer Box: HDHMR (Finish TBC)\nDrawer Fascia: White Ash (White Wash)\nKnobs: Mild Steel (Brass Transparent Coat)",
+        "sz": "Outer: W48\" x D16\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1QdHKMU81FaQNkMD5o6RG0Zi03kwwq7cD",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "PU Colour Code from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "ready made caps  3 inch"
+        },
+        "vendorDisplayName": "FS Sofa Legs"
       }
     ],
     "darshan_hardware": [
@@ -5314,6 +5377,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-22T12:22:35.400Z"
+    "timestamp": "2026-11-22T12:38:52.905Z"
   }
 }
