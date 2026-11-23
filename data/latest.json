@@ -1,6 +1,6 @@
 {
   "vendors": {
-    "krishna_furnitech": [
+    "divine": [
       {
         "op": "112618",
         "prod": "Chelsea",
@@ -20,616 +20,28 @@
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech"
+        "vendorDisplayName": "Divine"
       },
       {
-        "op": "022622",
-        "prod": "Alpine",
-        "var": "Willis",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260831_122421_608052_Screenshot_2026-08-31_122355.png",
-        "cat": "Console Tables",
-        "mat": "Legs: Recycled Teak (Suncity)\nTop: Recycled Teak (Suncity)\nFixture: Recycled Teak (Suncity)",
-        "sz": "Outer: W48\" x D14\" x H29.3\"",
-        "fld": "https://drive.google.com/drive/folders/1Iic9wmtgaCAgF3RH1djQsqvv9R7pDOoc",
-        "des": "Parthsarthi Suthar",
+        "op": "012607",
+        "prod": "Porth",
+        "var": "Carter",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260113_142731_455471_pasted_image_1768294668311.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Frame: Pre-Laminated  Engineered Wood (Walnut Laminate)\nSeat: Ply & Foam Upholstery (Black Leatherette)\nBackrest: Ply & Foam Upholstery (Black Leatherette)\nLeg-Rest: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16\" x D16\" x H38.5\"\nSeat Height: 26\"",
+        "fld": "https://drive.google.com/drive/folders/1Y1fhcSvWPpSSVfxIZnOHjcZjIo8R77Eu",
+        "des": "Readymade",
         "dl": "01-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Chao",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103627_225032_pasted_image_1787634385990.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W18\" x D18\" x H23\"",
-        "fld": "https://drive.google.com/drive/folders/1l-FmAdGg_YDe3e-q8yyYjGf8bOEtcsuU",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "15-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Chao",
-        "var": "Zany",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103455_753102_pasted_image_1787634294119.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
-        "sz": "Outer: W21\" x D21\" x H23\"",
-        "fld": "https://drive.google.com/drive/folders/1ezKK3LeNq8V14VpLXAG3DRU6z8ex1uvT",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
         "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Living Room",
-        "v": {
-          "c": "15-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Cranston",
-        "var": "Livia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261007_170342_567913_Screenshot_2026-10-07_170256.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nLegs: Sheesham (Black Matt)",
-        "sz": "Outer: W96\" x D34\" x H31\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1CpEMrKjygCDcLmpwrVLWjBnPQHoWGtYi",
-        "des": "Maulik Parmar",
-        "dl": "21-Sept-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Doyle",
-        "var": "Tintin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_150202_084038_pasted_image_1787736719774.png",
-        "cat": "Storage Beds",
-        "mat": "Headboard: Recycled Teak (Suncity)\nPanel: Pre-woven Rattan (Clear)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
-        "sz": "Outer: W75\" x D83\" x H46\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
-        "fld": "https://drive.google.com/drive/folders/1d4KIi4Oykt3aIIPi8rAZhsVp_L4cgVrW",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Elwood",
-        "var": "Sweetpea",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135301_921940_Screenshot_2026-08-26_123851.png",
-        "cat": "Storage Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
-        "sz": "Outer: W75\" x D82\" x H44\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
-        "fld": "https://drive.google.com/drive/folders/158eY3et4sUqL2rAEupeFvduJnCJA4gJK",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Izabal",
-        "var": "Zaira",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135158_354424_Screenshot_2026-08-26_124829.png",
-        "cat": "Coffee Tables",
-        "mat": "Top: Recycled Teak (Suncity)\nBase: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W54\" x D38\" x H13\"",
-        "fld": "https://drive.google.com/drive/folders/14vwHxdSwkKTZJlzB50fRqZJWgmP8g1qX",
-        "des": "Tanmay Shah",
-        "dl": "07-Oct-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Family Sitting",
-        "v": {
-          "c": "18-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Marwa",
-        "var": "Zamora",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135041_136862_Screenshot_2026-08-26_130831.png",
-        "cat": "Console Tables",
-        "mat": "Carcass: Recycled Teak (Suncity)\nShutter: Recycled Teak (Suncity)\nShutter Panel: Pre-woven Rattan (Natural)",
-        "sz": "Outer: W60\" x D18\" x H36\"",
-        "fld": "https://drive.google.com/drive/folders/1PQWXqfeNA4zsYrwPOlNEY3M1ZyT7eCvo",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "022622",
-        "prod": "Vasut",
-        "var": "Vesta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134905_754230_Screenshot_2026-08-26_134437.png",
-        "cat": "Ottomans",
-        "mat": "Seat: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nMounting: PVC (Teak Laminate)",
-        "sz": "Outer: W18\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1s2kLolAlSCCzSSZ5V7eUOEmrXo2pn7Dv",
-        "des": "Shrutika Joshi",
-        "dl": "15-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "052306",
-        "prod": "Mexico",
-        "var": "Pendula",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
-        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Parth Gada",
+        "pm": "Amish Parmar",
         "cr": "",
         "v": {
           "c": "",
           "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "052306",
-        "prod": "Wharf",
-        "var": "Indiana",
-        "url": "https://i.ibb.co/BPDWB2F/1.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Azco Sigma II Madrid-169)\nBackrest: Ply & Foam Upholstery (Azco Sigma II Madrid-169)",
-        "sz": "Outer: W23.5\" x D24\" x H33.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1mZu_lShhMS8OwSRu2Mm0O5nQWnHTg8oQ",
-        "des": "Parthsarthi Suthar",
-        "dl": "01-Jan-2010",
-        "q": 3,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Repairing 3 pcs for Office"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "052619",
-        "prod": "Citadel",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260623_114116_048645_Screenshot_2026-06-22_100954.png",
-        "cat": "Swings",
-        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
-        "sz": "Outer: W72\" x D48\" x H74\"\nSwing Body: W60\" x D24\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1AHCAGuWaJTsLLiGnBeo4-Qs-bvlZfJAw",
-        "des": "Dilip Jangir",
-        "dl": "09-Jun-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062509",
-        "prod": "Hayatsu",
-        "var": "Destin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
-        "des": "Tanmay Shah",
-        "dl": "20-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062509",
-        "prod": "Youhall",
-        "var": "Helix",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
-        "des": "Maulik Parmar",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062608",
-        "prod": "Lakeston",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181114_297480_PHOTO-2026-06-09-17-08-45.jpg",
-        "cat": "Door Frames",
-        "mat": "Frame: White Oak (Olive)",
-        "sz": "Outer: W42.5\" x D12\" x H95\"",
-        "fld": "https://drive.google.com/drive/folders/13XCJv84FSs9nB684xFFraae9bBo7HmjK",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 14,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Frames as per schedule"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062608",
-        "prod": "Lakeston",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181038_434127_pasted_image_1781527232041.png",
-        "cat": "Doors",
-        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)",
-        "sz": "Outer: W37.5\" x D2\" x H92.5\"",
-        "fld": "https://drive.google.com/drive/folders/1E2SWSUseLDqAlr7hSMIiKzih0OttW_Yq",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 16,
-        "pm": "Dilip Jangir",
-        "cr": "As per Doors T&C submitted vide 9-6-26",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Doors as per schedule"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062608",
-        "prod": "Thom",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261019_152947_912231_pasted_image_1792403987138.png",
-        "cat": "Doors",
-        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)\nFrame: White Oak (Olive)\nPanel: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W53.5\" x D3\" x H117\"",
-        "fld": "https://drive.google.com/drive/folders/1kEaMwS04B1GpfZ_ZgYaeGaMRTOdGlHsB",
-        "des": "Dilip Jangir",
-        "dl": "NA",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "Drawings In Folder",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Door and Frame set as per schedule"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062612",
-        "prod": "Aykermann",
-        "var": "Hyde",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
-        "cat": "Accessories",
-        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
-        "sz": "Outer: W14\" x D14\" x H72\"",
-        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "03-Oct-2026",
-          "a": "",
-          "rm": "white oak natural parts, 2 balls with 6mm dnut fixed in side and 2 other part "
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "062612",
-        "prod": "Highrose",
-        "var": "Rusts",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261006_101917_340578_Highrose_Rusts.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: White Oak (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Leatherette (Tan Faux Leather)\nBase: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W34\" x D35\" x H29\"",
-        "fld": "https://drive.google.com/drive/folders/18XzowNy1yFmcNQpHswvmm2ZgugGFSJCU",
-        "des": "Tanmay Shah",
-        "dl": "04-Oct-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "03-Oct-2026",
-          "a": "",
-          "rm": "wooden frame qty= 2"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "092622",
-        "prod": "Osaka",
-        "var": "Voorp",
-        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "102607",
-        "prod": "Perla",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261024_172120_190692_pasted_image_1792842678641.png",
-        "cat": "Doors",
-        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)\nHandle: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
-        "des": "IK Architects",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "",
-        "cr": "",
-        "v": {
-          "c": "13-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "102612",
-        "prod": "Schuster",
-        "var": "Chantilly",
-        "url": "https://i.ibb.co/vjQqdQg/0003.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Mild Steel (Black Powder Coat)\nLegs: White Ash (Suncity)",
-        "sz": "Outer: W34\" x D34\" x H14\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1DqXmlp9F90NuLDUcsjfYBCLGaIJfBIHo",
-        "des": "Parthsarthi Suthar",
-        "dl": "08-Jun-2021",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "102614",
-        "prod": "Osaka",
-        "var": "Voorp",
-        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "112603",
-        "prod": "Trevossa",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261102_150152_755933_pasted_image_1793611911566.png",
-        "cat": "Console Tables",
-        "mat": "Top: Sheesham (Black)\nCarcass: Sheesham (Black)\nLegs: Sheesham (Black)\nDrawer: Sheesham (Black)\nKnobs: Mild Steel (Brass Transparent Coat)",
-        "sz": "Outer: W34\" x D14\" x H42\"",
-        "fld": "https://drive.google.com/drive/folders/1-48r3Avl-0Lnht6uLC3JqOB3-V2M6Xqs",
-        "des": "Parthsarthi Suthar",
-        "dl": "18-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Please Note that Height has been increased to 42\""
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122217",
-        "prod": "Abuja",
-        "var": "Leben",
-        "url": "https://i.ibb.co/5xmvQMP/0002.jpg",
-        "cat": "Study Tables",
-        "mat": "Top: 10mm Glass (Black Tinted)\nCarcass: Indian Teak (Jacobean)\nFrame: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W60\" x D24\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1sTatxjOmwLLnzX__RsnyZJ0VHoHzzu2e",
-        "des": "Tarishi Rathore",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Accounts Cabin",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122217",
-        "prod": "Opalflare",
-        "var": "Peridot",
-        "url": "https://i.ibb.co/XDdRzHV/0002.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: White Oak (Natural)\nBase: White Oak (Natural)",
-        "sz": "Outer: W33\" x D33\" x H16\"",
-        "fld": "https://drive.google.com/drive/folders/1jsdl4IY3aGfzpuSpK8ToDGuxydnQ1tqv",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MD Cabin",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122217",
-        "prod": "Opalflare",
-        "var": "Philia",
-        "url": "https://i.ibb.co/K56LWkr/0002.jpg",
-        "cat": "Accent Tables",
-        "mat": "Top: White Oak (Natural)\nBase: White Oak (Natural)",
-        "sz": "Outer: W18\" x D18\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/16zMU3rNeg0f3KckhB2XDJDne4TYat4n3",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MD Cabin",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122217",
-        "prod": "Rainier",
-        "var": "Raxia",
-        "url": "https://i.ibb.co/kMCXCQQ/0002.jpg",
-        "cat": "Storage Cabinets",
-        "mat": "Carcass: Oak Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (Deluxe-100 Gothic Grey)\nBase: White Oak (Black Matt)\nShutter: White Oak (Black Matt)\nLight: Aluminium Profile (Natural Day Light (NDL))",
-        "sz": "Outer: W36\" x D18\" x H75\"",
-        "fld": "https://drive.google.com/drive/folders/1ue4VVgtB8sE3lnW3G9sy28F3nZKW66S9",
-        "des": "Parthsarthi Suthar",
-        "dl": "24-Sept-2024",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "MD Cabin",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
-      },
-      {
-        "op": "122217",
-        "prod": "Ranunculus",
-        "var": "Sage",
-        "url": "https://i.ibb.co/LCNhFG4/0002.jpg",
-        "cat": "Study Tables",
-        "mat": "Structure: White Oak (Jacobean)\nDrawer: White Oak (Jacobean)\nPanel: 16mm Plywood (Finish TBC)\nHandle: Aluminium (Finish TBC)",
-        "sz": "Outer: W78\" x D30\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1CbxoR7TTHGV52VfFczlDs7jmAaRlx3nN",
-        "des": "Parthsarthi Suthar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MD Cabin",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Krishna Furnitech"
+        "vendorDisplayName": "Divine"
       }
     ],
     "aidan_dudy": [
@@ -1392,29 +804,6 @@
         "vendorDisplayName": "V9 Home Decor"
       }
     ],
-    "divine": [
-      {
-        "op": "012607",
-        "prod": "Porth",
-        "var": "Carter",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260113_142731_455471_pasted_image_1768294668311.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Frame: Pre-Laminated  Engineered Wood (Walnut Laminate)\nSeat: Ply & Foam Upholstery (Black Leatherette)\nBackrest: Ply & Foam Upholstery (Black Leatherette)\nLeg-Rest: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16\" x D16\" x H38.5\"\nSeat Height: 26\"",
-        "fld": "https://drive.google.com/drive/folders/1Y1fhcSvWPpSSVfxIZnOHjcZjIo8R77Eu",
-        "des": "Readymade",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Amish Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Divine"
-      }
-    ],
     "aws": [
       {
         "op": "022619",
@@ -2108,6 +1497,617 @@
           "rm": "Add Marble top Black Marquina from Warehouse"
         },
         "vendorDisplayName": "AWS"
+      }
+    ],
+    "krishna_furnitech": [
+      {
+        "op": "022622",
+        "prod": "Alpine",
+        "var": "Willis",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260831_122421_608052_Screenshot_2026-08-31_122355.png",
+        "cat": "Console Tables",
+        "mat": "Legs: Recycled Teak (Suncity)\nTop: Recycled Teak (Suncity)\nFixture: Recycled Teak (Suncity)",
+        "sz": "Outer: W48\" x D14\" x H29.3\"",
+        "fld": "https://drive.google.com/drive/folders/1Iic9wmtgaCAgF3RH1djQsqvv9R7pDOoc",
+        "des": "Parthsarthi Suthar",
+        "dl": "01-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Chao",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103627_225032_pasted_image_1787634385990.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W18\" x D18\" x H23\"",
+        "fld": "https://drive.google.com/drive/folders/1l-FmAdGg_YDe3e-q8yyYjGf8bOEtcsuU",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "15-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Chao",
+        "var": "Zany",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260825_103455_753102_pasted_image_1787634294119.png",
+        "cat": "Accent Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W21\" x D21\" x H23\"",
+        "fld": "https://drive.google.com/drive/folders/1ezKK3LeNq8V14VpLXAG3DRU6z8ex1uvT",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Living Room",
+        "v": {
+          "c": "15-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Cranston",
+        "var": "Livia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261007_170342_567913_Screenshot_2026-10-07_170256.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nLegs: Sheesham (Black Matt)",
+        "sz": "Outer: W96\" x D34\" x H31\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1CpEMrKjygCDcLmpwrVLWjBnPQHoWGtYi",
+        "des": "Maulik Parmar",
+        "dl": "21-Sept-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Doyle",
+        "var": "Tintin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_150202_084038_pasted_image_1787736719774.png",
+        "cat": "Storage Beds",
+        "mat": "Headboard: Recycled Teak (Suncity)\nPanel: Pre-woven Rattan (Clear)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
+        "sz": "Outer: W75\" x D83\" x H46\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/1d4KIi4Oykt3aIIPi8rAZhsVp_L4cgVrW",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Elwood",
+        "var": "Sweetpea",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135301_921940_Screenshot_2026-08-26_123851.png",
+        "cat": "Storage Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
+        "sz": "Outer: W75\" x D82\" x H44\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/158eY3et4sUqL2rAEupeFvduJnCJA4gJK",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Izabal",
+        "var": "Zaira",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135158_354424_Screenshot_2026-08-26_124829.png",
+        "cat": "Coffee Tables",
+        "mat": "Top: Recycled Teak (Suncity)\nBase: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W54\" x D38\" x H13\"",
+        "fld": "https://drive.google.com/drive/folders/14vwHxdSwkKTZJlzB50fRqZJWgmP8g1qX",
+        "des": "Tanmay Shah",
+        "dl": "07-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Family Sitting",
+        "v": {
+          "c": "18-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Marwa",
+        "var": "Zamora",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135041_136862_Screenshot_2026-08-26_130831.png",
+        "cat": "Console Tables",
+        "mat": "Carcass: Recycled Teak (Suncity)\nShutter: Recycled Teak (Suncity)\nShutter Panel: Pre-woven Rattan (Natural)",
+        "sz": "Outer: W60\" x D18\" x H36\"",
+        "fld": "https://drive.google.com/drive/folders/1PQWXqfeNA4zsYrwPOlNEY3M1ZyT7eCvo",
+        "des": "Parthsarthi Suthar",
+        "dl": "08-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "022622",
+        "prod": "Vasut",
+        "var": "Vesta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134905_754230_Screenshot_2026-08-26_134437.png",
+        "cat": "Ottomans",
+        "mat": "Seat: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nMounting: PVC (Teak Laminate)",
+        "sz": "Outer: W18\" x D18\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1s2kLolAlSCCzSSZ5V7eUOEmrXo2pn7Dv",
+        "des": "Shrutika Joshi",
+        "dl": "15-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter's Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052306",
+        "prod": "Mexico",
+        "var": "Pendula",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
+        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052306",
+        "prod": "Wharf",
+        "var": "Indiana",
+        "url": "https://i.ibb.co/BPDWB2F/1.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Azco Sigma II Madrid-169)\nBackrest: Ply & Foam Upholstery (Azco Sigma II Madrid-169)",
+        "sz": "Outer: W23.5\" x D24\" x H33.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1mZu_lShhMS8OwSRu2Mm0O5nQWnHTg8oQ",
+        "des": "Parthsarthi Suthar",
+        "dl": "01-Jan-2010",
+        "q": 3,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Repairing 3 pcs for Office"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "052619",
+        "prod": "Citadel",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260623_114116_048645_Screenshot_2026-06-22_100954.png",
+        "cat": "Swings",
+        "mat": "Platform: Recycled Teak (Natural)\nMounting: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nSwing Rope: SS Wire Rope (Matt Buffing)\nBackrest: Indian Teak (Natural)\nWeaving: Pre-woven Rattan (Clear)\n1 Large Rectangular Kidney Pillow: Recron Filling (Fabric TBC)\n1 Medium Rectangular Kidney Pillow: Recron Filling (Fabric TBC)",
+        "sz": "Outer: W72\" x D48\" x H74\"\nSwing Body: W60\" x D24\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1AHCAGuWaJTsLLiGnBeo4-Qs-bvlZfJAw",
+        "des": "Dilip Jangir",
+        "dl": "09-Jun-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062509",
+        "prod": "Hayatsu",
+        "var": "Destin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
+        "des": "Tanmay Shah",
+        "dl": "20-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062509",
+        "prod": "Youhall",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
+        "des": "Maulik Parmar",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Lakeston",
+        "var": "Avore",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181114_297480_PHOTO-2026-06-09-17-08-45.jpg",
+        "cat": "Door Frames",
+        "mat": "Frame: White Oak (Olive)",
+        "sz": "Outer: W42.5\" x D12\" x H95\"",
+        "fld": "https://drive.google.com/drive/folders/13XCJv84FSs9nB684xFFraae9bBo7HmjK",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 14,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Frames as per schedule"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Lakeston",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260615_181038_434127_pasted_image_1781527232041.png",
+        "cat": "Doors",
+        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)",
+        "sz": "Outer: W37.5\" x D2\" x H92.5\"",
+        "fld": "https://drive.google.com/drive/folders/1E2SWSUseLDqAlr7hSMIiKzih0OttW_Yq",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 16,
+        "pm": "Dilip Jangir",
+        "cr": "As per Doors T&C submitted vide 9-6-26",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Doors as per schedule"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062608",
+        "prod": "Thom",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261019_152947_912231_pasted_image_1792403987138.png",
+        "cat": "Doors",
+        "mat": "Core: Indian Teak (Clear)\nPanel: Oak Veneer (Olive)\nBack Panel: Oak Veneer (Olive)\nBeading: White Oak (Olive)\nFrame: White Oak (Olive)\nPanel: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W53.5\" x D3\" x H117\"",
+        "fld": "https://drive.google.com/drive/folders/1kEaMwS04B1GpfZ_ZgYaeGaMRTOdGlHsB",
+        "des": "Dilip Jangir",
+        "dl": "NA",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "Drawings In Folder",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Door and Frame set as per schedule"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062612",
+        "prod": "Aykermann",
+        "var": "Hyde",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_144206_576658_Screenshot_2026-09-22_134200.png",
+        "cat": "Accessories",
+        "mat": "Structure: Mild Steel (Black Powder Coat)\nAccessories: White Oak (Natural)",
+        "sz": "Outer: W14\" x D14\" x H72\"",
+        "fld": "https://drive.google.com/drive/folders/1COD5hiKRwhPpE2h4txpVl2HiL1YXlvjq",
+        "des": "Dilip Jangir",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "03-Oct-2026",
+          "a": "",
+          "rm": "white oak natural parts, 2 balls with 6mm dnut fixed in side and 2 other part "
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "062612",
+        "prod": "Highrose",
+        "var": "Rusts",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261006_101917_340578_Highrose_Rusts.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: White Oak (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Leatherette (Tan Faux Leather)\nBase: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W34\" x D35\" x H29\"",
+        "fld": "https://drive.google.com/drive/folders/18XzowNy1yFmcNQpHswvmm2ZgugGFSJCU",
+        "des": "Tanmay Shah",
+        "dl": "04-Oct-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "03-Oct-2026",
+          "a": "",
+          "rm": "wooden frame qty= 2"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "092622",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102607",
+        "prod": "Perla",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261024_172120_190692_pasted_image_1792842678641.png",
+        "cat": "Doors",
+        "mat": "Frame: Recycled Teak (Suncity)\nPanel: Teak Veneer (Suncity)\nHandle: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W72\" x D12\" x H91\"\nDoor Panel: W48\" x D2\" x H88.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bQwDV842tLW_mI3dT6itGQSNoy-e3fcS",
+        "des": "IK Architects",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "13-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102612",
+        "prod": "Schuster",
+        "var": "Chantilly",
+        "url": "https://i.ibb.co/vjQqdQg/0003.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Mild Steel (Black Powder Coat)\nLegs: White Ash (Suncity)",
+        "sz": "Outer: W34\" x D34\" x H14\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1DqXmlp9F90NuLDUcsjfYBCLGaIJfBIHo",
+        "des": "Parthsarthi Suthar",
+        "dl": "08-Jun-2021",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "102614",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "112603",
+        "prod": "Trevossa",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261102_150152_755933_pasted_image_1793611911566.png",
+        "cat": "Console Tables",
+        "mat": "Top: Sheesham (Black)\nCarcass: Sheesham (Black)\nLegs: Sheesham (Black)\nDrawer: Sheesham (Black)\nKnobs: Mild Steel (Brass Transparent Coat)",
+        "sz": "Outer: W34\" x D14\" x H42\"",
+        "fld": "https://drive.google.com/drive/folders/1-48r3Avl-0Lnht6uLC3JqOB3-V2M6Xqs",
+        "des": "Parthsarthi Suthar",
+        "dl": "18-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Please Note that Height has been increased to 42\""
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122217",
+        "prod": "Abuja",
+        "var": "Leben",
+        "url": "https://i.ibb.co/5xmvQMP/0002.jpg",
+        "cat": "Study Tables",
+        "mat": "Top: 10mm Glass (Black Tinted)\nCarcass: Indian Teak (Jacobean)\nFrame: Stainless Steel 304 Matt (Gold PVD)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W60\" x D24\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1sTatxjOmwLLnzX__RsnyZJ0VHoHzzu2e",
+        "des": "Tarishi Rathore",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Accounts Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122217",
+        "prod": "Opalflare",
+        "var": "Peridot",
+        "url": "https://i.ibb.co/XDdRzHV/0002.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: White Oak (Natural)\nBase: White Oak (Natural)",
+        "sz": "Outer: W33\" x D33\" x H16\"",
+        "fld": "https://drive.google.com/drive/folders/1jsdl4IY3aGfzpuSpK8ToDGuxydnQ1tqv",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "MD Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122217",
+        "prod": "Opalflare",
+        "var": "Philia",
+        "url": "https://i.ibb.co/K56LWkr/0002.jpg",
+        "cat": "Accent Tables",
+        "mat": "Top: White Oak (Natural)\nBase: White Oak (Natural)",
+        "sz": "Outer: W18\" x D18\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/16zMU3rNeg0f3KckhB2XDJDne4TYat4n3",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "MD Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122217",
+        "prod": "Rainier",
+        "var": "Raxia",
+        "url": "https://i.ibb.co/kMCXCQQ/0002.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Carcass: Oak Veneer (Black Matt)\nInternal Carcass: 16mm Plywood (Deluxe-100 Gothic Grey)\nBase: White Oak (Black Matt)\nShutter: White Oak (Black Matt)\nLight: Aluminium Profile (Natural Day Light (NDL))",
+        "sz": "Outer: W36\" x D18\" x H75\"",
+        "fld": "https://drive.google.com/drive/folders/1ue4VVgtB8sE3lnW3G9sy28F3nZKW66S9",
+        "des": "Parthsarthi Suthar",
+        "dl": "24-Sept-2024",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "MD Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "122217",
+        "prod": "Ranunculus",
+        "var": "Sage",
+        "url": "https://i.ibb.co/LCNhFG4/0002.jpg",
+        "cat": "Study Tables",
+        "mat": "Structure: White Oak (Jacobean)\nDrawer: White Oak (Jacobean)\nPanel: 16mm Plywood (Finish TBC)\nHandle: Aluminium (Finish TBC)",
+        "sz": "Outer: W78\" x D30\" x H30\"",
+        "fld": "https://drive.google.com/drive/folders/1CbxoR7TTHGV52VfFczlDs7jmAaRlx3nN",
+        "des": "Parthsarthi Suthar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "MD Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
       }
     ],
     "vittal_wood_tech": [
@@ -5440,6 +5440,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-23T12:22:23.961Z"
+    "timestamp": "2026-11-23T12:37:40.034Z"
   }
 }
