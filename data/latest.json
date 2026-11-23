@@ -1420,10 +1420,10 @@
         "var": "Avatar",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261121_141106_943608_pasted_image_1795250466790.png",
         "cat": "Accessories",
-        "mat": ":  ()",
+        "mat": "Frame: Indian Teak (Suncity)\nStructure: 6mm Plywood (Hammered Brass Foil Cladding)",
         "sz": "Outer: W16\" x D18\" x H28.5\"",
         "fld": "https://drive.google.com/drive/folders/1bJy9hgMdEBUWwa0V7wc6SGDe1v9WF57q",
-        "des": "Devansh Vora",
+        "des": "Fainy Thakor",
         "dl": "21-Nov-2026",
         "q": 1,
         "pm": "Devansh Vora",
@@ -5359,10 +5359,10 @@
         "var": "Lux",
         "url": "https://galleryplus.sulfur.one/media/public_images/20261121_141049_454535_pasted_image_1795250448960.png",
         "cat": "Accent Chairs",
-        "mat": ":  ()",
-        "sz": "Outer: W\" x D\" x H\"",
+        "mat": "Structure: Banswada White (Mirror Buffing)\nAccessories: Indian Teak (Clear)",
+        "sz": "Outer: W8\" x D8\" x H7.25\"",
         "fld": "https://drive.google.com/drive/folders/1McYep0kHhQ-CaFd-shwVReU9bWonH87v",
-        "des": "Devansh Vora",
+        "des": "Fainy Thakor",
         "dl": "21-Nov-2026",
         "q": 1,
         "pm": "Devansh Vora",
@@ -5377,6 +5377,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-23T05:52:26.028Z"
+    "timestamp": "2026-11-23T06:07:20.675Z"
   }
 }
