@@ -1247,6 +1247,48 @@
         "vendorDisplayName": "AWS"
       },
       {
+        "op": "072612",
+        "prod": "Sinonimos",
+        "var": "Indiana",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_115852_454073_pasted_image_1770704960830.png",
+        "cat": "Media Consoles",
+        "mat": "Structure: Burma Border Teak (Natural)\nHandle: Brass (Matt Buffing)\nDrawer Internal: 16mm Plywood (Merino Tahiti Teak 10803 SF)\nDrawer Fascia: Teak Veneer (Natural)",
+        "sz": "Outer: W60\" x D16\" x H32\"",
+        "fld": "https://drive.google.com/drive/folders/1-xWgp77NSsNVRdUcHdS2stdFclHZxuu2",
+        "des": "Ravi Malladi",
+        "dl": "04-Oct-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom Media Console",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Repolish"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
+        "op": "072612",
+        "prod": "Woolon",
+        "var": "Usera",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260415_191029_673046_jpeg-optimizer_sofa_exemplary_background_v3.jpeg",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Fabric TBC)\nFrame: Sheesham (Peca)",
+        "sz": "Outer: W80\" x D29\" x H32\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1YMuIWTPY7024My2C2fEDLmYtMGYA0oe2",
+        "des": "Drashti Panchal",
+        "dl": "23-Aug-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "AWS"
+      },
+      {
         "op": "082519",
         "prod": "Skerries",
         "var": "Campbell",
@@ -1896,6 +1938,48 @@
           "c": "03-Oct-2026",
           "a": "",
           "rm": "wooden frame qty= 2"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072612",
+        "prod": "Perla",
+        "var": "Opal",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_175146_259673_Screenshot_2026-10-10_175043.png",
+        "cat": "Beds",
+        "mat": "Back Panel: Oak Veneer (Natural)\nBack Panel: Oak Veneer (Black Matt)",
+        "sz": "Outer: W120\" x D88\" x H50.5\"\nPlatform: W81\" x D88\" x H15\"\nMattress: W72\" x D78\" x H8\"",
+        "fld": "https://drive.google.com/drive/folders/1QMXVmChj0YHrZXkft5rgYQisi1Z_eVyY",
+        "des": "Tanmay Shah",
+        "dl": "14-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Kids Bedroom King Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Krishna Furnitech"
+      },
+      {
+        "op": "072612",
+        "prod": "Relish",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/WxNvR8y/v01.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Satin Metallic PU)",
+        "sz": "Outer: W31\" x D31\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1iQELZbycCahWRT__f-hDmXsa-vdDsx2S",
+        "des": "Tanmay Shah",
+        "dl": "20-Feb-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Corner Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech"
       },
@@ -3019,27 +3103,6 @@
         "vendorDisplayName": "Arbuda Metal"
       },
       {
-        "op": "072612",
-        "prod": "Relish",
-        "var": "Ivy",
-        "url": "https://i.ibb.co/WxNvR8y/v01.jpg",
-        "cat": "Coffee Tables",
-        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Satin Metallic PU)",
-        "sz": "Outer: W31\" x D31\" x H21\"",
-        "fld": "https://drive.google.com/drive/folders/1iQELZbycCahWRT__f-hDmXsa-vdDsx2S",
-        "des": "Tanmay Shah",
-        "dl": "20-Feb-2025",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Lounge Corner Table",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Arbuda Metal"
-      },
-      {
         "op": "102607",
         "prod": "Perla",
         "var": "Kos",
@@ -3248,6 +3311,27 @@
           "c": "",
           "a": "",
           "rm": "Top Natural, base black polish work"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "072612",
+        "prod": "Oscar",
+        "var": "Istred",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260824_164209_489120_Screenshot_2026-08-24_164153.png",
+        "cat": "Console Tables",
+        "mat": "Structure: Sheesham (Harvest)\nTop: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W60\" x D20\" x H34\"",
+        "fld": "https://drive.google.com/drive/folders/13vBZ1bGsUXHeoQMFCyzfGQwKW5s8PhPJ",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parents Bedroom Media Console",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -3758,6 +3842,48 @@
         "vendorDisplayName": "Vipra"
       },
       {
+        "op": "072612",
+        "prod": "Keats",
+        "var": "Nycia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_143720_517323_Screenshot_2026-09-22_143657.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: 16mm Plywood (21066 BR Black VNR Laminate)\nInternal Carcass: 16mm Plywood (Deluxe-100 Gothic Grey)\nTop: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W22\" x D16\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/176NIR2tV8RseV7rkuHkrRywgpghp5H3v",
+        "des": "Tanmay Shah",
+        "dl": "07-Oct-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Side Table",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
+        "op": "072612",
+        "prod": "Khonoma",
+        "var": "Quizzy",
+        "url": "https://i.ibb.co/Jn7BNY3/a0006.jpg",
+        "cat": "Storage Cabinets",
+        "mat": "Structure: 16mm Plywood (Finish TBC)\nShutter Frame: Aluminium (Black Powder Coat)\nShutter Panel: 4mm Glass (Clear)\nLegs: Mild Steel (Black Powder Coat)\nKnobs: Mild Steel (Black Powder Coat)\nShelf: 16mm Plywood (Tan-Fabric Laminate)\nNiche: 16mm Plywood (Lami Deluxe-161 Only Oak)",
+        "sz": "Outer: W29\" x D25\" x H84\"",
+        "fld": "https://drive.google.com/drive/folders/1b_zmaAoD_PMrqF6oRVzFsDhEbnIPFEtv",
+        "des": "Ravi Malladi",
+        "dl": "01-Nov-2022",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Crockery Cabinet",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vipra"
+      },
+      {
         "op": "082622",
         "prod": "Carnival",
         "var": "Justo",
@@ -3943,6 +4069,27 @@
         "cr": "",
         "v": {
           "c": "20-Nov-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Royal Powder Coat"
+      },
+      {
+        "op": "072612",
+        "prod": "Relish",
+        "var": "Ivy",
+        "url": "https://i.ibb.co/WxNvR8y/v01.jpg",
+        "cat": "Coffee Tables",
+        "mat": "Top: Sheesham (Peca)\nBase: Mild Steel (Satin Metallic PU)",
+        "sz": "Outer: W31\" x D31\" x H21\"",
+        "fld": "https://drive.google.com/drive/folders/1iQELZbycCahWRT__f-hDmXsa-vdDsx2S",
+        "des": "Tanmay Shah",
+        "dl": "20-Feb-2025",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Lounge Corner Table",
+        "v": {
+          "c": "",
           "a": "",
           "rm": "no special instructions"
         },
@@ -4195,6 +4342,27 @@
         "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Son Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Manish Marble (Jaipur)"
+      },
+      {
+        "op": "072612",
+        "prod": "Keats",
+        "var": "Nycia",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260922_143720_517323_Screenshot_2026-09-22_143657.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: 16mm Plywood (21066 BR Black VNR Laminate)\nInternal Carcass: 16mm Plywood (Deluxe-100 Gothic Grey)\nTop: Banswada White (Mirror Buffing)",
+        "sz": "Outer: W22\" x D16\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/176NIR2tV8RseV7rkuHkrRywgpghp5H3v",
+        "des": "Tanmay Shah",
+        "dl": "07-Oct-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Side Table",
         "v": {
           "c": "",
           "a": "",
@@ -5440,6 +5608,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-24T07:39:00.423Z"
+    "timestamp": "2026-11-24T07:52:34.229Z"
   }
 }
