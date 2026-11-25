@@ -758,6 +758,27 @@
           "rm": "Structure seat height: 6.5\"\nMake based on farma\nOther images are there to make structure"
         },
         "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr Fabric COM from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "v9_home_decor": [
@@ -2299,6 +2320,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr Fabric COM from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
       }
     ],
     "aavaran": [
@@ -3458,6 +3500,27 @@
           "c": "",
           "a": "",
           "rm": "suncity"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr Fabric COM from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       }
@@ -4799,6 +4862,27 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr Fabric COM from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Client/Fabric"
       }
     ],
     "tunes_hardware": [
@@ -5608,6 +5692,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-25T12:41:56.119Z"
+    "timestamp": "2026-11-25T12:52:30.308Z"
   }
 }
