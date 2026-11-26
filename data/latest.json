@@ -772,7 +772,7 @@
         "dl": "02-Jan-2010",
         "q": 2,
         "pm": "Dilip Jangir",
-        "cr": "3 mtr Fabric COM from Client",
+        "cr": "3 mtr each Fabric COM from Client",
         "v": {
           "c": "",
           "a": "",
@@ -2334,7 +2334,7 @@
         "dl": "02-Jan-2010",
         "q": 2,
         "pm": "Dilip Jangir",
-        "cr": "3 mtr Fabric COM from Client",
+        "cr": "3 mtr each Fabric COM from Client",
         "v": {
           "c": "",
           "a": "",
@@ -3516,7 +3516,7 @@
         "dl": "02-Jan-2010",
         "q": 2,
         "pm": "Dilip Jangir",
-        "cr": "3 mtr Fabric COM from Client",
+        "cr": "3 mtr each Fabric COM from Client",
         "v": {
           "c": "",
           "a": "",
@@ -4876,7 +4876,7 @@
         "dl": "02-Jan-2010",
         "q": 2,
         "pm": "Dilip Jangir",
-        "cr": "3 mtr Fabric COM from Client",
+        "cr": "3 mtr each Fabric COM from Client",
         "v": {
           "c": "",
           "a": "",
@@ -5692,6 +5692,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-26T09:52:34.120Z"
+    "timestamp": "2026-11-26T10:07:25.643Z"
   }
 }
