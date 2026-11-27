@@ -2,27 +2,6 @@
   "vendors": {
     "divine": [
       {
-        "op": "112618",
-        "prod": "Chelsea",
-        "var": "Brume",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260113_142731_453124_pasted_image_1768294651710.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: American Walnut (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nLeg-Rest: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
-        "fld": "https://drive.google.com/drive/folders/1y4LMbCUx7JbFoHmeJxawSj5GcoAhGhWn",
-        "des": "",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Divine"
-      },
-      {
         "op": "012607",
         "prod": "Porth",
         "var": "Carter",
@@ -42,9 +21,7 @@
           "rm": "no special instructions"
         },
         "vendorDisplayName": "Divine"
-      }
-    ],
-    "aidan_dudy": [
+      },
       {
         "op": "112618",
         "prod": "Chelsea",
@@ -62,767 +39,9 @@
         "v": {
           "c": "",
           "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Asperula",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260709_111257_617743_Screenshot_2026-07-09_111133.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1GXQRZ1W_jIpagOcLcz0ZJ1YklEZTVoF0",
-        "des": "Akarsha Jha",
-        "dl": "17-Jun-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "17-Oct-2026",
-          "a": "",
           "rm": "no special instructions"
         },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Elwood",
-        "var": "Sweetpea",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135301_921940_Screenshot_2026-08-26_123851.png",
-        "cat": "Storage Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
-        "sz": "Outer: W75\" x D82\" x H44\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
-        "fld": "https://drive.google.com/drive/folders/158eY3et4sUqL2rAEupeFvduJnCJA4gJK",
-        "des": "Hetvi Shah",
-        "dl": "17-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Master Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Lyric",
-        "var": "Vivienne",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135059_910422_Screenshot_2026-08-26_125314.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W23\" x D23\" x H40\"\nSeat Height: 30\"",
-        "fld": "https://drive.google.com/drive/folders/1R1nT8kDzM0CbeLaiHn6NGVtahdqmSI6N",
-        "des": "Hetvi Shah",
-        "dl": "11-Sept-2024",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Dining Area",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Monroy",
-        "var": "Alita",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_144913_543064_pasted_image_1786353552184.png",
-        "cat": "Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nFrame: HDHMR (RAL 7044 Silk Grey)\nStorage: 12mm Plywood (Deluxe-02 Frosty White)\nPlatform: HDHMR (Finish TBC)",
-        "sz": "Outer: W68\" x D80\" x H42\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 21\"",
-        "fld": "https://drive.google.com/drive/folders/138SKL4hHi-vxoLdEJ1utwExhDLUzCOOa",
-        "des": "Tanmay Shah",
-        "dl": "10-Oct-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Guest Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Urbe",
-        "var": "Zuri",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134922_529503_Screenshot_2026-08-26_134218.png",
-        "cat": "Benches",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nStructure: Recycled Teak (Suncity)",
-        "sz": "Outer: W72\" x D21\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1LBiEN_vpKHHTghItJVGT4bU3IWtrz65k",
-        "des": "Parthsarthi Suthar",
-        "dl": "06-Aug-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "G.F. Foyer ",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "022622",
-        "prod": "Vitro",
-        "var": "Swoon",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_133253_396574_pasted_image_1786348971811.png",
-        "cat": "Ottomans",
-        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W19\" x D19\" x H17\"",
-        "fld": "https://drive.google.com/drive/folders/1yL6c5pDZzcs_FAC3047OKrtfUwCYRiis",
-        "des": "Shrutika Joshi",
-        "dl": "15-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "F.F. Guest Bedroom",
-        "v": {
-          "c": "12-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "052306",
-        "prod": "Mexico",
-        "var": "Pendula",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
-        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Parth Gada",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Fabric at Shop"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "052306",
-        "prod": "Wharf",
-        "var": "Indiana",
-        "url": "https://i.ibb.co/BPDWB2F/1.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Azco Sigma II Madrid-169)\nBackrest: Ply & Foam Upholstery (Azco Sigma II Madrid-169)",
-        "sz": "Outer: W23.5\" x D24\" x H33.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/u/0/folders/1mZu_lShhMS8OwSRu2Mm0O5nQWnHTg8oQ",
-        "des": "Parthsarthi Suthar",
-        "dl": "01-Jan-2010",
-        "q": 3,
-        "pm": "Rohan Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Baku",
-        "var": "Numin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_132458_360754_pasted_image_1767686114200.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Carbon Velvet SRN VT312)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nHandle: Sheesham (Black Matt)",
-        "sz": "Outer: W26.5\" x D32.5\" x H35\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1A-vtG80XEgNtYnJFXj0QRAIa9O5H36qS",
-        "des": "Dilip Jangir",
-        "dl": "12-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Deetoo",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Vani Madder 115202)\nBackrest: Ply & Foam Upholstery (Vani Madder 115202)",
-        "sz": "Outer: W20\" x D22\" x H30\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1WCpt-u_xpz6D8L1YHBWzGuScVFR-YZ4N",
-        "des": "Tanmay Shah",
-        "dl": "04-Mar-2026",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Dining Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Dolce",
-        "var": "Quizzy",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_183515_937866_pasted_image_1770987938289.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 320)\nFrame: Sheesham (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W30\" x D33\" x H32\"\nSeat Height: 16\"",
-        "fld": "https://drive.google.com/drive/folders/1-YwIvhYIUPO7BBkZuO-iCOIJSLdhbR60",
-        "des": "Shivani Oza",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Dubber",
-        "var": "Novak",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
-        "cat": "Beds",
-        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
-        "des": "Dilip Jangir",
-        "dl": "01-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Bed",
-        "v": {
-          "c": "12-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Eduardia",
-        "var": "Koan",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
-        "cat": "Ottomans",
-        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W16\" x D16\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
-        "des": "Hetvi Shah",
-        "dl": "16-Feb-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Ottoman",
-        "v": {
-          "c": "12-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Fairview",
-        "var": "Forrester",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_191040_920882_Screenshot_2026-02-26_190723.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nMounting: Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W28.5\" x D33\" x H33\"\nSeat Height: 16.5\"",
-        "fld": "https://drive.google.com/drive/folders/1w1EBEZtzn57_tN4v9r0iM2XfvAxAPkxm",
-        "des": "Rohan Parmar",
-        "dl": "27-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Hayatsu",
-        "var": "Destin",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
-        "des": "Tanmay Shah",
-        "dl": "20-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Kilnamanagh",
-        "var": "Sunrise",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_123331_765415_pasted_image_1770707034393.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Sheesham (Black Matt)\nBackrest: Pre-woven Rattan (Clear)\nSeat: Ply & Foam Upholstery (Marsh Oat 116122)\nMounting: Leather Strap (Fabric TBC)",
-        "sz": "Outer: W32\" x D32\" x H30\"\nSeat Height: 17.5\"",
-        "fld": "https://drive.google.com/drive/folders/1DCCWXwiP1TDvIPKc5Rwd2wWzREipCK7K",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master Bedroom (FF) Accent Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Leeson",
-        "var": "Voila",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (SCS RZ 5129 RS)\nDrawer Fascia: HDHMR (White PU)\nDrawer: Laminate (SCS RZ 5129 RS)\nBase: HDHMR (Black Matt PU)\nMounting: Ply & Foam Upholstery (Fabric TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W22\" x D16\" x H15.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bdob1tntN-NRp7WziU6yrlfiEe8zU7Ih",
-        "des": "Tanmay Shah",
-        "dl": "14-Mar-2026",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Guest Bedroom Nightstand",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Santori",
-        "var": "Kerrie",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_145453_877549_pasted_image_1767691509861.png",
-        "cat": "Bookcases",
-        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nShelf: Stainless Steel 304 Matt (Finish TBC)\nMounting: Ply & Foam Upholstery (Magiclean SRN 9)",
-        "sz": "Outer: W18\" x D13.5\" x H104.33\"",
-        "fld": "https://drive.google.com/drive/folders/14ZkFYAtjIDrcfzHfaAInYVmU0_V13fkV",
-        "des": "Hetvi Shah",
-        "dl": "26-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Parent's Bedroom Bookshelf",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Shereen",
-        "var": "Coot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_151523_976752_pasted_image_1767692739962.png",
-        "cat": "Beds",
-        "mat": "Headboard: Sheesham (Black Matt)\nBackrest: Foam Upholstery (Woodstock Midnight SRN 19)\nPlatform: Foam Upholstery (Woodstock Midnight SRN 19)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W86\" x D88\" x H43\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/161Ycwtt_nigZIKYP5tJHptwTJQKgMGaF",
-        "des": "Tanmay Shah",
-        "dl": "02-Jun-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Son Bedroom Bed",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Till",
-        "var": "Kos",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
-        "cat": "Swings",
-        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
-        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
-        "des": "Dilip Jangir",
-        "dl": "19-Jul-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter Bedroom Swing",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Yagher",
-        "var": "Nairobi",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
-        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
-        "des": "Hetvi Shah",
-        "dl": "20-Mar-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Living Room Sectional Sofa",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062509",
-        "prod": "Youhall",
-        "var": "Helix",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
-        "cat": "Dining Chairs",
-        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
-        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
-        "des": "Maulik Parmar",
-        "dl": "22-Sept-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "062612",
-        "prod": "Highrose",
-        "var": "Rusts",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261006_101917_340578_Highrose_Rusts.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: White Oak (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Leatherette (Tan Faux Leather)\nBase: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W34\" x D35\" x H29\"",
-        "fld": "https://drive.google.com/drive/folders/18XzowNy1yFmcNQpHswvmm2ZgugGFSJCU",
-        "des": "Tanmay Shah",
-        "dl": "04-Oct-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "03-Oct-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "072612",
-        "prod": "Almond",
-        "var": "Ureta",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_135308_307823_pasted_image_1776500584197.png",
-        "cat": "Dining Chairs",
-        "mat": "Base: Sheesham (Finish TBC)\nStructure: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W21\" x D22.75\" x H38\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/14eOseSQAoufbDjZI1nrlQ6HXokNVt4nc",
-        "des": "Saniya Deshpande",
-        "dl": "11-May-2023",
-        "q": 6,
-        "pm": "Maulik Parmar",
-        "cr": "Dining Dining Chair",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092519",
-        "prod": "Hylos",
-        "var": "Pique",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_134242_254038_pasted_image_1785226360454.png",
-        "cat": "Dining Chairs",
-        "mat": "Structure: White Oak (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
-        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
-        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 7,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "092622",
-        "prod": "Osaka",
-        "var": "Voorp",
-        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "102614",
-        "prod": "Osaka",
-        "var": "Voorp",
-        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112604",
-        "prod": "Silverleaf",
-        "var": "Justo",
-        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112604",
-        "prod": "Yuki",
-        "var": "Dwight",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261015_173904_422308_WhatsApp_Image_2026-10-15_at_17_33_15__1_.jpeg",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Mango (Suncity)\nSeat: Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nBack Panel: Pre-woven Rattan (Natural)",
-        "sz": "Outer: W\" x D\" x H\"",
-        "fld": "https://drive.google.com/drive/folders/15APFMoi5hd2R4junm-56DAW5QyVXWwjM",
-        "des": "Readymade",
-        "dl": "NA",
-        "q": 2,
-        "pm": "Maulik Parmar",
-        "cr": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio) - Same Fabric As Silverleaf",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112605",
-        "prod": "Osaka",
-        "var": "Verdana",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261026_164649_550035_pasted_image_1793013407350.png",
-        "cat": "Accent Chairs",
-        "mat": "Frame: Recycled Teak (Black Matt)\nSeat: Ply & Foam Upholstery (Highland SRN BN 29)\nBackrest: Ply & Foam Upholstery (Highland SRN BN 80)",
-        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/19Cmo5g5guDlToTxgQuzJDnUiy4TiCde0",
-        "des": "Parth Gada",
-        "dl": "10-Jan-2023",
-        "q": 1,
-        "pm": "Milankumar Mahida",
-        "cr": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio) - Same Fabric As Silverleaf",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112609",
-        "prod": "Winkit",
-        "var": "Fusion",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
-        "cat": "Sectional Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
-        "des": "",
-        "dl": "14-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 22 m from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112609",
-        "prod": "Winkit",
-        "var": "Lux",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181340_912859_Screenshot_2026-11-13_180417.png",
-        "cat": "Ottomans",
-        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nBase: Stainless Steel 304 Matt (Antique Brass)",
-        "sz": "Outer: W20\" x D18.5\" x H24\"\nSeat Height: 19\"",
-        "fld": "https://drive.google.com/drive/folders/1NO4DtHJqoCiBOGkJqz_zBhwjDFI6RSSE",
-        "des": "",
-        "dl": "14-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Fabric 4 m from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "122217",
-        "prod": "Nimbus",
-        "var": "Oliver",
-        "url": "https://i.ibb.co/0CwD3Nr/Screenshot-2024-09-13-151143.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Ply & Foam Upholstery (Hera Sh No.114)\nBase: Sheesham (Black Matt)",
-        "sz": "Outer: W29\" x D31\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1fsTmnyqpHIbZ2k3RBH2PfAyt57DjT572",
-        "des": "Hetvi Shah",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "MD Cabin",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Structure seat height: 6.5\"\nMake based on farma\nOther images are there to make structure"
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      },
-      {
-        "op": "112623",
-        "prod": "Gregory",
-        "var": "Fiesta",
-        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
-        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "3 mtr each Fabric COM from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Aidan Dudy"
-      }
-    ],
-    "v9_home_decor": [
-      {
-        "op": "112618",
-        "prod": "Chelsea",
-        "var": "Brume",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260113_142731_453124_pasted_image_1768294651710.png",
-        "cat": "Bar & Counter Stools",
-        "mat": "Structure: American Walnut (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nLeg-Rest: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
-        "fld": "https://drive.google.com/drive/folders/1y4LMbCUx7JbFoHmeJxawSj5GcoAhGhWn",
-        "des": "",
-        "dl": "01-Jan-2010",
-        "q": 2,
-        "pm": "Milankumar Mahida",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Fabric to be matched by PM: Sample will provided match with rexine"
-        },
-        "vendorDisplayName": "V9 Home Decor"
-      },
-      {
-        "op": "112604",
-        "prod": "Silverleaf",
-        "var": "Justo",
-        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
-        "cat": "Sofas",
-        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
-        "des": "Maulik Parmar",
-        "dl": "02-Jan-2010",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "Received: 10 mtr ordered\nOrdered another 8 Mtr"
-        },
-        "vendorDisplayName": "V9 Home Decor"
+        "vendorDisplayName": "Divine"
       }
     ],
     "aws": [
@@ -2301,6 +1520,27 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "112619",
+        "prod": "Sumruss",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261124_145912_433341_bench_hero_01.png",
+        "cat": "Benches",
+        "mat": "Structure: Indian Teak (Suncity)",
+        "sz": "Outer: W48\" x D18\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
+        "des": "Hetvi Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "112623",
         "prod": "Gregory",
         "var": "Fiesta",
@@ -2320,6 +1560,743 @@
           "rm": ""
         },
         "vendorDisplayName": "Vittal Wood-tech"
+      }
+    ],
+    "aidan_dudy": [
+      {
+        "op": "022622",
+        "prod": "Asperula",
+        "var": "Bliss",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260709_111257_617743_Screenshot_2026-07-09_111133.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1GXQRZ1W_jIpagOcLcz0ZJ1YklEZTVoF0",
+        "des": "Akarsha Jha",
+        "dl": "17-Jun-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter's Bedroom",
+        "v": {
+          "c": "17-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
+        "prod": "Elwood",
+        "var": "Sweetpea",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135301_921940_Screenshot_2026-08-26_123851.png",
+        "cat": "Storage Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nStorage: 12mm Plywood (Teak Laminate)\nPlatform: Recycled Teak (Suncity)",
+        "sz": "Outer: W75\" x D82\" x H44\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/158eY3et4sUqL2rAEupeFvduJnCJA4gJK",
+        "des": "Hetvi Shah",
+        "dl": "17-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Master Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
+        "prod": "Lyric",
+        "var": "Vivienne",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_135059_910422_Screenshot_2026-08-26_125314.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Frame: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W23\" x D23\" x H40\"\nSeat Height: 30\"",
+        "fld": "https://drive.google.com/drive/folders/1R1nT8kDzM0CbeLaiHn6NGVtahdqmSI6N",
+        "des": "Hetvi Shah",
+        "dl": "11-Sept-2024",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Dining Area",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
+        "prod": "Monroy",
+        "var": "Alita",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_144913_543064_pasted_image_1786353552184.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Choice of Fabric)\nFrame: HDHMR (RAL 7044 Silk Grey)\nStorage: 12mm Plywood (Deluxe-02 Frosty White)\nPlatform: HDHMR (Finish TBC)",
+        "sz": "Outer: W68\" x D80\" x H42\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 21\"",
+        "fld": "https://drive.google.com/drive/folders/138SKL4hHi-vxoLdEJ1utwExhDLUzCOOa",
+        "des": "Tanmay Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
+        "prod": "Urbe",
+        "var": "Zuri",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260826_134922_529503_Screenshot_2026-08-26_134218.png",
+        "cat": "Benches",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nStructure: Recycled Teak (Suncity)",
+        "sz": "Outer: W72\" x D21\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1LBiEN_vpKHHTghItJVGT4bU3IWtrz65k",
+        "des": "Parthsarthi Suthar",
+        "dl": "06-Aug-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "G.F. Foyer ",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "022622",
+        "prod": "Vitro",
+        "var": "Swoon",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260810_133253_396574_pasted_image_1786348971811.png",
+        "cat": "Ottomans",
+        "mat": "Seat: Ply & Foam Upholstery (Fabric TBC)\nFrame: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W19\" x D19\" x H17\"",
+        "fld": "https://drive.google.com/drive/folders/1yL6c5pDZzcs_FAC3047OKrtfUwCYRiis",
+        "des": "Shrutika Joshi",
+        "dl": "15-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "F.F. Guest Bedroom",
+        "v": {
+          "c": "12-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052306",
+        "prod": "Mexico",
+        "var": "Pendula",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260414_195632_334901_WhatsApp_Image_2026-04-14_at_19_55_46__1_.jpeg",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nAccessories: Brass (Mirror Buffing)",
+        "sz": "Outer: W21\" x D22\" x H33.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/u/1/folders/1xQxmx5FlbVMvuW6TLLvT4aD94Ed6U7d4",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Parth Gada",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Fabric at Shop"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "052306",
+        "prod": "Wharf",
+        "var": "Indiana",
+        "url": "https://i.ibb.co/BPDWB2F/1.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Peca)\nSeat: Ply & Foam Upholstery (Azco Sigma II Madrid-169)\nBackrest: Ply & Foam Upholstery (Azco Sigma II Madrid-169)",
+        "sz": "Outer: W23.5\" x D24\" x H33.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/u/0/folders/1mZu_lShhMS8OwSRu2Mm0O5nQWnHTg8oQ",
+        "des": "Parthsarthi Suthar",
+        "dl": "01-Jan-2010",
+        "q": 3,
+        "pm": "Rohan Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Baku",
+        "var": "Numin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_132458_360754_pasted_image_1767686114200.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Carbon Velvet SRN VT312)\nFrame: Mild Steel (Black Powder Coat)\nLegs: Sheesham (Black Matt)\nHandle: Sheesham (Black Matt)",
+        "sz": "Outer: W26.5\" x D32.5\" x H35\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1A-vtG80XEgNtYnJFXj0QRAIa9O5H36qS",
+        "des": "Dilip Jangir",
+        "dl": "12-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Deetoo",
+        "var": "Justo",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_182707_865580_pasted_image_1770987448844.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nAccessories: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Vani Madder 115202)\nBackrest: Ply & Foam Upholstery (Vani Madder 115202)",
+        "sz": "Outer: W20\" x D22\" x H30\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1WCpt-u_xpz6D8L1YHBWzGuScVFR-YZ4N",
+        "des": "Tanmay Shah",
+        "dl": "04-Mar-2026",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Dining Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Dolce",
+        "var": "Quizzy",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260213_183515_937866_pasted_image_1770987938289.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (AZCO Carbon Velvets SRN VT 320)\nFrame: Sheesham (Black Matt)\nMounting: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W30\" x D33\" x H32\"\nSeat Height: 16\"",
+        "fld": "https://drive.google.com/drive/folders/1-YwIvhYIUPO7BBkZuO-iCOIJSLdhbR60",
+        "des": "Shivani Oza",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Dubber",
+        "var": "Novak",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260130_145939_609641_Screenshot_2026-01-30_145857.png",
+        "cat": "Beds",
+        "mat": "Headboard: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nPlatform: Ply & Foam Upholstery (Fabricare Linen Legacy SRN 20)\nLegs: Sheesham (Black Matt)\nMounting: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W82\" x D85\" x H50\"\nMattress: W72\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1hjWJWgGzxNjq5WzEQdHRn7vuWEDWy3e6",
+        "des": "Dilip Jangir",
+        "dl": "01-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Bed",
+        "v": {
+          "c": "12-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Eduardia",
+        "var": "Koan",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20251217_151618_853379_pasted_image_1765964794351.png",
+        "cat": "Ottomans",
+        "mat": "Base: Sheesham (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W16\" x D16\" x H18\"",
+        "fld": "https://drive.google.com/drive/folders/1fXkb2EOo_PmEr_al7XJ6HkySz0PnRVLh",
+        "des": "Hetvi Shah",
+        "dl": "16-Feb-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Ottoman",
+        "v": {
+          "c": "12-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Fairview",
+        "var": "Forrester",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260226_191040_920882_Screenshot_2026-02-26_190723.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nLegs: Mild Steel (Black Powder Coat)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nMounting: Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W28.5\" x D33\" x H33\"\nSeat Height: 16.5\"",
+        "fld": "https://drive.google.com/drive/folders/1w1EBEZtzn57_tN4v9r0iM2XfvAxAPkxm",
+        "des": "Rohan Parmar",
+        "dl": "27-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Hayatsu",
+        "var": "Destin",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260908_165907_456836_Screenshot_2026-09-07_153715.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Sheesham (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W20.5\" x D24\" x H33\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1rlw4ZHjQVJ-9tU44swqdyCF3NpKyiWMP",
+        "des": "Tanmay Shah",
+        "dl": "20-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Kilnamanagh",
+        "var": "Sunrise",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_123331_765415_pasted_image_1770707034393.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Sheesham (Black Matt)\nBackrest: Pre-woven Rattan (Clear)\nSeat: Ply & Foam Upholstery (Marsh Oat 116122)\nMounting: Leather Strap (Fabric TBC)",
+        "sz": "Outer: W32\" x D32\" x H30\"\nSeat Height: 17.5\"",
+        "fld": "https://drive.google.com/drive/folders/1DCCWXwiP1TDvIPKc5Rwd2wWzREipCK7K",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master Bedroom (FF) Accent Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Leeson",
+        "var": "Voila",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260210_154619_191606_pasted_image_1770718601561.png",
+        "cat": "Nightstands",
+        "mat": "Carcass: HDHMR (White PU)\nInternal Carcass: Laminate (SCS RZ 5129 RS)\nDrawer Fascia: HDHMR (White PU)\nDrawer: Laminate (SCS RZ 5129 RS)\nBase: HDHMR (Black Matt PU)\nMounting: Ply & Foam Upholstery (Fabric TBC)\nKnobs: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W22\" x D16\" x H15.5\"",
+        "fld": "https://drive.google.com/drive/folders/1bdob1tntN-NRp7WziU6yrlfiEe8zU7Ih",
+        "des": "Tanmay Shah",
+        "dl": "14-Mar-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Guest Bedroom Nightstand",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Santori",
+        "var": "Kerrie",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_145453_877549_pasted_image_1767691509861.png",
+        "cat": "Bookcases",
+        "mat": "Frame: Stainless Steel 304 Matt (Gold PVD)\nShelf: Stainless Steel 304 Matt (Finish TBC)\nMounting: Ply & Foam Upholstery (Magiclean SRN 9)",
+        "sz": "Outer: W18\" x D13.5\" x H104.33\"",
+        "fld": "https://drive.google.com/drive/folders/14ZkFYAtjIDrcfzHfaAInYVmU0_V13fkV",
+        "des": "Hetvi Shah",
+        "dl": "26-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Parent's Bedroom Bookshelf",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Shereen",
+        "var": "Coot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260106_151523_976752_pasted_image_1767692739962.png",
+        "cat": "Beds",
+        "mat": "Headboard: Sheesham (Black Matt)\nBackrest: Foam Upholstery (Woodstock Midnight SRN 19)\nPlatform: Foam Upholstery (Woodstock Midnight SRN 19)\nLegs: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W86\" x D88\" x H43\"\nMattress: W66\" x D78\" x H8\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/161Ycwtt_nigZIKYP5tJHptwTJQKgMGaF",
+        "des": "Tanmay Shah",
+        "dl": "02-Jun-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Son Bedroom Bed",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Till",
+        "var": "Kos",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260721_102858_093926_Screenshot_2026-07-20_161257.png",
+        "cat": "Swings",
+        "mat": "Structure: Ply & Foam Upholstery (Neeya 02-04)\nFrame: Mild Steel (Black Powder Coat)\nMounting: Mild Steel (Black Powder Coat)\nSwing Rope: Stainless Steel 304 Matt (Gold PVD)",
+        "sz": "Outer: W29.9\" x D33.1\" x H59.1\"",
+        "fld": "https://drive.google.com/drive/folders/1mlwlbvUNvOmiCADDf3pY9Q8wIEjkHvGl",
+        "des": "Dilip Jangir",
+        "dl": "19-Jul-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Daughter Bedroom Swing",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Yagher",
+        "var": "Nairobi",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260202_142703_386630_Screenshot_2026-01-06_124150.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Sansaar Modern Texture SRN 36)\n1 Large Square Kidney Pillow: Recron Filling (Sansaar Modern Texture SRN 36)\nLegs: Mild Steel (Black Powder Coat)\nHandle: Ply & Foam Upholstery (Sansaar Modern Texture SRN 42)\n2 Cushions: Foam Upholstery (Fabricare Comfort IV SRN 420)",
+        "sz": "Outer: W120\" x D70\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1AYg9ELbKCjM7RoEhvZBRO2w_UavmEW0Y",
+        "des": "Hetvi Shah",
+        "dl": "20-Mar-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Living Room Sectional Sofa",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062509",
+        "prod": "Youhall",
+        "var": "Helix",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260819_122633_211163_pasted_image_1787122590759.png",
+        "cat": "Dining Chairs",
+        "mat": "Frame: Recycled Teak (Suncity)\nFixture: Stainless Steel 304 Matt (Gold PVD)\nSeat: Ply & Foam Upholstery (Fabric TBC)",
+        "sz": "Outer: W20\" x D23\" x H32\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1HW_6t93BszI9JVLY6F4ZoaWA3XMx95mp",
+        "des": "Maulik Parmar",
+        "dl": "22-Sept-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "062612",
+        "prod": "Highrose",
+        "var": "Rusts",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261006_101917_340578_Highrose_Rusts.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: White Oak (Black)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Ply & Foam Upholstery (Choice of Fabric)\nHandle: Leatherette (Tan Faux Leather)\nBase: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W34\" x D35\" x H29\"",
+        "fld": "https://drive.google.com/drive/folders/18XzowNy1yFmcNQpHswvmm2ZgugGFSJCU",
+        "des": "Tanmay Shah",
+        "dl": "04-Oct-2026",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "03-Oct-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "072612",
+        "prod": "Almond",
+        "var": "Ureta",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260418_135308_307823_pasted_image_1776500584197.png",
+        "cat": "Dining Chairs",
+        "mat": "Base: Sheesham (Finish TBC)\nStructure: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W21\" x D22.75\" x H38\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/14eOseSQAoufbDjZI1nrlQ6HXokNVt4nc",
+        "des": "Saniya Deshpande",
+        "dl": "11-May-2023",
+        "q": 6,
+        "pm": "Maulik Parmar",
+        "cr": "Dining Dining Chair",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092519",
+        "prod": "Hylos",
+        "var": "Pique",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260728_134242_254038_pasted_image_1785226360454.png",
+        "cat": "Dining Chairs",
+        "mat": "Structure: White Oak (Black Matt)\nSeat: Ply & Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)",
+        "sz": "Outer: W23\" x D23\" x H31.5\"\nSeat Height: 18.5\"",
+        "fld": "https://drive.google.com/drive/folders/114aLTsAxpEZBya87Fu-pf7iOBeNewkUc",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 7,
+        "pm": "Dilip Jangir",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "092622",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "102614",
+        "prod": "Osaka",
+        "var": "Voorp",
+        "url": "https://i.ibb.co/X3wwDDJ/0002.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: White Oak (Smoke Grey)\nSeat: Ply & Foam Upholstery (D'Decor Aura Splendor Sr No 103)\nBackrest: Ply & Foam Upholstery (The White AW-76)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1nOI-S4k4UZeWc8eaGjJJdkWKgAfVv0Zs",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112604",
+        "prod": "Silverleaf",
+        "var": "Justo",
+        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112604",
+        "prod": "Yuki",
+        "var": "Dwight",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261015_173904_422308_WhatsApp_Image_2026-10-15_at_17_33_15__1_.jpeg",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Mango (Suncity)\nSeat: Foam Upholstery (Choice of Fabric)\nBackrest: Ply & Foam Upholstery (Choice of Fabric)\nBack Panel: Pre-woven Rattan (Natural)",
+        "sz": "Outer: W\" x D\" x H\"",
+        "fld": "https://drive.google.com/drive/folders/15APFMoi5hd2R4junm-56DAW5QyVXWwjM",
+        "des": "Readymade",
+        "dl": "NA",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio) - Same Fabric As Silverleaf",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112605",
+        "prod": "Osaka",
+        "var": "Verdana",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261026_164649_550035_pasted_image_1793013407350.png",
+        "cat": "Accent Chairs",
+        "mat": "Frame: Recycled Teak (Black Matt)\nSeat: Ply & Foam Upholstery (Highland SRN BN 29)\nBackrest: Ply & Foam Upholstery (Highland SRN BN 80)",
+        "sz": "Outer: W32\" x D36\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/19Cmo5g5guDlToTxgQuzJDnUiy4TiCde0",
+        "des": "Parth Gada",
+        "dl": "10-Jan-2023",
+        "q": 1,
+        "pm": "Milankumar Mahida",
+        "cr": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio) - Same Fabric As Silverleaf",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112609",
+        "prod": "Winkit",
+        "var": "Fusion",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181325_436585_Screenshot_2026-11-13_181022.png",
+        "cat": "Sectional Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nLegs: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W132\" x D66\" x H35.5\"\nLeft Arm End Section: W85.5\" x D36\" x H35.5\"\nRight Arm Chaise: W46.5\" x D36\" x H35.5\"\nSeat Height: 18\"",
+        "fld": "https://drive.google.com/drive/folders/1VCNAuUYvv-MIJc5Jchv5ptMhejjDERNm",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 22 m from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112609",
+        "prod": "Winkit",
+        "var": "Lux",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261113_181340_912859_Screenshot_2026-11-13_180417.png",
+        "cat": "Ottomans",
+        "mat": "Structure: Ply & Foam Upholstery (Brent Sable (122224))\nBase: Stainless Steel 304 Matt (Antique Brass)",
+        "sz": "Outer: W20\" x D18.5\" x H24\"\nSeat Height: 19\"",
+        "fld": "https://drive.google.com/drive/folders/1NO4DtHJqoCiBOGkJqz_zBhwjDFI6RSSE",
+        "des": "",
+        "dl": "14-Nov-2026",
+        "q": 2,
+        "pm": "Maulik Parmar",
+        "cr": "Fabric 4 m from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112618",
+        "prod": "Chelsea",
+        "var": "Brume",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260113_142731_453124_pasted_image_1768294651710.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Structure: American Walnut (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nLeg-Rest: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
+        "fld": "https://drive.google.com/drive/folders/1y4LMbCUx7JbFoHmeJxawSj5GcoAhGhWn",
+        "des": "",
+        "dl": "01-Jan-2010",
+        "q": 2,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr each Fabric COM from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Aidan Dudy"
+      },
+      {
+        "op": "122217",
+        "prod": "Nimbus",
+        "var": "Oliver",
+        "url": "https://i.ibb.co/0CwD3Nr/Screenshot-2024-09-13-151143.png",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Ply & Foam Upholstery (Hera Sh No.114)\nBase: Sheesham (Black Matt)",
+        "sz": "Outer: W29\" x D31\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1fsTmnyqpHIbZ2k3RBH2PfAyt57DjT572",
+        "des": "Hetvi Shah",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "MD Cabin",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Structure seat height: 6.5\"\nMake based on farma\nOther images are there to make structure"
+        },
+        "vendorDisplayName": "Aidan Dudy"
       }
     ],
     "aavaran": [
@@ -3099,6 +3076,27 @@
           "c": "",
           "a": "",
           "rm": "suncity"
+        },
+        "vendorDisplayName": "Krishna Furnitech - Polish"
+      },
+      {
+        "op": "112619",
+        "prod": "Sumruss",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261124_145912_433341_bench_hero_01.png",
+        "cat": "Benches",
+        "mat": "Structure: Indian Teak (Suncity)",
+        "sz": "Outer: W48\" x D18\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
+        "des": "Hetvi Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "suncity finish"
         },
         "vendorDisplayName": "Krishna Furnitech - Polish"
       },
@@ -4769,9 +4767,30 @@
         "fld": "https://drive.google.com/drive/folders/1NO4DtHJqoCiBOGkJqz_zBhwjDFI6RSSE",
         "des": "",
         "dl": "14-Nov-2026",
-        "q": 1,
+        "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Fabric 4 m from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Client/Fabric"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr each Fabric COM from Client",
         "v": {
           "c": "",
           "a": "",
@@ -4797,27 +4816,6 @@
           "c": "",
           "a": "",
           "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Client/Fabric"
-      },
-      {
-        "op": "112623",
-        "prod": "Gregory",
-        "var": "Fiesta",
-        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
-        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "3 mtr each Fabric COM from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
         },
         "vendorDisplayName": "Client/Fabric"
       }
@@ -5048,7 +5046,7 @@
         "fld": "https://drive.google.com/drive/folders/1NO4DtHJqoCiBOGkJqz_zBhwjDFI6RSSE",
         "des": "",
         "dl": "14-Nov-2026",
-        "q": 1,
+        "q": 2,
         "pm": "Maulik Parmar",
         "cr": "Fabric 4 m from Client",
         "v": {
@@ -5604,6 +5602,50 @@
         "vendorDisplayName": "Darshan Hardware"
       }
     ],
+    "v9_home_decor": [
+      {
+        "op": "112604",
+        "prod": "Silverleaf",
+        "var": "Justo",
+        "url": "https://i.ibb.co/BcGJPdx/Screenshot-2024-09-13-153946.png",
+        "cat": "Sofas",
+        "mat": "Structure: Ply & Foam Upholstery (Diamond Collection Pistachio)\nBase: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W84\" x D35\" x H30\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1R8cgEcukVhORMx5YJCBywcI9bhQtRjx2",
+        "des": "Maulik Parmar",
+        "dl": "02-Jan-2010",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Received: 10 mtr ordered\nOrdered another 8 Mtr"
+        },
+        "vendorDisplayName": "V9 Home Decor"
+      },
+      {
+        "op": "112618",
+        "prod": "Chelsea",
+        "var": "Brume",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20260113_142731_453124_pasted_image_1768294651710.png",
+        "cat": "Bar & Counter Stools",
+        "mat": "Structure: American Walnut (Natural)\nSeat: Ply & Foam Upholstery (Fabric TBC)\nLeg-Rest: Mild Steel (Black Powder Coat)",
+        "sz": "Outer: W16.5\" x D19.7\" x H40.1\"\nSeat Height: 31.1\"",
+        "fld": "https://drive.google.com/drive/folders/1y4LMbCUx7JbFoHmeJxawSj5GcoAhGhWn",
+        "des": "",
+        "dl": "01-Jan-2010",
+        "q": 2,
+        "pm": "Milankumar Mahida",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "Fabric to be matched by PM: Sample will provided match with rexine"
+        },
+        "vendorDisplayName": "V9 Home Decor"
+      }
+    ],
     "rajeshbhai_sculpture": [
       {
         "op": "112615",
@@ -5629,6 +5671,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-27T09:07:33.736Z"
+    "timestamp": "2026-11-27T09:37:26.725Z"
   }
 }
