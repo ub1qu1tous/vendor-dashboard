@@ -1436,6 +1436,48 @@
         "vendorDisplayName": "Vittal Wood-tech"
       },
       {
+        "op": "062603",
+        "prod": "Rosemare",
+        "var": "Latten",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261120_104314_352621_Screenshot_2026-11-20_104244.png",
+        "cat": "Media Consoles",
+        "mat": "Structure: Recycled Teak (Suncity)\nDrawer Fascia: 12mm Plywood (Choice of Fabric)\nShutter: 12mm Plywood (Choice of Fabric)",
+        "sz": "Outer: W64.5\" x D16\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/17uNAYRoRo_YT8te3oUeeBowS9YpgIN4I",
+        "des": "Dilip Jangir",
+        "dl": "27-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master's Room Nightstands",
+        "v": {
+          "c": "05-Dec-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062603",
+        "prod": "Rosemare",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261120_103852_958343_Screenshot_2026-11-20_103808.png",
+        "cat": "Nightstands",
+        "mat": "Structure: Recycled Teak (Suncity)\nDrawer Fascia: 12mm Plywood (Choice of Fabric)",
+        "sz": "Outer: W24\" x D18.5\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1cV4zwBVOOENlS9IPc4rXZDtGKZdhwTIl",
+        "des": "Dilip Jangir",
+        "dl": "27-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master's Room Wardrobes",
+        "v": {
+          "c": "05-Dec-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
         "op": "072605",
         "prod": "Colbert",
         "var": "Geoff",
@@ -5671,6 +5713,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-27T13:07:27.892Z"
+    "timestamp": "2026-11-27T13:22:24.805Z"
   }
 }
