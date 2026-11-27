@@ -3716,27 +3716,6 @@
         "vendorDisplayName": "Vipra"
       },
       {
-        "op": "062612",
-        "prod": "Sherbeck",
-        "var": "Justo",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261009_125059_200021_pasted_image_1791530457580.png",
-        "cat": "Nightstands",
-        "mat": "Carcass: HDHMR (RAL/NCS Gloss Polyurethane (PU))\nDrawer Fascia: HDHMR (RAL/NCS Gloss Polyurethane (PU))\nHandle: Mild Steel (Black Powder Coat)\nLegs: Mild Steel (Black Powder Coat)",
-        "sz": "Outer: W22\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1JCd1xsnfgheixMt2LRW2Aq5qM-BTGRLq",
-        "des": "Dilip Jangir",
-        "dl": "22-Sept-2026",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "14-Oct-2026",
-          "a": "",
-          "rm": "Colour code: Lap of Himalaya L189 "
-        },
-        "vendorDisplayName": "Vipra"
-      },
-      {
         "op": "072611",
         "prod": "Ramirez",
         "var": "Wattage",
@@ -5671,6 +5650,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-27T05:22:28.118Z"
+    "timestamp": "2026-11-27T05:37:22.848Z"
   }
 }
