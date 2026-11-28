@@ -1413,197 +1413,6 @@
         "vendorDisplayName": "Krishna Furnitech"
       }
     ],
-    "vittal_wood_tech": [
-      {
-        "op": "022622",
-        "prod": "Asperula",
-        "var": "Bliss",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20260709_111257_617743_Screenshot_2026-07-09_111133.png",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Recycled Teak (Suncity)\nSeat: Ply & Foam Upholstery (Odeon Collection 704)\nWeaving: Pre-woven Rattan (Clear Lacquered)\nCap: Stainless Steel 304 Matt (Gold PVD)",
-        "sz": "Outer: W29.3\" x D29\" x H34\"\nSeat Height: 18\"",
-        "fld": "https://drive.google.com/drive/folders/1GXQRZ1W_jIpagOcLcz0ZJ1YklEZTVoF0",
-        "des": "Akarsha Jha",
-        "dl": "17-Jun-2023",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Daughter's Bedroom",
-        "v": {
-          "c": "15-Oct-2026",
-          "a": "",
-          "rm": "recycle teak without polish"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062603",
-        "prod": "Rosemare",
-        "var": "Latten",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261120_104314_352621_Screenshot_2026-11-20_104244.png",
-        "cat": "Media Consoles",
-        "mat": "Structure: Recycled Teak (Suncity)\nDrawer Fascia: 12mm Plywood (Choice of Fabric)\nShutter: 12mm Plywood (Choice of Fabric)",
-        "sz": "Outer: W64.5\" x D16\" x H33\"",
-        "fld": "https://drive.google.com/drive/folders/17uNAYRoRo_YT8te3oUeeBowS9YpgIN4I",
-        "des": "Dilip Jangir",
-        "dl": "27-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master's Room Nightstands",
-        "v": {
-          "c": "05-Dec-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "062603",
-        "prod": "Rosemare",
-        "var": "Otra",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261120_103852_958343_Screenshot_2026-11-20_103808.png",
-        "cat": "Nightstands",
-        "mat": "Structure: Recycled Teak (Suncity)\nDrawer Fascia: 12mm Plywood (Choice of Fabric)",
-        "sz": "Outer: W24\" x D18.5\" x H20\"",
-        "fld": "https://drive.google.com/drive/folders/1cV4zwBVOOENlS9IPc4rXZDtGKZdhwTIl",
-        "des": "Dilip Jangir",
-        "dl": "27-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "Master's Room Wardrobes",
-        "v": {
-          "c": "05-Dec-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "072605",
-        "prod": "Colbert",
-        "var": "Geoff",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_150818_619277_pasted_image_1791625096844.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Sheesham (Peca)",
-        "sz": "Outer: W18\" x D18\" x H24\"",
-        "fld": "https://drive.google.com/drive/folders/1wTml4kA3xUQ4PJNZ1e6OpJfuAbvIBC2D",
-        "des": "Dilip Jangir",
-        "dl": "04-Nov-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "banswada marble top and wood"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "072605",
-        "prod": "Colbert",
-        "var": "Sylvia",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261010_151727_068947_pasted_image_1791625645648.png",
-        "cat": "Accent Tables",
-        "mat": "Top: Banswada White (Mirror Buffing)\nFrame: Sheesham (Peca)",
-        "sz": "Outer: W18\" x D18\" x H18\"",
-        "fld": "https://drive.google.com/drive/folders/1tCLVSCMU6ck3eo0rQOFlh99kOs0oL-uY",
-        "des": "Dilip Jangir",
-        "dl": "03-Nov-2026",
-        "q": 1,
-        "pm": "Dilip Jangir",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "banswada marble top and wood"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "112609",
-        "prod": "Rowena",
-        "var": "Avore",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261111_114028_704062_pasted_image_1794377427619.png",
-        "cat": "Study Tables",
-        "mat": "Top: HDHMR (Finish TBC)\nLegs: Mango (Finish TBC)\nCap: Mild Steel (Brass Transparent Coat)\nDrawer Box: HDHMR (Finish TBC)\nDrawer Fascia: White Ash (White Wash)\nKnobs: Mild Steel (Brass Transparent Coat)",
-        "sz": "Outer: W48\" x D16\" x H30\"",
-        "fld": "https://drive.google.com/drive/folders/1QdHKMU81FaQNkMD5o6RG0Zi03kwwq7cD",
-        "des": "",
-        "dl": "14-Nov-2026",
-        "q": 1,
-        "pm": "Maulik Parmar",
-        "cr": "PU Colour Code from Client",
-        "v": {
-          "c": "25-Nov-2026",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "112615",
-        "prod": "Silvana",
-        "var": "Avatar",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261121_141106_943608_pasted_image_1795250466790.png",
-        "cat": "Accessories",
-        "mat": "Frame: Indian Teak (Suncity)\nStructure: 6mm Plywood (Hammered Brass Foil Cladding)",
-        "sz": "Outer: W16\" x D18\" x H28.5\"",
-        "fld": "https://drive.google.com/drive/folders/1bJy9hgMdEBUWwa0V7wc6SGDe1v9WF57q",
-        "des": "Fainy Thakor",
-        "dl": "21-Nov-2026",
-        "q": 1,
-        "pm": "Devansh Vora",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "112619",
-        "prod": "Sumruss",
-        "var": "Groot",
-        "url": "https://galleryplus.sulfur.one/media/public_images/20261124_145912_433341_bench_hero_01.png",
-        "cat": "Benches",
-        "mat": "Structure: Indian Teak (Suncity)",
-        "sz": "Outer: W48\" x D18\" x H28\"",
-        "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
-        "des": "Hetvi Shah",
-        "dl": "10-Oct-2026",
-        "q": 1,
-        "pm": "",
-        "cr": "",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": "no special instructions"
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      },
-      {
-        "op": "112623",
-        "prod": "Gregory",
-        "var": "Fiesta",
-        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
-        "cat": "Accent Chairs",
-        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
-        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
-        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
-        "des": "Vikas Jangir",
-        "dl": "02-Jan-2010",
-        "q": 2,
-        "pm": "Dilip Jangir",
-        "cr": "3 mtr each Fabric COM from Client",
-        "v": {
-          "c": "",
-          "a": "",
-          "rm": ""
-        },
-        "vendorDisplayName": "Vittal Wood-tech"
-      }
-    ],
     "aidan_dudy": [
       {
         "op": "022622",
@@ -5531,6 +5340,92 @@
         "vendorDisplayName": "Vishwakarma Glass"
       }
     ],
+    "vittal_wood_tech": [
+      {
+        "op": "062603",
+        "prod": "Rosemare",
+        "var": "Latten",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261120_104314_352621_Screenshot_2026-11-20_104244.png",
+        "cat": "Media Consoles",
+        "mat": "Structure: Recycled Teak (Suncity)\nDrawer Fascia: 12mm Plywood (Choice of Fabric)\nShutter: 12mm Plywood (Choice of Fabric)",
+        "sz": "Outer: W64.5\" x D16\" x H33\"",
+        "fld": "https://drive.google.com/drive/folders/17uNAYRoRo_YT8te3oUeeBowS9YpgIN4I",
+        "des": "Dilip Jangir",
+        "dl": "27-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master's Room Nightstands",
+        "v": {
+          "c": "05-Dec-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "062603",
+        "prod": "Rosemare",
+        "var": "Otra",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261120_103852_958343_Screenshot_2026-11-20_103808.png",
+        "cat": "Nightstands",
+        "mat": "Structure: Recycled Teak (Suncity)\nDrawer Fascia: 12mm Plywood (Choice of Fabric)",
+        "sz": "Outer: W24\" x D18.5\" x H20\"",
+        "fld": "https://drive.google.com/drive/folders/1cV4zwBVOOENlS9IPc4rXZDtGKZdhwTIl",
+        "des": "Dilip Jangir",
+        "dl": "27-Nov-2026",
+        "q": 1,
+        "pm": "Maulik Parmar",
+        "cr": "Master's Room Wardrobes",
+        "v": {
+          "c": "05-Dec-2026",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112619",
+        "prod": "Sumruss",
+        "var": "Groot",
+        "url": "https://galleryplus.sulfur.one/media/public_images/20261124_145912_433341_bench_hero_01.png",
+        "cat": "Benches",
+        "mat": "Structure: Indian Teak (Suncity)",
+        "sz": "Outer: W48\" x D18\" x H28\"",
+        "fld": "https://drive.google.com/drive/folders/1TxF5URGMKgJt6mmEQAPDFycC8jgvXCE-",
+        "des": "Hetvi Shah",
+        "dl": "10-Oct-2026",
+        "q": 1,
+        "pm": "",
+        "cr": "",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": "no special instructions"
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      },
+      {
+        "op": "112623",
+        "prod": "Gregory",
+        "var": "Fiesta",
+        "url": "https://i.ibb.co/rFZYcyk/c0002IBB.jpg",
+        "cat": "Accent Chairs",
+        "mat": "Structure: Burma Border Teak (Natural)\nSeat: Foam Upholstery (ALURR 59 DISKIT)\n1 Centre Cushion: Recron Filling (ALURR 61 TREVI)",
+        "sz": "Outer: W28.5\" x D30.5\" x H31\"\nSeat Height: 17\"",
+        "fld": "https://drive.google.com/drive/folders/1H1puCOPpPi17lsLenimJebGHJ-AmkQh0",
+        "des": "Vikas Jangir",
+        "dl": "02-Jan-2010",
+        "q": 2,
+        "pm": "Dilip Jangir",
+        "cr": "3 mtr each Fabric COM from Client",
+        "v": {
+          "c": "",
+          "a": "",
+          "rm": ""
+        },
+        "vendorDisplayName": "Vittal Wood-tech"
+      }
+    ],
     "casa_creations": [
       {
         "op": "062612",
@@ -5713,6 +5608,6 @@
     ]
   },
   "lastUpdated": {
-    "timestamp": "2026-11-28T07:07:24.119Z"
+    "timestamp": "2026-11-28T07:22:24.290Z"
   }
 }
